@@ -1,0 +1,75 @@
+Starter
+Pallet Town
+--Rival|r1|rival
+Route 1
+Viridian City
+Route 22
+--Rival|r2|rival
+Route 2
+Viridian Forest
+--Pewter City Gym|1|gym-leader
+Route 3
+Route 4
+Mt. Moon
+Cerulean City
+--Cerulean City Gym|2|gym-leader
+Route 24
+--Rival|r2|rival
+Route 25
+Route 5
+Route 6
+Vermillion City
+--S.S. Anne|r3|rival
+--Vermillion City Gym|3|gym-leader
+Route 11
+Diglett's Cave
+Route 9
+Route 10
+Rock Tunnel
+Pokémon Tower
+Route 12
+Route 8
+Route 7
+Celadon City
+--Celadon City Gym|4|gym-leader
+--Rocket Hideout|g1|evil-team
+--Pokemon Tower Rival|r5|rival
+Saffron City
+--Silph Co. Rival|r6|rival
+--Silph Co.|g2|evil-team
+--Saffron City Gym|6|gym-leader
+Route 16
+Route 17
+Route 18
+Fuschia City
+--Fuschia City Gym|5|gym-leader
+Safari Zone
+Route 15
+Route 14
+Route 13
+Power Plant
+Route 19
+Route 20
+Seafoam Islands
+Cinnabar Island
+Pokémon Mansion
+--Cinnabar Island Gym|7|gym-leader
+One Island
+Two Island
+Three Island
+Route 21
+Power Plant
+--Viridian City Gym|8|gym-leader
+Route 23
+Victory Road
+--Rival|r7|rival
+--Indigo Plateau|e1|elite-four
+--Indigo Plateau|e2|elite-four
+--Indigo Plateau|e3|elite-four
+--Indigo Plateau|e4|elite-four
+--Champion|c|elite-four
+Four Island
+Five Isalnd
+Six Isalnd
+Seven Isalnd
+Cerulean Cave

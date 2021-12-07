@@ -1,0 +1,67 @@
+# Evil team
+
+--g1|Gladion
+zubat|17|bite,wing-attack|inner-focus
+type-null|18|tackle,pusuit|battle-armor
+
+# Rival fights
+
+--r1|Hau
+popplio|5|pound,water-gun,growl|torrent||grass
+rowlet|5|tackle,leafage,growl|overgrow||fire
+litten|5|scratch,ember,growl|blaze||water
+
+--r2|Hau
+pichu|6|thunder-shock,charm,tail-whip|static
+popplio|7|pound,water-gun,growl|torrent||grass
+rowlet|7|tackle,leafage,growl|overgrow||fire
+litten|7|scratch,ember,growl|blaze||water
+
+--r3|Hau
+pikachu|13|growl,play-nice,quick-attack,electro-ball|static
+popplio|14|water-gun,growl,disarming-voice,baby-doll-eyes|torrent||grass
+rowlet|14|leafage,growl,peck,astonish|overgrow||fire
+litten|14|ember,growl,lick,leer|blaze||water
+
+
+--r3|Hau
+pikachu|16|quick-attack,electro-ball|static
+brionne|17|aqua-jet,disarming-voice,pound|torrent|normalium-z|grass
+dartrix|17|razor-leaf,peck,tackle|overgrow|normalium-z|fire
+torracat|17|fire-fang,lick,scratch|blaze|normalium-z|water
+
+--dsa|Dexio|psychic
+slowpoke|15|confusion,water-gun|own-tempo
+espeon|16|confusion,quick-attack|synchronize
+
+--dsb|Sina|ice
+delibird|15|present|vital-spirit
+glaceon|16|icy-wind,quick-attack|snow-cloak
+
+# "Gym" leaders
+
+--1|Ilima|normal
+yungoos|9|tackle,pursuit,leer|strong-jaw
+smeargle|10|ember,tackle|technician
+
+--1a|Ilima's trial|normal
+yungoos|10|leer,tackle,bide,pusuit|stakeout
+gumshoos|12|super-fang,bite,scary-face,leer|adaptability|pecha-berry
+
+--1b|Ilima's trial|normal
+rattata-alola|10|tackle,focus-energy,quick-attack,tail-whip|hustle
+raticate-alola|12|focus-energy,tail-whip,super-fang,tackle|gluttony|pecha-berry
+
+--3|Lana's trial|water
+wishiwashi|18|helping-hand,feint-attack,brine,aqua-ring|schooling
+alomomola|18|helping-hand,double-slap,heal-pulse,water-gun|healer
+wishiwashi|20|water-gun,rain-dance,soak,growl|schooling|sitrus-berry
+
+--4|Kiawe's trial|fire
+salandit|20|poison-gas,venoshock,taunt,scratch|corrosion
+salazzle|22|torment,flame-burst,venom-drench,toxic|schooling|sitrus-berry
+
+--2|Hala|fighting
+mankey|14|karate-chop,focus-energy,pusuit|anger-point
+makuhita|14|fake-out,sand-attack,arm-thrust|thick-fat
+crabrawler|15|power-up-punch,pursuit,leer|iron-fist|fightinium-z

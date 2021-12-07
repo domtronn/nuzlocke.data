@@ -1,0 +1,184 @@
+# Rival
+
+--b1|Barry||/leaders/barry#Route 203
+starly|7|quick-attack,growl|keen-eye
+chimchar|9|scratch,leer|blaze||grass
+piplup|9|pound,growl|torrent||fire
+turtwig|9|tackle,withdraw|overgrow||water
+
+--b2|Barry||/leaders/barry#Hearthome City
+starly|19|endeavor,double-team,wing-attack,quick-attack|keen-eye
+roselia|20|poison-sting,stun-spore,mega-drain,leech-seed|natural-cure||fire
+roselia|20|poison-sting,stun-spore,mega-drain,leech-seed|natural-cure||grass
+buizel|20|pursuit,growl,water-gun,quick-attack|swift-swim||grass
+buizel|20|pursuit,growl,water-gun,quick-attack|swift-swim||water
+ponyta|20|tackle,tail-whip,growl,ember|run-away||fire
+ponyta|20|tackle,tail-whip,growl,ember|run-away||water
+monferno|21|fury-swipes,leer,mach-punch,flame-wheel|blaze||grass
+prinplup|21|peck,metal-claw,bubble,growl|torrent||fire
+grotle|21|tackle,withdraw,razor-leaf,absorb|overgrow||water
+
+--b3|Barry||/leaders/barry#Pastoria City
+starly|26|endeavor,double-team,wing-attack,quick-attack|keen-eye
+roselia|25|poison-sting,toxic-spikes,mega-drain,magical-leaf|natural-cure||fire
+roselia|25|poison-sting,toxic-spikes,mega-drain,magical-leaf|natural-cure||grass
+buizel|25|pursuit,aqua-jet,quick-attack,growl|swift-swim||grass
+buizel|25|pursuit,aqua-jet,quick-attack,growl|swift-swim||water
+ponyta|25|stomp,tail-whip,growl,ember|run-away||fire
+ponyta|25|stomp,tail-whip,growl,ember|run-away||water
+monferno|28|fury-swipes,leer,mach-punch,flame-wheel|blaze||grass
+prinplup|28|peck,metal-claw,bubble-beam,growl|torrent||fire
+grotle|28|bite,withdraw,razor-leaf,mega-drain|overgrow||water
+
+--b4|Barry||/leaders/barry#Canalave City
+staravia|31|aerial-ace,double-team,take-down,quick-attack|keen-eye
+heracross|30|horn-attack,night-slash,aerial-ace,brick-break|swarm
+roselia|32|giga-drain,grass-whistle,leech-seed,toxic-spikes|natural-cure||fire
+roselia|32|giga-drain,grass-whistle,leech-seed,toxic-spikes|natural-cure||grass
+buizel|32|pursuit,aqua-jet,quick-attack,swift|swift-swim||grass
+buizel|32|pursuit,aqua-jet,quick-attack,swift|swift-swim||water
+ponyta|32|stomp,take-down,tail-whip,fire-spin|run-away||fire
+ponyta|32|stomp,take-down,tail-whip,fire-spin|run-away||water
+monferno|35|flame-wheel,aerial-ace,mach-punch,brick-break|blaze||grass
+prinplup|35|fury-attack,bubble-beam,metal-claw,aerial-ace|torrent||fire
+grotle|35|razor-leaf,leech-seed,bite,mega-drain|overgrow||water
+
+--b5|Barry||/leaders/barry#Victory Road
+staraptor|48|close-combat,aerial-ace,steel-wing,u-turn|keen-eye
+heracross|50|rock-slide,close-combat,night-slash,aerial-ace|swarm
+snorlax|51|rest,crunch,earthquake,body-slam|immunity
+roserade|49|giga-drain,grass-whistle,poison-jab,shadow-ball|natural-cure||fire
+roserade|49|giga-drain,grass-whistle,poison-jab,shadow-ball|natural-cure||grass
+floatzel|49|aqua-jet,ice-fang,crunch,brick-break|swift-swim||grass
+floatzel|49|aqua-jet,ice-fang,crunch,brick-break|swift-swim||water
+rapidash|49|will-o-wisp,sunny-day,fire-blast,bounce|run-away||fire
+rapidash|49|will-o-wisp,sunny-day,fire-blast,bounce|run-away||water
+infernape|53|flamethrower,focus-blast,aerial-ace,shadow-claw|blaze||grass
+empoleon|53|brine,metal-claw,aerial-ace,shadow-claw|torrent||fire
+torterra|53|leaf-storm,synthesis,earthquake,crunch|overgrow||water
+
+
+# Evil team
+
+--mars1|Mars||/leaders/mars#valley windworks post
+zubat|14|bite,leech-life,toxic|inner-focus
+purugly|16|fake-out,scratch,feint-attack|thick-fat|oran-berry
+
+--mars2|Mars||/leaders/mars#Lake Verity
+golbat|37|air-cutter,supersonic,bite,toxic|inner-focus
+bronzor|37|iron-defense,gyro-ball,confuse-ray,extrasensory|levitate
+purugly|39|fake-out,slash,feint-attack,hypnosis|thick-fat|oran-berry
+
+--jup1|Jupiter||/leaders/jupiter#4F Eterna Building
+zubat|18|wing-attack,giga-drain,bite|inner-focus
+skuntank|20|night-slash,poison-gas,smokescreen,screech|stench|sitrus-berry
+
+--sat1|Saturn||/leaders/saturn#Vallor Cavern
+kadabra|35|shock-wave,embargo,recover,psychic|synchronize
+toxicroak|37|revenge,feint-attack,mud-bomb,poison-jab|anticipation|sitrus-berry
+bronzor|35|iron-defense,gyro-ball,rock-tomb,shadow-ball|levitate
+
+--sat2|Saturn||/leaders/saturn#Galactic HQ
+kadabra|38|shock-wave,embargo,recover,psychic|synchronize
+toxicroak|40|brick-break,swagger,x-scissor,poison-jab|anticipation|sitrus-berry
+bronzor|35|extrasensory,gyro-ball,confuse-ray,shadow-ball|levitate
+
+--mnj|Mars & Jupiter||/leaders/mars-jupiter#Spear Pillar
+bronzor|41|gyro-ball,confuse-ray,extrasensory,light-screen|levitate
+golbat|42|air-cutter,confuse-ray,bite,poison-fang|inner-focus
+purugly|45|shadow-claw,slash,aerial-ace,hypnosis|thick-fat|sitrus-berry
+bronzor|41|gyro-ball,rock-slide,reflect,extrasensory|levitate
+golbat|42|sludge-bomb,air-cutter,giga-drain,mean-look|inner-focus
+skuntank|46|poison-jab,night-slash,flamethrower,smokescreen|stench|sitrus-berry
+
+--cyr1|Cyrus||/leaders/cyrus#Galactic Headquarters
+murkrow|40|night-shade,astonish,embargo,drill-peck|insomnia
+golbat|40|air-cutter,poison-fang,supersonic,bite|inner-focus
+sneasel|43|ice-punch,slash,quick-attack,screech|inner-focus|sitrus-berry
+
+--cyr2|Cyrus||/leaders/cyrus#Spear Pillar
+honchkrow|45|dark-pulse,embargo,drill-peck,steel-wing|insomnia
+gyarados|45|aqua-tail,giga-impact,earthquake,ice-fang|intimidate
+crobat|46|air-slash,cross-poison,confuse-ray,bite|inner-focus
+weavile|48|night-slash,ice-punch,brick-break,x-scissor|pressure|sitrus-berry
+
+# Gym leadership
+
+--1|Roark|rock|/leaders/roark
+geodude|12|rock-throw,stealth-rock|rock-head
+onix|12|rock-throw,screech,stealth-rock|rock-head
+cranidos|14|headbutt,leer,pursuit|mold-breaker
+
+--2|Gardenia|grass|/leaders/gardenia
+cherubi|19|grass-knot,leech-seed,safeguard,growth|chlorophyll|
+turtwig|19|razor-leaf,grass-knot,withdraw,reflect|overgrow|
+roserade|22|magical-leaf,grass-knot,stun-spore,poison-sting|natural-cure|sitrus-berry
+
+--3|Maylene|fighting|/leaders/maylene
+meditite|27|confusion,meditate,detect,drain-punch|pure-power
+machoke|27|brick-break,leer,foresight,rock-tomb|guts
+lucario|30|drain-punch,force-palm,metal-claw,bone-rush|steadfast|sitrus-berry
+
+--4|Crasher Wake|water|/leaders/wake
+gyarados|27|brine,dragon-rage,bite,swagger|intimidate
+quagsire|27|mud-bomb,mud-sport,slam,tail-whip|damp
+floatzel|30|brine,ice-fang,pursuit,swift|swift-swim|sitrus-berry
+
+--5|Fantina|ghost|/leaders/fantina
+drifblim|32|ominous-wind,astonish,minimize,gust|aftermath
+gengar|34|confuse-ray,shadow-claw,poison-jab,spite|levitate
+mismagius|36|confuse-ray,shadow-ball,psybeam,magical-leaf|levitate|sitrus-berry
+
+--6|Byron|steel|/leaders/byron
+bronzor|36|flash-cannon,confuse-ray,extrasensory,hypnosis|levitate
+steelix|36|gyro-ball,dragon-breath,sandstorm,ice-fang|sturdy
+bastiodon|39|flash-cannon,iron-defense,ancient-power,rest|sturdy|chesto-berry
+
+--7|Candice|ice|/leaders/candice
+snover|38|razor-leaf,ingrain,ice-shard,leer|snow-warning
+sneasel|38|taunt,feint-attack,avalanche,slash|inner-focus
+medicham|40|bulk-up,detect,force-palm,ice-punch|pure-power
+abomasnow|42|wood-hammer,grass-whistle,swagger,avalanche|snow-warning|sitrus-berry
+
+--8|Volkner|electric|/leaders/volkner
+raichu|46|charge-beam,thunder-wave,light-screen,brick-break|static
+ambipom|47|baton-pass,nasty-plot,agility,shock-wave|technician
+octillery|47|octazooka,charge-beam,bullet-seed,aurora-beam|sniper
+luxray|49|thunder-fang,charge-beam,thunder-wave,crunch|rivalry|sitrus-berry
+
+# Elite four
+--e1|Aaron|bug|/leaders/aaron
+dustox|53|bug-buzz,toxic,light-screen,double-team|shield-dust
+beautifly|53|bug-buzz,psychic,energy-ball,shadow-ball|swarm
+heracross|54|megahorn,close-combat,stone-edge,night-slash|swarm
+vespiquen|54|attack-order,defend-order,heal-order,power-gem|pressure
+drapion|57|cross-poison,x-scissor,aerial-ace,ice-fang|battle-armor|sitrus-berry
+
+--e2|Bertha|ground|/leaders/bertha
+quagsire|55|protect,sandstorm,dig,double-team|damp
+sudowoodo|56|sucker-punch,hammer-arm,sandstorm,earthquake|sturdy
+whiscash|55|rock-slide,fissure,zen-headbutt,aqua-tail|oblivious
+golem|56|gyro-ball,brick-break,earthquake,sandstorm|rock-head
+hippowdon|59|earthquake,curse,stone-edge,crunch|sand-stream|sitrus-berry
+
+--e3|Flint|fire|/leaders/flint
+rapidash|58|sunny-day,flare-blitz,solar-beam,bounce|run-away
+drifblim|58|double-team,baton-pass,ominous-wind,will-o-wisp|aftermath
+steelix|57|sunny-day,fire-fang,rock-tomb,screech|rock-head
+lopunny|57|charm,mirror-coat,sunny-day,fire-punch|cute-charm
+infernape|61|flare-blitz,thunder-punch,earthquake,mach-punch|blaze|sitrus-berry
+
+--e4|Lucian|psychic|/leaders/lucian
+mr-mime|59|psychic,light-screen,reflect,thunderbolt|soundproof
+girafarig|59|psychic,double-hit,shadow-ball,crunch|inner-focus
+medicham|60|drain-punch,ice-punch,fire-punch,thunder-punch|pure-power
+alakazam|60|psychic,focus-blast,recover,energy-ball|synchronize
+bronzong|63|psychic,gyro-ball,calm-mind,earthquake|levitate|sitrus-berry
+
+--c|Cynthia||/leaders/cynthia
+spiritomb|61|embargo,dark-pulse,silver-wind,psychic|pressure
+roserade|60|energy-ball,sludge-bomb,shadow-ball,extrasensory|natural-cure
+lucario|64|aura-sphere,dragon-pulse,psychic,earthquake|steadfast
+gastrodon|60|muddy-water,sludge-bomb,stone-edge,earthquake|sticky-hold
+milotic|63|aqua-ring,surf,mirror-coat,ice-beam|marvel-scale
+garchomp|66|dragon-rush,brick-break,earthquake,giga-impact|sand-veil|sitrus-berry

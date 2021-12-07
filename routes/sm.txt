@@ -1,0 +1,80 @@
+Starter
+Hau'oli Outskirts
+Iki Town
+--1st Rival|r1|rival
+Route 1
+--Iki Town Festival|r2|rival
+Melemele Sea
+Hau'oli City
+--Hau'oli City Trial Captain|1|gym-leader
+Route 2
+Berry Fields
+Verdant Cavern
+--Totem Trial|1a|gym-leader
+Hau'oli Cemetery
+Route 3
+--2nd Rival|r3|rival
+Melemele Meadow
+Seaward Cave
+--Hala's Grand Trial|2|gym-leader
+Kala'e Bay
+Ten Carat Hill
+Hano Beach
+--Heahea City|dsa|rival
+Route 4
+Paniola Town
+--3rd Rival|r4|rival
+Paniola Ranch
+Route 5
+--Team skull|g1|evil-team
+Brooklet Hill
+--Totem Trial|3|gym-leader
+Route 6
+Route 7
+Wela Volcano Park
+Route 8
+Fossil Restoration Center
+Lush Jungle
+Diglett's Tunnel
+Route 9
+Konikoni City
+Memorial Hill
+Akala Outskirts
+Malie City
+Malie Garden
+Route 10
+Mount Hokulani
+Route 11
+Route 12
+Secluded Shore
+Blush Mountain
+Route 13
+Haina Desert
+Tapu Village
+Route 15
+Aether House
+Route 14
+Thrifty Megamart
+Route 16
+Ula'ula Meadow
+Lake of the Moone/Sunne
+Route 17
+Shady House
+Seafolk Village
+Poni Wilds
+Ancient Poni Path
+Poni Breaker Coast
+Exeggutor Island
+Vast Poni Canyon
+Altar of the Moone/Sunne
+Mount Lanakila
+Poni Grove
+Poni Plains
+Poni Meadow
+Resolution Cave
+Poni Coast
+Poni Gauntlet
+Ruins of Conflict
+Ruins of Life
+Ruins of Abundance
+Ruins of Hope

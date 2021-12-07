@@ -1,0 +1,108 @@
+Starter
+Littleroot Town
+Route 101
+Route 103
+Route 102
+Petalburg City
+Route 104
+Petalburg Woods
+--Petalbug Woods grunt|g1|evil-team
+Rustboro City
+--Rival|r1b|rival
+--Rival|r1m|rival
+--Rustboro Gym|1|gym-leader
+Route 105
+Route 116
+Rusturf Tunnel
+Dewford Town
+--Dewford Gym|2|gym-leader
+Route 106
+Granite Cave
+Route 107
+Slateport City
+--Slateport Museum|g2|evil-team
+--Slateport Museum|aa1|evil-team
+Route 110
+--Rival battle|r2b|rival
+--Rival battle|r2m|rival
+Altering Cave
+New Mauville
+--Mauville City|w1|rival
+--Mauville City Gym|3|gym-leader
+Route 117
+Route 112
+--Mt. Chimney|mt1|evil-team
+--Mt. Chimney|mm1|evil-team
+Route 113
+Route 114
+Desert Underpass
+Meteor Falls
+--Meteor Falls|mc1|evil-team
+Lavaridge Town
+--Lavaridge Gym|4|gym-leader
+Fiery Path
+Route 111
+Mirage Tower
+--Petalburg Gym|5|gym-leader
+Route 118
+Route 119
+--Weather Institude|as1|evil-team
+--Rival ambush|r3b|rival
+--Rival ambush|r3m|rival
+Fortree City
+Route 120
+--Fortree City Gym|6|gym-leader
+Route 121
+Safari Zone
+Route 122
+Mt. Pyre
+--Mt. Pyre|am1|evil-team
+Route 123
+Jagged Pass
+Team Magma Hideout
+--Team Magma Hideout|mtc|evil-team
+--Team Magma Hideout|mtm|evil-team
+Lilycove City
+--Optional Rival|r4b|rival
+--Optional Rival|r4m|rival
+--Team Aqua Hideout|am2|evil-team
+Route 124
+Mossdeep City
+--Mossdeep City Gym|7|gym-leader
+--Mossdeep Space Center|mt2|evil-team
+--Mossdeep Space Center|mmc|evil-team
+Route 125
+Shoal Cave
+Route 127
+Route 128
+Seafloor Cavern
+--Seafloor Cavern|as2|evil-team
+--Seafloor Cavern|aa2|evil-team
+Route 126
+Sootopolis City
+--Sootopolis Gym|8|gym-leader
+Cave of Origin
+Route 129
+Route 130
+Route 131
+Sky Pillar
+Pacifidlog Town
+Mirage Island
+Route 105
+Route 108
+Abandoned Ship
+Route 109
+Route 132
+Route 133
+Route 134
+Ever Grande City
+Victory Road
+--Rival Ambush|w2|rival
+--Pokémon League|e1|elite-four
+--Pokémon League|e2|elite-four
+--Pokémon League|e3|elite-four
+--Pokémon League Champion|c1|elite-four
+--Meteor Falls Champion|c2|rival
+S.S. Tidal
+Battle Frontier
+Artisan Cave

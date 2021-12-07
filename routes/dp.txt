@@ -1,0 +1,84 @@
+Starter
+Twinleaf Town
+Route 201
+Lake Verity
+Route 202
+Route 203
+--1st Rival Battle|b1|rival
+Oreburgh Gate
+Oreburgh City
+--Oreburgh Gym|1|gym-leader
+Oreburgh Mine
+Route 207
+Route 204
+Ravaged Path
+Floaroma Meadow
+Route 205
+Valley Windworks
+--Valley Windoworks|mars1|evil-team
+Eterna Forest
+The Old Chateau
+Eterna City
+--Eterna Gym|2|gym-leader
+--Eterna Building|jup1|evil-team
+Route 206
+Wayward Cave
+Mt. Coronet
+Route 208
+Hearthome City
+--2nd Rival Battle|b2|rival
+Route 209
+The Lost Tower
+Solaceon Ruins
+Route 210
+Route 215
+Veilstone City
+--Veilstone Gym|3|gym-leader
+Trophy Garden
+Pastoria City
+Great Marsh
+--Pastoria Gym|4|gym-leader
+--3rd Rival Battle|b3|rival
+Route 212
+Route 213
+Valor Lakefront
+Lake Valor
+Route 214
+Ruin Maniac's Cave
+Ruin Maniac's Tunnel
+Celestic Town
+--Hearthome Gym|5|gym-leader
+Fuego Ironworks
+Routes 219
+Route 220
+Route 221
+Route 218
+--4th Rival Battle|b4|rival
+Canalave City
+Iron Island
+--Canalave Gym|6|gym-leader
+Route 211
+--Valor Cavern|sat1|evil-team
+--Lake Verity|mars2|evil-team
+Route 216
+Route 217
+Acuity Lakefront
+Lake Acuity
+Snowpoint Temple
+--Snowpoint Gym|7|gym-leader
+--Galactic HQ|cyr1|evil-team
+--Galactic HQ|sat2|evil-team
+--Spear Pillar|mnj|evil-team
+--Spear Pillar|cyr2|evil-team
+Route 222
+Sunyshore City
+--Sunyshore Gym|8|gym-leader
+Route 223
+Pokémon League
+--Final Rival Battle|b5|rival
+Victory Road
+--Elite Four|e1|elite-four
+--Elite Four|e2|elite-four
+--Elite Four|e3|elite-four
+--Elite Four|e4|elite-four
+--Champion|c|elite-four

@@ -1,0 +1,109 @@
+Starter
+--Rival|r1|rival
+Slumbering Weald
+Route 1
+Wedgehurst
+Route 2
+--Rival|r2|rival
+Rolling Fields
+Dappled Grove
+West Lake Axewell
+Watchtower Ruins
+East Lake Axewell
+South Lake Miloch
+Giant's Seat
+North Lake Miloch
+Motostoke
+--Rival|r3|rival
+Route 3
+Galar Mine
+--Rival|b1|rival
+Route 4
+--Turfield Gym|1|gym-leader
+Route 5
+--Rival|r4|rival
+Hulbury
+--Hulbury Gym|2|gym-leader
+Galar Mine No.2
+--Galar Mine No.2 Exit|b2|rival
+Motostoke Outskirts
+--Budew Drop Inn|m1|rival
+Motostoke Stadium
+--Motostoke Gym|3|gym-leader
+Motostoke Riverbank
+Bridge Field
+Stony Wilderness
+Giant's Mirror
+Dusty Bowl
+Giant's Cap
+Hammerlocke Hills
+Lake of Outrage
+Route 6
+--Rival|r5|rival
+--Stow-on-Side Gym|4b|gym-leader
+--Stow-on-Side Monument|b3|rival
+Glimwood Tangle
+--Ballonlea Gym|5|gym-leader
+Router 7
+--Rival|r6|rival
+Route 8
+--Rival|r7|rival
+--Circhester Gym|6b|gym-leader
+Route 9
+--Outer Spikemouth|m2|rival
+--Spikemouth Gym|7|gym-leader
+--Hammerlock Gym|8|gym-leader
+Route 10
+Axew's Eye
+--Wyndon Semi Finals|e1|elite-four
+--Wyndon Semi Finals|e2|elite-four
+--Rose Tower|oleana|evil-team
+--Wyndon Championship Match|e3|elite-four
+--Wyndon Championship Match|e4|elite-four
+--Wyndon Championship Match|e5a|elite-four
+--Wyndon Championship Match|e6|elite-four
+--Energy Plant|rose|evil-team
+--Wyndon Championship Final|ca|elite-four
+Fields of Honor
+--Fields of Honor|av1|rival 
+--Master Dojo|mustard1|rival
+Soothing Wetlands
+Forest of Focus
+Challenge Beach
+Brawlers' Cave
+Challenge Road
+Courageous Cavern
+Loop Lagoon
+Training Lowlands
+Warm-Up Tunnel
+--Warm-Up Tunnel|av2|rival
+Potbottom Desert
+Workout Sea
+Stepping-Stone Sea
+Insular Sea
+Honeycalm Sea
+Honeycalm Island
+--Battle Court|av3|rival
+--Battle Court|mustard2|rival
+Slippery Slope
+--Slipper Slope Ambush|p|rival
+Freezington
+Max Lair
+Frostpoint Field
+Giant's Bed
+Old Cemetery
+Snowslide Slope
+Tunnel to the Top
+Path to the Peak
+Crown Shrine
+Giant's Foot
+Roaring-Sea Caves
+Frigrid Sea
+Three-Point Pass
+Ballimere Lake
+Lakeside Cave
+Dyna Tree Hill
+Rock Peak Ruins
+Iceberg Ruins
+Iron Ruins
+Split-Decision Ruins

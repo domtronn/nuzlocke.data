@@ -1,0 +1,133 @@
+Starter
+New Bark Town
+Route 29
+Cherrygrove City
+--Cherrygrove City|r1|rival
+Route 30
+Route 31
+Dark Cave
+Violet City
+--Violet City Gym|1|gym-leader
+Sprout Tower
+Route 32
+Ruins of Alph
+Union Cave
+Route 33
+Azalea Town
+Slowpoke Well
+--Slowpoke Well|proton1|evil-team
+--Azalea Town Gym|2|gym-leader
+--Exit to Ilex Forest|r2|rival
+Ilex Forest
+Route 34
+Goldenrod City
+--Goldenrod City Gym|3|gym-leader
+Route 35
+National Park
+Route 36
+Route 37
+Ecruteak City
+Burned Tower
+--Burned Tower|r3|rival
+Bell Tower
+--Ecruteak City Gym|4|gym-leader
+Route 38
+Route 39
+Olivine City
+Route 40
+Route 41
+Whirl Islands
+Cianwood City
+--Suicune Encounter|eusine|rival
+--Cianwood City Gym|5|gym-leader
+--Olivine City Gym|6|gym-leader
+Cliff Edge Gate
+Route 47
+Cliff Cave
+Route 48
+Safari Zone Gate
+Safari Zone
+Route 42
+Mt. Mortar
+Mahogany Town
+Rocket Hideout
+Lake of Rage
+--Rocket Hideout|petrel1|evil-team
+--Rocket Hideout|ariana1|evil-team
+Route 43
+--Mahogany Town Gym|7|gym-leader
+--Goldenrod tunnel|r4|rival
+--Goldenrod Radio Tower|petrel2|evil-team
+--Goldenrod Radio Tower|proton2|evil-team
+--Goldenrod Radio Tower|ariana2|evil-team
+--Goldenrod Radio Tower|archer|evil-team
+Route 44
+Ice Path
+Blackthorn City
+Dragon's Den
+--Blackthorn City Gym|8|gym-leader
+Route 45
+Dark Cave 2
+Route 46
+Route 27
+Tohjo Falls
+Route 26
+Victory Road
+--Victory Road|r5|rival
+Indigo Plateau
+--Elite Four|e1|elite-four
+--Elite Four|e2|elite-four
+--Elite Four|e3|elite-four
+--Elite Four|e4|elite-four
+--Champion Fight|c|elite-four
+Vermillion City
+--Vermillion City Gym|k1|gym-leader
+Route 6
+Saffron City
+--Saffron City Gym|k2|gym-leader
+Route 7
+Celadon City
+--Celadon City Gym|k3|gym-leader
+Route 16
+Route 17
+Route 18
+Fuschia City
+--Fuschia City Gym|k4|gym-leader
+Route 15
+Route 14
+Route 13
+Route 12
+Route 8
+Route 5
+Route 9
+Route 10
+Power Plant
+Route 24
+Route 25
+Cerulean City
+--Cerulean City Gym|k5|gym-leader
+Rock Tunnel
+Route 4
+Route 11
+Diglett's Cave
+Pewter City
+--Pewter City Gym|k6|gym-leader
+Route 3
+Mt. Moon
+--Mt. Moon Rival|r6|rival
+Viridian Forest
+Route 2
+Viridian City
+Route 1
+Pallet Town
+Route 21
+Cinnabar Island
+Route 20
+--Cinnabar Island Gym|k7|gym-leader
+--Virdian City Gym|k8|gym-leader
+Route 19
+Route 22
+Route 28
+Mt. Silver
+--Champion|red|rival
+Cerulean Cave
