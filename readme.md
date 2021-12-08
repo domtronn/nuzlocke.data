@@ -16,6 +16,8 @@ If you would like to contribute you will need to provide the following files, th
 `routes.txt` and `league.txt` which should be in the following format
 below
 
+You can use the [**Boss Editor** app](https://nuzlocke-builder.vercel.app/) to help validate the data you're creating.
+
 ### **League data**
 ```
 --1|Gym Leader Name|Gym Leader Speciality|/image/path
