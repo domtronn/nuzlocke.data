@@ -43,7 +43,7 @@ Valor Lakefront
 Pastoria City
 Great Marsh
 --4th Rival Battle|b4|rival
---Pastoria Gym|4|gym-leader
+--Pastoria Gym|5|gym-leader
 Route 212
 Route 213
 Celestic Town
