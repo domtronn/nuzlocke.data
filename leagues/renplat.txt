@@ -114,7 +114,7 @@ flareon|44|flare-blitz,play-rough,close-combat,will-o-wisp|flash-fire|muscle-ban
 torterra|45|wood-hammer,earthquake,iron-head,rock-slide|overgrow|sitrus-berry|fire
 infernape|45|fire-blast,close-combat,thunder-punch,rock-slide|iron-fist|sitrus-berry|water
 empoleon|45|surf,flash-cannon,grass-knot,featherdance|torrent|sitrus-berry|grass
- 
+
 --l2|Lucas#route 210
 alakazam|44|psychic,shadow-ball,energy-ball,dazzling-gleam|magic-guard|life-orb
 mamoswine|44|earthquake,avalanche,stone-edge,ice-shard|thick-fat|passho-berry
@@ -138,7 +138,7 @@ flareon|69|flare-blitz,play-rough,close-combat,wild-charge|flash-fire|passho-ber
 torterra|70|frenzy-plant,earthquake,stone-edge,iron-head|overgrow|sitrus-berry|fire
 infernape|70|blast-burn,close-combat,stone-edge,thunder-punch|iron-fist|sitrus-berry|water
 empoleon|70|hydro-cannon,flash-cannon,grass-knot,ice-beam|torrent|sitrus-berry|grass
- 
+
 --l3|Lucas#224
 alakazam|69|psychic,shadow-ball,aura-sphere,dazzling-gleam|magic-guard|life-orb
 mamoswine|69|earthquake,icicle-crash,stone-edge,superpower|thick-fat|choice-band
@@ -172,7 +172,7 @@ metagross|49|meteor-mash,earthquake,zen-headbutt,agility|clear-body|liechi-berry
 salamence|49|dragon-rush,fly,crunch,dragon-dance|intimidate|power-herb
 slaking|49|body-slam,hammer-arm,play-rough,slack-off|truant|sitrus-berry
 lucario|50|high-jump-kick,meteor-mash,blaze-kick,bullet-punch|adaptability|life-orb
- 
+
 --darach|Castle Valet Darach#Pal Park
 gallade|48|psycho-cut,night-slash,close-combat,leaf-blade|steadfast|scope-lens
 empoleon|48|hydro-pump,flash-cannon,ice-beam,aqua-jet|torrent|sitrus-berry
@@ -258,7 +258,7 @@ breloom|70|bullet-seed,force-palm,stone-edge,spore|technician|life-orb|fire
 torterra|71|wood-hammer,earthquake,stone-edge,crunch|overgrow|sitrus-berry|water
 infernape|71|flare-blitz,close-combat,stone-edge,grass-knot|iron-fist|sitrus-berry|fire
 empoleon|71|hydro-pump,flash-cannon,grass-knot,blizzard|torrent|sitrus-berry|grass
- 
+
 # Gym leaders
 --1|Roark|rock|/leaders/roark
 nosepass|15|stealth-rock,sandstorm,thunder-wave,shock-wave|sturdy|smooth-rock
@@ -292,7 +292,7 @@ infernape|38|close-combat,rock-slide,fire-punch,mach-punch|iron-fist|life-orb
 toxicroak|38|drain-punch,poison-jab,ice-punch,sucker-punch|dry-skin|big-root
 gallade|38|drain-punch,zen-headbutt,light-screen,reflect|steadfast|light-clay
 lucario|39|aura-sphere,flash-cannon,dark-pulse,agility|adaptability|focus-sash
- 
+
 --5|Crasher Wake|water|/leaders/wake
 quagsire|43|aqua-tail,earthquake,recover,ice-punch|water-absorb|rindo-berry
 gyarados|43|aqua-tail,ice-fang,crunch,dragon-dance|intimidate|wacan-berry
@@ -336,7 +336,7 @@ heracross|71|megahorn,close-combat,stone-edge,night-slash|guts|choice-scarf
 vespiquen|71|attack-order,defend-order,heal-order,hurricane|intimidate|leftovers
 armaldo|71|x-scissor,stone-edge,earthquake,aqua-tail|battle-armor|choice-band
 drapion|72|cross-poison,night-slash,x-scissor,earthquake|sniper|scope-lens
- 
+
 --e1b|Aaron (Team B)|bug|/leaders/aaron
 venomoth|71|bug-buzz,sludge-bomb,double-team,psychic|tinted-lens|wide-lens
 scyther|71|bug-bite,aerial-ace,quick-attack,u-turn|technician|life-orb
@@ -352,7 +352,7 @@ heracross|71|megahorn,close-combat,stone-edge,protect|guts|toxic-orb
 scizor|71|bug-bite,iron-head,bullet-punch,u-turn|technician|life-orb
 dustox|71|bug-buzz,sludge-bomb,light-screen,moonlight|shield-dust|light-clay
 drapion|72|cross-poison,night-slash,x-scissor,earthquake|sniper|scope-lens
- 
+
 --e1d|Aaron (Team D)|bug|/leaders/aaron
 scyther|71|bug-bite,aerial-ace,quick-attack,u-turn|technician|life-orb
 yanmega|71|bug-buzz,hurricane,psychic,detect|speed-boost|wise-glasses
@@ -369,7 +369,7 @@ gliscor|72|earthquake,wing-attack,protect,roost|poison-heal|toxic-orb
 golem|72|earthquake,stone-edge,thunder-punch,explosion|rock-head|focus-sash
 donphan|72|earthquake,play-rough,head-smash,superpower|sand-veil|rindo-berry
 rhyperior|73|earthquake,stone-edge,megahorn,ice-punch|solid-rock|choice-band
- 
+
 --e2b|Bertha (Team B)|ground|/leaders/bertha
 hippowdon|72|earthquake,crunch,stealth-rock,slack-off|sand-stream|sitrus-berry
 sudowoodo|72|head-smash,wood-hammer,sucker-punch,hammer-arm|rock-head|passho-berry
@@ -377,7 +377,7 @@ gliscor|72|earthquake,x-scissor,protect,roost|poison-heal|toxic-orb
 torterra|72|earthquake,wood-hammer,stone-edge,leech-seed|overgrow|leftovers
 camerupt|72|overheat,earth-power,yawn,explosion|solid-rock|focus-sash
 rhyperior|73|earthquake,stone-edge,megahorn,thunder-punch|solid-rock|choice-band
- 
+
 --e2c|Bertha (Team C)|ground|/leaders/bertha
 tyranitar|72|stone-edge,crunch,earthquake,thunder-punch|sand-stream|choice-scarf
 swampert|72|earthquake,aqua-tail,rest,sleep-talk|torrent|lum-berry
@@ -385,7 +385,7 @@ dugtrio|72|earthquake,stone-edge,night-slash,aerial-ace|arena-trap|choice-band
 mamoswine|72|earthquake,icicle-crash,stone-edge,ice-shard|thick-fat|passho-berry
 claydol|72|earthquake,psychic,reflect,light-screen|levitate|light-clay
 rhyperior|73|earthquake,stone-edge,megahorn,fire-punch|solid-rock|choice-band
- 
+
 --e2d|Bertha (Team D)|ground|/leaders/bertha
 tyranitar|72|stone-edge,crunch,earthquake,fire-punch|sand-stream|choice-scarf
 quagsire|72|earthquake,aqua-tail,yawn,recover|water-absorb|sitrus-berry
@@ -403,7 +403,7 @@ flareon|73|flare-blitz,play-rough,wild-charge,close-combat|flash-fire|choice-ban
 rapidash|73|flare-blitz,wild-charge,megahorn,drill-run|flame-body|power-herb
 infernape|73|flare-blitz,close-combat,thunder-punch,grass-knot|iron-fist|expert-belt
 magmortar|74|fire-blast,thunderbolt,aura-sphere,solar-beam|flame-body|life-orb
- 
+
 --e3b|Flint (Team B)|fire|/leaders/flint
 rapidash|73|flare-blitz,wild-charge,megahorn,sunny-day|flame-body|heat-rock
 lopunny|73|high-jump-kick,mega-kick,blaze-kick,sunny-day|scrappy|focus-sash
@@ -411,7 +411,7 @@ drifblim|73|shadow-ball,hurricane,flamethrower,will-o-wisp|unburden|wacan-berry
 steelix|73|iron-tail,earthquake,fire-fang,crunch|rock-head|muscle-band
 infernape|73|flare-blitz,close-combat,thunder-punch,gunk-shot|iron-fist|expert-belt
 magmortar|74|fire-blast,thunderbolt,aura-sphere,solar-beam|flame-body|life-orb
- 
+
 --e3c|Flint (Team C)|fire|/leaders/flint
 ninetales|73|overheat,solar-beam,moonblast,hypnosis|drought|white-herb
 arcanine|73|flare-blitz,wild-charge,crunch,extreme-speed|intimidate|expert-belt
@@ -419,7 +419,7 @@ magcargo|73|fire-blast,earth-power,power-gem,solar-beam|solid-rock|focus-sash
 lopunny|73|high-jump-kick,mega-kick,blaze-kick,fake-out|scrappy|muscle-band
 charizard|73|fire-blast,dragon-pulse,hurricane,solar-beam|drought|choice-specs
 magmortar|74|fire-blast,thunderbolt,aura-sphere,solar-beam|flame-body|life-orb
- 
+
 --e3d|Flint (Team D)|fire|/leaders/flint
 torkoal|73|fire-blast,earth-power,stealth-rock,solar-beam|drought|focus-sash
 houndoom|73|fire-blast,dark-pulse,solar-beam,sludge-bomb|intimidate|choice-specs
@@ -437,7 +437,7 @@ bronzong|74|zen-headbutt,gyro-ball,reflect,light-screen|levitate|leftovers
 alakazam|74|psychic,shadow-ball,energy-ball,aura-sphere|magic-guard|life-orb
 metagross|74|zen-headbutt,meteor-mash,earthquake,explosion|iron-fist|muscle-band
 gallade|75|psycho-cut,close-combat,leaf-blade,night-slash|steadfast|scope-lens
- 
+
 --e4b|Lucian (Team B)|psychic|/leaders/lucian
 espeon|74|psychic,aura-sphere,reflect,light-screen|synchronize|light-clay
 girafarig|74|psychic,thunderbolt,shadow-ball,earthquake|inner-focus|colbur-berry
@@ -445,7 +445,7 @@ medicham|74|zen-headbutt,high-jump-kick,thunder-punch,ice-punch|pure-power|choic
 starmie|74|psychic,hydro-pump,ice-beam,thunderbolt|illuminate|life-orb
 exeggutor|74|psychic,giga-drain,sleep-powder,leech-seed|chlorophyll|occa-berry
 gallade|75|psycho-cut,close-combat,leaf-blade,night-slash|steadfast|scope-lens
- 
+
 --e4c|Lucian (Team C)|psychic|/leaders/lucian
 hypno|74|psychic,hypnosis,reflect,light-screen|insomnia|light-clay
 slowbro|74|psychic,scald,flamethrower,slack-off|oblivious|leftovers
@@ -453,7 +453,7 @@ gardevoir|74|psychic,moonblast,thunderbolt,aura-sphere|synchronize|wise-glasses
 jynx|74|psycho-boost,blizzard,petal-dance,fake-out|dry-skin|white-herb
 bronzong|74|psychic,flash-cannon,earthquake,hypnosis|levitate|occa-berry
 gallade|75|psycho-cut,close-combat,leaf-blade,night-slash|steadfast|scope-lens
- 
+
 --e4d|Lucian (Team D)|psychic|/leaders/lucian
 alakazam|74|psychic,aura-sphere,thunder-wave,counter|magic-guard|focus-sash
 gardevoir|74|psychic,moonblast,thunderbolt,aura-sphere|synchronize|wise-glasses
@@ -470,7 +470,7 @@ togekiss|77|air-slash,thunder-wave,roost,moonblast|serene-grace|sitrus-berry
 lucario|77|high-jump-kick,meteor-mash,extreme-speed,ice-punch|adaptability|life-orb
 milotic|77|surf,ice-beam,recover,hypnosis|marvel-scale|leftovers
 garchomp|78|earthquake,outrage,stone-edge,swords-dance|rough-skin|yache-berry
- 
+
 --cb|Cynthia (Team B)||/leaders/cynthia
 milotic|77|scald,ice-beam,light-screen,recover|marvel-scale|leftovers
 spiritomb|77|dark-pulse,shadow-ball,psychic,hypnosis|pressure|wise-glasses
@@ -478,7 +478,7 @@ ampharos|77|thunderbolt,dragon-pulse,focus-blast,flash-cannon|static|shuca-berry
 staraptor|77|brave-bird,double-edge,close-combat,u-turn|reckless|choice-scarf
 lucario|77|aura-sphere,flash-cannon,dark-pulse,vacuum-wave|adaptability|life-orb
 garchomp|78|earthquake,outrage,stone-edge,swords-dance|rough-skin|yache-berry
- 
+
 --cc|Cynthia (Team C)||/leaders/cynthia
 togekiss|77|moonblast,light-screen,reflect,tailwind|serene-grace|light-clay
 milotic|77|scald,ice-beam,recover,protect|marvel-scale|leftovers
@@ -486,7 +486,7 @@ spiritomb|77|dark-pulse,calm-mind,rest,sleep-talk|pressure|sitrus-berry
 lucario|77|high-jump-kick,meteor-mash,bullet-punch,stone-edge|adaptability|life-orb
 glaceon|77|blizzard,earth-power,extrasensory,shadow-ball|snow-cloak|choice-specs
 garchomp|78|earthquake,outrage,stone-edge,swords-dance|rough-skin|yache-berry
- 
+
 --cd|Cynthia (Team D)||/leaders/cynthia
 clefable|77|moonblast,soft-boiled,reflect,light-screen|cute-charm|light-clay
 roserade|77|energy-ball,sludge-bomb,shadow-ball,dazzling-gleam|technician|choice-scarf
