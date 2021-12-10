@@ -113,9 +113,9 @@ jolteon|44|thunder,shadow-ball,extrasensory,thunder-wave|volt-absorb|wise-glasse
 flareon|44|flare-blitz,play-rough,close-combat,will-o-wisp|flash-fire|muscle-band|grass
 torterra|45|wood-hammer,earthquake,iron-head,rock-slide|overgrow|sitrus-berry|fire
 infernape|45|fire-blast,close-combat,thunder-punch,rock-slide|iron-fist|sitrus-berry|water
-empoleon|45|surf,flash-cannon,grass-knot,featherdance|torrent|sitrus-berry|grass
+empoleon|45|surf,flash-cannon,grass-knot,feather-dance|torrent|sitrus-berry|grass
 
---l2|Lucas#route 210
+--l2|Lucas||#route 210
 alakazam|44|psychic,shadow-ball,energy-ball,dazzling-gleam|magic-guard|life-orb
 mamoswine|44|earthquake,avalanche,stone-edge,ice-shard|thick-fat|passho-berry
 granbull|44|play-rough,close-combat,crunch,earthquake|intimidate|choice-band
@@ -125,7 +125,7 @@ jolteon|44|thunder,shadow-ball,extrasensory,thunder-wave|volt-absorb|wise-glasse
 flareon|44|flare-blitz,play-rough,close-combat,will-o-wisp|flash-fire|muscle-band|grass
 torterra|45|wood-hammer,earthquake,iron-head,rock-slide|overgrow|sitrus-berry|fire
 infernape|45|fire-blast,close-combat,thunder-punch,rock-slide|iron-fist|sitrus-berry|water
-empoleon|45|surf,flash-cannon,grass-knot,featherdance|torrent|sitrus-berry|grass
+empoleon|45|surf,flash-cannon,grass-knot,feather-dance|torrent|sitrus-berry|grass
 
 --d3|Dawn#224
 alakazam|69|psychic,shadow-ball,aura-sphere,dazzling-gleam|magic-guard|life-orb
