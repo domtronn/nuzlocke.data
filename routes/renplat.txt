@@ -80,6 +80,7 @@ Snowpoint Temple
 --Galactic HQ|sat2|evil-team
 --Spear Pillar|mnj|evil-team
 --Distortion World|cyr3|evil-team
+--Distortion World|cyr4|evil-team
 Route 222
 Sunyshore City
 --Sunyshore City|dahlia|rival
