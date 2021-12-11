@@ -8,8 +8,8 @@ Route 104
 Petalburg Woods
 --Petalbug Woods grunt|g1|evil-team|Grunt
 Rustboro City
---Rival|r1b|rival|Rustboro City - Brendan
---Rival|r1m|rival|Rustboro City - May
+--Rustboro City|r1b|rival|Brendan
+--Rustboro City|r1m|rival|May
 --Rustboro Gym|1|gym-leader|Roxanne
 Route 105
 Route 116
@@ -23,11 +23,11 @@ Slateport City
 --Slateport Museum|g2|evil-team|Grunts
 --Slateport Museum|aa1|evil-team|Archie
 Route 110
---Rival battle|r2b|rival|Route 110 - Brendan
---Rival battle|r2m|rival|Route 110 - May
+--Rotue 110|r2b|rival|Brendan
+--Rotue 110|r2m|rival|May
 Altering Cave
 New Mauville
---Mauville City|w1|rival|Wally - Mauville City
+--Mauville City|w1|rival|Wally
 --Mauville City Gym|3|gym-leader|Wattson
 Route 117
 Route 112
@@ -47,8 +47,8 @@ Mirage Tower
 Route 118
 Route 119
 --Weather Institude|as1|evil-team|Shelly
---Rival ambush|r3b|rival|Route 119 - Brendan
---Rival ambush|r3m|rival|Route 119 - May
+--Route 119|r3b|rival|Brendan
+--Route 119|r3m|rival|May
 Fortree City
 Route 120
 --Fortree City Gym|6|gym-leader|Winona
@@ -63,8 +63,8 @@ Team Magma Hideout
 --Team Magma Hideout|mtc|evil-team|Tabitha & Courtney
 --Team Magma Hideout|mtm|evil-team|Maxie
 Lilycove City
---Optional Rival|r4b|rival|Lilycove City - Brendan
---Optional Rival|r4m|rival|Lilycove City - May
+--Lilycove City|r4b|rival|Brendan
+--Lilycove City|r4m|rival|May
 --Team Aqua Hideout|am2|evil-team|Matt
 Route 124
 Mossdeep City
@@ -97,12 +97,11 @@ Route 133
 Route 134
 Ever Grande City
 Victory Road
---Rival Ambush|w2|rival|Wally - Victory Road
+--Victory Road|w2|rival|Wally
 --Pokémon League|e1|elite-four|Sidney
 --Pokémon League|e2|elite-four|Phoebe
 --Pokémon League|e3|elite-four|Glacia
---Pokémon League Champion|c1|elite-four|undefined
---Meteor Falls Champion|c2|rival|undefined
+--Pokémon League Champion|c|elite-four|Wallace
 S.S. Tidal
 Battle Frontier
 Artisan Cave

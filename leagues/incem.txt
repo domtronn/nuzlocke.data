@@ -323,7 +323,6 @@ greninja|+1|hydro-pump,gunk-shot,ice-beam,extrasensory|protean|life-orb
 mandibuzz|+1|foul-play,toxic,roost,whirlwind|overcoat|leftovers
 absol-mega|+2|knock-off,play-rough,close-combat,fire-blast|magic-bounce|absolite
 
-
 --e2|Phoebe|ghost|
 mismagius|+1|shadow-ball,hyper-voice,nasty-plot,mystical-fire|pixilate|life-orb
 golurk|+1|shadow-punch,earthquake,meteor-mash,drain-punch|iron-fist|assault-vest
@@ -331,7 +330,6 @@ chandelure|+1|shadow-ball,fire-blast,energy-ball,psychic|flash-fire|choice-scarf
 dusknoir|+1|shadow-punch,thunder-punch,ice-punch,earthquake|iron-fist|shell-bell
 aegislash-shield|+1|shadow-ball,flash-cannon,shadow-sneak,kings-shield|stance-change|spell-tag
 banette-mega|+2|shadow-claw,return,play-rough,cotton-guard|prankster|banettite
-
 
 --e3|Glacia|ice|
 abomasnow|+1|blizzard,leaf-storm,earth-power,aurora-veil|snow-warning|choice-scarf
@@ -341,7 +339,6 @@ mamoswine|+1|icicle-crash,earthquake,ice-shard,superpower|thick-fat|assault-vest
 glaceon|+1|blizzard,fire-blast,thunderbolt,surf|slush-rush|life-orb
 glalie-mega|+2|double-edge,ice-shard,stone-edge,earthquake|refrigerate|glalitite
 
-
 --e4|Drake|dragon|
 dragalge|+1|draco-meteor,sludge-wave,focus-blast,toxic-spikes|adaptability|poison-gem
 kommo-o|+1|outrage,close-combat,iron-tail,shell-smash|soundproof|white-herb
@@ -349,7 +346,6 @@ serperior|+2|draco-meteor,leaf-storm,hidden-power,glare|contrary|life-orb
 garchomp|+1|outrage,earthquake,strength,swords-dance|rough-skin|yache-berry
 naganadel|+1|draco-meteor,sludge-wave,fire-blast,nasty-plot|beast-boost|white-herb
 salamence-mega|+2|double-edge,earthquake,fire-blast,dragon-dance|aerilate|salamencite
-
 
 --c|Wallace||
 wailord|+2|water-spout,ice-beam,weather-ball,earthquake|drizzle|choice-scarf
