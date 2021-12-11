@@ -1,11 +1,11 @@
 Starter
 Aspertia City
---1st Rival|r1|rival|Hugh
+--Aspertia City|r1|rival|Hugh
 Route 19
 Floccesy Town
 Route 20
 Floccesy Ranch
---2nd Rival|r2|rival|Hugh
+--Floccesy Ranch|r2|rival|Hugh
 Aspertia Gym
 --Aspertia City Gym|1n|gym-leader|Cheren
 Virbank City
@@ -38,7 +38,7 @@ Celestial Tower
 Reversal Mountain
 Strange House
 Undella Town
---3rd Rival|r4|rival|Hugh
+--Undella Town|r4|rival|Hugh
 Undella Bay
 Route 13
 --Lacunosa Town|zinz1|evil-team|Zinzolin & Grunt
@@ -61,7 +61,7 @@ Giant Chasm
 --Giant Chasm|ghetsis|evil-team|Ghetsis
 Route 23
 Victory Road
---Final Rival|r5|rival|Hugh
+--Victory Road|r5|rival|Hugh
 --Pokémon League W Room|e1n|elite-four|Shauntal
 --Pokémon League NW Room|e2n|elite-four|Grimsley
 --Pokémon League NE Room|e3n|elite-four|Caitlin

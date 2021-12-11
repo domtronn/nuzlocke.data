@@ -2,14 +2,14 @@ Starter
 Littleroot Town
 Route 101
 Route 103
---Rival battle|r1|rival|May
+--Route 103|r1|rival|May
 Route 102
 Petalburg City
 Route 104
 Petalburg Woods
 Rustboro City
 --Rustboro Gym|1|gym-leader|Roxanne
---Optional Rival|r2|rival|May
+--Rustboro City|r2|rival|May
 Route 105
 Route 116
 Rusturf Tunnel
@@ -20,7 +20,7 @@ Granite Cave
 Route 107
 Slateport City
 Route 110
---Rival battle|r3|rival|May
+--Route 110|r3|rival|May
 Altering Cave
 New Mauville
 --Mauville City|w1|rival|Wally
@@ -40,8 +40,8 @@ Mirage Tower
 --Petalburg Gym|5|gym-leader|Norman
 Route 118
 Route 119
---Weather Institude|as1|evil-team|Shelly
---Rival ambush|r4|rival|May
+--Weather Institute|as1|evil-team|Shelly
+--Weather Institute|r4|rival|May
 Fortree City
 Route 120
 --Fortree City Gym|6|gym-leader|Winona
@@ -55,7 +55,7 @@ Team Magma Hideout
 --Team Magma Hideout|mt2|evil-team|Tabitha
 --Team Magma Hideout|mtmax|evil-team|Maxie
 Lilycove City
---Optional Rival|r5|rival|May
+--Lilycove City|r5|rival|May
 --Team Aqua Hideout|am1|evil-team|Matt
 Route 124
 Mossdeep City
@@ -87,7 +87,7 @@ Route 133
 Route 134
 Ever Grande City
 Victory Road
---Rival Ambush|w2|rival|Wally
+--Victory Road|w2|rival|Wally
 --Pokémon League|e1|elite-four|Sidney
 --Pokémon League|e2|elite-four|Phoebe
 --Pokémon League|e3|elite-four|Glacia

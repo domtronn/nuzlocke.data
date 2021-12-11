@@ -1,6 +1,6 @@
 Starter
 Aquacorde Town
---1st Shauna Battle|sh1|rival|Shauna
+--Aquacode Town|sh1|rival|Shauna
 Route 2
 Santalune Forest
 --Santlune Gym|1|gym-leader|Viola
@@ -10,11 +10,11 @@ Route 4
 Lumiose City
 --Pokémon Lab|sy1|rival|Sycamore
 Route 5
---1st Tierno Battle|ti1|rival|Tierno
+--Route 5|ti1|rival|Tierno
 Route 6
 Parfum Palace
 Route 7
---Multi Battle|tnt|rival|Trevor & Tierno
+--Route 7|tnt|rival|Trevor & Tierno
 Battle Chateau
 Connecting Cave
 Route 8
@@ -24,23 +24,23 @@ Glittering Cave
 Cyllage City
 --Cyllage Gym|2|gym-leader|Grant
 Route 10
---Geosenge Korrina Battle|3a|rival|Korrina
+--Geosenge|3a|rival|Korrina
 Route 11
 Reflection Cave
 Shalour City
 Tower of Mystery
---Tower of Mastery Rival Battle|se1|rival|Serena
+--Tower of Mastery|se1|rival|Serena
 --Shalour Gym|3|gym-leader|Korrina
---Tower of Mastery Korrina Battle|3b|rival|Korrina
+--Tower of Mastery|3b|rival|Korrina
 Route 12
 Azure Bay
---Coumarine Pokémon Center Rival Battle|se2|rival|Serena
+--Coumarine Pokémon Center|se2|rival|Serena
 --Coumarine Gym|4|gym-leader|Ramos
 Route 13
 --Power Plant|al1|evil-team|Aliana
 --Lumiose Gym|5|gym-leader|Clemont
 Route 14
---Route 14 Rival Battle|se3|rival|Serena
+--Route 14|se3|rival|Serena
 Laverre City
 --Laverre Gym|6|gym-leader|Valeria
 --Pokéball Factory|cnb|evil-team|Celosia & Bryony
@@ -50,7 +50,7 @@ Route 16
 Frost Cavern
 --Frost Cavern|m1|evil-team|Mable
 Route 17
---Anistar City Rival Battle|se4|rival|Serena
+--Anistar City|se4|rival|Serena
 --Anistar Gym|7|gym-leader|Olympia
 --Lysandre Labs|l1|evil-team|Lysandre
 --Lysandre Labs|al2|evil-team|Aliana
@@ -65,21 +65,21 @@ Route 18
 Couriway Town
 --Couriway Town Sycamore Battle|sy2|rival|Sycamore
 Route 19
---Route 19 Shauna Battle|sh2|rival|Shauna
---Route 19 Tierno Battle|ti2|rival|Tierno
---Route 19 Trevor Battle|trv|rival|Trevor
+--Route 19|sh2|rival|Shauna
+--Route 19|ti2|rival|Tierno
+--Route 19|trv|rival|Trevor
 Route 20
 Pokémon Village
 --Snowbelle Gym|8|gym-leader|Wulfric
 Route 21
 Route 22
 Victory Roa
---Victory Road Rival Battle|se5|rival|Serena
---Pokémon League Blazing Chamber|e1|elite-four|Malva
---Pokémon League Flood Chamber|e2|elite-four|Siebold
---Pokémon League Ironworks Chamber|e3|elite-four|Wikstrom
---Pokémon League Dragonmark Chamber|e4|elite-four|Drasna
---Pokémon Champion Radiant Chamber|c1|elite-four|Diantha
+--Victory Road|se5|rival|Serena
+--Pokémon League - Blazing Chamber|e1|elite-four|Malva
+--Pokémon League - Flood Chamber|e2|elite-four|Siebold
+--Pokémon League - Ironworks Chamber|e3|elite-four|Wikstrom
+--Pokémon League - Dragonmark Chamber|e4|elite-four|Drasna
+--Pokémon Champion - Radiant Chamber|c1|elite-four|Diantha
 Terminus Cave
 Sea Spirit's Den
 Friend Safari

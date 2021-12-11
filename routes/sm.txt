@@ -1,7 +1,7 @@
 Starter
 Hau'oli Outskirts
 Iki Town
---1st Rival|r1|rival|Hau
+--Iki Town|r1|rival|Hau
 Route 1
 --Iki Town Festival|r2|rival|Hau
 Melemele Sea

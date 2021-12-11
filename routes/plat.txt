@@ -1,11 +1,11 @@
 Starter
 Twinleaf Town
 Route 201
---1st Rival Battle|b1|rival|Barry
+--Route 201|b1|rival|Barry
 Lake Verity
 Route 202
 Route 203
---2nd Rival Battle|b2|rival|Barry
+--Route 203|b2|rival|Barry
 Oreburgh Gate
 Oreburgh City
 --Oreburgh Gym|1|gym-leader|Roark
@@ -29,7 +29,7 @@ Route 208
 Hearthome City
 --Hearthome Gym|3|gym-leader|Fantina
 Route 209
---3rd Rival Battle|b3|rival|Barry
+--Route 209|b3|rival|Barry
 The Lost Tower
 Solaceon Ruins
 Route 210
@@ -42,7 +42,7 @@ Ruin Maniac's Tunnel
 Valor Lakefront
 Pastoria City
 Great Marsh
---4th Rival Battle|b4|rival|Barry
+--Pastoria City|b4|rival|Barry
 --Pastoria Gym|5|gym-leader|Crasher Wake
 Route 212
 Route 213
@@ -54,7 +54,7 @@ Route 220
 Route 221
 Route 218
 Canalave City
---5th Rival Battle|b5|rival|Barry
+--Canalave City|b5|rival|Barry
 --Canalave Gym|6|gym-leader|Byron
 Iron Island
 Route 211
@@ -75,7 +75,7 @@ Sunyshore City
 --Sunyshore Gym|8|gym-leader|Volkner
 Route 223
 Pokémon League
---Final Rival Battle|b5|rival|Barry
+--Victory Road|b5|rival|Barry
 Victory Road
 --Elite Four|e1|elite-four|Aaron
 --Elite Four|e2|elite-four|Bertha

@@ -3,7 +3,7 @@ Littleroot Town
 Route 101
 Route 102
 Route 103
---1st Rival Battle|r1|rival|Rival
+--Route 103|r1|rival|Rival
 Petalburg City
 Route 104
 Petalburg Woods
@@ -19,7 +19,7 @@ Granite Cave
 Route 107
 Slateport City
 Route 110
---2nd Rival Battle|r2|rival|Rival
+--Route 110|r2|rival|Rival
 Altering Cave
 New Mauville
 --Mauville City|w1|rival|Wally
