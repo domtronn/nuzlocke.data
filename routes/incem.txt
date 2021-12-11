@@ -6,81 +6,81 @@ Route 102
 Petalburg City
 Route 104
 Petalburg Woods
---Petalbug Woods grunt|g1|evil-team
+--Petalbug Woods grunt|g1|evil-team|Grunt
 Rustboro City
---Rival|r1b|rival
---Rival|r1m|rival
---Rustboro Gym|1|gym-leader
+--Rival|r1b|rival|Rustboro City - Brendan
+--Rival|r1m|rival|Rustboro City - May
+--Rustboro Gym|1|gym-leader|Roxanne
 Route 105
 Route 116
 Rusturf Tunnel
 Dewford Town
---Dewford Gym|2|gym-leader
+--Dewford Gym|2|gym-leader|Brawly
 Route 106
 Granite Cave
 Route 107
 Slateport City
---Slateport Museum|g2|evil-team
---Slateport Museum|aa1|evil-team
+--Slateport Museum|g2|evil-team|Grunts
+--Slateport Museum|aa1|evil-team|Archie
 Route 110
---Rival battle|r2b|rival
---Rival battle|r2m|rival
+--Rival battle|r2b|rival|Route 110 - Brendan
+--Rival battle|r2m|rival|Route 110 - May
 Altering Cave
 New Mauville
---Mauville City|w1|rival
---Mauville City Gym|3|gym-leader
+--Mauville City|w1|rival|Wally - Mauville City
+--Mauville City Gym|3|gym-leader|Wattson
 Route 117
 Route 112
---Mt. Chimney|mt1|evil-team
---Mt. Chimney|mm1|evil-team
+--Mt. Chimney|mt1|evil-team|Tabitha
+--Mt. Chimney|mm1|evil-team|Maxie
 Route 113
 Route 114
 Desert Underpass
 Meteor Falls
---Meteor Falls|mc1|evil-team
+--Meteor Falls|mc1|evil-team|Courtney
 Lavaridge Town
---Lavaridge Gym|4|gym-leader
+--Lavaridge Gym|4|gym-leader|Flannery
 Fiery Path
 Route 111
 Mirage Tower
---Petalburg Gym|5|gym-leader
+--Petalburg Gym|5|gym-leader|Norman
 Route 118
 Route 119
---Weather Institude|as1|evil-team
---Rival ambush|r3b|rival
---Rival ambush|r3m|rival
+--Weather Institude|as1|evil-team|Shelly
+--Rival ambush|r3b|rival|Route 119 - Brendan
+--Rival ambush|r3m|rival|Route 119 - May
 Fortree City
 Route 120
---Fortree City Gym|6|gym-leader
+--Fortree City Gym|6|gym-leader|Winona
 Route 121
 Safari Zone
 Route 122
 Mt. Pyre
---Mt. Pyre|am1|evil-team
+--Mt. Pyre|am1|evil-team|Matt
 Route 123
 Jagged Pass
 Team Magma Hideout
---Team Magma Hideout|mtc|evil-team
---Team Magma Hideout|mtm|evil-team
+--Team Magma Hideout|mtc|evil-team|Tabitha & Courtney
+--Team Magma Hideout|mtm|evil-team|Maxie
 Lilycove City
---Optional Rival|r4b|rival
---Optional Rival|r4m|rival
---Team Aqua Hideout|am2|evil-team
+--Optional Rival|r4b|rival|Lilycove City - Brendan
+--Optional Rival|r4m|rival|Lilycove City - May
+--Team Aqua Hideout|am2|evil-team|Matt
 Route 124
 Mossdeep City
---Mossdeep City Gym|7|gym-leader
---Mossdeep Space Center|mt2|evil-team
---Mossdeep Space Center|mmc|evil-team
+--Mossdeep City Gym|7|gym-leader|Tate & Liza
+--Mossdeep Space Center|mt2|evil-team|Tabitha
+--Mossdeep Space Center|mmc|evil-team|Maxie & Courtney
 Route 125
 Shoal Cave
 Route 127
 Route 128
 Seafloor Cavern
---Seafloor Cavern|as2|evil-team
---Seafloor Cavern|aa2|evil-team
+--Seafloor Cavern|as2|evil-team|Shelly
+--Seafloor Cavern|aa2|evil-team|Archie
 Route 126
 Sootopolis City
---Sootopolis Gym|8|gym-leader
+--Sootopolis Gym|8|gym-leader|Juan
 Cave of Origin
 Route 129
 Route 130
@@ -97,12 +97,12 @@ Route 133
 Route 134
 Ever Grande City
 Victory Road
---Rival Ambush|w2|rival
---Pokémon League|e1|elite-four
---Pokémon League|e2|elite-four
---Pokémon League|e3|elite-four
---Pokémon League Champion|c1|elite-four
---Meteor Falls Champion|c2|rival
+--Rival Ambush|w2|rival|Wally - Victory Road
+--Pokémon League|e1|elite-four|Sidney
+--Pokémon League|e2|elite-four|Phoebe
+--Pokémon League|e3|elite-four|Glacia
+--Pokémon League Champion|c1|elite-four|undefined
+--Meteor Falls Champion|c2|rival|undefined
 S.S. Tidal
 Battle Frontier
 Artisan Cave

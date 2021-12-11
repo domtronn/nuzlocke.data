@@ -2,12 +2,12 @@ Starter
 New Bark Town
 Route 29
 Cherrygrove City
---Cherrygrove City|r1|rival
+--Cherrygrove City|r1|rival|Silver
 Route 30
 Route 31
 Dark Cave
 Violet City
---Violet City Gym|1|gym-leader
+--Violet City Gym|1|gym-leader|Falkner
 Sprout Tower
 Route 32
 Ruins of Alph
@@ -15,22 +15,22 @@ Union Cave
 Route 33
 Azalea Town
 Slowpoke Well
---Slowpoke Well|proton1|evil-team
---Azalea Town Gym|2|gym-leader
---Exit to Ilex Forest|r2|rival
+--Slowpoke Well|proton1|evil-team|Executive Proton
+--Azalea Town Gym|2|gym-leader|Bugsy
+--Exit to Ilex Forest|r2|rival|Silver
 Ilex Forest
 Route 34
 Goldenrod City
---Goldenrod City Gym|3|gym-leader
+--Goldenrod City Gym|3|gym-leader|Whitney
 Route 35
 National Park
 Route 36
 Route 37
 Ecruteak City
 Burned Tower
---Burned Tower|r3|rival
+--Burned Tower|r3|rival|Silver
 Bell Tower
---Ecruteak City Gym|4|gym-leader
+--Ecruteak City Gym|4|gym-leader|Morty
 Route 38
 Route 39
 Olivine City
@@ -38,9 +38,9 @@ Route 40
 Route 41
 Whirl Islands
 Cianwood City
---Suicune Encounter|eusine|rival
---Cianwood City Gym|5|gym-leader
---Olivine City Gym|6|gym-leader
+--Suicune Encounter|eusine|rival|Eusine
+--Cianwood City Gym|5|gym-leader|Chuck
+--Olivine City Gym|6|gym-leader|Jasmine
 Cliff Edge Gate
 Route 47
 Cliff Cave
@@ -52,20 +52,20 @@ Mt. Mortar
 Mahogany Town
 Rocket Hideout
 Lake of Rage
---Rocket Hideout|petrel1|evil-team
---Rocket Hideout|ariana1|evil-team
+--Rocket Hideout|petrel1|evil-team|Executive Petrel
+--Rocket Hideout|ariana1|evil-team|Executive Ariana & Grunt
 Route 43
---Mahogany Town Gym|7|gym-leader
---Goldenrod tunnel|r4|rival
---Goldenrod Radio Tower|petrel2|evil-team
---Goldenrod Radio Tower|proton2|evil-team
---Goldenrod Radio Tower|ariana2|evil-team
---Goldenrod Radio Tower|archer|evil-team
+--Mahogany Town Gym|7|gym-leader|Pryce
+--Goldenrod tunnel|r4|rival|Silver
+--Goldenrod Radio Tower|petrel2|evil-team|Executive Petrel
+--Goldenrod Radio Tower|proton2|evil-team|Executive Proton
+--Goldenrod Radio Tower|ariana2|evil-team|Executive Ariana
+--Goldenrod Radio Tower|archer|evil-team|Executive Archer
 Route 44
 Ice Path
 Blackthorn City
 Dragon's Den
---Blackthorn City Gym|8|gym-leader
+--Blackthorn City Gym|8|gym-leader|Clair
 Route 45
 Dark Cave 2
 Route 46
@@ -73,26 +73,26 @@ Route 27
 Tohjo Falls
 Route 26
 Victory Road
---Victory Road|r5|rival
+--Victory Road|r5|rival|Silver
 Indigo Plateau
---Elite Four|e1|elite-four
---Elite Four|e2|elite-four
---Elite Four|e3|elite-four
---Elite Four|e4|elite-four
---Champion Fight|c|elite-four
+--Elite Four|e1|elite-four|Will
+--Elite Four|e2|elite-four|Koga
+--Elite Four|e3|elite-four|Bruno
+--Elite Four|e4|elite-four|Karen
+--Champion Fight|c|elite-four|Lance
 Vermillion City
---Vermillion City Gym|k1|gym-leader
+--Vermillion City Gym|k1|gym-leader|Lt. Surge
 Route 6
 Saffron City
---Saffron City Gym|k2|gym-leader
+--Saffron City Gym|k2|gym-leader|Sabrina
 Route 7
 Celadon City
---Celadon City Gym|k3|gym-leader
+--Celadon City Gym|k3|gym-leader|Erika
 Route 16
 Route 17
 Route 18
 Fuschia City
---Fuschia City Gym|k4|gym-leader
+--Fuschia City Gym|k4|gym-leader|Janine
 Route 15
 Route 14
 Route 13
@@ -105,16 +105,16 @@ Power Plant
 Route 24
 Route 25
 Cerulean City
---Cerulean City Gym|k5|gym-leader
+--Cerulean City Gym|k5|gym-leader|Misty
 Rock Tunnel
 Route 4
 Route 11
 Diglett's Cave
 Pewter City
---Pewter City Gym|k6|gym-leader
+--Pewter City Gym|k6|gym-leader|Brock
 Route 3
 Mt. Moon
---Mt. Moon Rival|r6|rival
+--Mt. Moon Rival|r6|rival|Silver
 Viridian Forest
 Route 2
 Viridian City
@@ -123,11 +123,11 @@ Pallet Town
 Route 21
 Cinnabar Island
 Route 20
---Cinnabar Island Gym|k7|gym-leader
---Virdian City Gym|k8|gym-leader
+--Cinnabar Island Gym|k7|gym-leader|Blaine
+--Virdian City Gym|k8|gym-leader|Blue
 Route 19
 Route 22
 Route 28
 Mt. Silver
---Champion|red|rival
+--Champion|red|rival|Red
 Cerulean Cave

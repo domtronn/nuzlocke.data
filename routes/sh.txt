@@ -1,10 +1,10 @@
 Starter
---Rival|r1|rival
+--Rival|r1|rival|Hop
 Slumbering Weald
 Route 1
 Wedgehurst
 Route 2
---Rival|r2|rival
+--Rival|r2|rival|Hop
 Rolling Fields
 Dappled Grove
 West Lake Axewell
@@ -14,22 +14,22 @@ South Lake Miloch
 Giant's Seat
 North Lake Miloch
 Motostoke
---Rival|r3|rival
+--Rival|r3|rival|Hop
 Route 3
 Galar Mine
---Rival|b1|rival
+--Rival|b1|rival|Bede
 Route 4
---Turfield Gym|1|gym-leader
+--Turfield Gym|1|gym-leader|Milo
 Route 5
---Rival|r4|rival
+--Rival|r4|rival|Hop
 Hulbury
---Hulbury Gym|2|gym-leader
+--Hulbury Gym|2|gym-leader|Nessa
 Galar Mine No.2
---Galar Mine No.2 Exit|b2|rival
+--Galar Mine No.2 Exit|b2|rival|Bede
 Motostoke Outskirts
---Budew Drop Inn|m1|rival
+--Budew Drop Inn|m1|rival|Marnie
 Motostoke Stadium
---Motostoke Gym|3|gym-leader
+--Motostoke Gym|3|gym-leader|Kabu
 Motostoke Riverbank
 Bridge Field
 Stony Wilderness
@@ -39,34 +39,34 @@ Giant's Cap
 Hammerlocke Hills
 Lake of Outrage
 Route 6
---Rival|r5|rival
---Stow-on-Side Gym|4b|gym-leader
---Stow-on-Side Monument|b3|rival
+--Rival|r5|rival|Hop
+--Stow-on-Side Gym|4b|gym-leader|Allister
+--Stow-on-Side Monument|b3|rival|Bede
 Glimwood Tangle
---Ballonlea Gym|5|gym-leader
+--Ballonlea Gym|5|gym-leader|Opal
 Router 7
---Rival|r6|rival
+--Rival|r6|rival|Hop
 Route 8
---Rival|r7|rival
---Circhester Gym|6b|gym-leader
+--Rival|r7|rival|Hop
+--Circhester Gym|6b|gym-leader|Melony
 Route 9
---Outer Spikemouth|m2|rival
---Spikemouth Gym|7|gym-leader
---Hammerlock Gym|8|gym-leader
+--Outer Spikemouth|m2|rival|Marnie
+--Spikemouth Gym|7|gym-leader|Piers
+--Hammerlock Gym|8|gym-leader|Raihan
 Route 10
 Axew's Eye
---Wyndon Semi Finals|e1|elite-four
---Wyndon Semi Finals|e2|elite-four
---Rose Tower|oleana|evil-team
---Wyndon Championship Match|e3|elite-four
---Wyndon Championship Match|e4|elite-four
---Wyndon Championship Match|e5a|elite-four
---Wyndon Championship Match|e6|elite-four
---Energy Plant|rose|evil-team
---Wyndon Championship Final|ca|elite-four
+--Wyndon Semi Finals|e1|elite-four|Marnie
+--Wyndon Semi Finals|e2|elite-four|Hop
+--Rose Tower|oleana|evil-team|Oleana
+--Wyndon Championship Match|e3|elite-four|Bede
+--Wyndon Championship Match|e4|elite-four|Nessa
+--Wyndon Championship Match|e5a|elite-four|Bea
+--Wyndon Championship Match|e6|elite-four|Raihan
+--Energy Plant|rose|evil-team|Rose
+--Wyndon Championship Final|ca|elite-four|Champion Leon
 Fields of Honor
---Fields of Honor|av1|rival 
---Master Dojo|mustard1|rival
+--Fields of Honor|av1|rival |Avery
+--Master Dojo|mustard1|rival|Mustard
 Soothing Wetlands
 Forest of Focus
 Challenge Beach
@@ -76,17 +76,17 @@ Courageous Cavern
 Loop Lagoon
 Training Lowlands
 Warm-Up Tunnel
---Warm-Up Tunnel|av2|rival
+--Warm-Up Tunnel|av2|rival|Avery
 Potbottom Desert
 Workout Sea
 Stepping-Stone Sea
 Insular Sea
 Honeycalm Sea
 Honeycalm Island
---Battle Court|av3|rival
---Battle Court|mustard2|rival
+--Battle Court|av3|rival|Avery
+--Battle Court|mustard2|rival|Master Mustard
 Slippery Slope
---Slipper Slope Ambush|p|rival
+--Slipper Slope Ambush|p|rival|Peony
 Freezington
 Max Lair
 Frostpoint Field

@@ -3,27 +3,27 @@ Littleroot Town
 Route 101
 Route 102
 Route 103
---1st Rival Battle|r1|rival
+--1st Rival Battle|r1|rival|Rival
 Petalburg City
 Route 104
 Petalburg Woods
 Rustboro City
---Rustboro Gym|1|gym-leader
+--Rustboro Gym|1|gym-leader|Roxanne
 Route 105
 Route 116
 Rusturf Tunnel
 Dewford Town
---Dewford Gym|2|gym-leader
+--Dewford Gym|2|gym-leader|Brawly
 Route 106
 Granite Cave
 Route 107
 Slateport City
 Route 110
---2nd Rival Battle|r2|rival
+--2nd Rival Battle|r2|rival|Rival
 Altering Cave
 New Mauville
---Mauville City|w1|rival
---Mauville Gym|3|gym-leader
+--Mauville City|w1|rival|Wally
+--Mauville Gym|3|gym-leader|Wattson
 Route 117
 Route 111
 Route 112
@@ -31,46 +31,46 @@ Fiery Path
 Route 113
 Route 114
 Meteor Falls
---Meteor Falls|ruby1|evil-team
+--Meteor Falls|ruby1|evil-team|Tabitha & Grunt
 Route 115
---Mt. Chimney|ruby2|evil-team
---Mt. Chimney|max1|evil-team
+--Mt. Chimney|ruby2|evil-team|Tabitha
+--Mt. Chimney|max1|evil-team|Maxie
 Jagged Pass
 Lavaridge Town
---Lavaridge Gym|4|gym-leader
---Petalburg Gym|5|gym-leader
+--Lavaridge Gym|4|gym-leader|Flannery
+--Petalburg Gym|5|gym-leader|Norman
 Route 118
 Southern Island
---Southern Island|ruby3|evil-team
+--Southern Island|ruby3|evil-team|Courtney & Grunt
 Route 119
---Weather Institute|ruby4|evil-team
---Route 119|r3|rival
+--Weather Institute|ruby4|evil-team|Tabitha
+--Route 119|r3|rival|Rival
 Fortree City
---Fortree City|aarune|rival
---Fortree Gym|6|gym-leader
+--Fortree City|aarune|rival|Aarune
+--Fortree Gym|6|gym-leader|Winona
 Route 120
 Route 121
 Route 122
 Mt. Pyre
---Mt. Pyre Summit|ruby5|evil-team
+--Mt. Pyre Summit|ruby5|evil-team|Courtney
 Route 123
 Safari Zone
 Lilycove City
---Lilycove City|r4|rival
+--Lilycove City|r4|rival|Rival
 Team Magma Hideout
---Magma Hideout B1F|ruby6|evil-team
+--Magma Hideout B1F|ruby6|evil-team|Courtney
 Route 124
 Mossdeep City
---Mossdeep Gym|7|gym-leader
+--Mossdeep Gym|7|gym-leader|Tate & Liza
 Route 125
 Shoal Cave
 Route 127
 Route 128
 Seafloor Cavern
---Seafloor Cavern|max2|evil-team
+--Seafloor Cavern|max2|evil-team|Maxie
 Route 126
 Sootopolis City
---Sootopolis Gym|8|gym-leader
+--Sootopolis Gym|8|gym-leader|Wallace
 Cave of Origin
 Soaring
 Route 129
@@ -88,12 +88,12 @@ Route 133
 Route 134
 Ever Grande City
 Victory Road
---Victory Road|w2|rival
---Pokémon League|e1|elite-four
---Pokémon League|e2|elite-four
---Pokémon League|e3|elite-four
---Pokémon League|e4|elite-four
---Pokémon Champion|c|elite-four
+--Victory Road|w2|rival|Wally
+--Pokémon League|e1|elite-four|Sidney
+--Pokémon League|e2|elite-four|Phoebe
+--Pokémon League|e3|elite-four|Glacia
+--Pokémon League|e4|elite-four|Drake
+--Pokémon Champion|c|elite-four|Steven
 S.S. Tidal
 Pathless Plain
 Nameless Cavern

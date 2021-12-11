@@ -1,35 +1,35 @@
 Starter
 Aspertia City
---1st Rival|r1|rival
+--1st Rival|r1|rival|Hugh
 Route 19
 Floccesy Town
 Route 20
 Floccesy Ranch
---2nd Rival|r2|rival
+--2nd Rival|r2|rival|Hugh
 Aspertia Gym
---Aspertia City Gym|1n|gym-leader
+--Aspertia City Gym|1n|gym-leader|Cheren
 Virbank City
---Virbank City Gym|2n|gym-leader
+--Virbank City Gym|2n|gym-leader|Roxie
 Virbank Complex
 Castelia City
 Castelia Sewers
---Castelia City Gym|3n|gym-leader
+--Castelia City Gym|3n|gym-leader|Burgh
 Relic Passage
 Route 4
---Challenge Colress|col1|evil-team
+--Challenge Colress|col1|evil-team|Colress
 Desert Resort
 Relic Castle
---Nimbasa Subway|subway|rival
---Nimbasa City Gym|4n|gym-leader
+--Nimbasa Subway|subway|rival|Ingo & Emmet
+--Nimbasa City Gym|4n|gym-leader|Elesa
 Route 16
 Lostlorn Forest
 Route 5
 Driftveil Drawbridge
 Driftveil City
---Driftveil City Gym|5n|gym-leader
---Driftveil Tournament Round 1|r3|rival
---Driftveil Tournament Round 2|ch|rival
---Driftveil Tournament Round 3|col2|rival
+--Driftveil City Gym|5n|gym-leader|Clay
+--Driftveil Tournament Round 1|r3|rival|Hugh
+--Driftveil Tournament Round 2|ch|rival|Cheren
+--Driftveil Tournament Round 3|col2|rival|Colress
 Route 6
 Mistralton Cave
 Chargestone Cave
@@ -38,35 +38,35 @@ Celestial Tower
 Reversal Mountain
 Strange House
 Undella Town
---3rd Rival|r4|rival
+--3rd Rival|r4|rival|Hugh
 Undella Bay
 Route 13
---Lacunosa Town|zinz1|evil-team
+--Lacunosa Town|zinz1|evil-team|Zinzolin & Grunt
 Route 12
 Village Bridge
 Route 11
 Route 9
---Opelucid City Gym|7n|gym-leader
---Opelucid City|zinz2|evil-team
---Opelucid City|shad|evil-team
+--Opelucid City Gym|7n|gym-leader|Drayden
+--Opelucid City|zinz2|evil-team|Zinzolin
+--Opelucid City|shad|evil-team|Shadow
 Seaside Cave
 Route 21
 Humilau City
---Humilau City Gym|7n|gym-leader
+--Humilau City Gym|7n|gym-leader|Drayden
 Route 22
---Command Center|zinz3|evil-team
---Kyurem's Location|zinz4|evil-team
---Control Room|col3|evil-team
+--Command Center|zinz3|evil-team|Zinzolin & grunt
+--Kyurem's Location|zinz4|evil-team|Zinzolin
+--Control Room|col3|evil-team|Colress
 Giant Chasm
---Giant Chasm|ghetsis|evil-team
+--Giant Chasm|ghetsis|evil-team|Ghetsis
 Route 23
 Victory Road
---Final Rival|r5|rival
---Pokémon League W Room|e1n|elite-four
---Pokémon League NW Room|e2n|elite-four
---Pokémon League NE Room|e3n|elite-four
---Pokémon League E Room|e4n|elite-four
---Pokémon League Champion|cn|elite-four
+--Final Rival|r5|rival|Hugh
+--Pokémon League W Room|e1n|elite-four|Shauntal
+--Pokémon League NW Room|e2n|elite-four|Grimsley
+--Pokémon League NE Room|e3n|elite-four|Caitlin
+--Pokémon League E Room|e4n|elite-four|Caitlin
+--Pokémon League Champion|cn|elite-four|Iris
 Old Victory Road
 Marvelous Bridge
 Route 15

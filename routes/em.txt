@@ -2,49 +2,49 @@ Starter
 Littleroot Town
 Route 101
 Route 103
---Rival battle|r1|rival
+--Rival battle|r1|rival|May
 Route 102
 Petalburg City
 Route 104
 Petalburg Woods
 Rustboro City
---Rustboro Gym|1|gym-leader
---Optional Rival|r2|rival
+--Rustboro Gym|1|gym-leader|Roxanne
+--Optional Rival|r2|rival|May
 Route 105
 Route 116
 Rusturf Tunnel
 Dewford Town
---Dewford Gym|2|gym-leader
+--Dewford Gym|2|gym-leader|Brawly
 Route 106
 Granite Cave
 Route 107
 Slateport City
 Route 110
---Rival battle|r3|rival
+--Rival battle|r3|rival|May
 Altering Cave
 New Mauville
---Mauville City|w1|rival
---Mauville City Gym|3|gym-leader
+--Mauville City|w1|rival|Wally
+--Mauville City Gym|3|gym-leader|Wattson
 Route 117
 Route 112
---Mt. Chimney|mt1|evil-team
+--Mt. Chimney|mt1|evil-team|Tabitha
 Route 113
 Route 114
 Desert Underpass
 Meteor Falls
 Lavaridge Town
---Lavaridge Gym|4|gym-leader
+--Lavaridge Gym|4|gym-leader|Flannery
 Fiery Path
 Route 111
 Mirage Tower
---Petalburg Gym|5|gym-leader
+--Petalburg Gym|5|gym-leader|Norman
 Route 118
 Route 119
---Weather Institude|as1|evil-team
---Rival ambush|r4|rival
+--Weather Institude|as1|evil-team|Shelly
+--Rival ambush|r4|rival|May
 Fortree City
 Route 120
---Fortree City Gym|6|gym-leader
+--Fortree City Gym|6|gym-leader|Winona
 Route 121
 Safari Zone
 Route 122
@@ -52,25 +52,25 @@ Mt. Pyre
 Route 123
 Jagged Pass
 Team Magma Hideout
---Team Magma Hideout|mt2|evil-team
---Team Magma Hideout|mtmax|evil-team
+--Team Magma Hideout|mt2|evil-team|Tabitha
+--Team Magma Hideout|mtmax|evil-team|Maxie
 Lilycove City
---Optional Rival|r5|rival
---Team Aqua Hideout|am1|evil-team
+--Optional Rival|r5|rival|May
+--Team Aqua Hideout|am1|evil-team|Matt
 Route 124
 Mossdeep City
---Mossdeep City Gym|7|gym-leader
---Mossdeep Space Center|mtmaxt|evil-team
+--Mossdeep City Gym|7|gym-leader|Tate & Liza
+--Mossdeep Space Center|mtmaxt|evil-team|Maxie & Tabitha
 Route 125
 Shoal Cave
 Route 127
 Route 128
 Seafloor Cavern
---Seafloor Cavern|as2|evil-team
---Seafloor Cavern|aqarc|evil-team
+--Seafloor Cavern|as2|evil-team|Shelly
+--Seafloor Cavern|aqarc|evil-team|Archie
 Route 126
 Sootopolis City
---Sootopolis Gym|8|gym-leader
+--Sootopolis Gym|8|gym-leader|Juan
 Cave of Origin
 Route 129
 Route 130
@@ -87,12 +87,12 @@ Route 133
 Route 134
 Ever Grande City
 Victory Road
---Rival Ambush|w2|rival
---Pokémon League|e1|elite-four
---Pokémon League|e2|elite-four
---Pokémon League|e3|elite-four
---Pokémon League Champion|c1|elite-four
---Meteor Falls Champion|c2|rival
+--Rival Ambush|w2|rival|Wally
+--Pokémon League|e1|elite-four|Sidney
+--Pokémon League|e2|elite-four|Phoebe
+--Pokémon League|e3|elite-four|Glacia
+--Pokémon League Champion|c1|elite-four|Wallace
+--Meteor Falls Champion|c2|rival|Steven
 S.S. Tidal
 Battle Frontier
 Artisan Cave

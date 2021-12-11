@@ -1,34 +1,34 @@
 Starter
 Hau'oli Outskirts
 Iki Town
---1st Rival|r1|rival
+--1st Rival|r1|rival|Hau
 Route 1
---Iki Town Festival|r2|rival
+--Iki Town Festival|r2|rival|Hau
 Melemele Sea
 Hau'oli City
---Hau'oli City Trial Captain|1|gym-leader
+--Hau'oli City Trial Captain|1|gym-leader|Ilima
 Route 2
 Berry Fields
 Verdant Cavern
---Totem Trial|1a|gym-leader
+--Totem Trial|1a|gym-leader|Ilima's trial
 Hau'oli Cemetery
 Route 3
---2nd Rival|r3|rival
+--2nd Rival|r3|rival|Hau
 Melemele Meadow
 Seaward Cave
---Hala's Grand Trial|2|gym-leader
+--Hala's Grand Trial|2|gym-leader|Hala
 Kala'e Bay
 Ten Carat Hill
 Hano Beach
---Heahea City|dsa|rival
+--Heahea City|dsa|rival|Dexio
 Route 4
 Paniola Town
---3rd Rival|r4|rival
+--3rd Rival|r4|rival|undefined
 Paniola Ranch
 Route 5
---Team skull|g1|evil-team
+--Team skull|g1|evil-team|Gladion
 Brooklet Hill
---Totem Trial|3|gym-leader
+--Totem Trial|3|gym-leader|Lana's trial
 Route 6
 Route 7
 Wela Volcano Park
