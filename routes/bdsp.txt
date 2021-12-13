@@ -74,7 +74,7 @@ Iron Island|riolu,zubat,golbat,geodude,graveler,onix,steelix,tentacool,tentacrue
 Route 211|zubat,machoke,geodude,graveler,ponyta,hoothoot,noctowl,meditite,bidoof,chingling,tyrogue,swablu
 --Valor Cavern|sat1|evil-team|Saturn
 --Lake Verity|mars2|evil-team|Mars
-Route 216|zubat,machoke,graveler,noctowl,sneasel,meditite,snover,delibired,snorunt
+Route 216|zubat,machoke,graveler,noctowl,sneasel,meditite,snover,delibird,snorunt
 Route 217|zubat,machoke,noctowl,sneasel,meditite,medicham,snover,swinub,snorunt
 Acuity Lakefront|zubat,machoke,noctowl,sneasel,meditite,medicham,snover,snorunt
 Lake Acuity|uxie
