@@ -117,10 +117,6 @@ incineroar|54|darkest-lariat,flare-blitz,earthquake|blaze|firium-z--held|water
 slowpoke|15|confusion,water-gun|own-tempo
 espeon|16|confusion,quick-attack|synchronize
 
---dsa|Dexio|psychic
-slowpoke|15|confusion,water-gun|own-tempo
-espeon|16|confusion,quick-attack|synchronize
-
 --dsb|Sina|ice
 delibird|15|present|vital-spirit
 glaceon|16|icy-wind,quick-attack|snow-cloak

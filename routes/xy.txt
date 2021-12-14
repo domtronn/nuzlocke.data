@@ -1,55 +1,54 @@
-Starter
-Aquacorde Town
+Starter|chespin,fennekin,froakie
+Aquacorde Town|chespin,fennekin,froakie
 --Aquacode Town|sh1|rival|Shauna
-Route 2
-Santalune Forest
+Route 2|caterpie,weedle,pidgey,zigzagoon,bunnelby,fletchling,scatterbug
+Santalune Forest|caterpie,metapod,weedle,kakuna,pikachu,pansage,pansear,panpour,fletchling,scatterbug
 --Santlune Gym|1|gym-leader|Viola
-Route 3
-Route 22
-Route 4
-Lumiose City
+Route 3|pidgey,pikachu,goldeen,seaking,magikarp,gyarados,marill,dunsparce,masquerain,azurill,corphish,crawdaunt,bidoof,burmy,bunnelby,fletchling
+Route 22|psyduck,farfetch'd,goldeen,seaking,magikarp,gyarados,azumarill,dunsparce,azurill,carvanha,sharpedo,bidoof,bibarel,riolu,bunnelby,diggersby,litleo
+Route 4|ledyba,ralts,skitty,budew,combee,flabébé
+Lumiose City|bulbasaur,charmander,squirtle
 --Pokémon Lab|sy1|rival|Sycamore
-Route 5
+Route 5|abra,doduo,plusle,minun,gulpin,bunnelby,skiddo,pancham,furfrou,scraggy
 --Route 5|ti1|rival|Tierno
-Route 6
-Parfum Palace
-Route 7
+Route 6|oddish,sentret,nincada,kecleon,espurr,honedge,venipede,audino
+Parfum Palace|magikarp,gyarados,goldeen,seaking,corphish,crawdaunt
+Route 7|smeargle,volbeat,illumise,roselia,croagunk,ducklett,flabébé,spritzee,swirlix,psyduck,hoppip,snorlax
 --Route 7|tnt|rival|Trevor & Tierno
-Battle Chateau
-Connecting Cave
-Route 8
-Ambrette Town
-Route 9
-Glittering Cave
-Cyllage City
+Connecting Cave|zubat,whismur,meditite,axew
+Route 8|tentacool,shellder,cloyster,staryu,starmie,qwilfish,wailmer,spoink,zangoose,seviper,absol,luvdisc,bagon,drifloon,dwebble,mienfoo,inkay,binacle,skrelp,dragalge,clauncher,clawitzer,taillow,wingull
+Ambrette Town|tentacool,horsea,seadra,wailmer,relicanth,luvdisc,dwebble,binacle,skrelp,dragalge,clauncher,clawitzer,omanyte,kabuto,aerodacyl,lileep,anorith,cranidos,shieldon,tirtouga,archen,tyrunt,amaura,magikarp,eevee
+Route 9|hippopotas,sandile,helioptile
+Glittering Cave|machop,onix,cubone,rhyhorn,kangaskhan,mawile,lunatone,solrock,woobat,ferroseed,onix,dwebble
+Cyllage City|onix,steelix,eevee,dwebble,binacle,tentacool,wailmer,luvdisc,horsea,seadra,skrelp,dragalge,clauncher,clawitzer,relicanth
 --Cyllage Gym|2|gym-leader|Grant
-Route 10
+Route 10|eevee,snubbull,houndour,electrike,sigilyph,emolga,golett,hawlucha,yanma,houndour,nosepass
 --Geosenge|3a|rival|Korrina
-Route 11
-Reflection Cave
-Shalour City
-Tower of Mystery
+Route 11|nidorina,nidorino,hariyama,staravia,chingling,stunky,throh,sawk,dedenne,nidoran-f,nidoran-m,starly
+Reflection Cave|mr. mime,wobbuffet,sableye,chingling,roggenrola,solosis,carbink,mime jr.,woobat,ferroseed
+Shalour City|tentacool,chinchou,lanturn,remoraid,octillery,luvdisc,mantyke,alomomola
+Tower of Mystery|lucario
 --Tower of Mastery|se1|rival|Serena
 --Shalour Gym|3|gym-leader|Korrina
 --Tower of Mastery|3b|rival|Korrina
-Route 12
-Azure Bay
+Route 12|tentacool,slowpoke,exeggcute,pinsir,tauros,lapras,heracross,corsola,remoraid,octillery,miltank,clamperl,huntail,gorebyss,luvdisc,pachirisu,chatot,mantyke,dwebble,binacle,mareep,wingull
+Azure Bay|tentacool,slowpoke,exeggcute,lapras,chinchou,lanturn,remoraid,octillery,luvdisc,chatot,mantyke,dwebble,alomomola,inkay,binacle,wingull
 --Coumarine Pokémon Center|se2|rival|Serena
 --Coumarine Gym|4|gym-leader|Ramos
-Route 13
+Route 13|dugtrio,graveler,slugma,trapinch,gible
 --Power Plant|al1|evil-team|Aliana
 --Lumiose Gym|5|gym-leader|Clemont
-Route 14
+Route 14|poliwag,poliwhirl,weepinbell,haunter,quagsire,barboach,whiscash,skorupi,carnivine,karrablast,shelmet,stunfisk,goomy,ekans,bellsprout
 --Route 14|se3|rival|Serena
-Laverre City
+Laverre City|poliwag,poliwhirl,basculin
 --Laverre Gym|6|gym-leader|Valeria
 --Pokéball Factory|cnb|evil-team|Celosia & Bryony
-Route 15
-Lost Hotel
-Route 16
-Frost Cavern
+Route 15|poliwag,poliwhirl,mightyena,lombre,floatzel,skorupi,watchog,liepard,basculin,foongus,pawniard,klefki,murkrow,foongus
+Lost Hotel|magneton,electrode,litwick,pawniard,klefki,trubbish,garbodor,rotom
+Route 16|foongus,klefki,phantump,pumpkaboo,weepinbell,floatzel,skorupi,murkrow,lombre,poliwag,poliwhirl,basculin
+Frost Cavern|haunter,jynx,piloswine,beartic,cryogonal,bergmite,smoochum,vanillite,cubchoo,poliwhirl,floatzel,basculin,poliwag,smoochum
 --Frost Cavern|m1|evil-team|Mable
-Route 17
+Route 17|sneasel,delibird,snover,abomasnow
 --Anistar City|se4|rival|Serena
 --Anistar Gym|7|gym-leader|Olympia
 --Lysandre Labs|l1|evil-team|Lysandre
@@ -59,27 +58,26 @@ Route 17
 --Lysandre Labs|m2|evil-team|Mable
 --Lysandre Labs|x|evil-team|Xerosic
 --Team Flare Secret HQ|l2|evil-team|Lysandre
-Team Flare Secret HQ
+Team Flare Secret HQ|xerneas,yveltal
 --Team Flare Secret HQ|l3|evil-team|Lysandre
-Route 18
-Couriway Town
+Route 18|sandslash,graveler,shuckle,pupitar,lairon,torkoal,gurdurr,heatmor,durant
+Couriway Town|poliwag,poliwhirl,lombre,floatzel,basculin,magikarp,eevee
 --Couriway Town Sycamore Battle|sy2|rival|Sycamore
-Route 19
+Route 19|poliwag,poliwhirl,weepinbell,haunter,politoed,quagsire,barboach,whiscash,drapion,carnivine,karrablast,shelmet,stunfisk,sliggoo,gligar,arbok
 --Route 19|sh2|rival|Shauna
 --Route 19|ti2|rival|Tierno
 --Route 19|trv|rival|Trevor
-Route 20
-Pokémon Village
+Route 20|jigglypuff,noctowl,zoroark,gothorita,amoonguss,trevenant,sudowoodo,foongus
+Pokémon Village|garbodor,banette,jigglypuff,ditto,noctowl,zoroark,gothorita,foongus,amoonguss,poliwag,poliwhirl,lombre
 --Snowbelle Gym|8|gym-leader|Wulfric
-Route 21
-Route 22
-Victory Roa
+Route 21|poliwag,poliwhirl,scyther,dratini,dragonair,ursaring,lombre,spinda,altaria,floatzel,basculin,swablu
+Route 22|psyduck,farfetch'd,goldeen,seaking,magikarp,gyarados,azumarill,dunsparce,azurill,carvanha,sharpedo,bidoof,bibarel,riolu,bunnelby,diggersby,litleo
+Victory Road|noibat,geodude,graveler,haunter,lickitung,gurdurr,druddigon,zweilous,floatzel,shuckle,ariados,fearow,skarmory,hydreigon,lombre,floatzel,poliwag,poliwhirl,basculin
 --Victory Road|se5|rival|Serena
 --Pokémon League - Blazing Chamber|e1|elite-four|Malva
 --Pokémon League - Flood Chamber|e2|elite-four|Siebold
 --Pokémon League - Ironworks Chamber|e3|elite-four|Wikstrom
 --Pokémon League - Dragonmark Chamber|e4|elite-four|Drasna
 --Pokémon Champion - Radiant Chamber|c1|elite-four|Diantha
-Terminus Cave
-Sea Spirit's Den
-Friend Safari
+Terminus Cave|sandslash,graveler,pupitar,lairon,durant,geodude,larvitar,aron,durant,shuckle,ariados,noibat,zygarde
+Sea Spirit's Den|moltres,zapdos,articuno

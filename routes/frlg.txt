@@ -1,67 +1,67 @@
-Starter
-Pallet Town
+Starter|bulbasaur,charmander,squirtle
+Pallet Town|bulbasaur,charmander,squirtle,tentacool,tentacruel,shellder,magikarp,chinchou,lanturn
 --Rival|r1|rival|Blue
-Route 1
-Viridian City
-Route 22
+Route 1|pidgey,rattata
+Viridian City|psyduck,poliwag,poliwhirl,slowpoke,goldeen,magikarp,gyarados
+Route 22|rattata,spearow,psyduck,mankey,poliwag,poliwhirl,slowpoke,goldeen,magikarp,gyarados
 --Rival|r2|rival|Blue
-Route 2
-Viridian Forest
+Route 2|caterpie,weedle,pidgey,rattata
+Viridian Forest|caterpie,metapod,weedle,kakuna,pikachu
 --Pewter City Gym|1|gym-leader|Brock
-Route 3
-Route 4
-Mt. Moon
-Cerulean City
+Route 3|pidgey,spearow,nidoran♀,nidoran♂,jigglypuff,mankey
+Route 4|rattata,spearow,ekans,sandshrew,psyduck,mankey,tentacool,slowpoke,krabby,horsea,magikarp,gyarados
+Mt. Moon|clefairy,zubat,paras,geodude
+Cerulean City|psyduck,tentacool,slowpoke,krabby,horsea,magikarp,gyarados
 --Cerulean City Gym|2|gym-leader|Misty
-Route 24
+Route 24|psyduck,tentacool,slowpoke,krabby,horsea,magikarp,gyarados
 --Rival|r2|rival|Blue
-Route 25
-Route 5
-Route 6
-Vermillion City
+Route 25|caterpie,metapod,weedle,kakuna,pidgey,oddish,psyduck,poliwag,poliwhirl,abra,bellsprout,slowpoke,goldeen,magikarp,gyarados
+Route 5|pidgey,oddish,meowth,bellsprout
+Route 6|pidgey,oddish,meowth,psyduck,poliwag,poliwhirl,bellsprout,slowpoke,goldeen,magikarp,gyarados
+Vermillion City|psyduck,tentacool,slowpoke,shellder,krabby,horsea,staryu,magikarp,gyarados
 --S.S. Anne|r3|rival|Blue
 --Vermillion City Gym|3|gym-leader|Lt. Surge
-Route 11
-Diglett's Cave
-Route 9
-Route 10
-Rock Tunnel
+Route 11|spearow,ekans,sandshrew,psyduck,tentacool,slowpoke,drowzee,krabby,horsea,magikarp,gyarados
+Diglett's Cave|diglett,dugtrio
+Route 9|rattata,spearow,ekans,sandshrew
+Route 10|spearow,ekans,sandshrew,psyduck,tentacool,slowpoke,krabby,voltorb,horsea,magikarp,gyarados
+Rock Tunnel|zubat,mankey,machop,geodude,onix
 Pokémon Tower
-Route 12
-Route 8
-Route 7
-Celadon City
+Route 12|pidgey,oddish,gloom,venonat,psyduck,bellsprout,weepinbell,tentacool,slowpoke,krabby,horsea,magikarp,gyarados,snorlax
+Route 8|pidgey,ekans,sandshrew,vulpix,meowth,growlithe
+Route 7|pidgey,vulpix,oddish,meowth,growlithe,bellsprout
+Celadon City|psyduck,slowpoke,grimer,koffing,magikarp
 --Celadon City Gym|4|gym-leader|Erica
 --Rocket Hideout|g1|evil-team|Giovanni
 --Pokemon Tower Rival|r5|rival|Blue
-Saffron City
+Saffron City|hitmonlee,hitmonchan,lapras
 --Silph Co. Rival|r6|rival|Blue
 --Silph Co.|g2|evil-team|Giovanni
 --Saffron City Gym|6|gym-leader|Sabrina
-Route 16
-Route 17
-Route 18
-Fuschia City
+Route 16|rattata,raticate,spearow,doduo,snorlax
+Route 17|rattata,raticate,spearow,fearow,doduo
+Route 18|rattata,raticate,spearow,fearow,doduo
+Fuschia City|magikarp,poliwag,goldeen,psyduck,seaking,gyarados,slowpoke
 --Fuschia City Gym|5|gym-leader|Koga
-Safari Zone
-Route 15
-Route 14
-Route 13
-Power Plant
-Route 19
-Route 20
-Seafoam Islands
-Cinnabar Island
+Safari Zone|nidoran♀,nidorina,nidoran♂,nidorino,parasect,venonat,psyduck,poliwag,slowpoke,exeggcute,rhyhorn,chansey,goldeen,seaking,scyther,pinsir,magikarp,dratini,dragonair
+Route 15|pidgey,pidgeotto,oddish,gloom,venonat,bellsprout,weepinbell,ditto
+Route 14|pidgey,pidgeotto,oddish,gloom,venonat,bellsprout,weepinbell,ditto
+Route 13|pidgey,pidgeotto,oddish,gloom,venonat,psyduck,bellsprout,weepinbell,tentacool,slowpoke,krabby,horsea,magikarp,gyarados,ditto
+Power Plant|pikachu,magnemite,magneton,voltorb,electrode,electabuzz,zapdos
+Route 19|pikachu,magnemite,magneton,voltorb,electrode,electabuzz,zapdos
+Route 20|psyduck,tentacool,slowpoke,krabby,kingler,horsea,seadra,magikarp,gyarados
+Seafoam Islands|zubat,golbat,psyduck,golduck,slowpoke,slowbro,seel,dewgong,krabby,horsea,magikarp,gyarados,makuhita,absol,chingling,bronzor
+Cinnabar Island|psyduck,tentacool,slowpoke,slowbro,shellder,krabby,horsea,seadra,staryu,magikarp,gyarados
 Pokémon Mansion
 --Cinnabar Island Gym|7|gym-leader|Blaine
-One Island
+One Island|psyduck,tentacool,tentacruel,slowpoke,shellder,krabby,kingler,horsea,seadra,staryu,magikarp,gyarados
 Two Island
 Three Island
-Route 21
-Power Plant
+Route 21|psyduck,tentacool,slowpoke,krabby,kingler,tangela,horsea,seadra,magikarp,gyarados
+Power Plant|pikachu,magnemite,magneton,voltorb,electrode,electabuzz,zapdos
 --Viridian City Gym|8|gym-leader|Giovanni
-Route 23
-Victory Road
+Route 23|spearow,fearow,ekans,arbok,sandshrew,sandslash,psyduck,mankey,primeape,poliwag,poliwhirl,slowpoke,goldeen,magikarp,gyarados
+Victory Road|arbok,sandslash,zubat,golbat,primeape,machop,machoke,geodude,onix,marowak,moltres
 --Rival|r7|rival|Blue
 --Indigo Plateau|e1|elite-four|Lorelei
 --Indigo Plateau|e2|elite-four|Bruno

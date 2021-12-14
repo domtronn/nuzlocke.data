@@ -13,12 +13,12 @@ Berry Fields|crabrawler
 Hau'oli Cemetery|zubat,gastly,misdreavus,drifloon,litwick
 Route 3|rattata-alola,spearow,mankey,delibird,yungoos,cutiefly,bagon,salamence,rufflet,vullaby,crabrawler,cyndaquil
 --Route 3|r3|rival|Hau
-Melemele Meadow|caterpie,metapod,butterfree,cottonee,petilil,oricorio,cutiefly,buzzwole
+Melemele Meadow|caterpie,metapod,butterfree,cottonee,petilil,oricorio-pom-pom,cutiefly,buzzwole
 Seaward Cave|zubat,diglett-alola,psyduck,magikarp,gyarados,barboach,whiscash,totodile
 --Hala's Grand Trial|2|gym-leader|Hala
 Kala'e Bay|rattata-alola,slowpoke,slowbro,wingull,bagon,shelgon,yungoos,tentacool,finneon,shellder,magikarp,gyarados,wishiwashi,horsea
 Ten Carat Hill|zubat,diglett-alola,roggenrola,carbink,sableye,psyduck,deino,machop,spinda,carbink,rockruff,necrozma
---Heahea City|dsa|rival|Dexio
+--Heahea City|dsa|rival|Dexio#Dexio x Sina
 Route 4|rattata-alola,eevee,espeon,umbreon,igglybuff,jigglypuff,happiny,lillipup,pikipek,yungoos,grubbin,mudbray,crabrawler,venipede
 Paniola Town|magikarp,barboach,gyarados,whiscash
 --Paniola Ranch|r4|rival|Hau
@@ -27,7 +27,7 @@ Route 5|caterpie,metapod,butterfree,lillipup,pikipek,grubbin,fomantis,crabrawler
 --Team skull|g1|evil-team|Gladion
 Brooklet Hill|paras,psyduck,poliwag,wingull,surskit,lillipup,dewpider,morelull,goldeen,seaking,gyarados,magikarp,feebas,wishiwashi,marill,tentacool,finneon,alomomola
 --Totem Trial|3|gym-leader|Lana's trial
-Route 6|rattata-alola,eevee,espeon,umbreon,igglybuff,jigglypuff,happiny,lillipup,pikipek,yungoos,grubbin,mudbray,oricorio,gothita
+Route 6|rattata-alola,eevee,espeon,umbreon,igglybuff,jigglypuff,happiny,lillipup,pikipek,yungoos,grubbin,mudbray,oricorio-pau,gothita
 Route 7|diglett-alola,tentacool,wingull,finneon,pyukumuku,staryu,starmie,magikarp,gyarados,wishiwashi,spheal
 Wela Volcano Park|cubone,kangaskhan,magby,magmar,fletchling,salandit,nihilego
 --Totem Trial|4|gym-leader|Kiawe's trial
@@ -65,7 +65,7 @@ Thrify Megamart|golbat,haunter,gengar,klefki,mimikyu
 --Totem Trial|9|gym-leader|Acerola's Trial
 --Route 15|p2|evil-team|Plumeria
 Route 16|raticate-alola,slowpoke,pelipper,gumshoos,crabrawler,zygarde,duosion
-Ula'ula Meadow|ledian,ariados,cottonee,petilil,oricorio,ribombee,roselia
+Ula'ula Meadow|ledian,ariados,cottonee,petilil,oricorio-baile,ribombee,roselia
 Lake of the Moone|cosmog#Sun
 Route 17|raticate-alola,fearow,ledian,ariados,pancham,pangoro,gumshoos,graveler-alola,skarmory,castform,goomy,crabrawler
 --Shady house|gz2|evil-team|Guzma

@@ -9,7 +9,7 @@ Hau'oli City|rattata-alola,abra,magnemite,grimer-alola,pichu,pikachu,happiny,win
 Route 2|rattata-alola,meowth-alola,abra,drowzee,smeargle,yungoos,spearow,growlithe,cutiefly,makuhita,crabrawler,machop,chikorita
 Verdant Cavern|zubat,diglett-alola,rattata-alola,yungoos,pheromosa
 Berry Fields|crabrawler
---Totem Trial|1a|gym-leader|Ilima's trial
+--Totem Trial|1b|gym-leader|Ilima's trial
 Hau'oli Cemetery|zubat,gastly,misdreavus,drifloon,litwick
 Route 3|rattata-alola,spearow,mankey,delibird,yungoos,cutiefly,bagon,salamence,rufflet,vullaby,crabrawler,cyndaquil
 --Route 3|r3|rival|Hau
@@ -18,7 +18,7 @@ Seaward Cave|zubat,diglett-alola,psyduck,magikarp,gyarados,barboach,whiscash,tot
 --Hala's Grand Trial|2|gym-leader|Hala
 Kala'e Bay|rattata-alola,slowpoke,slowbro,wingull,bagon,shelgon,yungoos,tentacool,finneon,shellder,magikarp,gyarados,wishiwashi,horsea
 Ten Carat Hill|zubat,diglett-alola,roggenrola,carbink,sableye,psyduck,deino,machop,spinda,carbink,rockruff,necrozma
---Heahea City|dsa|rival|Dexio
+--Heahea City|dsb|rival|Sina
 Route 4|rattata-alola,eevee,espeon,umbreon,igglybuff,jigglypuff,happiny,lillipup,pikipek,yungoos,grubbin,mudbray,crabrawler,venipede
 Paniola Town|magikarp,barboach,gyarados,whiscash
 --Paniola Ranch|r4|rival|Hau
