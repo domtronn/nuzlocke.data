@@ -167,7 +167,7 @@ whirlipede|18|venoshock,poison-sting,protect,pursuit|poison-point
 --2c|Roxie|poison
 koffing|17|assurance,tackle,smog,venoshock|levitate|oran-berry
 grimer|17|venoshock,mud-slap,poison-gas,disable|stench
-whirlipede|19|venoshock,poison-sting,protect,rollout|poison-point|oran-berry
+whirlipede|19|venoshock,poison-sting,protect,rollout|poison-point|sitrus-berry
 
 --3n|Burgh|bug
 dwebble|22|rock-polish,smack-down,feint-attack,struggle-bug|sturdy
