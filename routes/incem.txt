@@ -1,107 +1,114 @@
-Starter
-Littleroot Town
-Route 101
-Route 103
-Route 102
-Petalburg City
-Route 104
-Petalburg Woods
+Starter|treecko,mudkip,torchic
+Littleroot Town|cosmog,chikorita,cyndaquil,totodile
+Route 101|zigzagoon,poochyena,wurmple,zorua,lillipup,bonsly,audino,beautifly,dustox,swadloon
+Route 103|shellos,gastrodon,shinx,snubbull,blitzle,grubbin,kricketot,kricketune,pineco,hoothoot,audino,luxio,charjabug,wingull,pelipper,magikarp,gyarados,tentacool,wailmer,sharpedo
+Route 102|lotad,seedot,bidoof,tympole,gothita,gothorita,ralts,surskit,masquerain,audino,kirlia,bibarel,azumarill,corphish,crawdaunt,goldeen,seaking
+Petalburg City|marill,azumarill,masquerain,goldeen,corphish,crawdaunt
+Route 104|azurill,taillow,sentret,pidove,litleo,budew,bunnelby,ledyba,audino,yungoos,patrat,wingull,pelipper,magikarp,gyarados,luvdisc
+Petalburg Woods|shroomish,slakoth,phantump,pidgey,pidgeotto,paras,buneary,pichu,silcoon,cascoon,kakuna,beedrill,metapod,butterfree,venipede,pansage,panpour,pansear,morelull,bounsweet,oddish,bellsproute,yanma,croagunk,misdreavus,murkrow,emolga,dewpider,audino,pikachu,aipon,cherubi,poliwag,poliwhirl,poliwrath,politoed,slowpoke,slowbro,exeggcute,venonat,trevenant
 --Petalbug Woods grunt|g1|evil-team|Grunt
-Rustboro City
+Rustboro City|pawniard,nidoran-f,nidoran-m,petilil,cottonee,eevee,glameow,audino,nidorino,nidorina
 --Rustboro City|r1b|rival|Brendan
 --Rustboro City|r1m|rival|May
 --Rustboro Gym|1|gym-leader|Roxanne
-Route 105
-Route 116
-Rusturf Tunnel
-Dewford Town
+Route 105|malamar,chatot,floatzel,crabrawler,exeggutor,binacle,wimpod,dwebble,tentacool,wingull,pelipper,clauncher,clawitzer,skrelp,dragalge
+Route 116|skiddo,nincada,starly,mareep,riolu,joltik,houndour,skitty,audino,pancham,purrloin,spinarak,fomantis
+Rusturf Tunnel|whismur,noibat,dunsparce,teddiursa,chingling,drilbur,larvitar,roggenrola
+Dewford Town|tropius,tentacool,wingull,pelipper,frillish,staryu,starmie,shellder,cloyster,finneon,lumineon
+Dewford Meadow|cutiefly,oricorio,combee,butterfree,flabebe,audino,swirlix,spritzee
+Dewford Manor|gastly,solosis,litwick,rattata,hoothoot,mime-jr
 --Dewford Gym|2|gym-leader|Brawly
-Route 106
-Granite Cave
-Route 107
-Slateport City
+Route 106|inkay,chatot,buizel,crabrawler,exeggcute,binacle,wimpod,dwebble,clauncher,clawitzer,skrelp,dragalge,tentacool,wingull,pelipper
+Granite Cave|geodude,zubat,makuhita,aron,abra,axew,timbubrr,mawile,sableye,onix,carbink,cubone,bronzor,nosepass,dwebble,beldum
+Route 107|frillish,mantyke,wingull,remoraid,octillery,finneon,lumineon,gyarados
+Slateport City|tentatcool,wingull,pelipper,horsea,frillish,jellicent,alomomola,seadra,kingdra
 --Slateport Museum|g2|evil-team|Grunts
 --Slateport Museum|aa1|evil-team|Archie
-Route 110
+Route 110|electrike,gulpin,plusle,minun,trubbish,magnemite,pachirisu,stunky,audino,ekans,doduo,shellos,gastrodon,wingull,pelipper,wailmer,wailord,chinchou,lanturn
 --Rotue 110|r2b|rival|Brendan
 --Rotue 110|r2m|rival|May
-Altering Cave
-New Mauville
+Altering Cave|mewtwo,rhydon,swoobat,noivern,druddigon,lucario,parasect,wobuffet,gigalith,eelektross,shiinotic,dugtrio,blissey,seaking,gastrodon,barboach,whiscash,magikarp,gyarados,steelix,shuckle,crustle
+New Mauville|rotom,magnemite,magneton,klink,klang,elekid,electrode,electabuzz,togedemaru
 --Mauville City|w1|rival|Wally
 --Mauville City Gym|3|gym-leader|Wattson
-Route 117
-Route 112
+Verdanturf Town|happiny
+Verdanturf Glade|munna,espurr,floette,stufful,ribombee,vivillon,audino,togetic
+Route 117|roselia,deerling,volbeat,illumise,meowth,farfetchd,minccino,audino,shelmet,karrablast,floette,sunkern,marill,azumarill,goldeen,seaking,corphish,crawdaunt
+Route 112|numel,machoke,ponyta,tyrogue,sawk,throh,hitmonchan,hitmonlee,vullaby,rufflet,audino
 --Mt. Chimney|mt1|evil-team|Tabitha
 --Mt. Chimney|mm1|evil-team|Maxie
-Route 113
-Route 114
-Desert Underpass
-Meteor Falls
+Route 113|spinda,scraggy,pawniard,klefki,bouffalant,skarmory,fletchinder,talonflame,mienfoo,mienshao
+Route 114|swablu,ducklett,lombre,nuzleaf,zangoose,seviper,phanpy,donphan,skorupi,wooper,quagsire,audino,masquerain,wishiwashi,barboach,whiscash,geodude,graveler,shuckle
+Desert Underpass|ditto
+Sandstrewn Ruins|xatu,helioptile,rockruff,girafarig,hawlucha,skiploom,jumpluff,meditite,yamask,bronzong,golett,darumaka,honedge,sigilyph,claydol,gabite,relicanth,baltoy,onix,steelix
+Meteor Falls|jirachi,lunatone,solrock,minior,clefairy,deino,druddigon,drampa,bagon,salamence,ferroseed,ferrothorn,metang,metagross,golbat,dratini,dragonair,dragonite,barboach,whiscash
 --Meteor Falls|mc1|evil-team|Courtney
-Lavaridge Town
+Route 115|jigglypuff,swellow,tangela,dodrio,swirlix,slurpuff,spritzee,aromatisse,lurantis,munchlax,audino,wishiwashi,wingull,tentacruel,wailmer,wailord,qwilfish
+Lavaridge Town|wynaut
 --Lavaridge Gym|4|gym-leader|Flannery
-Fiery Path
-Route 111
-Mirage Tower
+Fiery Path|slugma,diglett,torkoal,grimer,koffing,magby,heatmor,durant
+Route 111|sandshrew,cacnea,trapinch,gible,sandile,baltoy,maractus,hippopotas,geodude,graveler,shuckle,marill,azumarill,surskit,masquerain,barboach,goldeen,seaking,basculin
+Mirage Tower|sandshrew,trapinch,bronzor,golett,sigilyph,yamask,darumaka,geodude,dwebble
 --Petalburg Gym|5|gym-leader|Norman
-Route 118
-Route 119
---Weather Institude|as1|evil-team|Shelly
+Route 118|linoone,manectric,lickitung,raticate,kecleon,liepard,carnivine,dedenne,tentacool,wingull,pelipper,magikarp,gyarados,carvanha,sharpedo,basculin,fearow,venomoth
+Route 119|gumshoos,tropius,goomy,sluggoo,oranguru,passimian,comfey,kecleon,amoonguss,audino,gastrodon,floatzel,pelipper,carvanha,sharpedo,magikarp,gyarados,milotic
+Weather Institute|castform
+--Weather Institute|as1|evil-team|Shelly
 --Route 119|r3b|rival|Brendan
 --Route 119|r3m|rival|May
-Fortree City
-Route 120
+Fortree City|karrablast
+Route 120|pinsir,absol,watchog,venomoth,tropius,pumpkaboo,audino,tangrowth,yanmega,azumarill,stunfisk,masquerain,barboach,whiscash,magikarp,gyarados
+Scorched Slab|heatran,gurdurr,dugtrio,boldor,zweilous,turtonator,magmar,magcargo,golbat,crobat,goldeen,seaking,barboach,whiscash
 --Fortree City Gym|6|gym-leader|Winona
-Route 121
+Route 121|arboke,heracross,shuppet,duskull,hypno,elgyem,furfrou,pangoro,komala,arbok,audino,dusclops,banette,pelipper,frillish,alomomola,magikarp,gyarados,wailmer,lumineon
 Safari Zone
-Route 122
-Mt. Pyre
+Route 122|pelipper,frillish,alomomola,magikarp,gyarados,wailmer,finneon,lumineon
+Mt. Pyre|shuppet,banette,duskull,dusclops,litwick,lampent,mimikyu,haunter,golbat,misdreavus,murkrow,vulpix,ninetales,growlithe,arcanine,medicham,drifblim,beheeyem,bronzong,audino,chimecho
 --Mt. Pyre|am1|evil-team|Matt
-Route 123
-Jagged Pass
-Team Magma Hideout
+Route 123|mightyena,linoone,karrablast,escavalier,shelmet,accelgor,stantler,gloom,audino,noctowl,exeggcute,azumarill,stunfisk,masquerain,goldeen,seaking,corphish,crawdaunt
+Jagged Pass|grumpig,salandit,salazzle,primeape,gligar,fearow,mudbray,jangmo-o,hakamo-o,turtonator,audino
+Ember Path|moltres,magcargo,magmar,boldor,golbat,grumpig,larvesta
+Ashen Woods|salandit,salazzle,growlithe,pinsir,heracross,scyther,trumbeak,camerupt,noctowl,audino,toucannon
+Team Magma Hideout|graveler,boldor,excadrill,torkoal,turtonator,weezing,golem,gigalith
 --Team Magma Hideout|mtc|evil-team|Tabitha & Courtney
 --Team Magma Hideout|mtm|evil-team|Maxie
-Lilycove City
+Lilycove City|floatzel,pelipper,bruxish,magikarp,finneon,lumineon,starmie,starmie
 --Lilycove City|r4b|rival|Brendan
 --Lilycove City|r4m|rival|May
+Team Aqua Hideout|electrode
 --Team Aqua Hideout|am2|evil-team|Matt
-Route 124
-Mossdeep City
+Route 124|clamperl,gorebyss,huntail,chinchou,lanturn,finneon,lumineon,starmie,relicanth,golisopod,kingdra,frillish,jellicent,sharpedo,alomomola
+Mossdeep City|meltan,pelipper,floatzel,sharpedo,magikarp,finneon,lumineon,wailmer
 --Mossdeep City Gym|7|gym-leader|Tate & Liza
 --Mossdeep Space Center|mt2|evil-team|Tabitha
 --Mossdeep Space Center|mmc|evil-team|Maxie & Courtney
-Route 125
-Shoal Cave
-Route 127
-Route 128
-Seafloor Cavern
+Route 125|clamperl,gorebyss,huntail,chinchou,lanturn,finneon,lumineon,starmie,relicanth,golisopod,kingdra,frillish,jellicent,sharpedo,alomomola
+Shoal Cave|articuno,spheal,sealeo,cubchoo,beartic,golbat,delibird,dewgong,lapras,magikarp,tentacool,tentacruel,slowpoke,slowbro,snorunt,glalie,cryogonal,jynx
+Route 127|clamperl,gorebyss,huntail,chinchou,lanturn,finneon,lumineon,starmie,relicanth,golisopod,kingdra,frillish,jellicent,sharpedo,alomomola
+Route 128|jellicent,alomomola,sharpedo,magikarp,luvdisc,corsola
+Seafloor Cavern|graveler,golem,golbat,crobat,tentacool,tentacruel,magikarp,wailmer
 --Seafloor Cavern|as2|evil-team|Shelly
 --Seafloor Cavern|aa2|evil-team|Archie
-Route 126
-Sootopolis City
+Route 126|clamperl,gorebyss,huntail,chinchou,lanturn,finneon,lumineon,starmie,relicanth,golisopod,kingdra,frillish,jellicent,sharpedo,alomomola
+Sootopolis City|magikarp,gyarados
 --Sootopolis Gym|8|gym-leader|Juan
-Cave of Origin
-Route 129
-Route 130
-Route 131
-Sky Pillar
-Pacifidlog Town
-Mirage Island
-Route 105
-Route 108
-Abandoned Ship
-Route 109
-Route 132
-Route 133
-Route 134
-Ever Grande City
-Victory Road
+Cave of Origin|diance,sableye,mawile,boldor,carbink,noivern
+Route 129|clamperl,gorebyss,huntail,chinchou,lanturn,finneon,lumineon,starmie,relicanth,golisopod,kingdra,tentacruel,alomomola,wailorda
+Route 130|clamperl,gorebyss,huntail,chinchou,lanturn,finneon,lumineon,starmie,relicanth,golisopod,kingdra,tentacruel,alomomola,wailorda
+Route 131|clamperl,gorebyss,huntail,chinchou,lanturn,finneon,lumineon,starmie,relicanth,golisopod,kingdra,tentacruel,alomomola,wailorda
+Sky Pillar|sableye,mawile,banette,dusclops,claydol,golurk,altaria
+Pacifidlog Town|tentacruel,pelipper,sharpedo,magikarp,skrelp,dragalge,wailmer,dhelmise
+Route 108|frillish,mantyke,wingull,remoraid,octillery,finneon,lumineon,gyarados
+Abandoned Ship|spiritomb,frillish,jellicent,skrelp,dragalge,dhelmise
+Route 109|sandygast,frillish,mantyke,pyukumuku,corsola,mareanie,toxapex,bruxish
+Route 132|jellicent,pelipper,wailord,magikarp,tentacool,horsea,seadra,kingdra
+Route 133|jellicent,pelipper,wailord,magikarp,tentacool,horsea,seadra,kingdra
+Route 134|jellicent,pelipper,wailord,magikarp,tentacool,horsea,seadra,kingdra
+Ever Grande City|pelipper,tentacruel,floatzel,luvdisc,corsola,mareanie,toxapex
+Victory Road|mawile,sableye,zweilous,exploud,carbink,lairon,aggron,medicham,noivern,golbat,crobat,hariyama,pupitar,gabite,aggron,steelix,donphan,graveler,shuckle,golem,gurdurr,rhydon,dewgong,lapras,barboach,whiscash
 --Victory Road|w2|rival|Wally
 --Pokémon League|e1|elite-four|Sidney
 --Pokémon League|e2|elite-four|Phoebe
 --Pokémon League|e3|elite-four|Glacia
 --Pokémon League Champion|c|elite-four|Wallace
-S.S. Tidal
-Battle Frontier
-Artisan Cave
+Artisan Cave|smeargle

@@ -47,6 +47,7 @@ Fortree City|skitty
 --Fortree City|aarune|rival|Aarune
 --Fortree Gym|6|gym-leader|Winona
 Route 120|oddish,gloom,linoone,kecleon,tropius,absol,marill,azumarill,surskit,masquerain,tentacool,magikarp,barboach
+Scorched Slab|heatran,golbat,zubat,goldeen,magikarp,barboach
 Route 121|shuppet,gloom,linoone,kecleon,wingull,pelipper,hypno,aipom,elgyem
 Route 122|tentacool,wingull,pelipper,finneon,frillish.alomomola,magikarp,wailmer
 Mt. Pyre|shuppet,duskull,vulpix,growlithe,bronzor,elgyem,wingull,meditite,chimecho

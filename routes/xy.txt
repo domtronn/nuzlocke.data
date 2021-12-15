@@ -1,5 +1,4 @@
 Starter|chespin,fennekin,froakie
-Aquacorde Town|chespin,fennekin,froakie
 --Aquacode Town|sh1|rival|Shauna
 Route 2|caterpie,weedle,pidgey,zigzagoon,bunnelby,fletchling,scatterbug
 Santalune Forest|caterpie,metapod,weedle,kakuna,pikachu,pansage,pansear,panpour,fletchling,scatterbug

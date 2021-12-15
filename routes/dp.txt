@@ -1,7 +1,7 @@
 Starter|turtwig,chimchar,piplup
 Twinleaf Town|psyduck,golduck,goldeen,seaking,magikarp,gyarados
-Route 201|nidoran-f,nidoran-m,growlithe,doduo,turtwig,chimchar,piplup,starly,bidoof,kricketot
-Lake Verity|psyduck,golduck,goldeen,seaking,magikarp,gyarados,wobbuffet,surskit,lunatone,solrock,turtwig,chimchar,piplup,starly,staravia,bidoof,bibarel
+Route 201|nidoran-f,nidoran-m,growlithe,doduo,starly,bidoof,kricketot
+Lake Verity|psyduck,golduck,goldeen,seaking,magikarp,gyarados,wobbuffet,surskit,lunatone,solrock,starly,staravia,bidoof,bibarel
 Route 202|growlithe,sentret,zigzagoon,starly,bidoof,kricketot,shinx
 Route 203|zubat,psyduck,golduck,abra,cubone,goldeen,seaking,magikarp,gyarados,pineco,lotad,seedot,ralts,kirlia,starly,bidoof,kricketot,shinx
 --Route 203|b1|rival|Barry

@@ -31,7 +31,7 @@ Route 113|sandshrew,slugma,skarmory,spinda
 Route 114|lotad,lombre,seedot,nuzleaf,surskit,swablu,zangoose,seviper,geodude,goldeen,marill,magikarp,barboach
 Desert Underpass|ditto,whismur,loudred
 Meteor Falls|zubat,goldeen,magikarp,lunatone,solrock,barboach,whiscash,bagon
-Route 115|magikarp,tentacool
+Route 115|jigglypuff,taillow,wingull,pelipper,swablu,tentacool,magikarp,wailmer
 Jagged Pass|machop,numel,spoink
 --Mt. Chimney|saph1|evil-team|Matt #saph1 MAtt
 --Mt. Chimney|arc1|evil-team|Archie#arc2 Archie

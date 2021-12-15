@@ -32,6 +32,7 @@ Route 113|sandshrew,slugma,skarmory,spinda
 Route 114|lotad,lombre,seedot,nuzleaf,surskit,swablu,zangoose,seviper,geodude,goldeen,marill,magikarp,barboach
 Desert Underpass|ditto,whismur,loudred
 Meteor Falls|zubat,goldeen,magikarp,lunatone,solrock,barboach,whiscash,bagon
+Route 115|jigglypuff,taillow,wingull,pelipper,swablu,tentacool,magikarp,wailmer
 Lavaridge Town|wynaut
 --Lavaridge Gym|4|gym-leader|Flannery
 Fiery Path|machop,grimer,koffing,slugma,numel,torkoal
