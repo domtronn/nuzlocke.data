@@ -15,7 +15,7 @@ Castelia Sewers|rattata,zubat,grimer,muk
 --Castelia City Gym|3n|gym-leader|Burgh
 Relic Passage|rattata,onix,roggenrola,woobat,timburr,drilbur,raticate,boldore,gurdurr,marill,basculin,azumarill,poliwhirl
 Route 4|qwilfish,clamperl,huntail,gorebyss,relicanth,finneon,lumineon,sandile,darumaka,scraggy,trubbish,minccino,frillish,jellicent,alomomola
---Challenge Colress|col1|evil-team|Colress
+--Route 4|col1|evil-team|Colress
 Desert Resort|sandshrew,trapinch,sandile,darumaka,maractus,dwebble,sigilyph
 Relic Castle|sandile,sandshrew,yamask,krokorok,cofagrigus,sandslash,onix,baltoy,volcarona
 --Nimbasa Subway|subway|rival|Ingo & Emmet
