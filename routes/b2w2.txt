@@ -70,10 +70,10 @@ Marvelous Bridge|swanna,magikarp,cresselia
 Route 15|rotom,fearow,marowak,kangaskhan,gligar,gliscor,pupitar,tyranitar,throh,sawk,watchog,audino,emolga,mankey
 Route 14|golduck,swablu,altaria,absol,drifblim,mienfoo,audino,emolga,buizel,basculin,goldeen,seaking
 Abundant Shrine|landorus,vulpix,ninetales
-Moor of Icirrus
-Icirrus City
-Dragonspiral Tower
-Twist Mountain
+Moor of Icirrus|croagunk,palpitoad,seismitoad,karrablast,shelmet,stunfisk,barboach,whiscash
+Icirrus City||croagunk,palpitoad,seismitoad,karrablast,shelmet,stunfisk,barboach,whiscash
+Dragonspiral Tower|reshiram,zekrom,golurk,tranquill,unfezant,vanillish,vanilluxe,sawsbuck,beartic,mienfoo,mienshao,druddigon,audino,emolga,dratini,dragonair,dragonite
+Twist Mountain|onix,steelix,excadrill,boldore,woobat,gurdurr,beartic,cryogonal,heatmor,durant
 Clay Tunnel
 Underground Ruins
 Pinwheel Forest
