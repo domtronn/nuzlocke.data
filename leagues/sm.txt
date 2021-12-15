@@ -140,9 +140,9 @@ makuhita|14|fake-out,sand-attack,arm-thrust|thick-fat
 crabrawler|15|power-up-punch,pursuit,leer|iron-fist|fightinium-z--held
 
 --3|Lana's trial|water
-wishiwashi|18|helping-hand,feint-attack,brine,aqua-ring|schooling
+wishiwashi-solo|18|helping-hand,feint-attack,brine,aqua-ring|schooling
 alomomola|18|helping-hand,double-slap,heal-pulse,water-gun|healer
-wishiwashi|20|water-gun,rain-dance,soak,growl|schooling|sitrus-berry
+wishiwashi-school|20|water-gun,rain-dance,soak,growl|schooling|sitrus-berry
 
 --4|Kiawe's trial|fire
 salazzle|22|torment,flame-burst,venom-drench,toxic|schooling|petaya-berry
@@ -156,7 +156,7 @@ castform|22|sunny-day,water-gun,headbutt,weather-ball|forecast||
 --7|Island Kahuna Olivia|rock|#Sun and Moon
 nosepass|25|rock-slide,spark,thunder-wave|sturdy||
 boldore|26|rock-blast,mud-slap,headbutt|sturdy||
-lycanroc|26|bite,rock-throw|vital-spirit|rockium-z--held|
+lycanroc-midnight|26|bite,rock-throw|vital-spirit|rockium-z--held|
 
 --8|Sophocles' Trial|electric|#Sun and Moon
 vikavolt|29|vise-grip,charge,spark,bug-bite|levitate|occa-berry|
@@ -164,7 +164,7 @@ charjabug|28|thunder-wave,string-shot,mud-slap,vise-grip|battery||
 charjabug|28|bite,thunder-wave,spark|battery||
 
 --9|Acerola's Trial|ghost|#Sun and Moon
-mimikyu|33|play-rough,shadow-claw,astonish,mimic|disguise|lum-berry|
+mimikyu-disguised|33|play-rough,shadow-claw,astonish,mimic|disguise|lum-berry|
 haunter|27|hypnosis,sucker-punch,night-shade,lick|levitate||
 gengar|27|shadow-ball,hypnosis,night-shade,shadow-punch|cursed-body||
 
@@ -197,7 +197,7 @@ relicanth|54|hydro-pump,ancient-power,yawn|swift-swim||
 carbink|54|power-gem,moonblast,reflect|clear-body||
 golem-alola|54|thunder-punch,rock-blast,steamroller|sturdy||
 probopass|54|earth-power,power-gem,thunder-wave,sandstorm|sturdy||
-lycanroc|55|crunch,stone-edge,counter,rock-climb|keen-eye|rockium-z--held|
+lycanroc-midnight|55|crunch,stone-edge,counter,rock-climb|keen-eye|rockium-z--held|
 
 --e3|Acerola|ghost|#Acerola
 sableye|54|shadow-claw,zen-headbutt,confuse-ray,fake-out|keen-eye||
@@ -214,7 +214,7 @@ mandibuzz|54|bone-rush,brave-bird,punishment,flatter|big-pecks||
 toucannon|55|bullet-seed,rock-blast,beak-blast,screech|skill-link|flyinium-z--held|
 
 --c|Kukui||#Champion
-lycanroc|57|stone-edge,accelerock,crunch,stealth-rock|keen-eye||
+lycanroc-midday|57|stone-edge,accelerock,crunch,stealth-rock|keen-eye||
 ninetales-alola|56|dazzling-gleam,blizzard,ice-shard,safeguard|snow-cloak||
 braviary|56|crush-claw,brave-bird,tailwind,whirlwind|keen-eye||
 magnezone|56|thunderbolt,flash-cannon,thunder-wave,mirror-coat|sturdy||
