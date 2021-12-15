@@ -25,8 +25,8 @@ Slateport City|tentatcool,wingull,pelipper,horsea,frillish,jellicent,alomomola,s
 --Slateport Museum|g2|evil-team|Grunts
 --Slateport Museum|aa1|evil-team|Archie
 Route 110|electrike,gulpin,plusle,minun,trubbish,magnemite,pachirisu,stunky,audino,ekans,doduo,shellos,gastrodon,wingull,pelipper,wailmer,wailord,chinchou,lanturn
---Rotue 110|r2b|rival|Brendan
---Rotue 110|r2m|rival|May
+--Route 110|r2b|rival|Brendan
+--Route 110|r2m|rival|May
 Altering Cave|mewtwo,rhydon,swoobat,noivern,druddigon,lucario,parasect,wobuffet,gigalith,eelektross,shiinotic,dugtrio,blissey,seaking,gastrodon,barboach,whiscash,magikarp,gyarados,steelix,shuckle,crustle
 New Mauville|rotom,magnemite,magneton,klink,klang,elekid,electrode,electabuzz,togedemaru
 --Mauville City|w1|rival|Wally
