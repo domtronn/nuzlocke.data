@@ -362,7 +362,7 @@ flygon|71|bug-buzz,draco-meteor,fire-blast,earth-power|compound-eyes|white-herb
 drapion|72|cross-poison,night-slash,aqua-tail,earthquake|sniper|scope-lens
 
 # Bertha teams
---e2d|Bertha (Team D)|ground|/leaders/bertha
+--e2a|Bertha (Team D)|ground|/leaders/bertha
 hippowdon|72|earthquake,crunch,stealth-rock,slack-off|sand-stream|leftovers
 whiscash|72|aqua-tail,earthquake,bounce,dragon-dance|oblivious|life-orb
 gliscor|72|earthquake,wing-attack,protect,roost|poison-heal|toxic-orb
