@@ -31,6 +31,7 @@ Driftveil City|zorua
 --Driftveil Tournament Round 3|col2|rival|Colress
 Route 6|poliwag,poliwhirl,marill,azumarill,politoed,dunsparce,castform,tranquill,unfezant,audino,swadloon,leavanny,basculin,deerling,emolga,karrablast,foongus,shelmet
 Mistralton Cave|aron,boldore,woobat,drilbur,axew
+--Mistralton City Gym|6c|gym-leader|Skyla
 Chargestone Cave|boldore,joltik,ferroseed,klink,tynamo,drilbur,nosepass
 Route 7|zangoose,seviper,watchog,tranquill,unfezant,zebstrika,audino,deerling,emolga,foongus,cubchoo
 Celestial Tower|litwick,elgyem,golbat,mesprit
@@ -51,7 +52,7 @@ Route 9|muk,liepard,audino,garbodor,minccino,cinccino,gothorita,gothitelle,duosi
 Seaside Cave|golduck,shuckle,seel,dewgong,shellder,cloyster,luvdisc,boldore,woobat,excadrill,frillish,jellicent,tynamo,eelektrik
 Route 21|remoraid,octillery,mantine,luvdisc,mantyke,frillish,jellicent,alomomola
 Humilau City|shellder,cloyster,staryu,starmie,corsola,luvdisc,basculin,frillish,jellicent
---Humilau City Gym|7c|gym-leader|Drayden
+--Humilau City Gym|8c|gym-leader|Marlon
 Route 22|golduck,goldeen,seaking,marill,azumarill,delibird,pelipper,lunatone,solrock,audino,emolga,amoonguss,mienfoo,basculin
 --Command Center|zinz3|evil-team|Zinzolin & grunt
 --Kyurem's Location|zinz4|evil-team|Zinzolin
