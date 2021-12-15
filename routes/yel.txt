@@ -1,6 +1,6 @@
 Starter|bulbasaur,charmander,squirtle,pikachu
 Pallet Town|bulbasaur,charmander,squirtle,pikachu,poliwag,tentacool,goldeen,staryu,magikarp
---Professor dOak's Lab|r1|rival|Blue
+--Professor Oak's Lab|r1|rival|Blue
 Route 1|pidgey,rattata
 Viridian City|poliwag,tentacool,goldeen,magikarp
 Route 22|rattata,spearow,nidoran-f,nidoran-m,mankey,poliwag,poliwhirl,goldeen,magikarp
