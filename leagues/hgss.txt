@@ -7,6 +7,7 @@ houndoom|38|feint-attack,fire-fang,bite,smog|early-bird||
 --proton1|Executive Proton||/leaders/proton
 zubat|8|leech-life,supersonic|inner-focus||
 koffing|12|poison-gas,tackle,smog,smokescreen|levitate||
+
 --proton2|Executive Proton||
 golbat|28|wing-attack,confuse-ray,leech-life,bite|inner-focus||
 weezing|33|sludge,double-hit,smokescreen,smog|levitate|
