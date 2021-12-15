@@ -204,7 +204,6 @@ kingdra|53|dragon-pulse,surf,yawn,ice-beam|sniper
 flygon|53|flamethrower,boomburst,dragon-pulse,screech|levitate|
 salamence|55|dragon-rush,zen-headbutt,crunch,thunder-fang|intimidate|
 
-
 --c|Steven|steel|/leaders/steven
 skarmory|57|toxic,aerial-ace,spikes,steel-wing|sturdy
 claydol|57|reflect,light-screen,extrasensory,earth-power|levitate
