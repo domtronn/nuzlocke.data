@@ -111,7 +111,7 @@ sharpedo-mega|+2|liquidation,crunch,psychic-fangs,close-combat|strong-jaw|sharpe
 
 # Rivals
 
---r1b|Rustboro City - Brendan||
+--r1b|Brendan||
 swellow|-1|aerial-ace,quick-attack,roost,refresh|guts||
 dewpider|-1|bug-bite,bubble,infestation,water-sport|water-bubble||water
 dewpider|-1|bug-bite,bubble,infestation,water-sport|water-bubble||grass
@@ -124,7 +124,7 @@ grovyle|+0|mega-drain,dragon-breath,fury-cutter,rock-tomb|overgrow|oran-berry|wa
 marshtomp|+0|mud-shot,water-gun,rock-tomb,growl|torrent|oran-berry|fire
 
 
---r1m|Rustboro City - May||
+--r1m|May||
 swellow|-1|aerial-ace,quick-attack,roost,refresh|guts||
 staryu|-1|bubble-beam,recover,psywave,swift|natural-cure||water
 staryu|-1|bubble-beam,recover,psywave,swift|natural-cure||grass
@@ -137,7 +137,7 @@ grovyle|+0|mega-drain,dragon-breath,fury-cutter,rock-tomb|overgrow|oran-berry|wa
 marshtomp|+0|mud-shot,water-gun,rock-tomb,growl|torrent|oran-berry|fire
 
 
---r2b|Route 110 - Brendan||
+--r2b|Brendan||
 swellow|-1|wing-attack,quick-attack,roost,u-turn|guts||
 araquanid|-1|bug-bite,water-pulse,ice-fang,spider-web|water-bubble||water
 araquanid|-1|bug-bite,water-pulse,ice-fang,spider-web|water-bubble||grass
@@ -151,7 +151,7 @@ grovyle|+0|grass-pledge,dragon-breath,fury-cutter,rock-tomb|overgrow|sitrus-berr
 marshtomp|-1|bulldoze,water-pledge,rock-slide,brick-break|torrent|sitrus-berry|fire
 
 
---r2m|Route 110 - May||
+--r2m|May||
 swellow|-1|aerial-ace,quick-attack,roost,refresh|guts||
 starmie|-1|water-pulse,recover,psybeam,icy-wind|natural-cure||water
 starmie|-1|water-pulse,recover,psybeam,icy-wind|natural-cure||grass
@@ -165,7 +165,7 @@ grovyle|+0|grass-pledge,dragon-breath,fury-cutter,rock-tomb|overgrow|sitrus-berr
 marshtomp|-1|bulldoze,water-pledge,rock-slide,brick-break|torrent|sitrus-berry|fire
 
 
---r3b|Route 119 - Brendan||
+--r3b|Brendan||
 swellow|+0|hurricane,boomburst,heat-wave,u-turn|scrappy|life-orb
 araquanid|+0|liquidation,leech-life,ice-fang,sticky-web|water-bubble|mystic-water|water
 araquanid|+0|liquidation,leech-life,ice-fang,sticky-web|water-bubble|mystic-water|grass
@@ -180,7 +180,7 @@ swampert-mega|+2|earthquake,hydro-cannon,ice-punch,rain-dance|swift-swim|swamper
 sceptile-mega|+2|frenzy-plant,dragon-pulse,focus-blast,grassy-terrain|chloroplast|sceptilite|water
 
 
---r3m|Route 119 - May||
+--r3m|May||
 swellow|+0|hurricane,boomburst,heat-wave,u-turn|scrappy|life-orb
 starmie|+0|hydro-pump,psyshock,thunder,ice-beam|analytic|life-orb|water
 starmie|+0|hydro-pump,psyshock,thunder,ice-beam|analytic|life-orb|grass
@@ -195,7 +195,7 @@ swampert-mega|+2|earthquake,hydro-cannon,ice-punch,rain-dance|swift-swim|swamper
 sceptile-mega|+2|frenzy-plant,dragon-pulse,focus-blast,grassy-terrain|chloroplast|sceptilite|water
 
 
---r4b|Lilycove City - Brendan||
+--r4b|Brendan||
 swellow|+1|brave-bird,facade,extreme-speed,u-turn|guts|flame-orb
 vikavolt|+1|thunderbolt,bug-buzz,energy-ball,aurora-beam|levitate|life-orb
 araquanid|+1|liquidation,leech-life,ice-fang,sticky-web|water-bubble|focus-sash|water
@@ -210,7 +210,7 @@ swampert-mega|+3|earthquake,liquidation,ice-punch,rain-dance|swift-swim|swampert
 sceptile-mega|+3|solar-beam,dragon-pulse,earthquake,growth|chloroplast|sceptilite|water
 
 
---r4m|Lilycove City - May||
+--r4m|May||
 vikavolt|+1|thunderbolt,bug-buzz,energy-ball,sticky-web|levitate|life-orb
 swellow|+1|brave-bird,facade,reversal,protect|guts|flame-orb
 starmie|+1|hydro-pump,psyshock,thunder,ice-beam|analytic|water-gem|water
@@ -225,14 +225,14 @@ swampert-mega|+3|earthquake,liquidation,ice-punch,rain-dance|swift-swim|swampert
 sceptile-mega|+3|solar-beam,dragon-pulse,earthquake,growth|chloroplast|sceptilite|water
 
 
---w1|Wally - Mauville City
+--w1|Wally
 roselia|+0|giga-drain,venoshock,poison-powder,leech-seed|natural-cure|black-sludge
 fletchinder|+0|flame-charge,acrobatics,steel-wing,roost|gale-wings|flying-gem
 azumarill|+0|aqua-tail,play-rough,bulldoze,brick-break|huge-power|rocky-helmet
 kirlia|+1|psychic,draining-kiss,hypnosis,charm|trace|focus-sash
 
 
---w2|Wally - Victory Road
+--w2|Wally
 garchomp|+1|dragon-rush,earthquake,stone-edge,stealth-rock|rough-skin|life-orb
 magnezone|+1|flash-cannon,volt-switch,hidden-power,thunder-wave|sturdy|air-balloon
 azumarill|+1|liquidation,play-rough,aqua-jet,iron-tail|huge-power|assault-vest
