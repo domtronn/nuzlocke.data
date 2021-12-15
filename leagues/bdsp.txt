@@ -49,13 +49,13 @@ heracross|51|rock-slide,swords-dance,thief,pin-missile|swarm
 snorlax|52|covet,yawn,crunch,high-horsepower|thick-fat
 roserade|49|giga-drain,grass-knot,grassy-terrain,toxic|poison-point|big-root|fire
 roserade|49|giga-drain,grass-knot,grassy-terrain,toxic|poison-point|big-root|grass
-floatzel|49|brine,ice-fang,crunch,swift|swift-swim|quick-attack|grass
-floatzel|49|brine,ice-fang,crunch,swift|swift-swim|quick-attack|water
+floatzel|49|brine,ice-fang,crunch,swift|swift-swim|quick-claw|grass
+floatzel|49|brine,ice-fang,crunch,swift|swift-swim|quick-claw|water
 rapidash|49|flame-wheel,megahorn,smart-strike,poison-jab|flash-fire|expert-belt|fire
 rapidash|49|flame-wheel,megahorn,smart-strike,poison-jab|flash-fire|expert-belt|water
 infernape|55|flame-wheel,close-combat,u-turn,shadow-claw|blaze|expert-belt|grass
 empoleon|55|brine,flash-cannon,grass-knot,charm|torrent|quick-claw|fire
-torterra|55|earthquake,woodhammer,roar,stealth-rock|overgrow|leftovers|water
+torterra|55|earthquake,wood-hammer,roar,stealth-rock|overgrow|leftovers|water
 
 # Evil team
 

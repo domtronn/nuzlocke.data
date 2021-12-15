@@ -68,6 +68,18 @@ sharpedo|43|poison-fang,crunch,scary-face,slash|rough-skin|sharpedonite
 
 # Rivals
 
+--z1|Zinnia
+tyrantrum|55|dragon-claw,crunch,earthquake,stone-edge|strong-jaw
+altaria|55|dragon-pulse,moonblast,flamethrower,hyper-voice|natural-cure
+salamence|57|dragon-claw,crunch,fire-fang,thunder-fang|intimidate|
+
+--z2|Zinnia
+goodra|60|dragon-pulse,muddy-water,thunderbolt,ice-beam|sap-sipper
+tyrantrum|60|dragon-claw,crunch,earthquake,stone-edge|strong-jaw
+altaria|60|dragon-pulse,moonblast,flamethrower,hyper-voice|natural-cure
+noivern|60|dragon-pulse,air-slash,shadow-ball,super-fang|infiltrator
+salamence|62|dragon-claw,crunch,fire-fang,thunder-fang|intimidate|salamencite
+
 --r1|Rival||/leaders/may
 torchic|5|scratch|blaze||grass
 mudkip|5|tackle|torrent||fire
@@ -191,7 +203,6 @@ flygon|53|earthquake,dragon-claw,rock-slide,supersonic|levitate
 kingdra|53|dragon-pulse,surf,yawn,ice-beam|sniper
 flygon|53|flamethrower,boomburst,dragon-pulse,screech|levitate|
 salamence|55|dragon-rush,zen-headbutt,crunch,thunder-fang|intimidate|
-
 
 --c|Steven|steel|/leaders/steven
 skarmory|57|toxic,aerial-ace,spikes,steel-wing|sturdy

@@ -1,10 +1,75 @@
 # Evil team
+--p1|Plumeria|poison
+golbat|25|air-cutter,confuse-ray|inner-focus
+salandit|26|flame-burst,double-slap,poison-gas|corrosion
+
+--p2|Plumeria|poison
+golbat|34|air-cutter,confuse-ray,poison-fang|inner-focus
+salazzle|35|flame-burst,double-slap,toxic,dragon-rage|corrosion
+
+--l1|Lusamine|#aether paradise
+clefable|41|cosmic-power,metronome,moonblast|magic-guard
+lilligant|41|petal-dance,teeter-dance,stun-spore|own-tempo
+mismagius|41|mystical-fire,shadow-ball,power-gem|levitate
+milotic|41|hydro-pump,flail,safeguard|marvel-scale
+bewear|41|baby-doll-eyes,take-down,hammer-arm|fluffy
+
+--l2|Ultra Lusamine
+clefable|50|cosmic-power,metronome,moonblast,moonlight|magic-guard
+lilligant|50|teeter-dance,petal-dance,leech-seed,stun-spore|own-tempo
+mismagius|50|mystical-fire,shadow-ball,power-gem,pain-split|levitate
+milotic|50|hydro-pump,flail,safeguard,recover|marvel-scale
+bewear|50|baby-doll-eyes,hammer-arm,take-down,pain-split|fluffy
+
+--f1|Faba
+hypno|39|psychic,hypnosis,disable,nightmare|insomnia
+
+--f2|Faba & Employee
+slowbro|39|yawn,headbutt,psychic,amnesia|oblivious
+bruxish|39|aqua-jet,crunch,psychic-fangs|strong-jaw
+hypno|40|psychic,hypnosis,disable,nightmare|insomnia
+ledian|38|light-screen,reflect,air-slash,bug-buzz|swarm
+
+--gz1|Guzma|Bug#Malie garden
+golisopod|31|first-impression,razor-shell,swords-dance|emergency-exit
+ariados|30|fell-stinger,infestation,shadow-sneak,sucker-punch|swarm
+
+--gz2|Guzma|Bug#Shady house
+golisopod|37|first-impression,razor-shell,swords-dance|emergency-exit
+ariados|36|fell-stinger,infestation,shadow-sneak,sucker-punch|swarm
+
+--gz3|Guzma|Bug#Aether Paradise
+golisopod|41|first-impression,razor-shell,swords-dance|emergency-exit
+ariados|40|fell-stinger,shadow-sneak,sucker-punch|swarm
+masquerain|40|bug-buzz,air-slash|intimidate
+pinsir|40|x-scissor,brick-break,double-hit|mold-breaker
 
 --g1|Gladion
 zubat|17|bite,wing-attack|inner-focus
-type-null|18|tackle,pusuit|battle-armor
+type-null|18|tackle,pursuit|battle-armor
+
+--g2|Gladion
+type-null|19|tackle,pursuit|battle-armor
+
+--g3|Gladion
+golbat|37|acrobatics,poison-fang|inner-focus
+sneasel|37|icy-wind,metal-claw,feint-attack,quick-attack|inner-focus
+type-null|38|pursuit,crush-claw,x-scissor|battle-armor
+
+--g4|Gladion
+crobat|52|acrobatics,cross-poison|inner-focus
+weavile|52|ice-shard,metal-claw,night-slash|pressure
+lucario|52|aura-sphere,metal-claw,quick-attack|inner-focus|steelium-z--held
+silvally|53|crunch,crush-claw,x-scissor,multi-attack|rks-system|fire-memory|grass
+silvally|53|crunch,crush-claw,x-scissor,multi-attack|rks-system|water-memory|fire
+silvally|53|crunch,crush-claw,x-scissor,multi-attack|rks-system|grass-memory|water
 
 # Rival fights
+
+--mol|Molayne
+skarmory|29|air-cutter,metal-claw|sturdy
+metang|29|zen-headbutt,bullet-punch,pursuit|clear-body
+dugtrio-alola|30|metal-claw,mud-bomb,sucker-punch|tangling-hair
 
 --r1|Hau
 popplio|5|pound,water-gun,growl|torrent||grass
@@ -23,12 +88,30 @@ popplio|14|water-gun,growl,disarming-voice,baby-doll-eyes|torrent||grass
 rowlet|14|leafage,growl,peck,astonish|overgrow||fire
 litten|14|ember,growl,lick,leer|blaze||water
 
-
---r3|Hau
+--r4|Hau
 pikachu|16|quick-attack,electro-ball|static
-brionne|17|aqua-jet,disarming-voice,pound|torrent|normalium-z|grass
-dartrix|17|razor-leaf,peck,tackle|overgrow|normalium-z|fire
-torracat|17|fire-fang,lick,scratch|blaze|normalium-z|water
+brionne|17|aqua-jet,disarming-voice,pound|torrent|normalium-z--held|grass
+dartrix|17|razor-leaf,peck,tackle|overgrow|normalium-z--held|fire
+torracat|17|fire-fang,lick,scratch|blaze|normalium-z--held|water
+
+--r5|Hau
+raichu-alola|28|electro-ball,quick-attack,psychic|surge-surfer
+flareon|28|fire-fang,quick-attack|flash-fire||grass
+vaporeon|28|water-pulse,quick-attack|water-absorb||fire
+leafeon|28|giga-drain,quick-attack|leaf-guard||water
+brionne|29|bubble-beam,disarming-voice|torrent|waterium-z--held|grass
+dartrix|29|razor-leaf,peck|overgrow|grassium-z--held|fire
+torracat|29|fire-fang,bite|blaze|firium-z--held|water
+
+--r6|Hau
+raichu-alola|53|thunderbolt,quick-attack,psychic,focus-blast|surge-surfer
+flareon|53|flare-blitz,quick-attack,charm,baby-doll-eyes|flash-fire||grass
+vaporeon|53|hydro-pump,quick-attack,charm,baby-doll-eyes|water-absorb||fire
+leafeon|53|leaf-blade,quick-attack,charm,baby-doll-eyes|leaf-guard||water
+komala|53|wood-hammer,sucker-punch,earthquake,shadow-claw|comatose
+primarina|54|sparkling-aria,moonblast,hyper-voice|torrent|waterium-z--held|grass
+decidueye|54|spirit-shackle,leaf-blade,smack-down|overgrow|grassium-z--held|fire
+incineroar|54|darkest-lariat,flare-blitz,earthquake|blaze|firium-z--held|water
 
 --dsa|Dexio|psychic
 slowpoke|15|confusion,water-gun|own-tempo
@@ -39,18 +122,22 @@ delibird|15|present|vital-spirit
 glaceon|16|icy-wind,quick-attack|snow-cloak
 
 # "Gym" leaders
-
 --1|Ilima|normal
 yungoos|9|tackle,pursuit,leer|strong-jaw
 smeargle|10|ember,tackle|technician
 
 --1a|Ilima's trial|normal
-yungoos|10|leer,tackle,bide,pusuit|stakeout
+yungoos|10|leer,tackle,bide,pursuit|stakeout
 gumshoos|12|super-fang,bite,scary-face,leer|adaptability|pecha-berry
 
 --1b|Ilima's trial|normal
-rattata-alola|10|tackle,focus-energy,quick-attack,tail-whip|hustle
 raticate-alola|12|focus-energy,tail-whip,super-fang,tackle|gluttony|pecha-berry
+rattata-alola|10|tackle,focus-energy,quick-attack,tail-whip|hustle
+
+--2|Island Kahuna Hala|fighting
+mankey|14|karate-chop,focus-energy,pursuit|anger-point
+makuhita|14|fake-out,sand-attack,arm-thrust|thick-fat
+crabrawler|15|power-up-punch,pursuit,leer|iron-fist|fightinium-z--held
 
 --3|Lana's trial|water
 wishiwashi|18|helping-hand,feint-attack,brine,aqua-ring|schooling
@@ -58,10 +145,80 @@ alomomola|18|helping-hand,double-slap,heal-pulse,water-gun|healer
 wishiwashi|20|water-gun,rain-dance,soak,growl|schooling|sitrus-berry
 
 --4|Kiawe's trial|fire
+salazzle|22|torment,flame-burst,venom-drench,toxic|schooling|petaya-berry
 salandit|20|poison-gas,venoshock,taunt,scratch|corrosion
-salazzle|22|torment,flame-burst,venom-drench,toxic|schooling|sitrus-berry
 
---2|Hala|fighting
-mankey|14|karate-chop,focus-energy,pusuit|anger-point
-makuhita|14|fake-out,sand-attack,arm-thrust|thick-fat
-crabrawler|15|power-up-punch,pursuit,leer|iron-fist|fightinium-z
+--6|Mallow's Trial|grass|#Sun and Moon
+lurantis|24|razor-leaf,x-scissor,solar-blade,synthesis|leaf-guard|power-herb|
+trumbeak|22|rock-blast,pluck,supersonic,screech|keen-eye||
+castform|22|sunny-day,water-gun,headbutt,weather-ball|forecast||
+
+--7|Island Kahuna Olivia|rock|#Sun and Moon
+nosepass|25|rock-slide,spark,thunder-wave|sturdy||
+boldore|26|rock-blast,mud-slap,headbutt|sturdy||
+lycanroc|26|bite,rock-throw|vital-spirit|rockium-z--held|
+
+--8|Sophocles' Trial|electric|#Sun and Moon
+vikavolt|29|vise-grip,charge,spark,bug-bite|levitate|occa-berry|
+charjabug|28|thunder-wave,string-shot,mud-slap,vise-grip|battery||
+charjabug|28|bite,thunder-wave,spark|battery||
+
+--9|Acerola's Trial|ghost|#Sun and Moon
+mimikyu|33|play-rough,shadow-claw,astonish,mimic|disguise|lum-berry|
+haunter|27|hypnosis,sucker-punch,night-shade,lick|levitate||
+gengar|27|shadow-ball,hypnosis,night-shade,shadow-punch|cursed-body||
+
+--10|Island Kahuna Nanu|dark|#Sun and Moon
+sableye|38|power-gem,shadow-ball,fake-out|keen-eye||
+krokorok|38|crunch,assurance,swagger,earthquake|intimidate||
+persian-alola|39|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z--held|
+
+--11|Island Kahuna Hapu|ground|#Sun and Moon
+dugtrio-alola|47|iron-head,earthquake,sucker-punch,sandstorm|sand-veil||
+gastrodon|47|muddy-water,mud-bomb,recover|sticky-hold||
+flygon|47|earth-power,dragon-breath|levitate||
+mudsdale|48|heavy-slam,earthquake,double-kick,counter|stamina|groundium-z--held|
+
+--12|Kommo-o's Trial|dragon|
+kommo-o|45|clanging-scales,sky-uppercut,flash-cannon,protect|soundproof|mental-herb
+hakamo-o|32|sky-uppercut,autotomize,work-up,bide|bulletproof
+scizor|32|metal-claw,pursuit,leer,fury-cutter|technician
+
+# Elite four
+--e1|Hala|fighting|#Hala
+hariyama|54|fake-out,close-combat,knock-off|thick-fat||
+primeape|54|cross-chop,outrage,punishment,pursuit|anger-point||
+bewear|54|hammer-arm,brutal-swing|fluffy||
+poliwrath|54|waterfall,submission|water-absorb||
+crabominable|55|ice-hammer,close-combat|iron-fist|fightinium-z--held|
+
+--e2|Olivia|rock|#Olivia
+relicanth|54|hydro-pump,ancient-power,yawn|swift-swim||
+carbink|54|power-gem,moonblast,reflect|clear-body||
+golem-alola|54|thunder-punch,rock-blast,steamroller|sturdy||
+probopass|54|earth-power,power-gem,thunder-wave,sandstorm|sturdy||
+lycanroc|55|crunch,stone-edge,counter,rock-climb|keen-eye|rockium-z--held|
+
+--e3|Acerola|ghost|#Acerola
+sableye|54|shadow-claw,zen-headbutt,confuse-ray,fake-out|keen-eye||
+drifblim|54|ominous-wind,focus-energy,amnesia,baton-pass|aftermath||
+dhelmise|54|slam,shadow-ball,energy-ball,whirlpool|steelworker||
+froslass|54|blizzard,shadow-ball,confuse-ray,ice-shard|snow-cloak||
+palossand|55|shadow-ball,earth-power,giga-drain,iron-defense|water-compaction|ghostium-z--held|
+
+--e4|Kahili|flying|#Kahili
+skarmory|54|slash,steel-wing,feint,spikes|sturdy||
+crobat|54|air-slash,swift,supersonic,poison-fang|inner-focus||
+oricorio-baile|54|revelation-dance,teeter-dance,air-slash,feather-dance|dancer||
+mandibuzz|54|bone-rush,brave-bird,punishment,flatter|big-pecks||
+toucannon|55|bullet-seed,rock-blast,beak-blast,screech|skill-link|flyinium-z--held|
+
+--c|Kukui||#Champion
+lycanroc|57|stone-edge,accelerock,crunch,stealth-rock|keen-eye||
+ninetales-alola|56|dazzling-gleam,blizzard,ice-shard,safeguard|snow-cloak||
+braviary|56|crush-claw,brave-bird,tailwind,whirlwind|keen-eye||
+magnezone|56|thunderbolt,flash-cannon,thunder-wave,mirror-coat|sturdy||
+snorlax|56|body-slam,crunch,heavy-slam,high-horsepower|thick-fat||
+incineroar|58|flare-blitz,darkest-lariat,outrage,cross-chop|blaze|firium-z--held|grass
+primarina|58|sparkling-aria,moonblast,aqua-jet,hyper-voice|torrent|waterium-z--held|fire
+decidueye|58|leaf-blade,spirit-shackle,brave-bird,sucker-punch|overgrow|grassium-z--held|water

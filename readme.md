@@ -30,7 +30,7 @@ pokemon|level|move1,move2,move3,move4|ability|held-item
 A list of routes with accompanying Boss battles.
 
 ```
-Route 1
+Route 1|encounter1,encounter2
 Route 2
 --battle name|battle id|battle type
 Route 3
