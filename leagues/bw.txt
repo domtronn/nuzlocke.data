@@ -231,7 +231,7 @@ conkeldurr|48|stone-edge,hammer-arm,retaliate,grass-knot|sheer-force||
 mienshao|50|u-turn,jump-kick,rock-slide,retaliate|inner-focus||
 
 # Round 2
---e6|Shauntal|ghost|#Shauntal
+--e5|Shauntal|ghost|#Shauntal
 cofagrigus|71|psychic,will-o-wisp,shadow-ball,energy-ball|mummy||
 jellicent|71|sludge-wave,shadow-ball,hydro-pump,psychic|cursed-body||
 golurk|71|hammer-arm,earthquake,shadow-punch,curse|iron-fist||
@@ -239,7 +239,7 @@ froslass|71|blizzard,ice-shard,shadow-ball,psychic|snow-cloak
 drifblim|71|thunder,shadow-ball,acrobatics,psychic|aftermath
 chandelure|73|fire-blast,psychic,shadow-ball,payback|flame-body||
 
---e7|Grimsley|dark|#Grimsley
+--e6|Grimsley|dark|#Grimsley
 sharpedo|71|waterfall,night-slash,earthquake,aqua-jet|rough-skin
 scrafty|71|crunch,poison-jab,head-smash,brick-break|moxie||
 krookodile|71|outrage,earthquake,foul-play,smack-down|intimidate||
@@ -247,7 +247,7 @@ liepard|71|sucker-punch,fake-out,attract,aerial-ace|limber||
 drapion|71|poison-fang,fire-fang,thunder-fang,crunch|battle-armor
 bisharp|73|x-scissor,night-slash,guillotine,aerial-ace|defiant||
 
---e8|Caitlin|psychic|#Caitlin
+--e7|Caitlin|psychic|#Caitlin
 musharna|71|psychic,reflect,hypnosis,dream-eater|synchronize||
 sigilyph|71|air-slash,flash-cannon,ice-beam,psychic|wonder-skin||
 reuniclus|71|energy-ball,thunder,focus-blast,psychic|magic-guard||
@@ -255,7 +255,7 @@ gothitelle|71|flatter,payback,thunderbolt,psychic|frisk||
 bronzong|71|payback,charge-beam,flash-cannon,psychic|levitate
 metagross|73|bullet-punch,earthquake,zen-headbutt,giga-impact|clear-body
 
---e4|Marshal|fighting|#Marshal
+--e8|Marshal|fighting|#Marshal
 breloom|71|spore,grass-knot,sky-uppercut,mach-punch|effect-spore
 throh|71|earthquake,superpower,retaliate,grass-knot|guts||
 sawk|71|close-combat,stone-edge,poison-jab,retaliate|sturdy||

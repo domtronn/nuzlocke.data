@@ -57,7 +57,7 @@ Victory Road|terrakion,fraxure,mienfoo,rufflet,vullaby,heatmor,boldore,woobat,du
 --Pokémon League NW Room|e2|elite-four|Grimsley
 --Pokémon League NE Room|e3|elite-four|Caitlin
 --Pokémon League E Room|e4|elite-four|Caitlin
---N's Castle|n6b|evil-team|N
+--N's Castle|n5b|evil-team|N
 --N's Castle|gh|evil-team|Ghetsis
 --Victory Road|c7|rival|Cheren
 --Pokémon League W Room|e5|elite-four|Shauntal
