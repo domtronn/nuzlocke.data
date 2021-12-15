@@ -74,10 +74,10 @@ altaria|55|dragon-pulse,moonblast,flamethrower,hyper-voice|natural-cure
 salamence|57|dragon-claw,crunch,fire-fang,thunder-fang|intimidate|
 
 --z2|Zinnia
-goodra|60|dragon-pulse,muddy-wter,thunderbolt,ice-beam|sap-sipper
+goodra|60|dragon-pulse,muddy-water,thunderbolt,ice-beam|sap-sipper
 tyrantrum|60|dragon-claw,crunch,earthquake,stone-edge|strong-jaw
 altaria|60|dragon-pulse,moonblast,flamethrower,hyper-voice|natural-cure
-noivern|60|dragon-pulse,aur-slash,shadow-ball,super-fang|infiltrator
+noivern|60|dragon-pulse,air-slash,shadow-ball,super-fang|infiltrator
 salamence|62|dragon-claw,crunch,fire-fang,thunder-fang|intimidate|salamencite
 
 --r1|Rival||/leaders/may

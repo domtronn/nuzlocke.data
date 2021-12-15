@@ -11,7 +11,7 @@ golbat|36|wing-attack,confuse-ray,leech-life,bite
 --petrel1|Executive Petrel||/leaders/petrel
 zubat|22|leech-life,bite,supersonic,confuse-ray|
 koffing|22|smog,sludge,tackle,self-destruct|
-raticate|24|hyper-fang,quik-attack,scary-face,tail-whip||
+raticate|24|hyper-fang,quick-attack,scary-face,tail-whip||
 
 --petrel2|Executive Petrel||/leaders/petrel
 koffing|30|sludge,smokescreen,self-destruct,tackle|

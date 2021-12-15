@@ -203,12 +203,12 @@ onix|34|explosion,bulldoze,rock-polish,rock-slide|sturdy
 excadrill|36|slash,bulldoze,metal-claw,rock-slide|sand-force|sitrus-berry
 
 --6n|Skyla|flying
-swoobat|37|heart-stamp,attract,acrobatic,assurance|unaware
+swoobat|37|heart-stamp,attract,acrobatics,assurance|unaware
 skarmory|37|aerial-ace,steel-wing,fury-attack,agility|sturdy|sitrus-berry
 swanna|39|roost,feather-dance,air-slash,bubble-beam|big-pecks|sitrus-berry
 
 --6c|Skyla|flying
-swoobat|40|psychic,acrobatic,energy-ball,attract|unaware
+swoobat|40|psychic,acrobatics,energy-ball,attract|unaware
 skarmory|40|aerial-ace,steel-wing,x-scissor,agility|sturdy|sitrus-berry
 sigilyph|40|psychic,hypnosis,air-cutter,flash-cannon|magic-guard
 swanna|42|roost,feather-dance,air-slash,surf|big-pecks|sitrus-berry
