@@ -23,7 +23,7 @@ Eterna City|psyduck,golduck,magikarp,gyarados,barboach,whiscash
 --Eterna Gym|2|gym-leader|Gardenia
 --Eterna Building|jup1|evil-team|Jupiter
 Route 206|zubat,machop,geodude,ponyta,gligar,larvitar,nosepass,baltoy,kricketot,kricketune,stunky,bronzor
-Wayward Cave|sandshrew,zubat,machop,geodude,ponyta,gligar,larvitar,nosepass,baltoy,kricketot,kricketune,stunky,bronzor,gible,onix
+Wayward Cave|zubat,geodude,onix,bronzor,gible,sandshrew
 Mt. Coronet|clefairy,zubat,machop,geodude,cleffa,nosepass,meditite,chingling,bronzor,golbat,magikarp,barboach,gyarados,whiscash,machoke,graveler,medicham,bronzong,lunatone,solrock,noctowl,absol,snover,abomasnow,dratini,dragonair,feebas
 Route 208|zubat,psyduck,golduck,machop,goldeen,seaking,magikarp,gyarados,dunsparce,smeargle,tyrogue,ralts,meditite,roselia,zangoose,seviper,barboach,whiscash,bidoof,bibarel,budew
 Hearthome City|eevee
