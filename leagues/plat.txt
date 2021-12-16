@@ -136,7 +136,7 @@ lucario|32|drain-punch,force-palm,metal-claw,bone-rush|steadfast|sitrus-berry
 
 --5|Crasher Wake|water|/leaders/wake
 gyarados|33|brine,waterfall,twister,bite|intimidate
-quagsire|34|rock-tomb,water-pulse,mud-sport,yawn|damp
+quagsire|34|rock-tomb,water-pulse,mud-shot,yawn|damp
 floatzel|37|brine,ice-fang,crunch,aqua-jet|swift-swim|sitrus-berry
 
 --6|Byron|steel|/leaders/byron

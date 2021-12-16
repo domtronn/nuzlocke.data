@@ -120,7 +120,7 @@ lucario|30|drain-punch,screech,metal-claw,bulk-up|steadfast|big-root
 
 --4|Crasher Wake|water|/leaders/wake
 gyarados|27|brine,ice-fang,crunch,flail|intimidate|wide-lens
-quagsire|27|rain-dance,haze,mud-sport,scald|damp|damp-rock
+quagsire|27|rain-dance,haze,mud-shot,scald|damp|damp-rock
 floatzel|30|brine,ice-fang,bite,aqua-jet|swift-swim|sitrus-berry
 
 --5|Fantina|ghost|/leaders/fantina
