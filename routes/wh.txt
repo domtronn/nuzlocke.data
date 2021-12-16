@@ -26,6 +26,7 @@ Relic Castle|volcarona,sandile,krokorok,yamask,cofagrigus,sandslash,onix,claydol
 --Nimbasa City|n3|evil-team|N
 --Nimbasa Gym|4|gym-leader|Elesa
 Route 5|liepard,audino,trubbish,minccino,cinccino,gothita,solosis,emolga
+--Route 5|c5|rival|Cheren
 Driftveil Drawbridge|ducklett
 Driftveil City|krabby,kingler,chinchou,lanturn,luvdisc,frillish,jellicent,alomomola
 Cold Storage|herdier,stoutland,audino,timburr,minccino,cinccino,vanillite
