@@ -1,11 +1,11 @@
 # Evil team
 --mars1|Mars||/leaders/mars#valley windworks post
-zubat|14|bite,leech-life,toxic|inner-focus
-purugly|16|fake-out,scratch,feint-attack|thick-fat|oran-berry
+zubat|15|bite,leech-life,toxic|inner-focus
+purugly|17|fake-out,scratch,feint-attack|thick-fat|oran-berry
 
 --jup1|Jupiter||/leaders/jupiter#4F Eterna Building
 zubat|21|wing-attack,giga-drain,bite|inner-focus
-skuntank|20|night-slash,poison-gas,smokescreen,screech|stench|sitrus-berry
+skuntank|23|night-slash,poison-gas,smokescreen,screech|stench|sitrus-berry
 
 --cyr1|Cyrus||/leaders/cyrus#Galactic Headquarters
 golbat|34|air-cutter,poison-fang,supersonic,bite|inner-focus
@@ -160,7 +160,7 @@ electivire|50|thunder-punch,fire-punch,giga-impact,quick-attack|motor-drive|sitr
 --e1|Aaron|bug|/leaders/aaron
 yanmega|49|bug-buzz,u-turn,air-slash,double-team|speed-boost
 scizor|49|x-scissor,iron-head,night-slash,quick-attack|swarm
-heracross|41|megahorn,close-combat,stone-edge,night-slash|swarm
+heracross|51|megahorn,close-combat,stone-edge,night-slash|swarm
 vespiquen|50|attack-order,defend-order,heal-order,power-gem|pressure
 drapion|53|cross-poison,x-scissor,aerial-ace,ice-fang|battle-armor|sitrus-berry
 
@@ -168,7 +168,7 @@ drapion|53|cross-poison,x-scissor,aerial-ace,ice-fang|battle-armor|sitrus-berry
 whiscash|50|earth-power,sandstorm,zen-headbutt,aqua-tail|oblivious
 gliscor|53|earthquake,fire-fang,ice-fang,thunder-fang|hyper-cutter
 golem|52|fire-punch,thunder-punch,earthquake,sandstorm|rock-head
-hippowdon|59|earthquake,stone-edge,crunch,yawn|sand-stream
+hippowdon|52|earthquake,stone-edge,crunch,yawn|sand-stream
 rhyperior|55|avalanche,megahorn,earthquake,rock-wrecker|lightning-rod|sitrus-berry
 
 --e3|Flint|fire|/leaders/flint
@@ -181,14 +181,14 @@ magmortar|57|flamethrower,thunderbolt,solar-beam,hyper-beam|flame-body|sitrus-be
 --e4|Lucian|psychic|/leaders/lucian
 mr-mime|53|psychic,light-screen,reflect,thunderbolt|soundproof
 espeon|55|psychic,quick-attack,signal-beam,shadow-ball|synchronize
-bronzong|63|psychic,gyro-ball,calm-mind,earthquake|levitate
+bronzong|54|psychic,gyro-ball,calm-mind,earthquake|levitate
 alakazam|56|psychic,focus-blast,recover,energy-ball|synchronize
 gallade|59|psycho-cut,drain-punch,leaf-blade,stone-edge|steadfast|sitrus-berry
 
 --c|Cynthia||/leaders/cynthia
 spiritomb|58|silver-wind,dark-pulse,shadow-ball,psychic|pressure
 roserade|58|energy-ball,extrasensory,sludge-bomb,toxic|natural-cure
-milotic|58|dragon-pulse,surf,mirror-coat,ice-beam|marvel-scale
 lucario|60|aura-sphere,shadow-ball,stone-edge,extreme-speed|steadfast
 togekiss|60|air-slash,aura-sphere,water-pulse,shock-wave|hustle
+milotic|58|dragon-pulse,surf,mirror-coat,ice-beam|marvel-scale
 garchomp|62|dragon-rush,flamethrower,earthquake,giga-impact|sand-veil|sitrus-berry
