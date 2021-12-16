@@ -218,7 +218,9 @@ poipole|49|nasty-plot,toxic,poison-jab,fell-stinger|beast-boost
 # Gym leaders
 --1|Ilima|normal
 yungoos|10|tackle,pursuit,leer|strong-jaw
-smeargle|11|ember,tackle|technician
+smeargle|11|ember,tackle|technician||grass
+smeargle|11|water-gun,tackle|technician||fire
+smeargle|11|leafage,tackle|technician||water
 
 --1a|Ilima's Trial|normal|#Ultra Sun
 gumshoos|12|super-fang,bite,leer,scary-face|adaptability|pecha-berry|

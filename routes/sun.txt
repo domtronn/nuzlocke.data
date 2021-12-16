@@ -16,6 +16,7 @@ Route 3|rattata-alola,spearow,mankey,delibird,yungoos,cutiefly,bagon,salamence,r
 Melemele Meadow|caterpie,metapod,butterfree,cottonee,petilil,oricorio-pom-pom,cutiefly,buzzwole
 Seaward Cave|zubat,diglett-alola,psyduck,magikarp,gyarados,barboach,whiscash,totodile
 --Hala's Grand Trial|2|gym-leader|Hala
+-Hau'oli City|1_2|gym-leader|Ilima (Optional)
 Kala'e Bay|rattata-alola,slowpoke,slowbro,wingull,bagon,shelgon,yungoos,tentacool,finneon,shellder,magikarp,gyarados,wishiwashi,horsea
 Ten Carat Hill|zubat,diglett-alola,roggenrola,carbink,sableye,psyduck,deino,machop,spinda,carbink,rockruff,necrozma
 --Heahea City|dsa|rival|Dexio#Dexio x Sina

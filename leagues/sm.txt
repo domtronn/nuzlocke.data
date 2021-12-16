@@ -124,7 +124,13 @@ glaceon|16|icy-wind,quick-attack|snow-cloak
 # "Gym" leaders
 --1|Ilima|normal
 yungoos|9|tackle,pursuit,leer|strong-jaw
-smeargle|10|ember,tackle|technician
+smeargle|10|ember,tackle|technician||grass
+smeargle|10|water-gun,tackle|technician||fire
+smeargle|10|leafage,tackle|technician||water
+
+--1_2|Ilima (Optional)|normal
+gumshoos|15|tackle,pursuit,leer|strong-jaw|normalium-z--held
+smeargle|14|ember,water-gun,leafage,tackle|technician|
 
 --1a|Ilima's trial|normal
 yungoos|10|leer,tackle,bide,pursuit|stakeout
