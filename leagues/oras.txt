@@ -1,66 +1,66 @@
 # Evil Team
 
---ruby1|Tabitha & Grunt||/leaders/tabitha
+--ruby1|Tabitha & Grunt||/leaders/rs-tabitha-oras@Poffin Case@https://pokengine.org/trainers/Tabitha
 mightyena|23|odor-sleuth,roar,swagger,snarl|intimidate
 numel|23|magnitude,flame-burst,lava-plume,amnesia|oblivious
 koffing|23|clear-smog,sludge,assurance,self-destruct|levitate
 
---saph1|Shelly & Grunt||/leaders/shelly
+--saph1|Shelly & Grunt||/leaders/rs-shelly-oras@Gnomowladny@https://www.deviantart.com/gnomowladny
 mightyena|23|odor-sleuth,roar,swagger,snarl|quick-feet
 carvanha|23|aqua-jet,assurance,screech,swagger|rough-skin
 grimer|23|disable,minimize,sludge,mud-bomb|stench
 
---ruby2|Tabitha||/leaders/tabitha
+--ruby2|Tabitha||/leaders/rs-tabitha-oras@Poffin Case@https://pokengine.org/trainers/Tabitha
 koffing|24|clear-smog,sludge,assurance,self-destruct|levitate
 numel|24|magnitude,flame-burst,lava-plume,amnesia|oblivious
 
---saph2|Shelly||/leaders/shelly
+--saph2|Shelly||/leaders/rs-shelly-oras@Gnomowladny@https://www.deviantart.com/gnomowladny
 grimer|24|disable,minimize,sludge,mud-bomb|sticky-hold
 carvanha|24|aqua-jet,assurance,screech,swagger|rough-skin
 
---ruby3|Courtney & Grunt||/leaders/courtney
+--ruby3|Courtney & Grunt||/leaders/rs-courtney-oras@Poffin Case@https://pokengine.org/trainers/Courtney
 camerupt|31|lava-plume,earth-power,curse,take-down|solid-rock
 koffing|29|sludge,self-destruct,haze,gyro-ball|levitate
 
---saph3|Matt & Grunt||/leaders/matt
+--saph3|Matt & Grunt||/leaders/rs-matt-oras@Poffin Case@https://pokengine.org/trainers/Matt
 sharpedo|31|swagger,scary-face,slash,ice-fang|rough-skin
 grimer|29|mud-bomb,minimize,fling,sludge-bomb|stench
 
---ruby4|Tabitha||/leaders/tabitha
+--ruby4|Tabitha||/leaders/rs-tabitha-oras@Poffin Case@https://pokengine.org/trainers/Tabitha
 camerupt|32|lava-plume,earth-power,curse,take-down|solid-rock
 
---saph4|Shelly||/leaders/shelly
+--saph4|Shelly||/leaders/rs-shelly-oras@Gnomowladny@https://www.deviantart.com/gnomowladny
 sharpedo|32|swagger,scary-face,slash,ice-fang|rough-skin
 
---ruby5|Courtney||/leaders/courtney
+--ruby5|Courtney||/leaders/rs-courtney-oras@Poffin Case@https://pokengine.org/trainers/Courtney
 camerupt|38|earth-power,curse,take-down,rock-slide|solid-rock
 
---saph5|Matt||/leaders/matt
+--saph5|Matt||/leaders/rs-matt-oras@Poffin Case@https://pokengine.org/trainers/Matt
 sharpedo|38|ice-fang,poison-fang,scary-face,slash|rough-skin
 
---ruby6|Courtney||/leaders/courtney
+--ruby6|Courtney||/leaders/rs-courtney-oras@Poffin Case@https://pokengine.org/trainers/Courtney
 camerupt|39|yawn,curse,take-down,rock-slide|solid-rock
 
---saph6|Matt||/leaders/matt
+--saph6|Matt||/leaders/rs-matt-oras@Poffin Case@https://pokengine.org/trainers/Matt
 sharpedo|38|ice-fang,poison-fang,scary-face,slash|rough-skin
 
---max1|Maxie||/leaders/maxie
+--max1|Maxie||/leaders/rs-maxie-oras@Hyo@https://www.deviantart.com/hyo-oppa
 mightyena|25|swagger,roar,assurance,snarl|intimidate
 golbat|25|wing-attack,air-cutter,confuse-ray,swift|inner-focus
 camerupt|27|flame-burst,lava-plume,amnesia,earth-power|solid-rock
 
---arc1|Archie||/leaders/archie
+--arc1|Archie||/leaders/rs-archie-oras@Hyo@https://www.deviantart.com/hyo-oppa
 mightyena|25|swagger,roar,assurance,snarl|quick-feet
 golbat|25|wing-attack,air-cutter,confuse-ray,swift|inner-focus
 sharpedo|27|assurance,ice-fang,screech,swagger|rough-skin
 
---max2|Maxie||/leaders/maxie
+--max2|Maxie||/leaders/rs-maxie-oras@Hyo@https://www.deviantart.com/hyo-oppa
 mightyena|41|scary-face,take-down,taunt,embargo|quick-feet
 weezing|41|haze,sludge-bomb,double-hit,explosion|levitate
 crobat|41|poison-fang,acrobatics,mean-look,haze|inner-focus
 camerupt|43|curse,take-down,rock-slide,yawn|magma-armor|cameruptite
 
---arc2|Archie||/leaders/archie
+--arc2|Archie||/leaders/rs-archie-oras@Hyo@https://www.deviantart.com/hyo-oppa
 mightyena|41|scary-face,take-down,taunt,embargo|quick-feet
 muk|41|sludge-wave,venom-drench,gunk-shot,screech|stench
 crobat|41|poison-fang,acrobatics,mean-look,haze|inner-focus
@@ -68,24 +68,24 @@ sharpedo|43|poison-fang,crunch,scary-face,slash|rough-skin|sharpedonite
 
 # Rivals
 
---z1|Zinnia
+--z1|Zinnia|dragon|/leaders/rs-zinnia@Kyledove@https://www.deviantart.com/kyle-dove
 tyrantrum|55|dragon-claw,crunch,earthquake,stone-edge|strong-jaw
 altaria|55|dragon-pulse,moonblast,flamethrower,hyper-voice|natural-cure
 salamence|57|dragon-claw,crunch,fire-fang,thunder-fang|intimidate|
 
---z2|Zinnia
+--z2|Zinnia|dragon|/leaders/rs-zinnia@Kyledove@https://www.deviantart.com/kyle-dove
 goodra|60|dragon-pulse,muddy-water,thunderbolt,ice-beam|sap-sipper
 tyrantrum|60|dragon-claw,crunch,earthquake,stone-edge|strong-jaw
 altaria|60|dragon-pulse,moonblast,flamethrower,hyper-voice|natural-cure
 noivern|60|dragon-pulse,air-slash,shadow-ball,super-fang|infiltrator
 salamence|62|dragon-claw,crunch,fire-fang,thunder-fang|intimidate|salamencite
 
---r1|Rival||/leaders/may
+--r1|Rival||/leaders/rs-may-oras@Hyo@https://www.deviantart.com/hyo-oppa
 torchic|5|scratch|blaze||grass
 mudkip|5|tackle|torrent||fire
 treecko|5|pound|overgrow||water
 
---r2|Rival||/leaders/may
+--r2|Rival||/leaders/rs-may-oras@Hyo@https://www.deviantart.com/hyo-oppa
 wailmer|18|water-gun,whirlpool,rollout,astonish|water-veil||grass
 wailmer|18|water-gun,whirlpool,rollout,astonish|water-veil||water
 shroomish|18|stun-spore,leech-seed,mega-drain,headbutt|effect-spore||grass
@@ -96,7 +96,7 @@ combusken|20|sand-attack,peck,double-kick,flame-charge|blaze||grass
 marshtomp|20|mud-slap,mud-bomb,foresight,bide|torrent||fire
 grovyle|20|quick-attack,mega-drain,fury-cutter,pursuit|overgrow||water
 
---r3|Rival||/leaders/may
+--r3|Rival||/leaders/rs-may-oras@Hyo@https://www.deviantart.com/hyo-oppa
 wailmer|31|water-pulse,brine,mist,rest|water-veil||grass
 wailmer|31|water-pulse,brine,mist,rest|water-veil||water
 shroomish|31|poison-powder,worry-seed,giga-drain,growth|effect-spore||grass
@@ -107,7 +107,7 @@ combusken|33|bulk-up,double-kick,flame-charge,quick-attack|blaze||grass
 marshtomp|33|bide,protect,mud-bomb,rock-slide|torrent||fire
 grovyle|33|pursuit,leaf-blade,agility,slam|overgrow||water
 
---r4|Rival||/leaders/may
+--r4|Rival||/leaders/rs-may-oras@Hyo@https://www.deviantart.com/hyo-oppa
 swellow|37|double-team,aerial-ace,quick-guard,agility|guts
 wailord|37|water-spout,brine,amnesia,rest|water-veil||grass
 wailord|37|water-spout,brine,amnesia,rest|water-veil||water
@@ -119,55 +119,52 @@ blaziken|39|quick-attack,bulk-up,blaze-kick,focus-energy|blaze||grass
 swampert|39|mud-bomb,rock-slide,protect,muddy-water|torrent||fire
 sceptile|39|agility,slam,dual-chop,detect|overgrow||water
 
---w1|Wally||/leaders/wally
+--w1|Wally||/leaders/rs-wally-oras@Hyo@https://www.deviantart.com/hyo-oppa
 ralts|17|teleport,disarming-voice,lucky-chant,magical-leaf|synchronize
 
---w2|Wally||/leaders/wally
+--w2|Wally||/leaders/rs-wally-oras@Hyo@https://www.deviantart.com/hyo-oppa
 altaria|46|aerial-ace,safeguard,dragon-pulse,cotton-guard|natural-cure
 delcatty|46|disarming-voice,charm,sing,feint-attack|cute-charm
 roselia|46|synthesis,leech-seed,petal-blizzard,toxic|poison-point
 magneton|46|screech,tri-attack,discharge,flash-cannon|sturdy
 gallade|48|psycho-cut,close-combat,slash,swords-dance|steadfast|galladite
 
---aarune|Aarune
-flygon|23|secret-power,fly,earth-power,dragon-claw|levitate|normal-gem
-
 # Gym Leaders
 
---1|Roxanne|rock|/leaders/roxanne
+--1|Roxanne|rock|/leaders/rs-roxanne-oras@Kyledove@https://www.deviantart.com/kyle-dove
 geodude|12|tackle,defense-curl,rock-tomb|sturdy
 nosepass|14|tackle,harden,rock-tomb|sturdy
 
---2|Brawly|fighting|/leaders/brawly
+--2|Brawly|fighting|/leaders/rs-brawly-oras@PKMNTrainerSpriterC@https://www.deviantart.com/PKMNTrainerSpriterC
 machop|14|karate-chop,seismic-toss,bulk-up,leer|guts
 makuhita|16|arm-thrust,bulk-up,knock-off,sand-attack|guts
 
---3|Wattson|electric|/leaders/wattson
+--3|Wattson|electric|/leaders/rs-wattson-oras@PKMNTrainerSpriterC@https://www.deviantart.com/PKMNTrainerSpriterC
 magnemite|19|thunder-wave,volt-switch,tackle|sturdy
 voltorb|19|charge,volt-switch,rollout|soundproof
 magneton|21|supersonic,magnet-bomb,volt-switch|magnet-pull
 
---4|Flannery|fire|/leaders/flannery
+--4|Flannery|fire|/leaders/rs-flannery-oras@PKMNTrainerSpriterC@https://www.deviantart.com/PKMNTrainerSpriterC
 slugma|26|overheat,sunny-day,rock-throw,light-screen|flame-body
 numel|26|earth-power,sunny-day,lava-plume,amnesia|simple
 torkoal|28|overheat,sunny-day,body-slam,curse|white-smoke
 
---5|Norman|normal|/leaders/norman
+--5|Norman|normal|/leaders/rs-norman-oras@PKMNTrainerSpriterC@https://www.deviantart.com/PKMNTrainerSpriterC
 slaking|28|feint-attack,retaliate,yawn,encore|truant
 vigoroth|28|feint-attack,retaliate,fury-swipes,encore|vital-spirit
 slaking|30|feint-attack,retaliate,swagger,chip-away|truant
 
---6|Winona|flying|/leaders/winona
+--6|Winona|flying|/leaders/rs-winona-oras@PKMNTrainerSpriterC@https://www.deviantart.com/PKMNTrainerSpriterC
 swellow|33|quick-attack,double-team,endeavor,aerial-ace|guts
 pelipper|33|water-pulse,protect,roost,aerial-ace|keen-eye
 skarmory|33|sand-attack,steel-wing,air-cutter,aerial-ace|keen-eye
 altaria|35|earthquake,dragon-breath,cotton-guard,roost|natural-cure
 
---7|Tate & Liza|psychic|/leaders/tate-liza
+--7|Tate & Liza|psychic|/leaders/rs-tate-liza-oras@Brumirage@https://www.instagram.com/brumirage
 lunatone|45|light-screen,psychic,calm-mind,hypnosis
 solrock|45|sunny-day,rock-slide,psychic,solar-beam
 
---8|Wallace|Water|/leaders/wallace
+--8|Wallace|Water|/leaders/rs-wallace-oras@Kyledove@https://www.deviantart.com/kyle-dove
 luvdisc|44|draining-kiss,sweet-kiss,attract,water-pulse|swift-swim
 whiscash|44|earthquake,mud-sport,zen-headbutt,waterfall|oblivious
 sealeo|44|encore,waterfall,aurora-beam,body-slam|thick-fat
@@ -176,35 +173,35 @@ milotic|46|hydro-pump,recover,ice-beam,disarming-voice|marvel-scale
 
 # Elite Four
 
---e1|Sidney|dark|/leaders/sidney
+--e1|Sidney|dark|/leaders/rs-sidney-oras@Kyledove@https://www.deviantart.com/kyle-dove
 mightyena|50|swagger,take-down,sucker-punch,crunch|intimidate
 shiftry|50|fake-out,feint-attack,extrasensory,leaf-blade|chlorophyll
 cacturne|50|leech-seed,needle-arm,spiky-shield,payback|sand-veil
 sharpedo|50|crunch,poison-fang,aqua-jet,slash|rough-skin
 absol|52|aerial-ace,night-slash,psycho-cut,slash|super-luck
 
---e2|Phoebe|ghost|/leaders/phoebe
+--e2|Phoebe|ghost|/leaders/rs-phoebe-oras@Brumirage@https://www.instagram.com/brumirage
 dusclops|51|shadow-punch,confuse-ray,curse,future-sight|pressure|
 banette|41|shadow-ball,spite,will-o-wisp,feint-attack|insomnia
 sableye|51|shadow-claw,foul-play,power-gem,fake-out|keen-eye
 banette|51|shadow-ball,grudge,toxic,psychic|insomnia
 dusknoir|53|hex,fire-punch,ice-punch,thunder-punch|pressure
 
---e3|Glacia|ice|/leaders/glacia
+--e3|Glacia|ice|/leaders/rs-glacia-oras@Kyledove@https://www.deviantart.com/kyle-dove
 glalie|52|light-screen,crunch,ice-shard,hail|inner-focus
 froslass|52|confuse-ray,ominous-wind,blizzard,hail|snow-cloak
 glalie|52|protect,ice-shard,hail,freeze-dry|inner-focus
 froslass|52|draining-kiss,shadow-ball,blizzard,hail|snow-cloak
 walrein|54|surf,body-slam,blizzard,sheer-cold|thick-fat
 
---e4|Drake|dragon|/leaders/drake
+--e4|Drake|dragon|/leaders/rs-drake-oras@Kyledove@https://www.deviantart.com/kyle-dove
 altaria|53|aerial-ace,dragon-pulse,cotton-guard,moonblast|natural-cure|
 flygon|53|earthquake,dragon-claw,rock-slide,supersonic|levitate
 kingdra|53|dragon-pulse,surf,yawn,ice-beam|sniper
 flygon|53|flamethrower,boomburst,dragon-pulse,screech|levitate|
 salamence|55|dragon-rush,zen-headbutt,crunch,thunder-fang|intimidate|
 
---c|Steven|steel|/leaders/steven
+--c|Steven|steel|/leaders/rs-steven-oras@Hyo@https://www.deviantart.com/hyo-oppa
 skarmory|57|toxic,aerial-ace,spikes,steel-wing|sturdy
 claydol|57|reflect,light-screen,extrasensory,earth-power|levitate
 aggron|57|stone-edge,earthquake,iron-tail,dragon-claw|sturdy

@@ -1,26 +1,26 @@
 #evil team
 
---n1|N
+--n1|N||/leaders/blwh-n-2
 purrloin|7|scratch,growl|unburden
 
---n2|N
+--n2|N||/leaders/blwh-n-2
 pidove|13|gust,quick-attack,leer,growl|super-luck
 timburr|13|low-kick,focus-energy,bide,leer|guts
 tympole|13|bubble-beam,supersonic,growl,round|swift-swim
 
---n3|N
+--n3|N||/leaders/blwh-n-2
 sandile|22|assurance,embargo,sand-tomb,mud-slap|moxie
 scraggy|22|swagger,headbutt,brick-break,feint-attack|shed-skin
 darumaka|22|fire-punch,headbutt,facade,uproar|hustle
 sigilyph|22|whirlwind,psybeam,tailwind,air-cutter|magic-guard
 
---n4|N
+--n4|N||/leaders/blwh-n-2
 boldore|28|mud-slap,iron-defense,smack-down,power-gem|sturdy
 ferroseed|28|pin-missile,metal-claw,gyro-ball,iron-defense|iron-barbs
 joltik|28|electroweb,bug-bite,gastro-acid,slash|unnerve
 klink|28|gear-grind,bind,thunder-shock,charge-beam|plus
 
---n5a|N||#N - Black
+--n5a|N||/leaders/blwh-n-2#N - Black
 zekrom|52|fusion-bolt,zen-headbutt,giga-impact,light-screen|teravolt||
 klinklang|50|flash-cannon,metal-sound,hyper-beam,thunderbolt|plus||
 zoroark|50|flamethrower,focus-blast,night-slash,retaliate|illusion||
@@ -28,7 +28,7 @@ carracosta|50|stone-edge,aqua-jet,crunch,waterfall|sturdy||
 archeops|50|stone-edge,acrobatics,dragon-claw,crunch|defeatist||
 vanilluxe|50|blizzard,hail,flash-cannon,frost-breath|ice-body||
 
---n5b|N||#N - White
+--n5b|N||/leaders/blwh-n-2#N - White
 reshiram|52|hyper-beam,fusion-flare,extrasensory,reflect|turboblaze||
 klinklang|50|flash-cannon,metal-sound,hyper-beam,thunderbolt|plus||
 zoroark|50|flamethrower,focus-blast,night-slash,retaliate|illusion||
@@ -36,7 +36,7 @@ carracosta|50|stone-edge,aqua-jet,crunch,waterfall|sturdy||
 archeops|50|stone-edge,acrobatics,dragon-claw,crunch|defeatist||
 vanilluxe|50|blizzard,hail,flash-cannon,frost-breath|ice-body||
 
---gh|Ghestsis||#Ghestsis
+--gh|Ghestsis||/leaders/blwh-ghetsis#Ghestsis
 cofagrigus|52|toxic,shadow-ball,protect,psychic|mummy||
 bouffalant|52|head-charge,wild-charge,earthquake,poison-jab|reckless||
 seismitoad|52|muddy-water,rain-dance,earthquake,sludge-wave|swift-swim||
@@ -53,18 +53,18 @@ simisage|75|energy-ball,acrobatics,crunch,payback|gluttony|petaya-berry
 swoobat|75|air-slash,endeavor,psychic,psyshock|unaware
 zebstrika|77|pursuit,giga-impact,flame-charge,wild-charge|lightning-rod
 
---b1|Bianca||
+--b1|Bianca||/leaders/blwh-bianca
 oshawott|5|tackle,tail-whip|torrent||grass
 snivy|5|tackle,leer|overgrow||fire
 tepig|5|tackle,tail-whip|blaze||water
 
---b2|Bianca||
+--b2|Bianca||/leaders/blwh-bianca
 lillipup|6|leer,tackle,odor-sleuth|vital-spirit
 oshawott|7|tackle,tail-whip,water-gun|torrent||grass
 snivy|7|tackle,leer,vine-whip|overgrow||fire
 tepig|7|tackle,tail-whip,ember|blaze||water
 
---b3|Bianca||
+--b3|Bianca||/leaders/blwh-bianca
 herdier|18|bite,odor-sleuth,take-down,helping-hand|intimidate
 pansear|18|lick,incinerate,fury-swipes,yawn|gluttony||grass
 panpour|18|lick,water-gun,water-sport,fury-swipes|gluttony||fire
@@ -74,7 +74,7 @@ servine|20|wrap,growth,leaf-tornado,leech-seed|overgrow||fire
 pignite|20|defense-curl,flame-charge,arm-thrust,smog|blaze||water
 munna|18|yawn,moonlight,psybeam,imprison|forewarn
 
---b4|Bianca||
+--b4|Bianca||/leaders/blwh-bianca
 stoutland|38|crunch,roar,retaliate,work-up|intimidate
 simisear|38|leer,fury-swipes,lick,flame-burst|gluttony||grass
 simipour|38|leer,fury-swipes,lick,scald|gluttony||fire
@@ -84,7 +84,7 @@ serperior|40|slam,coil,mega-drain,leaf-blade|overgrow||fire
 emboar|40|heat-crash,assurance,rollout,take-down|blaze||water
 musharna|38|defense-curl,lucky-chant,psybeam,hypnosis|forewarn
 
---b5|Bianca||
+--b5|Bianca||/leaders/blwh-bianca
 herdier|26|crunch,odor-sleuth,take-down,work-up|intimidate
 pansear|26|amnesia,flame-burst,bite,yawn|gluttony||grass
 panpour|26|bite,taunt,scald,water-sport|gluttony||fire
@@ -94,31 +94,30 @@ servine|28|slam,mega-drain,leaf-tornado,leech-seed|overgrow||fire
 pignite|28|arm-thrust,smog,rollout,take-down|blaze||water
 munna|26|defense-curl,lucky-chant,psybeam,hypnosis|forewarn
 
-
---c1|Cheren||
+--c1|Cheren||/leaders/blwh-cheren
 oshawott|5|tackle,tail-whip|torrent||fire
 snivy|5|tackle,leer|overgrow||water
 tepig|5|tackle,tail-whip|blaze||grass
 
---c2|Cheren||
+--c2|Cheren||/leaders/blwh-cheren
 oshawott|7|tackle,tail-whip,water-gun|torrent|oran-berry|fire
 snivy|7|tackle,leer,vine-whip|overgrow|oran-berry|water
 tepig|7|tackle,tail-whip,ember|blaze|oran-berry|grass
 purrloin|8|scratch,growl,assist|limber
 
---c2|Cheren||
+--c2|Cheren||/leaders/blwh-cheren
 oshawott|7|tackle,tail-whip,water-gun|torrent|oran-berry|fire
 snivy|7|tackle,leer,vine-whip|overgrow|oran-berry|water
 tepig|7|tackle,tail-whip,ember|blaze|oran-berry|grass
 purrloin|8|scratch,growl,assist|limber
 
---c3|Cheren
+--c3|Cheren||/leaders/blwh-cheren
 oshawott|14|tackle,tail-whip,water-gun,water-sport|torrent|oran-berry|fire
 snivy|14|tackle,leer,vine-whip,wrap|overgrow|oran-berry|water
 tepig|14|tackle,tail-whip,ember,defense-curl|blaze|oran-berry|grass
 purrloin|12|fury-swipes,growl,assist,sand-attack|limber
 
---c4|Cheren
+--c4|Cheren||/leaders/blwh-cheren
 pidove|20|quick-attack,leer,air-cutter,roost|super-luck
 pansage|20|bite,fury-swipes,vine-whip,leech-seed|gluttony||grass
 pansear|20|bite,incinerate,yawn,fury-swipes|gluttony||fire
@@ -128,7 +127,7 @@ servine|22|leaf-tornado,leech-seed,growth,wrap|overgrow|sitrus-berry|water
 pignite|22|flame-charge,defense-curl,arm-thrust,smog|blaze|sitrus-berry|grass
 liepard|20|pursuit,torment,sand-attack,fury-swipes|unburden
 
---c5|Cheren
+--c5|Cheren||/leaders/blwh-cheren
 liepard|24|pursuit,torment,fake-out,fury-swipes|unburden
 pansage|24|bite,fury-swipes,seed-bomb,leech-seed|gluttony|miracle-seed|grass
 pansear|24|bite,flame-burst,yawn,fury-swipes|gluttony|charcoal|fire
@@ -138,7 +137,7 @@ servine|26|leaf-tornado,leech-seed,mega-drain,growth|overgrow|sitrus-berry|water
 pignite|26|flame-charge,rollout,arm-thrust,smog|blaze|sitrus-berry|grass
 tranquill|24|quick-attack,detect,air-cutter,roost|super-luck
 
---c6|Cheren
+--c6|Cheren||/leaders/blwh-cheren
 unfezant|43|razor-wind,detect,air-slash,taunt|super-luck|scope-lens
 simisage|43|leer,fury-swipes,lick,seed-bomb|gluttony|miracle-seed|grass
 simisear|43|leer,fury-swipes,lick,flame-burst|gluttony|charcoal|fire
@@ -148,7 +147,7 @@ samurott|45|aqua-tail,aqua-jet,slash,encore|torrent|leftovers|fire
 serperior|45|giga-drain,leaf-blade,coil,slash|overgrow|leftovers|water
 emboar|45|flame-charge,rollout,arm-thrust,smog|blaze|leftovers|grass
 
---c7|Cheren
+--c7|Cheren||/leaders/blwh-cheren
 liepard|65|fake-out,aerial-ace,shadow-claw,night-slash|unburden|sitrus-berry
 simisage|65|energy-ball,rock-slide,brick-break,payback|gluttony|miracle-seed|grass
 simisear|65|flamethrower,rock-slide,brick-break,payback|gluttony|charcoal|fire
@@ -161,77 +160,77 @@ serperior|67|leaf-storm,leaf-blade,coil,dragon-tail|overgrow|focus-sash|water
 emboar|67|flame-charge,rollout,arm-thrust,smog|blaze|focus-sash|grass
 
 # Gym leaders
---1|Chili, Cress or Cilan||
+--1|Chili, Cress or Cilan||/leaders/blwh-ccc
 lillipup|12|bite,work-up|pickup||
 pansear|14|incinerate,work-up|gluttony||grass
 panpour|14|water-gun,work-up|gluttony||fire
 pansage|14|vine-whip,work-up|gluttony||water
 
---2|Lenora|normal|#Black and White
+--2|Lenora|normal|/leaders/blwh-lenora#Black and White
 herdier|18|take-down,bite,retaliate,leer|intimidate||
 watchog|20|leer,crunch,retaliate,hypnosis|illuminate||
 
---3|Burgh|bug|#Black and White
+--3|Burgh|bug|/leaders/blwh-burgh#Black and White
 whirlipede|21|poison-tail,struggle-bug,screech,pursuit|swarm||
 dwebble|21|smack-down,struggle-bug,sand-attack,feint-attack|shell-armor||
 leavanny|23|razor-leaf,protect,string-shot,struggle-bug|swarm||
 
---4|Elesa|electric|#Black and White
+--4|Elesa|electric|/leaders/blwh-elesa#Black and White
 emolga|25|volt-switch,aerial-ace,pursuit,quick-attack|static||
 emolga|25|volt-switch,aerial-ace,pursuit,quick-attack|static||
 zebstrika|27|flame-charge,spark,volt-switch,quick-attack|lightning-rod||
 
---5|Clay|ground|#Black and White
+--5|Clay|ground|/leaders/blwh-clay#Black and White
 krokorok|29|swagger,crunch,bulldoze,torment|moxie||
 palpitoad|29|aqua-ring,bulldoze,muddy-water,bubble-beam|swift-swim||
 excadrill|31|hone-claws,slash,rock-slide,bulldoze|sand-rush||
 
---6|Skyla|flying|#Black and White
+--6|Skyla|flying|/leaders/blwh-skyla#Black and White
 swoobat|33|amnesia,heart-stamp,acrobatics,assurance|unaware||
 unfezant|33|quick-attack,razor-wind,air-slash,leer|big-pecks||
 swanna|35|aqua-ring,aerial-ace,air-slash,bubble-beam|keen-eye||
 
---7|Brycen|ice|#Black and White
+--7|Brycen|ice|/leaders/blwh-brycen#Black and White
 vanillish|37|frost-breath,acid-armor,astonish,mirror-shot|ice-body||
 beartic|39|swagger,icicle-crash,slash,brine|snow-cloak||
 cryogonal|37|aurora-beam,reflect,frost-breath,rapid-spin|levitate||
 
---8a|Drayden|dragon|#Black
+--8a|Drayden|dragon|/leaders/blwh-drayden#Black
 fraxure|41|dragon-tail,dragon-dance,assurance,dragon-rage|rivalry||
 druddigon|41|night-slash,revenge,dragon-tail,chip-away|rough-skin||
 haxorus|43|dragon-tail,dragon-dance,slash,assurance|mold-breaker||
 
---8b|Iris|dragon|#Black
+--8b|Iris|dragon|/leaders/blwh-iris#Black
 fraxure|41|dragon-tail,dragon-dance,assurance,dragon-rage|rivalry||
 druddigon|41|night-slash,revenge,dragon-tail,chip-away|rough-skin||
 haxorus|43|dragon-tail,dragon-dance,slash,assurance|mold-breaker||
 
---e1|Shauntal|ghost|#Shauntal
+--e1|Shauntal|ghost|/leaders/blwh-shauntal#Shauntal
 cofagrigus|48|psychic,will-o-wisp,shadow-ball,grass-knot|mummy||
 jellicent|48|shadow-ball,surf,energy-ball,brine|cursed-body||
 golurk|48|curse,brick-break,earthquake,shadow-punch|iron-fist||
 chandelure|50|fire-blast,psychic,shadow-ball,payback|flame-body||
 
---e2|Grimsley|dark|#Grimsley
+--e2|Grimsley|dark|/leaders/blwh-grimsley#Grimsley
 scrafty|48|sand-attack,crunch,poison-jab,brick-break|moxie||
 krookodile|48|crunch,dragon-claw,foul-play,earthquake|intimidate||
 liepard|48|fake-out,attract,aerial-ace,night-slash|limber||
 bisharp|50|x-scissor,night-slash,metal-claw,aerial-ace|defiant||
 
---e3|Caitlin|psychic|#Caitlin
+--e3|Caitlin|psychic|/leaders/blwh-caitlin#Caitlin
 reuniclus|48|energy-ball,thunder,focus-blast,psychic|magic-guard||
 sigilyph|48|air-slash,shadow-ball,ice-beam,psychic|wonder-skin||
 musharna|48|shadow-ball,psychic,charge-beam,reflect|synchronize||
 gothitelle|50|calm-mind,thunderbolt,psychic,shadow-ball|frisk||
 
---e4|Marshal|fighting|#Marshal
+--e4|Marshal|fighting|/leaders/blwh-marshal#Marshal
 throh|48|stone-edge,payback,bulldoze,storm-throw|guts||
 sawk|48|stone-edge,karate-chop,grass-knot,retaliate|sturdy||
 conkeldurr|48|stone-edge,hammer-arm,retaliate,grass-knot|sheer-force||
 mienshao|50|u-turn,jump-kick,rock-slide,retaliate|inner-focus||
 
 # Round 2
---e5|Shauntal|ghost|#Shauntal
+--e5|Shauntal|ghost|/leaders/blwh-shauntal#Shauntal
 cofagrigus|71|psychic,will-o-wisp,shadow-ball,energy-ball|mummy||
 jellicent|71|sludge-wave,shadow-ball,hydro-pump,psychic|cursed-body||
 golurk|71|hammer-arm,earthquake,shadow-punch,curse|iron-fist||
@@ -239,7 +238,7 @@ froslass|71|blizzard,ice-shard,shadow-ball,psychic|snow-cloak
 drifblim|71|thunder,shadow-ball,acrobatics,psychic|aftermath
 chandelure|73|fire-blast,psychic,shadow-ball,payback|flame-body||
 
---e6|Grimsley|dark|#Grimsley
+--e6|Grimsley|dark|/leaders/blwh-grimsley#Grimsley
 sharpedo|71|waterfall,night-slash,earthquake,aqua-jet|rough-skin
 scrafty|71|crunch,poison-jab,head-smash,brick-break|moxie||
 krookodile|71|outrage,earthquake,foul-play,smack-down|intimidate||
@@ -247,7 +246,7 @@ liepard|71|sucker-punch,fake-out,attract,aerial-ace|limber||
 drapion|71|poison-fang,fire-fang,thunder-fang,crunch|battle-armor
 bisharp|73|x-scissor,night-slash,guillotine,aerial-ace|defiant||
 
---e7|Caitlin|psychic|#Caitlin
+--e7|Caitlin|psychic|/leaders/blwh-caitlin#Caitlin
 musharna|71|psychic,reflect,hypnosis,dream-eater|synchronize||
 sigilyph|71|air-slash,flash-cannon,ice-beam,psychic|wonder-skin||
 reuniclus|71|energy-ball,thunder,focus-blast,psychic|magic-guard||
@@ -255,7 +254,7 @@ gothitelle|71|flatter,payback,thunderbolt,psychic|frisk||
 bronzong|71|payback,charge-beam,flash-cannon,psychic|levitate
 metagross|73|bullet-punch,earthquake,zen-headbutt,giga-impact|clear-body
 
---e8|Marshal|fighting|#Marshal
+--e8|Marshal|fighting|/leaders/blwh-marshal#Marshal
 breloom|71|spore,grass-knot,sky-uppercut,mach-punch|effect-spore
 throh|71|earthquake,superpower,retaliate,grass-knot|guts||
 sawk|71|close-combat,stone-edge,poison-jab,retaliate|sturdy||
@@ -263,7 +262,7 @@ toxicroak|71|earthquake,low-sweep,toxic,venoshock|anticipation
 mienshao|71|u-turn,high-jump-kick,fake-out,acrobatics|inner-focus||
 conkeldurr|73|stone-edge,hammer-arm,payback,earthquake|sheer-force||
 
---c|Alder|
+--c|Alder||/leaders/blwh-alder
 accelgor|75|bug-buzz,focus-blast,me-first,energy-ball|hydration
 bouffalant|75|head-charge,megahorn,stone-edge,earthquake|sap-sipper
 druddigon|75|night-slash,payback,outrage,superpower|rough-skin
@@ -271,7 +270,7 @@ vanilluxe|75|blizzard,light-screen,flash-cannon,acid-armor|ice-body
 escavalier|75|x-scissor,giga-impact,iron-head,aerial-ace|swarm
 volcarona|77|overheat,hyper-beam,bug-buzz,quiver-dance|flame-body
 
---cc|Cynthia
+--cc|Cynthia||/leaders/dp-cynthia
 spiritomb|75|sucker-punch,shadow-ball,will-o-wisp,double-team|pressure
 eelektross|75|crunch,wild-charge,dragon-claw,flamethrower|levitate
 milotic|75|hydro-pump,dragon-tail,blizzard,bulldoze|marvel-scale

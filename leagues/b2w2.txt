@@ -1,32 +1,32 @@
 # Evil team
 
---col1|Colress|steel
+--col1|Colress|steel|/leaders/blwh-colress
 magnemite|21|thunder-wave,spark,magnet-bomb|sturdy
 klink|23|charge,thunder-shock,gear-grind|plus
 
---col3|Colress|steel
+--col3|Colress|steel|/leaders/blwh-colress
 magneton|50|thunder-wave,volt-switch,tri-attack,flash-cannon|sturdy|eviolite
 beheeyem|50|psychic,calm-mind,energy-ball,recover|synchronize
 metang|50|meteor-mash,rock-slide,agility,zen-headbutt|clear-body
 magnezone|50|discharge,thunder-wave,flash-cannon,explosion|sturdy
 klinklang|52|shift-gear,gear-grind,thunderbolt,giga-impact|plus|air-balloon
 
---rood|Rood
+--rood|Rood||/leaders/blwh-rood
 herdier|27|helping-hand,take-down,work-up,crunch|intimidate
 swoobat|27|heart-stamp,imprison,air-cutter,attract|unaware
 
---zinz1|Zinzolin & Grunt
+--zinz1|Zinzolin & Grunt||/leaders/blwh-zinzolin-grunt
 cryogonal|42|light-screen,reflect,slash,ice-beam|levitate
 sneasel|44|snatch,punishment,slash,screech|inner-focus
 golbat|39|air-cutter,acrobatics,mean-look,poison-fang|inner-focus
 garbodor|39|sludge-bomb,clear-smog,toxic,body-slam|weak-armor
 
---zinz2|Zinzolin
+--zinz2|Zinzolin||/leaders/blwh-zinzolin
 cryogonal|46|slash,ice-beam,confuse-ray,reflect|levitate
 cryogonal|46|slash,ice-beam,confuse-ray,reflect|levitate
 weavile|48|slash,metal-claw,night-slash,ice-shard|pressure
 
---zinz3|Zinzolin & grunt
+--zinz3|Zinzolin & grunt||/leaders/blwh-zinzolin-grunt
 cryogonal|48|slash,ice-beam,confuse-ray,reflect|levitate
 cryogonal|48|slash,ice-beam,confuse-ray,light-screen|levitate
 weavile|50|slash,metal-claw,night-slash,ice-shard|pressure
@@ -34,32 +34,32 @@ liepard|45|taunt,assurance,night-slash,slash|limber
 watchog|45|slam,hyper-fang,baton-pass,mean-look|illuminate
 scolipede|45|steamroller,agility,baton-pass,toxic|poison-point
 
---zinz4|Zinzolin
+--zinz4|Zinzolin||/leaders/blwh-zinzolin
 cryogonal|49|slash,ice-beam,confuse-ray,reflect|levitate
 cryogonal|49|slash,ice-beam,confuse-ray,light-screen|levitate
 weavile|51|slash,metal-claw,night-slash,ice-shard|pressure
 
---shad|Shadow
+--shad|Shadow||/leaders/blwh-shadow
 pawniard|46|metal-claw,feint-attack,slash,scary-face|defiant
 pawniard|46|metal-claw,feint-attack,slash,scary-face|inner-focus
 absol|48|swords-dance,slash,night-slash,future-sight|super-luck
 
---shad1|Shadow
+--shad1|Shadow||/leaders/blwh-shadow
 pawniard|49|metal-claw,feint-attack,slash,scary-face|defiant
 pawniard|49|metal-claw,feint-attack,slash,hone-claws|inner-focus
 absol|51|swords-dance,slash,night-slash,future-sight|super-luck
 
---shad2|Shadow
+--shad2|Shadow||/leaders/blwh-shadow
 pawniard|49|metal-claw,feint-attack,slash,scary-face|defiant
 pawniard|49|metal-claw,feint-attack,slash,hone-claws|inner-focus
 banette|51|shadow-claw,will-o-wisp,psychic,sucker-punch|insomnia
 
---shad3|Shadow
+--shad3|Shadow||/leaders/blwh-shadow
 pawniard|49|metal-claw,feint-attack,slash,scary-face|defiant
 pawniard|49|metal-claw,feint-attack,slash,hone-claws|inner-focus
 accelgor|51|bug-buzz,giga-drain,me-first,swift|hydration
 
---ghetsis|Ghetsis
+--ghetsis|Ghetsis||/leaders/blwh-ghetsis-2
 cofagrigus|50|shadow-ball,psychic,protect,toxic|mummy|leftovers
 seismitoad|50|muddy-water,earthquake,drain-punch,sludge-wave|poison-touch
 eelektross|50|flamethrower,acrobatics,thunderbolt,crunch|levitate
@@ -69,7 +69,7 @@ hydreigon|52|dragon-rush,crunch,rock-slide,frustration|levitate|life-orb
 
 # Rival fights
 
---alder|Alder|
+--alder|Alder||/leaders/blwh-alder
 accelgor|60|focus-blast,acid-spray,giga-drain,bug-buzz|sticky-hold
 escavalier|60|x-scissor,swords-dance,iron-head,reversal|shell-armor
 bouffalant|60|wild-charge,earthquake,megahorn,head-charge|reckless
@@ -77,17 +77,17 @@ conkeldurr|60|stone-edge,superpower,earthquake,poison-jab|guts
 braviary|60|crush-claw,superpower,rock-slide,aerial-ace|keen-eye
 volcarona|62|quiver-dance,silver-wind,heat-wave,psychic|flame-body|sitrus-berry
 
---r1|Hugh|
+--r1|Hugh||/leaders/blwh-hugh
 tepig|5|tackle,tail-whip|blaze||grass
 oshawott|5|tackle,tail-whip|torrent||fire
 snivy|5|tackle,leer|overgrow||water
 
---r2|Hugh|
+--r2|Hugh||/leaders/blwh-hugh
 tepig|8|tackle,tail-whip|blaze||grass
 oshawott|8|tackle,tail-whip|torrent||fire
 snivy|8|tackle,leer|overgrow||water
 
---r3|Hugh|
+--r3|Hugh||/leaders/blwh-hugh
 pignite|25|take-down,smog,heat-crash,rollout|blaze||grass
 simipour|25|scald,leer,lick,fury-swipes|gluttony||grass
 dewott|25|aqua-jet,water-pulse,revenge,fury-cutter|torrent||fire
@@ -96,37 +96,31 @@ servine|25|leech-seed,leaf-blade,mega-drain,slam|overgrow||water
 simisear|25|flame-burst,leer,lick,fury-swipes|gluttony||water
 tranquill|25|air-cutter,roost,taunt,detect|super-luck
 
---r4|Hugh|
+--r4|Hugh||/leaders/blwh-hugh
 unfezant|39|taunt,air-slash,razor-wind,detect|super-luck|scope-lens
 simipour|39|scald,leer,lick,fury-swipes|gluttony|mystic-water|grass
 emboar|41|take-down,assurance,heat-crash,rollout|blaze|charcoal|grass
-
 simisage|39|seed-bomb,leer,lick,fury-swipes|gluttony|miracle-seed|fire
 dewott|41|aqua-jet,encore,revenge,slash|torrent|mystic-water|fire
-
 simisear|39|flame-burst,leer,lick,fury-swipes|gluttony|charcoal|water
 servine|41|coil,leaf-blade,mega-drain,slam|overgrow|miracle-seed|water
 
-
---r5|Hugh|
+--r5|Hugh||/leaders/blwh-hugh
 unfezant|55|facade,aerial-ace,u-turn,swagger|super-luck|scope-lens
 simipour|55|surf,rock-slide,crunch,brick-break|gluttony|mystic-water|grass
 simisage|55|energy-ball,crunch,brick-break,rock-slide|gluttony|miracle-seed|fire
 simisear|55|rock-slide,crunch,brick-break,flamethrower|gluttony|charcoal|water
-
 bouffalant|55|head-charge,wild-charge,megahorn,earthquake|sap-sipper
-
 emboar|57|flamethrower,rock-slide,brick-break,scald|blaze|charcoal|grass
 samurott|57|surf,x-scissor,revenge,ice-beam|torrent|mystic-water|fire
 serperior|57|giga-drain,leaf-blade,dragon-tail,coil|overgrow|miracle-seed|water
 
-
---ch|Cheren|normal
+--ch|Cheren|normal|/leaders/blwh-cheren-boss
 stoutland|25|tackle,work-up,odor-sleuth,bite|intimidate
 cinccino|25|sing,work-up,wake-up-slap,bullet-seed|cute-charm
 watchog|25|confuse-ray,work-up,hypnosis,bite|illuminate
 
---col2|Colress|steel
+--col2|Colress|steel|/leaders/blwh-colress
 magneton|25|thunder-wave,thunder-shock,supersonic,mirror-shot|sturdy
 elgyem|25|growl,headbutt,psybeam,heal-block|telepathy
 klink|25|charge,thunder-shock,gear-grind,bind|plus
@@ -143,93 +137,93 @@ clefairy|16|growl,double-slap,follow-me,encore|cute-charm|leftovers
 gurdurr|26|wake-up-slap,low-kick,rock-throw,chip-away|sheer-force
 boldore|26|iron-defense,mud-slap,power-gem,smack-down|sturdy
 
---charles|Charles
+--charles|Charles||/leaders/blwh-charles
 sigilyph|26|air-cutter,whirlwind,psybeam,light-screen|magic-guard
 archen|26|pluck,agility,ancient-power,quick-guard|defeatist
 tirtouga|26|wide-guard,ancient-power,aqua-jet,crunch|solid-rock
 
 # Gym leaders
 
---1n|Cheren|normal
+--1n|Cheren|normal|/leaders/blwh-cheren-boss
 patrat|11|tackle,work-up,bite|keen-eye
 lillipup|13|tackle,work-up,bite|vital-spirit
 
---1c|Cheren|normal
+--1c|Cheren|normal|/leaders/blwh-cheren-boss
 patrat|12|tackle,work-up,bite,detect|keen-eye|
 pidove|12|quick-attack,work-up,leer,growl|super-luck|
 lillipup|14|tackle,work-up,bite,helping-hand|vital-spirit|oran-berry
 
 
---2n|Roxie|poison
+--2n|Roxie|poison|/leaders/blwh-roxie
 koffing|16|assurance,tackle,smog|levitate
 whirlipede|18|venoshock,poison-sting,protect,pursuit|poison-point
 
---2c|Roxie|poison
+--2c|Roxie|poison|/leaders/blwh-roxie
 koffing|17|assurance,tackle,smog,venoshock|levitate|oran-berry
 grimer|17|venoshock,mud-slap,poison-gas,disable|stench
 whirlipede|19|venoshock,poison-sting,protect,rollout|poison-point|sitrus-berry
 
---3n|Burgh|bug
+--3n|Burgh|bug|/leaders/blwh-burgh
 dwebble|22|rock-polish,smack-down,feint-attack,struggle-bug|sturdy
 swadloon|22|string-shot,struggle-bug,protect,razor-leaf|leaf-guard|
 leavanny|24|cut,razor-leaf,string-shot,struggle-bug|swarm|sitrus-berry
 
---3c|Burgh|bug
+--3c|Burgh|bug|/leaders/blwh-burgh
 dwebble|24|rock-polish,rock-blast,feint-attack,struggle-bug|sturdy|sitrus-berry
 shelmet|24|acid,curse,mega-drain,struggle-bug|shell-armor|
 karrablast|24|endure,headbutt,aerial-ace,struggle-bug|shed-skin|
 leavanny|26|grass-whistle,razor-leaf,aerial-ace,struggle-bug|swarm|sitrus-berry
 
---4n|Elesa|electric
+--4n|Elesa|electric|/leaders/blwh-elesa
 emolga|28|quick-attack,pursuit,volt-switch|static
 flaaffy|28|thunder-wave,volt-switch,take-down|static
 zebstrika|30|volt-switch,pursuit,flame-charge,quick-attack|motor-drive|sitrus-berry
 
---4c|Elesa|electric
+--4c|Elesa|electric|/leaders/blwh-elesa
 emolga|30|quick-attack,pursuit,aerial-ace,volt-switch|static|sitrus-berry
 flaaffy|30|thunder-wave,volt-switch,confuse-ray,take-down|static
 joltik|30|thunder-wave,volt-switch,energy-ball,x-scissor|unnerve
 zebstrika|32|volt-switch,pursuit,flame-charge,stomp|motor-drive|sitrus-berry
 
---5n|Clay|ground
+--5n|Clay|ground|/leaders/blwh-clay
 krokorok|31|crunch,torment,sand-tomb,bulldoze|intimidate
 sandslash|31|bulldoze,rollout,crush-claw,fury-cutter|sand-veil
 excadrill|33|slash,bulldoze,metal-claw,rock-slide|sand-force|sitrus-berry
 
---5c|Clay|ground
+--5c|Clay|ground|/leaders/blwh-clay
 krokorok|34|crunch,torment,sandstorm,bulldoze|intimidate|sitrus-berry
 sandslash|34|bulldoze,rock-slide,crush-claw,hone-claws|sand-veil
 onix|34|explosion,bulldoze,rock-polish,rock-slide|sturdy
 excadrill|36|slash,bulldoze,metal-claw,rock-slide|sand-force|sitrus-berry
 
---6n|Skyla|flying
+--6n|Skyla|flying|/leaders/blwh-skyla
 swoobat|37|heart-stamp,attract,acrobatics,assurance|unaware
 skarmory|37|aerial-ace,steel-wing,fury-attack,agility|sturdy|sitrus-berry
 swanna|39|roost,feather-dance,air-slash,bubble-beam|big-pecks|sitrus-berry
 
---6c|Skyla|flying
+--6c|Skyla|flying|/leaders/blwh-skyla
 swoobat|40|psychic,acrobatics,energy-ball,attract|unaware
 skarmory|40|aerial-ace,steel-wing,x-scissor,agility|sturdy|sitrus-berry
 sigilyph|40|psychic,hypnosis,air-cutter,flash-cannon|magic-guard
 swanna|42|roost,feather-dance,air-slash,surf|big-pecks|sitrus-berry
 
---7n|Drayden|dragon
+--7n|Drayden|dragon|/leaders/blwh-drayden
 druddigon|46|revenge,crunch,slash,dragon-tail|sheer-force
 flygon|46|rock-slide,dragon-tail,crunch,earth-power|levitate
 haxorus|48|dragon-dance,dragon-tail,slash,assurance|mold-breaker|sitrus-berry
 
---7c|Drayden|dragon
+--7c|Drayden|dragon|/leaders/blwh-drayden
 druddigon|50|revenge,crunch,slash,rock-slide|sheer-force|sitrus-berry
 flygon|50|rock-slide,dragon-tail,crunch,earth-power|levitate
 altaria|50|cotton-guard,fire-blast,sing,dragon-pulse|natural-cure
 haxorus|52|dragon-dance,dragon-tail,x-scissor,shadow-claw|mold-breaker|sitrus-berry
 
---8n|Marlon|water
+--8n|Marlon|water|/leaders/blwh-marlon
 carracosta|49|smack-down,shell-smash,scald,crunch|sturdy
 wailord|49|scald,amnesia,rollout,bounce|water-veil
 jellicent|51|brine,scald,recover,ominous-wind|cursed-body|sitrus-berry
 
---8c|Marlon|water
+--8c|Marlon|water|/leaders/blwh-marlon
 wailord|53|scald,rain-dance,ice-beam,earthquake|water-veil
 mantine|53|air-slash,confuse-ray,ice-beam,scald|swift-swim
 carracosta|53|rock-slide,shell-smash,scald,crunch|sturdy|sitrus-berry
@@ -237,65 +231,59 @@ jellicent|55|energy-ball,recover,scald,shadow-ball|cursed-body|sitrus-berry
 
 # Elite four
 
---e1n|Shauntal|ghost
+--e1n|Shauntal|ghost|/leaders/blwh-shauntal
 cofagrigus|56|grass-knot,shadow-ball,will-o-wisp,psychic|mummy
 drifblim|56|acrobatics,thunderbolt,shadow-ball,psychic|aftermath
 golurk|56|heavy-slam,earthquake,brick-break,shadow-punch|iron-fist
 chandelure|58|fire-blast,energy-ball,shadow-ball,psychic|flame-body|sitrus-berry
 
---e1c|Shauntal|ghost
+--e1c|Shauntal|ghost|/leaders/blwh-shauntal
 cofagrigus|60|grass-knot,shadow-ball,will-o-wisp,psychic|mummy|leftovers
 drifblim|60|psychic,thunderbolt,shadow-ball,acrobatics|unburden|flying-gem
 golurk|60|heavy-slam,earthquake,brick-break,shadow-punch|iron-fist|expert-belt
 banette|60|shadow-claw,will-o-wisp,psychic,sucker-punch|insomnia|muscle-band
 chandelure|62|fire-blast,energy-ball,shadow-ball,psychic|flame-body|choice-scarf
 
---e2n|Grimsley|dark
+--e2n|Grimsley|dark|/leaders/blwh-grimsley
 liepard|56|fake-out,attract,night-slash,aerial-ace|limber
 scrafty|56|rock-tomb,crunch,brick-break,poison-jab|moxie
 krookodile|56|crunch,dragon-claw,rock-tomb,earthquake|intimidate
 bisharp|58|night-slash,aerial-ace,x-scissor,metal-claw|defiant|sitrus-berry
 
---e2c|Grimsley|dark
+--e2c|Grimsley|dark|/leaders/blwh-grimsley
 liepard|60|fake-out,attract,night-slash,aerial-ace|unburden|normal-gem
 scrafty|60|rock-tomb,crunch,brick-break,poison-jab|moxie|leftovers
 krookodile|60|crunch,dragon-claw,rock-tomb,earthquake|intimidate|expert-belt
 absol|60|swords-dance,psycho-cut,x-scissor,night-slash|super-luck|muscle-band
 bisharp|62|metal-claw,aerial-ace,x-scissor,night-slash|defiant|quick-claw
 
---e3n|Caitlin|psychic
+--e3n|Caitlin|psychic|/leaders/blwh-caitlin
 musharna|56|reflect,yawn,dream-eater,charge-beam|synchronize
 sigilyph|56|psychic,shadow-ball,ice-beam,air-slash|wonder-skin
 reuniclus|56|psychic,energy-ball,focus-blast,recover|magic-guard
 gothitelle|58|calm-mind,psychic,shadow-ball,thunderbolt|frisk|sitrus-berry
 
---e3c|Caitlin|psychic
+--e3c|Caitlin|psychic|/leaders/blwh-caitlin
 musharna|60|reflect,hypnosis,dream-eater,charge-beam|synchronize|zoom-lens
 sigilyph|60|psychic,shadow-ball,ice-beam,air-slash|wonder-skin|expert-belt
 reuniclus|60|psychic,energy-ball,focus-blast,recover|magic-guard|leftovers
 gothitelle|60|calm-mind,psychic,shadow-ball,thunderbolt|frisk|wise-glasses
 metagross|62|zen-headbutt,bullet-punch,hammer-arm,shadow-ball|clear-body|life-orb
 
---e3n|Caitlin|psychic
-musharna|56|reflect,yawn,dream-eater,charge-beam|synchronize
-sigilyph|56|psychic,shadow-ball,ice-beam,air-slash|wonder-skin
-reuniclus|56|psychic,energy-ball,focus-blast,recover|magic-guard
-gothitelle|58|calm-mind,psychic,shadow-ball,thunderbolt|frisk|sitrus-berry
-
---e4n|Caitlin|fighting
+--e4n|Marshal|fighting|/leaders/blwh-marshal
 throh|56|storm-throw,bulldoze,rock-tomb,payback|guts
 sawk|56|brick-break,rock-slide,retaliate,payback|sturdy
 mienshao|56|high-jump-kick,u-turn,bounce,retaliate|regenerator
 conkeldurr|58|hammer-arm,bulk-up,stone-edge,retaliate|sheer-force|sitrus-berry
 
---e4c|Caitlin|fighting
+--e4c|Marshal|fighting|/leaders/blwh-marshal
 throh|60|storm-throw,bulldoze,rock-tomb,payback|guts|leftovers
 sawk|60|brick-break,rock-slide,retaliate,payback|sturdy|muscle-band
 mienshao|60|high-jump-kick,u-turn,bounce,retaliate|regenerator|expert-belt
 lucario|60|shadow-ball,aura-sphere,psychic,calm-mind|inner-focus|wise-glasses
 conkeldurr|62|hammer-arm,bulk-up,stone-edge,earthquake|guts|flame-orb
 
---cc|Iris
+--cc|Iris||/leaders/blwh-iris-champion
 hydreigon|61|dragon-pulse,surf,fire-blast,focus-blast|levitate|wise-glasses
 druddigon|61|outrage,fire-punch,thunder-punch,focus-blast|sheer-force|life-orb
 aggron|61|head-smash,double-edge,earthquake,autotomize|rock-head|muscle-band
@@ -303,7 +291,7 @@ archeops|61|acrobatics,stone-edge,dragon-claw,endeavor|defeatist|flying-gem
 lapras|61|hydro-pump,blizzard,thunder,sing|water-absorb|wide-lens
 haxorus|63|outrage,dragon-dance,earthquake,x-scissor|mold-breaker|focus-sash
 
---cn|Iris
+--cn|Iris||/leaders/blwh-iris-champion
 hydreigon|57|dragon-pulse,surf,flamethrower,charge-beam|levitate|
 druddigon|57|dragon-tail,rock-slide,flamethrower,focus-blast|sheer-force|life-orb
 aggron|57|rock-slide,double-edge,earthquake,autotomize|rock-head|

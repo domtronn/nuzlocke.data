@@ -1,23 +1,23 @@
 # Evil team
---archer|Executive Archer||/leaders/archer
+--archer|Executive Archer||/leaders/gs-archer
 houndour|35|feint-attack,fire-fang,bite,roar|early-bird||
 koffing|35|sludge,smokescreen,tackle,haze|levitate||
 houndoom|38|feint-attack,fire-fang,bite,smog|early-bird||
 
---proton1|Executive Proton||/leaders/proton
+--proton1|Executive Proton||/leaders/gs-proton
 zubat|8|leech-life,supersonic|inner-focus||
 koffing|12|poison-gas,tackle,smog,smokescreen|levitate||
 
---proton2|Executive Proton||
+--proton2|Executive Proton||/leaders/gs-proton
 golbat|28|wing-attack,confuse-ray,leech-life,bite|inner-focus||
 weezing|33|sludge,double-hit,smokescreen,smog|levitate|
 
---petrel1|Executive Petrel||/leaders/petrel
+--petrel1|Executive Petrel||/leaders/gs-petrel
 zubat|22|astonish,bite,wing-attack,confuse-ray|inner-focus||
 koffing|22|smog,smokescreen,assurance,self-destruct|levitate||
 raticate|24|hyper-fang,sucker-punch,scary-face,crunch|guts||
 
---petrel2|Executive Petrel||/leaders/petrel
+--petrel2|Executive Petrel||/leaders/gs-petrel
 koffing|30|sludge,smokescreen,self-destruct,tackle|levitate||
 koffing|30|sludge,smokescreen,self-destruct,tackle|levitate||
 koffing|30|sludge,smokescreen,self-destruct,tackle|levitate||
@@ -25,37 +25,37 @@ koffing|30|sludge,smokescreen,self-destruct,tackle|levitate||
 koffing|30|sludge,smokescreen,self-destruct,tackle|levitate||
 weezing|33|tackle,sludge,smokescreen,explosion|levitate||
 
---ariana1|Executive Ariana & Grunt||/leaders/ariana
+--ariana1|Executive Ariana & Grunt||/leaders/gs-ariana
 arbok|25|wrap,poison-sting,crunch,glare|intimidate||
 gloom|25|sweet-scent,mega-drain,acid,sleep-powder|chlorophyll||
 murkrow|27|night-shade,wing-attack,astonish,pursuit|super-luck||
 drowzee|18|disable,confusion,headbutt,poison-gas|insomnia||
 grimer|20|mud-slap,minimize,disable,sludge|stench||
 
---ariana2|Executive Ariana||/leaders/ariana
+--ariana2|Executive Ariana||/leaders/gs-ariana
 arbok|32|wrap,poison-sting,crunch,glare|intimidate||
 vileplume|32|sweet-scent,mega-drain,acid,sleep-powder|chlorophyll||
 murkrow|32|night-shade,wing-attack,astonish,pursuit|super-luck||
 
 # Rival fights
---eusine|Eusine||/leaders/eusine
+--eusine|Eusine||/leaders/gs-eusine
 drowzee|25|hypnosis,disable,confusion,dream-eater|insomnia
 haunter|25|hypnosis,lick,mean-look,curse|levitate
 electrode|27|sonic-boom,rollout,screech,thunder|static
 
---r1|Silver||/leaders/silver
+--r1|Silver||/leaders/gs-silver
 cyndaquil|5|tackle,leer|blaze||grass
 totodile|5|scratch,leer|torrent||fire
 chikorita|5|tackle,growl|overgrow||water
 
---r2|Silver||/leaders/silver
+--r2|Silver||/leaders/gs-silver
 gastly|14|lick,spite,mean-look,curse|levitate||
 zubat|16|leech-life,supersonic,astonish,bite|inner-focus||
 quilava|18|leer,smokescreen,ember,quick-attack|blaze||grass
 croconaw|18|water-gun,rage,bite,scary-face|torrent||fire
 bayleef|18|poison-powder,reflect,synthesis,razor-leaf|overgrow||grass
 
---r3|Silver||/leaders/silver# Burned tower
+--r3|Silver||/leaders/gs-silver# Burned tower
 gastly|20|lick,confuse-ray,mean-look,curse|levitate||
 zubat|20|wing-attack,supersonic,astonish,bite|inner-focus||
 magnemite|18|thunder-shock,supersonic,sonic-boom,thunder-wave|magnet-pull||
@@ -63,7 +63,7 @@ quilava|22|flame-wheel,smokescreen,ember,quick-attack|blaze||grass
 croconaw|22|water-gun,scary-face,ice-fang,bite|torrent||fire
 bayleef|22|reflect,magical-leaf,poison-powder,synthesis|overgrow||grass
 
---r4|Silver||/leaders/silver#Goldenrod tunnel
+--r4|Silver||/leaders/gs-silver#Goldenrod tunnel
 golbat|32|air-cutter,confuse-ray,bite,astonish|inner-focus||
 magnemite|30|thunder-wave,spark,supersonic,sonic-boom|magnet-pull||
 haunter|32|shadow-ball,confuse-ray,mean-look,curse|levitate||
@@ -72,7 +72,7 @@ quilava|34|smokescreen,swift,quick-attack,flame-wheel|blaze||grass
 feraligatr|32|water-gun,ice-fang,crunch,thrash|torrent||fire
 meganium|34|reflect,petal-dance,poison-powder,synthesis|overgrow||grass
 
---r5|Silver||/leaders/silver#Victory road
+--r5|Silver||/leaders/gs-silver#Victory road
 sneasel|36|feint-attack,quick-attack,icy-wind,fury-swipes|inner-focus||
 golbat|38|air-cutter,confuse-ray,bite,astonish|inner-focus||
 magneton|37|thunder-wave,spark,supersonic,magnet-bomb|magnet-pull||
@@ -82,7 +82,7 @@ typhlosion|40|lava-plume,flame-wheel,swift,quick-attack,flame-wheel|blaze||grass
 feraligatr|40|waterfall,ice-fang,crunch,slash|torrent||fire
 meganium|40|petal-dance,synthesis,reflect,poison-powder|overgrow||grass
 
---r6|Silver||/leaders/silver# Mt Moon
+--r6|Silver||/leaders/gs-silver# Mt Moon
 sneasel|46|feint-attack,shadow-claw,icy-wind,quick-attack|inner-focus||
 golbat|47|poison-fang,air-cutter,confuse-ray,bite|inner-focus||
 magneton|46|discharge,thunder-wave,magnet-bomb,supersonic|magnet-pull||
@@ -93,75 +93,75 @@ feraligatr|50|waterfall,ice-fang,crunch,slash|torrent||fire
 meganium|50|petal-dance,synthesis,light-screen,poison-powder|overgrow||grass
 
 # Gym leaders
---1|Falkner|flying|/leaders/falkner
+--1|Falkner|flying|/leaders/gs-falkner
 pidgey|9|tackle,sand-attack|keen-eye|
 pidgeotto|13|tackle,roost,gust|keen-eye|
 
---2|Bugsy|bug|/leaders/bugsy
+--2|Bugsy|bug|/leaders/gs-bugsy
 scyther|17|quick-attack,leer,u-turn,focus-energy|technician|sitrus-berry
 kakuna|15|poison-sting|shed-skin|
 metapod|15|tackle|shed-skin|
 
---3|Whitney|normal|/leaders/whitney
+--3|Whitney|normal|/leaders/gs-whitney
 clefairy|17|double-slap,mimic,encore,metronome|cute-charm|
 miltank|19|rollout,attract,stomp,milk-drink|scrappy|lum-berry
 
---4|Morty|ghost|/leaders/morty
+--4|Morty|ghost|/leaders/gs-morty
 gastly|21|lick,spite,mean-look,curse|levitate|
 haunter|21|hypnosis,dream-eater,curse,nightmare|levitate|
 gengar|25|hypnosis,shadow-ball,mean-look,sucker-punch|levitate|sitrus-berry
 haunter|23|curse,mean-look,sucker-punch,night-shade|levitate|
 
---5|Chuck|fighting|/leaders/chuck
+--5|Chuck|fighting|/leaders/gs-chuck
 primeape|29|leer,double-team,focus-punch,rock-slide|vital-spirit|
 poliwrath|31|hypnosis,surf,focus-punch,body-slam|water-absorb|sitrus-berry
 
---6|Jasmine|steel|/leaders/jasmine
+--6|Jasmine|steel|/leaders/gs-jasmine
 magnemite|30|thunderbolt,supersonic,sonic-boom,thunder-wave|magnet-pull|
 magnemite|30|thunderbolt,supersonic,sonic-boom,thunder-wave|sturdy|
 steelix|35|screech,sandstorm,rock-throw,iron-tail|sturdy|sitrus-berry
 
---7|Pryce|ice|/leaders/pryce
+--7|Pryce|ice|/leaders/gs-pryce
 seel|30|snore,hail,icy-wind,rest|thick-fat|
 dewgong|32|sleep-talk,ice-shard,aurora-beam,rest|thick-fat|
 piloswine|34|hail,ice-fang,mud-bomb,blizzard|snow-cloak|sitrus-berry
 
---8|Clair|dragon|/leaders/clair
+--8|Clair|dragon|/leaders/gs-clair
 gyarados|38|twister,dragon-rage,bite,dragon-pulse|intimidate|
 dragonair|38|thunder-wave,fire-blast,slam,dragon-pulse|shed-skin|
 dragonair|38|thunder-wave,aqua-tail,slam,dragon-pulse|shed-skin|
 kingdra|41|smokescreen,hydro-pump,hyper-beam,dragon-pulse|sniper|sitrus-berry
 
 # Elite four
---e1|Will|psychic|/leaders/will
+--e1|Will|psychic|/leaders/gs-will
 xatu|40|u-turn,me-first,confuse-ray,psychic|synchronize|
 jynx|41|double-slap,lovely-kiss,ice-punch,psychic|oblivious|
 exeggutor|31|reflect,hypnosis,egg-bomb,psychic|chlorophyll|
 slowbro|41|curse,amnesia,water-pulse,psychic|own-tempo|
 xatu|42|aerial-ace,ominous-wind,confuse-ray,psychic|early-bird|sitrus-berry
 
---e2|Koga|poison|/leaders/koga
+--e2|Koga|poison|/leaders/gs-koga
 ariados|40|poison-jab,spider-web,baton-pass,giga-drain|insomnia|
 venomoth|41|supersonic,gust,psychic,toxic|shield-dust|
 forretress|43|protect,swift,explosion,toxic-spikes|sturdy|
 muk|42|minimize,screech,gunk-shot,toxic|sticky-hold|black-sludge
 crobat|44|double-team,quick-attack,wing-attack,poison-fang|inner-focus|sitrus-berry
 
---e3|Bruno|fighting|/leaders/bruno
+--e3|Bruno|fighting|/leaders/gs-bruno
 hitmontop|42|counter,quick-attack,dig,triple-kick|technician|
 hitmonlee|42|swagger,focus-energy,high-jump-kick,blaze-kick|reckless|
 hitmonchan|42|thunder-punch,ice-punch,fire-punch,bullet-punch|iron-fist|
 onix|43|dragon-breath,earthquake,sandstorm,rock-slide|sturdy|
 machamp|46|rock-slide,foresight,revenge,cross-chop|no-guard|sitrus-berry
 
---e4|Karen|dark|/leaders/karen
+--e4|Karen|dark|/leaders/gs-karen
 umbreon|42|double-team,confuse-ray,feint-attack,payback|synchronize|
 vileplume|42|stun-spore,acid,moonlight,petal-dance|chlorophyll|
 gengar|45|lick,spite,focus-blast,destiny-bond|levitate|
 murkrow|44|pluck,whirlwind,sucker-punch,feint-attack|super-luck|
 houndoom|47|nasty-plot,dark-pulse,flamethrower,crunch|early-bird|sitrus-berry
 
---c|Lance|dragon|/leaders/lance
+--c|Lance|dragon|/leaders/gs-lance
 gyarados|46|flail,dragon-pulse,waterfall,ice-fang|intimidate|
 dragonite|49|thunder-wave,dragon-rush,thunder,hyper-beam|inner-focus|
 dragonite|49|thunder-wave,dragon-rush,blizzard,hyper-beam|inner-focus|
@@ -170,51 +170,51 @@ charizard|48|shadow-claw,air-slash,dragon-claw,fire-fang|blaze|
 dragonite|50|fire-blast,safeguard,outrage,hyper-beam|inner-focus|sitrus-berry
 
 # Kanto gym leaders
---k1|Lt. Surge|electric|/leaders/surge2
+--k1|Lt. Surge|electric|/leaders/gs-surge2
 raichu|51|thunder-wave,shock-wave,quick-attack,double-team|static|
 electrode|47|thunder-wave,double-team,shock-wave,light-screen|static|
 electrode|47|screech,double-team,self-destruct,charge-beam|static|
 magneton|47|supersonic,double-team,shock-wave,mirror-shot|sturdy|
 electabuzz|53|light-screen,shock-wave,quick-attack,low-kick|static|sitrus-berry
 
---k2|Sabrina|psychic|/leaders/sabrina2
+--k2|Sabrina|psychic|/leaders/gs-sabrina2
 espeon|53|calm-mind,shadow-ball,psychic,skill-swap|synchronize
 mr-mime|53|mimic,light-screen,psychic,skill-swap|filter
 alakazam|55|psychic,skill-swap,reflect,energy-ball|inner-focus|sitrus-berry
 
---k3|Erika|grass|/leaders/erika2
+--k3|Erika|grass|/leaders/gs-erika2
 jumpluff|51|leech-seed,u-turn,giga-drain,sunny-day|chlorophyll|
 tangela|52|ancient-power,wring-out,giga-drain,sleep-powder|chlorophyll|
 victreebel|56|sunny-day,grass-knot,leaf-storm,razor-leaf|chlorophyll|
 bellossom|56|sunny-day,solar-beam,giga-drain,synthesis|chlorophyll|sitrus-berry
 
---k4|Janine|poison|/leaders/janine
+--k4|Janine|poison|/leaders/gs-janine
 crobat|47|confuse-ray,screech,wing-attack,supersonic|inner-focus
 weezing|44|sludge-bomb,toxic,explosion,double-hit|levitate
 ariados|47|swagger,night-shade,poison-jab,pin-missile|insomnia
 ariados|47|psychic,poison-jab,scary-face,pin-missile|insomnia
 venomoth|50|double-team,psychic,sludge-bomb,signal-beam|tinted-lens|sitrus-berry
 
---k5|Misty|water|/leaders/misty2
+--k5|Misty|water|/leaders/gs-misty2
 golduck|49|water-pulse,disable,psychic,psych-up|damp|
 quagsire|49|water-pulse,amnesia,rain-dance,earthquake|water-absorb
 lapras|52|ice-beam,sing,water-pulse,body-slam|shell-armor|
 starmie|54|water-pulse,confuse-ray,ice-beam,recover|natural-cure|sitrus-berry
 
 
---k6|Brock|rock|/leaders/brock2
+--k6|Brock|rock|/leaders/gs-brock2
 graveler|51|defense-curl,rock-slide,rollout,earthquake|sturdy|
 rhyhorn|51|sandstorm,scary-face,earthquake,horn-drill|lightning-rod
 omastar|53|ancient-power,brine,protect,spike-cannon|shell-armor
 onix|54|iron-tail,rock-slide,screech,sandstorm|rock-head|sitrus-berry
 kabutops|54|rock-slide,aqua-jet,endure,giga-drain|battle-armor|
 
---k7|Blaine|fire|/leaders/blaine2
+--k7|Blaine|fire|/leaders/gs-blaine2
 magcargo|54|sunny-day,smog,overheat,rock-slide|flame-body|white-herb
 magmar|54|thunder-punch,overheat,sunny-day,confuse-ray|flame-body|white-herb
 rapidash|59|quick-attack,flare-blitz,bounce,overheat|flash-fire|white-herb
 
---k8|Blue||/leaders/blue
+--k8|Blue||/leaders/gs-blue
 exeggutor|55|leaf-storm,psychic,hypnosis,trick-room|chlorophyll
 arcanine|58|roar,dragon-pulse,flare-blitz,extreme-speed|intimidate
 rhydon|58|megahorn,stone-edge,thunder-fang,earthquake|rock-head
@@ -222,12 +222,10 @@ gyarados|52|ice-fang,waterfall,dragon-dance,return|intimidate
 machamp|56|dynamic-punch,earthquake,stone-edge,thunder-punch|no-guard
 pidgeot|60|return,whirlwind,air-slash,mirror-move|keen-eye|sitrus-berry
 
---red|Red||/leaders/red
+--red|Red||/leaders/gs-red
 pikachu|88|volt-tackle,iron-tail,quick-attack,thunderbolt|static|light-ball
 lapras|80|blizzard,brine,psychic,body-slam|shell-armor|
 snorlax|82|shadow-ball,crunch,blizzard,giga-impact|thick-fat|
 venusaur|84|sludge-bomb,giga-drain,sleep-powder,frenzy-plant|overgrow|
 charizard|84|flare-blitz,air-slash,blast-burn,dragon-pulse|blaze|
 blastoise|84|focus-blast,hydro-cannon,blizzard,flash-cannon|torrent|
-
-

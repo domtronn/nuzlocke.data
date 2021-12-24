@@ -1,125 +1,123 @@
 # Evil Team
 
---al1|Aliana#power plant
+--al1|Aliana||/leaders/xy-aliana@Muzyun@https://www.deviantart.com/muzyun
 mightyena|38|assurance,roar,swagger,scary-face|intimidate
 
---al2|Aliana#labs
+--al2|Aliana||/leaders/xy-aliana@Muzyun@https://www.deviantart.com/muzyun
 mightyena|46|crunch,sucker-punch,taunt,embargo|intimidate
 druddigon|48|dragon-claw,crunch,shadow-claw,surf|sheer-force
 
---cnb|Celosia & Bryony#poke ball factory
+--cnb|Celosia & Bryony||/leaders/xy-celosia-bryony@Muzyun@https://www.deviantart.com/muzyun#poke ball factory
 manectric|41|spark,thunder-fang,bite,odor-sleuth|lightning-rod
 liepard|41|hone-claws,taunt,assurance,slash|unburden
 
---c|Celosia#labs
+--c|Celosia||/leaders/xy-celosia@Muzyun@https://www.deviantart.com/muzyun#labs
 manectric|46|thunderbolt,thunder-wave,flamethrower,quick-attack|static
 drapion|48|night-slash,x-scissor,poison-jab,acupressure|battle-armor
 
---b|Bryony#labs
+--b|Bryony||/leaders/xy-bryony@Muzyun@https://www.deviantart.com/muzyun
 liepard|46|fake-out,slash,sucker-punch,taunt|limber
 bisharp|48|night-slash,iron-head,x-scissor,shadow-claw|inner-focus
 
---m1|Mable#frost cavern
+--m1|Mable||/leaders/xy-mable@Muzyun@https://www.deviantart.com/muzyun
 houndoom|48|fire-fang,embargo,foul-play,feint-attack|flash-fire
 
---m2|Mable#labs
+--m2|Mable||/leaders/xy-mable@Muzyun@https://www.deviantart.com/muzyun
 houndoom|46|snarl,foul-play,flamethrower,sludge-bomb|early-bird
 weavile|48|night-slash,quick-attack,ice-shard,low-sweep|pressure
 
---x|Xerosic#labs
+--x|Xerosic||/leaders/xy-xerosic@Muzyun@https://www.deviantart.com/muzyun
 crobat|46|x-scissor,cross-poison,steel-wing,air-slash|inner-focus
 malamar|48|superpower,payback,psycho-cut,retaliate|contrary
 
---l1|Lysandre#labs
+--l1|Lysandre||/leaders/xy-lysandre@Sugar and Spice@https://chipsncookies.tumblr.com/#labs
 mienfoo|45|swords-dance,high-jump-kick,acrobatics|inner-focus
 murkrow|45|foul-play,aerial-ace,retaliate,steel-wing|super-luck
 pyroar|47|hyper-voice,fire-blast,dark-pulse|rivalry
 gyarados|49|aqua-tail,earthquake,iron-head,outrage|intimidate
 
---l2|Lysandre#Secret HQa
+--l2|Lysandre||/leaders/xy-lysandre@Sugar and Spice@https://chipsncookies.tumblr.com/#Secret HQa
 mienshao|47|swords-dance,high-jump-kick,acrobatics|inner-focus
 honchkrow|47|night-slash,aerial-ace,retaliate,steel-wing|insomnia
 pyroar|49|hyper-voice,fire-blast,dark-pulse|rivalry
 gyarados|51|aqua-tail,earthquake,iron-head,outrage|intimidate
 
---l3|Lysandre#Secret HQa
+--l3|Lysandre||/leaders/xy-lysandre-2@Muzyun@https://www.deviantart.com/muzyun
 mienshao|49|swords-dance,high-jump-kick,acrobatics|inner-focus
 honchkrow|49|night-slash,aerial-ace,retaliate,steel-wing|insomnia
 pyroar|51|hyper-voice,fire-blast,dark-pulse|rivalry
 gyarados|53|aqua-tail,earthquake,iron-head,outrage|intimidate|gyaradosite
 
-
 # Rivals
-
---sh1|Shauna|# route 1
+--sh1|Shauna||/leaders/xy-shauna@Muzyun@https://www.deviantart.com/muzyun
 froakie|5|pound,growl,bubble|torrent||grass
 chespin|5|tackle,growl,vine-whip|overgrow||fire
 fennekin|5|scratch,tail-whip,ember|blaze||water
 
---sh2|Shauna|# route 19
+--sh2|Shauna||/leaders/xy-shauna@Muzyun@https://www.deviantart.com/muzyun
 delcatty|49|charm,play-rough,feint-attack,return|cute-charm
 goodra|49|dragon-pulse,sludge-wave,body-slam,earthquake|sap-sipper
 greninja|51|water-shuriken,extrasensory,double-team|torrent||grass
 chesnaught|51|spiky-shield,seed-bomb,brick-break|overgrow||fire
 delphox|51|mystical-fire,psychic,calm-mind|blaze||water
 
---ti1|Tierno# Route 5
+--ti1|Tierno||/leaders/xy-tierno@Gnomowladny@https://www.deviantart.com/gnomowladny# Route 5
 corphish|12|vise-grip,swords-dance|shell-armor
 
---ti2|Tierno#route 19
+--ti2|Tierno||/leaders/xy-tierno@Gnomowladny@https://www.deviantart.com/gnomowladny#route 19
 talonflame|48|swords-dance,quick-attack,acrobatics|flame-body
 roserade|49|petal-dance|poison-point
 crawdaunt|52|swords-dance,crabhammer,night-slash|shell-armor
 
---trv|Trevor#route 19
+--trv|Trevor||/leaders/xy-trevor@Muzyun@https://www.deviantart.com/muzyun
 raichu|49|thunderbolt,nuzzle,quick-attack,slam|static
 aerodactyl|49|crunch,ancient-power,sky-drop,supersonic|rock-head
 florges|51|moonblast,misty-terrain,energy-ball,confide|flower-veil
 
---tnt|Trevor & Tierno#Route 7
+--tnt|Trevor & Tierno||/leaders/xy-tierno-trevor@Muzyun & Gnomowladny@https://www.deviantart.com/gnomowladny#Route 7
 pikachu|14|thunder-shock,quick-attack|static
 flabebe|14|vine-whip,fairy-wind|flower-veil
 corphish|16|vise-grip,swords-dance|shell-armor
 
---sy1|Sycamore# lab
+--sy1|Sycamore||/leaders/xy-sycamore@Kyledove@https://www.deviantart.com/kyle-dove
 bulbasaur|10|tackle,growl,leech-seed,vine-whip|overgrow
 charmander|10|scratch,growl,smokescreen,ember|blaze
 squirtle|10|tackle,tail-whip,bubble,withdraw|torrent
 
---sy2|Sycamore#
+--sy2|Sycamore||/leaders/xy-sycamore@Kyledove@https://www.deviantart.com/kyle-dove
 venusaur|50|petal-dance,worry-seed,synthesis,petal-blizzard|overgrow
 charizard|50|flame-burst,flamethrower,wing-attack,slash|blaze
 blastoise|50|water-pulse,aqua-tail,iron-defense,skull-bash|torrent
 
---3a|Korrina|fighting#Geosenge
+--3a|Korrina|fighting|/leaders/xy-korrina@Kyledove@https://www.deviantart.com/kyle-dove
 lucario|25|swords-dance,feint,power-up-punch,metal-sound|steadfast
 lucario|25|swords-dance,feint,power-up-punch,metal-sound|steadfast
 
---3b|Korrina|fighting#Tower of mastery
+--3b|Korrina|fighting|/leaders/xy-korrina@Kyledove@https://www.deviantart.com/kyle-dove
 lucario|25|swords-dance,bone-rush,power-up-punch,metal-sound|steadfast|lucarionite
 
---se1|Serena|#Tower of master
+--se1|Serena||/leaders/xy-serena@TintjeMadelintje101@https://www.deviantart.com/tintjemadelintje101#Tower of master
 meowstic-female|28|fake-out,light-screen,psybeam,disarming-voice|keen-eye
 absol|28|bite,slash,quick-attack|super-luck
 braixen|30|psybeam,fire-spin|blaze||grass
 frogadier|30|quick-attack,water-pulse|torrent||fire
 quilladin|30|bite,needle-arm|overgrow||water
 
---se2|Serena|#Tower of master
+--se2|Serena||/leaders/xy-serena@TintjeMadelintje101@https://www.deviantart.com/tintjemadelintje101#Tower of master
 meowstic-female|31|light-screen,psybeam,disarming-voice,fake-out|keen-eye
 absol|31|bite,slash,quick-attack|super-luck
 braixen|33|psybeam,fire-spin|blaze||grass
 frogadier|33|quick-attack,water-pulse|torrent||fire
 quilladin|33|bite,needle-arm|overgrow||water
 
---se3|Serena|#???
+--se3|Serena||/leaders/xy-serena@TintjeMadelintje101@https://www.deviantart.com/tintjemadelintje101#???
 meowstic-female|35|light-screen,psychic,disarming-voice,fake-out|keen-eye
 absol|35|bite,slash,swords-dance,quick-attack|super-luck
 delphox|37|psybeam,mystical-fire|blaze||grass
 greninja|37|quick-attack,water-shuriken|torrent||fire
 chesnaught|37|bite,seed-bomb|overgrow||water
 
---se4|Serena|#???
+--se4|Serena||/leaders/xy-serena@TintjeMadelintje101@https://www.deviantart.com/tintjemadelintje101#???
 meowstic-female|44|shadow-ball,psychic,disarming-voice,fake-out|keen-eye
 absol|44|night-slash,slash,swords-dance,quick-attack|super-luck
 jolteon|44|discharge,quick-attack,double-kick|volt-absorb||grass
@@ -129,7 +127,7 @@ delphox|46|psychic,flamethrower|blaze||grass
 greninja|46|dark-pulse,water-shuriken|torrent||fire
 chesnaught|46|brick-break,seed-bomb|overgrow||water
 
---se5|Serena#victory road
+--se5|Serena||/leaders/xy-serena@TintjeMadelintje101@https://www.deviantart.com/tintjemadelintje101#victory road
 meowstic-female|57|shadow-ball,psychic,disarming-voice,fake-out|keen-eye
 jolteon|57|discharge,quick-attack,double-kick|volt-absorb||grass
 flareon|57|lava-plume,quick-attack,bite|flash-fire||fire
@@ -142,71 +140,71 @@ chesnaught|46|brick-break,seed-bomb,body-slam|overgrow||water
 
 # Gym Leaders
 
---1|Viola|bug|#Santalune
+--1|Viola|bug|/leaders/xy-viola@Kyledove@https://www.deviantart.com/kyle-dove
 surskit|10|quick-attack,bubble,water-sport|swift-swim
 vivillon|12|infestation,harden,tackle|shield-dust
 
---2|Grant|rock#Cyllage
+--2|Grant|rock|/leaders/xy-grant@Kyledove@https://www.deviantart.com/kyle-dove
 amaura|25|aurora-beam,rock-tomb,thunder-wave,take-down|refrigerate
 tyrunt|25|rock-tomb,bite,stomp|strong-jaw
 
---3|Korrina|fighting#Shalour
+--3|Korrina|fighting|/leaders/xy-korrina@Kyledove@https://www.deviantart.com/kyle-dove
 mienfoo|29|power-up-punch,fake-out,double-slap|inner-focus
 machoke|28|power-up-punch,rock-tomb,leer|guts
 hawlucha|32|flying-press,hone-claws,power-up-punch|unburden
 
---4|Ramos|grass#Coumarine
+--4|Ramos|grass|/leaders/xy-ramos@Gnomowladny@https://www.deviantart.com/gnomowladny#Coumarine
 jumpluff|30|grass-knot,acrobatics,leech-seed|chlorophyll
 weepinbell|31|grass-knot,acid,poison-powder,gastro-acid|chlorophyll
 gogoat|34|grass-knot,bulldoze,take-down|sap-sipper
 
---5|Clemont|electric#lumiose
+--5|Clemont|electric|/leaders/xy-clemont@Gnomowladny@https://www.deviantart.com/gnomowladny#lumiose
 emolga|35|volt-switch,quick-attack,aerial-ace|static
 magneton|35|thunderbolt,electric-terrain,mirror-shot|sturdy
 heliolisk|37|thunderbolt,quick-attack,grass-knot|dry-skin
 
---6|Valeria|fairy#laverre
+--6|Valerie|fairy|/leaders/xy-valerie@Kyledove@https://www.deviantart.com/kyle-dove
 mawile|38|feint-attack,crunch,iron-defense|hyper-cutter
 mr-mime|39|light-screen,reflect,psychic,dazzling-gleam|soundproof
 sylveon|42|dazzling-gleam,charm,quick-attack,swift|cute-charm
 
---7|Olympia|psychic#anistar
+--7|Olympia|psychic|/leaders/xy-olympia@tebited15@https://www.deviantart.com/tebited15#anistar
 sigilyph|44|air-slash,psychic,light-screen,reflect|magic-guard
 slowking|45|psychic,calm-mind,power-gem,yawn|oblivious
 meowstic-female|48|psychic,calm-mind,fake-out,shadow-ball|infiltrator
 
---8|Wulfric|ice#snowbelle
+--8|Wulfric|ice|/leaders/xy-wulfric@Kyledove@https://www.deviantart.com/kyle-dove
 abomasnow|56|ice-beam,ice-shard,energy-ball|snow-warning
 cryogonal|55|ice-beam,hail,confuse-ray,flash-cannon|levitate
 avalugg|59|avalanche,crunch,curse,gyro-ball|ice-body
 
 # Elite four
 
---e1|Malva|fire#Blazing Chamber
+--e1|Malva|fire|/leaders/xy-malva@Gnomowladny@https://www.deviantart.com/gnomowladny#Blazing Chamber
 pyroar|63|noble-roar,hyper-voice,flamethrower,wild-charge|rivalry
 torkoal|63|curse,earthquake,stone-edge,flame-wheel|white-smoke
 chandelure|63|confuse-ray,shadow-ball,flamethrower,confide|flame-body
 talonflame|65|brave-bird,flare-blitz,quick-attack,flail|flame-body
 
---e2|Siebold|water#Flood chamber
+--e2|Siebold|water|/leaders/xy-siebold@Kyledove@https://www.deviantart.com/kyle-dove
 clawitzer|63|water-pulse,dark-pulse,dragon-pulse,aura-sphere|mega-launcher
 gyarados|63|waterfall,ice-fang,earthquake,dragon-dance|intimidate
 starmie|63|psychic,light-screen,dazzling-gleam,surf|illuminate
 barbaracle|65|cross-chop,stone-edge,razor-shell,x-scissor|tough-claws
 
---e3|Wikstrom|steel#ironworks chamber
+--e3|Wikstrom|steel|/leaders/xy-wikstrom@Kyledove@https://www.deviantart.com/kyle-dove
 klefki|63|dazzling-gleam,flash-cannon,torment,spikes|prankster
 probopass|63|earth-power,power-gem,discharge,flash-cannon|sturdy
 scizor|63|bullet-punch,iron-head,x-scissor,night-slash|technician
 aegislash-shield|65|kings-shield,iron-head,sacred-sword,shadow-claw|stance-change
 
---e4|Drasna|dragon#Dragonmark chamber
+--e4|Drasna|dragon|/leaders/xy-drasna@Gnomowladny@https://www.deviantart.com/gnomowladny#Dragonmark chamber
 dragalge|63|dragon-pulse,surf,sludge-bomb,thunderbolt|poison-point
 druddigon|63|dragon-tail,revenge,retaliate,chip-away|rough-skin
 altaria|63|moonblast,dragon-pulse,cotton-guard,sing|natural-cure
 noivern|65|air-slash,dragon-pulse,flamethrower,super-fang|frisk
 
---c1|Diantha#Radiant chamber
+--c1|Diantha||/leaders/xy-diantha@Kyledove@https://www.deviantart.com/kyle-dove
 hawlucha|64|swords-dance,flying-press,x-scissor,poison-jab|limber
 tyrantrum|65|head-smash,earthquake,dragon-claw,crunch|strong-jaw
 aurorus|65|thunder,blizzard,light-screen,reflect|refrigerate
@@ -214,7 +212,7 @@ gourgeist-large|65|trick-or-treat,phantom-force,shadow-sneak,seed-bomb|pickup
 goodra|66|dragon-pulse,muddy-water,fire-blast,focus-blast|sap-sipper
 gardevoir|68|moonblast,psychic,shadow-ball,thunderbolt|trace|gardevoirite
 
---c2|AZ#Lumiose
+--c2|AZ||/leaders/xy-az@Gnomowladny@https://www.deviantart.com/gnomowladny#Lumiose
 torkoal|60|lava-plume,stone-edge,body-slam,return|white-smoke
 golurk|60|phantom-force,heavy-slam,mega-punch,return|no-guard
 sigilyph|60|psychic,cosmic-power,air-slash,return|magic-guard
