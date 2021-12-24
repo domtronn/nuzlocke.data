@@ -1,10 +1,10 @@
 Starter|grookey,scorbunny,sobble
---Rival|r1|rival|Hop
+--Hop's House|r1|rival|Hop
 Slumbering Weald|hoothoot,grubbin,skwovet,rookidee,blipbug,butterfree,weezing-galar,munna,stunfisk-galar,corviknight,orbeetle,magikarp,barboach,whiscash
 Route 1|caterpie,hoothoot,grubbin,skwovet,blipbug,nickit,wooloo,rookidee
 Wedgehurst|slowpoke-galar
 Route 2|hoothoot,lotad,seedot,purrloin,rookidee,blipbug,magikarp,chewtle,arrokuda,zigzagoon-galar,skwovet,nickit,yamper,feebas,magikarp,gyarados,barrskewda,lapras,drednaw,obstagoon
---Rival|r2|rival|Hop
+--Route 2|r2|rival|Hop
 Rolling Fields|metapod,vulpix,oddish,growlithe,natu,swinub,delibird,lotad,nuzleaf,wingull,electrike,baltoy,snorunt,budew,munna,dwebble,minccino,vanillite,joltik,golett,bunnelby,mudbray,bounsweet,cherubi,skowvet,tyrogue,ralts,combee,pancham,diglett,roggenrola,butterfree,pidove,onix,pelipper,kirilia,manectric,vespiquen,diggersby,ninjask,pikachu,roselia,mime jr.,piloswine,gardevoir,crustle,pangoro,haunter,mudsdale
 Dappled Grove|vulpix,growlithe,lotad,seedot,ralts,baltoy,snorunt,budew,stunky,snover,purrloin,tympole,vanillite,joltik,klink,golett,bunnelby,grubbin,mudbray,stufful,bounsweet,cherubi,skwovet,oddish,hoothoot,tyrogue,lombre,nuzleaf,ralts,electrike,orbeetle,vileplume,claydol,seimsitoad,vanillish,bewear,ludicolo,shiftry,pangoro
 West Lake Axewell|vulpix,growlithe,krabby,natu,wooper,delibird,tyrogue,wingull,ralts,nincada,electrike,baltoy,snorunt,tympole,vanillite,joltik,klink,bunnelby,pancham,mudbray,bounsweet,goldeen,magikarp,remoraid,wishiwashi,lotad,seedot,budew,purrloin,dwebble,shellder,chinchou,frillish,kingler,pelipper,palpitoad,diggersby,quagsire,drednaw,seaking,vanilluxe,jellicent,gyarados,grappoloct,cloyster,lanturn,lapras
@@ -14,14 +14,14 @@ South Lake Miloch|vulpix,growlithe,machop,natu,wooper,tyrogue,wingull,ralts,ninc
 Giant's Seat|machoke,haunter,onix,xatu,quagsire,swinub,delibird,lombre,nuzleaf,manectric,crawdaunt,bronzor,liepard,tranquill,dwebble,diggersby,mudsdale,bewear,cherubi,greedent,shellder,cloyster,gyarados,pyukumuku,machop,vulpix,growlithe,gastly,natu,wooper,tyrogue,duskull,munna,snover,palpitoad,golett,mudbray,stufful,steelix,rhydon,bronzong,abomasnow,golurk,bisharp,musharna,galvantula,vikavolt
 North Lake Miloch|machop,gastly,natu,delibird,ralts,baltoy,snorunt,stunky,snover,pidove,tympole,dwebble,joltik,diggersby,grubbin,mudbray,stufful,cherubi,skwovet,magikarp,barboach,basculin,vulpix,gloom,growlithe,drifloon,palpitoad,vanillite,klink,golett,bunnelby,frillish,goldeen,corviknight,boltund,drifblim,skuntank,lucario,seismitoad,vanillish,xatu,liepard,gyarados,lapras,seaking,whiscash,vanilluxe
 Motostoke|magikarp,barboach,chewtle,skwovet
---Rival|r3|rival|Hop
+--Motostoke|r3|rival|Hop
 Route 3|machop,klink,pancham,mudbray,rookidee,sizzlipede,cherubi,skwovet,vulpix,growlithe,tyrogue,zigzagoon-galar,stunky,trubbish,gossifleur,rolycoly,corvisquire
 Galar Mine|diglett,roggenrola,woobat,drilbur,timburr,rolycoly,carkol
---Rival|b1|rival|Bede
+--Galar Mine Exit|b1|rival|Bede
 Route 4|meowth-galar,budew,joltik,ferroseed,cutiefly,wooloo,milcery,skwovet,goldeen,magikarp,chewtle,pikachu,eevee,electrike,pumpkaboo,yamper,diglett
 --Turfield Gym|1|gym-leader|Milo
 Route 5|lombre,nuzleaf,nincada,espurr,spritzee,swirlix,dewpider,dottler,applin,goldeen,magikarp,chewtle,skwovet,farfetch'd-galar,wobbuffet,drifloon,minccino,stufful,eldegoss,toxel
---Rival|r4|rival|Hop
+--Route 5|r4|rival|Hop
 Hulbury|chinchou,basculin,wishiwashi,chewtle,arrokuda,cottonee
 --Hulbury Gym|2|gym-leader|Nessa
 Galar Mine No.2
@@ -39,15 +39,15 @@ Giant's Cap|dugtrio,delibird,lombre,nuzleaf,baltoy,duskull,snorunt,shellos,stunk
 Hammerlocke Hills|vulpix,dugtrio,growlithe,machoke,swinub,delibird,pelipper,baltoy,snorunt,drilbur,dwebble,vanillite,karrablast,klink,shelmet,espurr,honedge,inkay,hawlucha,charjabug,corvisquire,thievul,dubwool,toxel,hatenna,impidimp,cherubi,greedent,gastly,sudowoodo,wobbuffet,sneasel,trapinch,palpitoad,maractus,axew,cubchoo,pumpkaboo,morelull,stufful,wimpod,unfezant,corviknight,vileplume,roserade,abomasnow,klang,klinklang,gourgeist
 Lake of Outrage|dugtrio,rhydon,mr. mime-galar,ditto,quagsire,piloswine,larvitar,pupitar,pelipper,gardevoir,claydol,skuntank,bronzong,hippowdon,jellicent,stunfisk-galar,deino,zweilous,pangoro,doublade,barbaracle,goomy,sliggoo,bewear,turtonator,togedmaru,drampa,jangmo-o,hakam-o,corviknight,orbeetle,drednaw,boltund,coalossal,sandaconda,cramorant,grimmsnarl,obstagoon,perrserker,falinks,snom,stonjourner,eiscue,indeedee,duraludon,dreepy,cherubi,greedent,gyarados,lanturn,qwilfish,barraskewda,ninetales,arcanine,weezing-galar,wobbuffet,hitmontop,flygon,glalie,drapion,abomasnow,rotom,boldore,excadrill,seismitoad,sigilyph,garbodor,gothitelle,reuniclus,vanilluxe,galvantula,klinklang,beheeyem,lampent,haxorus,golurk,bisharp,braviary,mandibuzz,heatmor,durant,bergmite,noivern,araquanid,golisopod,hatterne,morpeko,copperajah,drakloak,mantine,mantyke,vanillite,barraskweda,seaking,milotic,lapras,grapploct,vaporeon,jolteon,flareon,espeon,umbreon,leafeon,glaceon,sylveon,chandelure,avalugg,shiinotic
 Route 6|torkoal,duskull,hippopotas,skorupi,heatmor,durant,hawlucha,silicobra,greedent,goldeen,magikarp,drednaw,dugtrio,trapinch,maractus,yamask,axew,helioptile,dracozolt,arctozolt,dracovish,arctovish
---Rival|r5|rival|Hop
+--Route 6|r5|rival|Hop
 --Stow-on-Side Gym|4b|gym-leader|Allister
 --Stow-on-Side Monument|b3|rival|Bede
 Glimwood Tangle|ponyta-galar,spritzee,swirilix,phantump,shiinotic,oranguru,passimian,sinistea,hattrem,morgrem,indeedee,impidimp
 --Ballonlea Gym|5|gym-leader|Opal
-Router 7
---Rival|r6|rival|Hop
+Route 7|liepard,seismitoad,karrablast,shelmet,meowstic,corviknight,toxel,greedent,galvantula,inkay,thievul,perrserker,morpeko
+--Route 7|r6|rival|Hop
 Route 8|haunter,rhyhorn,dusclops,bronzong,hippowdon,drapion,sandaconda,falinks,lunatone,solrock,boldore,gurdurr,golett,pawniard,rufflet,vullaby,togedemaru,crustle,sneasel,delibird,snover,darumaka-galar,snom,snorunt,throh,sawk,vanillish
---Rival|r7|rival|Hop
+--Route 8|r7|rival|Hop
 --Circhester Gym|6b|gym-leader|Melony
 Route 9|kingler,octillery,cramorant,pincurchin,wishiwashi,pyukumuku,pelipper,gastrodon,jellicent,mareanie,qwilfish,mantyke,glalie,inkay,greedent,lapras,mantine,wailmer,wailord,barbaracle,bergmite,toxapex,dhelmise,clobbopus,remoraid,grapploct,liepard,thievul,perrserker,morpeko
 --Outer Spikemouth|m2|rival|Marnie
