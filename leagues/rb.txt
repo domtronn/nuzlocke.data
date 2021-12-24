@@ -1,17 +1,17 @@
 # Rival fights
 
---r1|Blue||/leaders/blue2
+--r1|Blue||/leaders/frlg-blue-1
 bulbasaur|5|tackle,growl|||water
 charmander|5|scratch,growl|||grass
 squirtle|5|tackle,tail-whip|||fire
 
---r2|Blue||/leaders/blue2
+--r2|Blue||/leaders/frlg-blue-1
 pidgey|9|gust,sand-attack
 bulbasaur|8|leech-seed,tackle,growl|||water
 charmander|8|scratch,growl|||grass
 squirtle|8|bubble,tackle,tail-whip|||fire
 
---r3|Blue||/leaders/blue2
+--r3|Blue||/leaders/frlg-blue-1
 pidgeotto|18|gust,sand-attack,quick-attack
 abra|15|teleport
 rattata|15|tackle,tail-whip,quick-attack,hyper-fang
@@ -19,7 +19,7 @@ bulbasaur|17|leech-seed,vine-whip,tackle,growl|||water
 charmander|17|ember,scratch,growl,leer|||grass
 squirtle|17|bubble,water-gun,tackle,tail-whip|||fire
 
---r4|Blue||/leaders/blue2
+--r4|Blue||/leaders/frlg-blue-2
 pidgeotto|19|gust,sand-attack,quick-attack
 kadabra|18|teleport,confusion,disable
 raticate|16|tackle,tail-whip,quick-attack,hyper-fang
@@ -27,7 +27,7 @@ ivysaur|20|leech-seed,vine-whip,tackle,growl|||water
 charmeleon|20|ember,scratch,growl,leer|||grass
 wartortle|20|bubble,water-gun,tackle,tail-whip|||fire
 
---r5|Blue||/leaders/blue2
+--r5|Blue||/leaders/frlg-blue-2
 pidgeotto|25|gust,sand-attack,quick-attack,whirlwind
 exeggcute|23|barrage,hypnosis|||grass
 exeggcute|22|barrage,hypnosis|||fire
@@ -40,7 +40,7 @@ ivysaur|25|leech-seed,vine-whip,tackle,growl|||water
 charmeleon|25|ember,scratch,growl,leer|||grass
 wartortle|25|bubble,water-gun,tackle,tail-whip|||fire
 
---r6|Blue||/leaders/blue2
+--r6|Blue||/leaders/frlg-blue-2
 pidgeot|37|wing-attack,sand-attack,quick-attack,whirlwind
 exeggcute|38|reflect,poison-powder,leech-seed,stun-spore|||grass
 exeggcute|35|reflect,poison-powder,leech-seed,stun-spore|||fire
@@ -53,7 +53,7 @@ venusaur|40|leech-seed,vine-whip,poison-powder,razor-leaf|||water
 charizard|40|slash,ember,leer,rage|||grass
 blastoise|40|bubble,water-gun,bite,withdraw|||fire
 
---r7|Blue||/leaders/blue2
+--r7|Blue||/leaders/frlg-blue-2
 pidgeot|47|wing-attack,agility,quick-attack,whirlwind
 rhyhorn|45|fury-attack,stomp,horn-drill,tail-whip
 exeggcute|45|leech-seed,poison-powder,solar-beam,growth|||grass
@@ -69,12 +69,12 @@ blastoise|53|hydro-pump,withdraw,skull-bash,bite|||fire
 
 # Evil team
 
---g1|Giovanni|ground|#Rocket hideout
+--g1|Giovanni|ground|/leaders/frlg-giovanni#Rocket hideout
 onix|25|screech,bind,rage,rock-throw
 rhyhorn|24|horn-attack
 kangaskhan|29|comet-punch,rage,bite
 
---g2|Giovanni|ground|#silph co
+--g2|Giovanni|ground|/leaders/frlg-giovanni#silph co
 nidorino|37|horn-attack,poison-sting,focus-energy,fury-attack
 kangaskhan|35|comet-punch,rage,bite,tail-whip
 rhyhorn|37|horn-attack,stomp,tail-whip
@@ -82,43 +82,43 @@ nidoqueen|41|scratch,tail-whip,body-slam,poison-sting
 
 # Gym leaders
 
---1|Brock|rock|/leaders/brock
+--1|Brock|rock|/leaders/frlg-brock
 geodude|12|tackle,defense-curl
 onix|14|tackle,screech,bide
 
---2|Misty|water|/leaders/misty
+--2|Misty|water|/leaders/frlg-misty
 staryu|18|tackle,water-gun
 starmie|21|tackle,water-gun,bubble-beam
 
---3|Lt. Surge|electric|/leaders/surge2
+--3|Lt. Surge|electric|/leaders/frlg-surge
 voltorb|21|tackle,screech,sonic-boom
 pikachu|18|thunder-shock,growl,thunder-wave,quick-attack
 raichu|24|thunder-shock,growl,thunderbolt
 
---4|Erica|grass|
+--4|Erika|grass|/leaders/frlg-erika
 victreebel|29|razor-leaf,wrap,poison-powder,sleep-powder
 tangela|24|constrict,bind
 vileplume|29|petal-dance,poison-powder,mega-drain,sleep-powder
 
---5|Koga|poison|
+--5|Koga|poison|/leaders/frlg-koga
 koffing|37|tackle,smokescreen,smog,sludge
 koffing|37|tackle,smokescreen,smog,sludge
 muk|39|disable,minimize,poison-gas,sludge
 weezing|43|smog,sludge,self-destruct,toxic
 
---6|Sabrina|psychic|/leaders/sabrina2
+--6|Sabrina|psychic|/leaders/frlg-sabrina
 kadabra|38|disable,recover,psybeam,psychic
 mr-mime|37|confusion,barrier,light-screen,double-slap
 venomoth|38|poison-powder,leech-life,stun-spore,psybeam
 alakazam|43|psybeam,psywave,reflect,recover
 
---7|Blaine|fire|/leaders/blaine2
+--7|Blaine|fire|/leaders/frlg-blaine
 growlithe|42|ember,leer,take-down,agility
 ponyta|40|tail-whip,stomp,growl,fire-spin
 rapidash|42|tail-whip,stomp,growl,fire-spin
 arcanine|47|roar,take-down,fire-blast,ember
 
---8|Giovanni|ground
+--8|Giovanni|ground|/leaders/frlg-giovanni
 rhyhorn|45|horn-attack,stomp,tail-whip
 dugtrio|42|growl,dig,sand-attack,slash
 nidoqueen|44|scratch,tail-whip,body-slam,poison-sting
@@ -127,35 +127,35 @@ rhydon|50|stomp,tail-whip,fissure,horn-drill
 
 # Elite four
 
---e1|Lorelei|ice|
+--e1|Lorelei|ice|/leaders/frlg-lorelei
 dewgong|54|growl,aurora-beam,rest,take-down
 cloyster|53|supersonic,clamp,ice-beam,spike-cannon
 slowbro|54|growl,withdraw,psychic,amnesia
 jynx|56|ice-punch,double-slap,lovely-kiss,thrash
 lapras|56|body-slam,confuse-ray,hydro-pump,blizzard
 
---e2|Bruno|fighting|
+--e2|Bruno|fighting|/leaders/frlg-bruno
 onix|53|rock-throw,rage,slam,harden
 hitmonchan|55|ice-punch,thunder-punch,mega-punch,counter
 hitmonlee|55|jump-kick,high-jump-kick,focus-energy,mega-kick
 onix|56|rock-throw,rage,slam,harden
 machamp|58|leer,focus-energy,fissure,submission
 
---e3|Agatha|ghost
+--e3|Agatha|ghost|/leaders/frlg-agatha
 gengar|56|confuse-ray,night-shade,hypnosis,dream-eater
 golbat|56|supersonic,confuse-ray,wing-attack,haze
 haunter|55|confuse-ray,night-shade,hypnosis,dream-eater
 arbok|58|bite,glare,screech,acid
 gengar|60|confuse-ray,night-shade,toxic,dream-eater
 
---e4|Lance|dragon
+--e4|Lance|dragon|/leaders/frlg-lance
 gyarados|58|hydro-pump,dragon-rage,leer,hyper-beam
 dragonair|56|agility,slam,dragon-rage,hyper-beam
 dragonair|56|agility,slam,dragon-rage,hyper-beam
 aerodactyl|60|supersonic,bite,take-down,hyper-beam
 dragonite|62|agility,slam,barrier,hyper-beam
 
---c|Blue||/leaders/blue2
+--c|Blue||/leaders/frlg-blue-3
 pidgeot|61|wing-attack,mirror-move,sky-attack,whirlwind
 alakazam|59|psybeam,psychic,reflect,recover
 rhydon|61|leer,tail-whip,fury-attack,horn-drill

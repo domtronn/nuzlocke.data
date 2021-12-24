@@ -1,23 +1,23 @@
 # Evil team
 
---mt1|Tabitha||/leaders/tabitha
+--mt1|Tabitha||/leaders/rs-tabitha
 numel|18|growl,tackle,ember|oblivious
 poochyena|20|howl,sand-attack,bite,odor-sleuth|run-away
 numel|22|growl,tackle,ember,magnitude|oblivious
 zubat|22|supersonic,astonish,bite,wing-attack|inner-focus
 
---mt2|Tabitha||/leaders/tabitha
+--mt2|Tabitha||/leaders/rs-tabitha
 numel|26|tackle,ember,magnitude,focus-energy|oblivious
 mightyena|28|bite,odor-sleuth,roar,swagger|intimidate
 camerupt|33|focus-energy,take-down,amnesia,rock-slide|magma-armor
 zubat|30|astonish,confuse-ray,bite,wing-attack|inner-focus
 
---mtmax|Maxie||/leaders/maxie
+--mtmax|Maxie||/leaders/rs-maxie
 mightyena|37|roar,swagger,scary-face,take-down|intimidate
 crobat|38|bite,confuse-ray,wing-attack,air-cutter|inner-focus
 camerupt|39|take-down,amnesia,rock-slide,earthquake|magma-armor
 
---mtmaxt|Maxie & Tabitha||/leaders/maxie-tabitha
+--mtmaxt|Maxie & Tabitha||/leaders/rs-maxie-tabitha
 mightyena|42|roar,take-down,scary-face,taunt|intimidate
 crobat|43|mean-look,confuse-ray,wing-attack,air-cutter|inner-focus
 camerupt|44|take-down,amnesia,rock-slide,earthquake|magma-armor
@@ -25,41 +25,41 @@ camerupt|36|focus-energy,take-down,amnesia,rock-slide|oblivious
 mightyena|38|roar,take-down,scary-face,swagger|intimidate
 golbat|40|bite,confuse-ray,wing-attack,air-cutter|inner-focus
 
---as1|Shelly||/leaders/shelly
+--as1|Shelly||/leaders/rs-shelly
 carvanha|28|focus-energy,scary-face,crunch,screech|rough-skin
 mightyena|28|bite,odor-sleuth,roar,swagger|intimidate
 
---as2|Shelly||/leaders/shelly
+--as2|Shelly||/leaders/rs-shelly
 sharpedo|37|scary-face,crunch,screech,slash|rough-skin
 mightyena|37|take-down,scary-face,roar,swagger|intimidate
 
---am1|Matt||/leaders/matt
+--am1|Matt||/leaders/rs-matt
 sharpedo|37|scary-face,crunch,screech,slash|rough-skin
 mightyena|34|odor-sleuth,roar,swagger,scary-face|intimidate
 golbat|34|astonish,confuse-ray,bite,wing-attack|inner-focus
 
---aqarc|Archie||/leaders/archie
+--aqarc|Archie||/leaders/rs-archie
 mightyena|41|take-down,roar,swagger,scary-face|intimidate
 golbat|41|bite,confuse-ray,air-cutter,wing-attack|inner-focus
 sharpedo|43|screech,slash,swagger,taunt|rough-skin
 
 # Rival fights
---w1|Wally||/leaders/wally
+--w1|Wally||/leaders/rs-wally
 ralts|16|growl,confusion,double-team,teleport|synchronize
 
---w2|Wally||/leaders/wally
+--w2|Wally||/leaders/rs-wally
 altaria|44|aerial-ace,safeguard,dragon-breath,dragon-dance|natural-cure
 delcatty|43|sing,assist,charm,feint-attack|cute-charm
 roselia|44|magical-leaf,leech-seed,giga-drain,toxic|poison-point
 magneton|41|supersonic,thunderbolt,tri-attack,screech|magnet-pull
 gardevoir|45|double-team,calm-mind,psychic,future-sight|synchronize
 
---r1|May||/leaders/may#Route 103
+--r1|May||/leaders/rs-may#Route 103
 torchic|5|scratch,growl|blaze||grass
 mudkip|5|tackle,growl|torrent||fire
 treecko|5|pound,leer|overgrow||water
 
---r2|May||/leaders/may# Rustboro city
+--r2|May||/leaders/rs-may# Rustboro city
 lotad|13|astonish,growl,absorb,nature-power|swift-swim||grass
 torchic|15|scratch,growl,focus-energy,ember|blaze||grass
 slugma|13|yawn,smog,ember|flame-body||fire
@@ -67,7 +67,7 @@ mudkip|15|growl,mud-slap,water-gun,bide|torrent||fire
 wingull|13|growl,water-gun,supersonic,wing-attack|keen-eye||water
 treecko|15|pound,leer,absorb,quick-attack|overgrow||water
 
---r3|May||/leaders/may# Rout 110
+--r3|May||/leaders/rs-may# Rout 110
 wingull|18|growl,water-gun,supersonic,wing-attack|keen-eye||grass
 lombre|18|astonish,growl,absorb,nature-power|swift-swim||grass
 combusken|20|focus-energy,ember,double-kick,peck|blaze||grass
@@ -78,7 +78,7 @@ slugma|18|yawn,smog,ember,rock-tomb|flame-body||water
 wingull|18|growl,water-gun,supersonic,wing-attack|keen-eye||water
 grovyle|20|absorb,quick-attack,fury-cutter,pursuit|overgrow||water
 
---r4|May||/leaders/may# Rout 119
+--r4|May||/leaders/rs-may# Rout 119
 pelipper|29|wing-attack,supersonic,mist,protect|keen-eye||grass
 pelipper|29|wing-attack,supersonic,mist,protect|keen-eye||water
 lombre|29|absorb,fake-out,nature-power,fury-swipes|swift-swim||grass
@@ -89,7 +89,7 @@ combusken|31|double-kick,bulk-up,peck,sand-attack|blaze||grass
 marshtomp|31|mud-shot,mud-sport,foresight,take-down|torrent||fire
 grovyle|31|fury-cutter,leaf-blade,pursuit,screech|overgrow||water
 
---r5|May||/leaders/may# Lilycove
+--r5|May||/leaders/rs-may# Lilycove
 tropius|31|stomp,sweet-scent,whirlwind,magical-leaf|chlorophyll
 pelipper|32|wing-attack,supersonic,mist,protect|keen-eye||grass
 pelipper|32|wing-attack,supersonic,mist,protect|keen-eye||water
@@ -102,48 +102,48 @@ marshtomp|34|mud-shot,mud-sport,foresight,take-down|torrent||fire
 grovyle|34|fury-cutter,leaf-blade,pursuit,screech|overgrow||water
 
 # Gym leaders
---1|Roxanne|rock|/leaders/roxanne
+--1|Roxanne|rock|/leaders/rs-roxanne
 geodude|12|tackle,defense-curl,rock-throw,rock-tomb|rock-head|
 geodude|12|tackle,defense-curl,rock-throw,rock-tomb|rock-head|
 nosepass|15|block,harden,tackle,rock-tomb|sturdy|
 
---2|Brawly|fighting|/leaders/brawly
+--2|Brawly|fighting|/leaders/rs-brawly
 machop|16|karate-chop,low-kick,seismic-toss,bulk-up|guts|
 meditite|16|focus-punch,light-screen,reflect,bulk-up|pure-power|
 makuhita|19|arm-thrust,vital-throw,reversal,bulk-up|guts|sitrus-berry
 
---3|Wattson|electric|/leaders/wattson
+--3|Wattson|electric|/leaders/rs-wattson
 voltorb|20|rollout,spark,self-destruct,shock-wave|soundproof|
 electrike|20|shock-wave,leer,quick-attack,howl|static|
 magneton|22|supersonic,thunder-wave,shock-wave,sonic-boom|magnet-pull|
 manectric|24|quick-attack,shock-wave,thunder-wave,howl|static|sitrus-berry
 
---4|Flannery|fire|/leaders/flannery
+--4|Flannery|fire|/leaders/rs-flannery
 numel|24|overheat,take-down,magnitude,sunny-day|oblivious|
 slugma|24|overheat,smog,light-screen,sunny-day|magma-armor|
 camerupt|26|overheat,tackle,sunny-day,attract|magma-armor|
 torkoal|29|overheat,sunny-day,body-slam,attract|white-smoke|white-herb
 
---5|Norman|normal|/leaders/norman
+--5|Norman|normal|/leaders/rs-norman
 spinda|27|teeter-dance,psybeam,facade,encore|own-tempo|
 vigoroth|27|slash,facade,encore,feint-attack|vital-spirit|
 linoone|29|slash,belly-drum,facade,headbutt|pickup|
 slaking|31|counter,yawn,facade,feint-attack|truant|sitrus-berry
 
---6|Winona|flying|/leaders/winona
+--6|Winona|flying|/leaders/rs-winona
 swablu|29|perish-song,mirror-move,safeguard,aerial-ace|natural-cure|
 tropius|29|sunny-day,aerial-ace,solar-beam,synthesis|chlorophyll|
 pelipper|30|water-gun,supersonic,protect,aerial-ace|keen-eye|
 skarmory|31|sand-attack,fury-attack,steel-wing,aerial-ace|keen-eye|
 altaria|33|earthquake,dragon-breath,dragon-dance,aerial-ace|natural-cure|oran-berry
 
---7|Tate & Liza|psychic|/leaders/tate-liza
+--7|Tate & Liza|psychic|/leaders/rs-tate-liza
 claydol|41|earthquake,ancient-power,psychic,light-screen|levitate|
 xatu|41|psychic,sunny-day,confuse-ray,calm-mind|synchronize|
 lunatone|42|light-screen,psychic,hypnosis,calm-mind|levitate|sitrus-berry
 solrock|42|sunny-day,solar-beam,psychic,flamethrower|levitate|sitrus-berry
 
---8|Juan|Water|/leaders/juan
+--8|Juan|Water|/leaders/rs-juan
 luvdisc|41|water-pulse,attract,sweet-kiss,flail|swift-swim|
 whiscash|41|rain-dance,water-pulse,amnesia,earthquake|oblivious|
 sealeo|43|encore,body-slam,aurora-beam,water-pulse|thick-fat|
@@ -151,35 +151,35 @@ crawdaunt|43|water-pulse,crabhammer,taunt,leer|hyper-cutter|
 kingdra|46|water-pulse,double-team,ice-beam,rest|swift-swim|chesto-berry
 
 # Elite four
---e1|Sidney|dark|/leaders/sidney
+--e1|Sidney|dark|/leaders/rs-sidney
 mightyena|46|roar,double-edge,sand-attack,crunch|intimidate
 shiftry|48|torment,double-team,swagger,extrasensory|chlorophyll
 cacturne|46|leech-seed,feint-attack,needle-arm,cotton-spore|sand-veil
 crawdaunt|48|surf,swords-dance,strength,facade|hyper-cutter
 absol|49|aerial-ace,rock-slide,swords-dance,slash|pressure|sitrus-berry
 
---e2|Phoebe|ghost|/leaders/phoebe
+--e2|Phoebe|ghost|/leaders/rs-phoebe
 dusclops|48|shadow-punch,confuse-ray,curse,protect|pressure|
 banette|49|shadow-ball,grudge,will-o-wisp,feint-attack|insomnia
 sableye|50|shadow-ball,double-team,night-shade,feint-attack|keen-eye
 banette|49|shadow-ball,psychic,thunderbolt,facade|insomnia
 dusclops|51|shadow-ball,ice-beam,rock-slide,earthquake|pressure|sitrus-berry
 
---e3|Glacia|ice|/leaders/glacia
+--e3|Glacia|ice|/leaders/rs-glacia
 sealeo|50|encore,body-slam,hail,ice-ball|thick-fat
 glalie|50|light-screen,crunch,icy-wind,ice-beam|inner-focus
 sealeo|52|attract,double-edge,hail,blizzard
 glalie|52|shadow-ball,explosion,hail,ice-beam|inner-focus
 walrein|53|surf,body-slam,ice-beam,sheer-cold|thick-fat|sitrus-berry
 
---e4|Drake|dragon|/leaders/drake
+--e4|Drake|dragon|/leaders/rs-drake
 shelgon|52|rock-tomb,dragon-claw,protect,double-edge|rock-head
 altaria|54|double-edge,dragon-breath,dragon-dance,aerial-ace|natural-cure|
 kingdra|53|smokescreen,dragon-dance,surf,body-slam|swift-swim
 flygon|53|flamethrower,crunch,dragon-breath,earthquake|levitate|
 salamence|55|flamethrower,dragon-claw,rock-slide,crunch|intimidate|sitrus-berry
 
---c1|Wallace|water|/leaders/wallace
+--c1|Wallace|water|/leaders/rs-wallace
 wailord|57|rain-dance,water-spout,double-edge,blizzard|water-veil
 tentacruel|55|toxic,hydro-pump,sludge-bomb,ice-beam|clear-body
 ludicolo|56|giga-drain,surf,leech-seed,double-team|swift-swim
@@ -187,7 +187,7 @@ whiscash|56|earthquake,surf,amnesia,hyper-beam|oblivious
 gyarados|56|dragon-dance,earthquake,hyper-beam,surf|intimidate
 milotic|58|recover,surf,ice-beam,toxic|marvel-scale|sitrus-berry
 
---c2|Steven|rock|/leaders/steven
+--c2|Steven|rock|/leaders/rs-steven
 skarmory|77|toxic,aerial-ace,spikes,steel-wing|keen-eye
 claydol|75|reflect,light-screen,ancient-power,earthquake|levitate
 aggron|76|thunder,earthquake,solar-beam,dragon-claw|sturdy

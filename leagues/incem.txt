@@ -1,22 +1,22 @@
 # Evail team
 
---g1|Grunt# - Petalburg Woods
+--g1|Grunt||/leaders/rs-grunt# - Petalburg Woods
 carvanha|-3|bite,leer,aqua-jet,rage|speed-boost||
 skrelp|-3|bubble,tail-whip,feint-attack,smokescreen|poison-point||
 
---g2|Grunts# - Slateport Museum
+--g2|Grunts||/leaders/rs-grunts# - Slateport Museum
 palpitoad|-2|bubble-beam,acid,mud-shot,round|water-absorb||
 basculin-red-striped|-2|aqua-jet,crunch,take-down,revenge|adaptability||
 golbat|-2|aerial-ace,poison-fang,confuse-ray,screech|inner-focus||
 clauncher|-3|bubble-beam,aqua-jet,smack-down,venoshock|mega-launcher||
 grimer-alola|-3|poison-fang,bite,disable,minimize|poison-touch||
 
---aa1|Archie# - Slateport Musem|
+--aa1|Archie||/leaders/rs-archie# - Slateport Musem|
 mightyena|+0|bite,fire-fang,thunder-fang,scary-face|intimidate||
 crobat|+0|air-cutter,venoshock,giga-drain,super-fang|inner-focus||
 sharpedo|+1|poison-fang,bite,aqua-jet,ice-fang|speed-boost||
 
---mc1|Courtney# - Meteor Falls
+--mc1|Courtney||/leaders/rs-courtney# - Meteor Falls
 ninetales|+0|mystical-fire,hypnosis,solar-beam,calm-mind|drought|passho-berry
 krookodile|+0|crunch,earthquake,fire-fang,thunder-fang|intimidate|assault-vest
 houndoom|+0|dark-pulse,heat-wave,solar-beam,sludge-bomb|flash-fire|grass-gem
@@ -24,20 +24,20 @@ excadrill|+0|drill-run,iron-head,rock-slide,x-scissor|mold-breaker|occa-berry
 weezing|+0|will-o-wisp,sludge-bomb,heat-wave,thunderbolt|levitate|sitrus-berry
 shiftry|+0|energy-ball,dark-pulse,air-slash,sunny-day|chlorophyll|heat-rock
 
---mt1|Tabitha# - Mount Chimney
+--mt1|Tabitha||/leaders/rs-tabitha# - Mount Chimney
 gigalith|+0|power-gem,earth-power,stealth-rock,discharge|sand-stream|passho-berry
 darmanitan-standard|+0|flare-blitz,zen-headbutt,rock-slide,bite|sheer-force|life-orb
 steelix|+1|iron-tail,earthquake,rock-slide,coil|sheer-force|leftovers
 gliscor|+0|wing-attack,dig,toxic,protect|poison-heal|toxic-orb
 
---mm1|Maxie# - Mount Chimney
+--mm1|Maxie||/leaders/rs-maxie# - Mount Chimney
 crobat|+1|brave-bird,cross-poison,crunch,u-turn|infiltrator|assault-vest
 zweilous|+1|outrage,crunch,head-smash,superpower|hustle|choice-scarf
 weezing|+1|venoshock,thunderbolt,toxic,heat-wave|levitate|black-sludge
 victreebel|+1|leaf-blade,poison-jab,sucker-punch,sleep-powder|chlorophyll|scope-lens
 camerupt|+3|earth-power,fire-blast,rock-slide,solar-beam|sheer-force|power-herb
 
---as1|Shelly# Weather Institute
+--as1|Shelly||/leaders/rs-shelly# Weather Institute
 ninetales-alola|+0|blizzard,moonblast,water-pulse,aurora-veil|snow-warning|light-clay
 empoleon|+0|hydro-pump,blizzard,flash-cannon,grass-knot|slush-rush|petaya-berry
 crawdaunt|+1|crabhammer,crunch,dragon-dance,blizzard|adaptability|ice-gem
@@ -45,7 +45,7 @@ clefable|+0|flamethrower,blizzard,calm-mind,soft-boiled|magic-guard|leftovers
 ludicolo|+0|scald,giga-drain,leech-seed,blizzard|swift-swim|safety-goggles
 beedrill-mega|+2|x-scissor,poison-jab,drill-run,drill-peck|adaptability|beedrillite
 
---am1|Matt# Mt. Pyre
+--am1|Matt||/leaders/rs-matt# Mt. Pyre
 pelipper|+0|hurricane,scald,roost,u-turn|drizzle|rocky-helmet
 dhelmise|+0|power-whip,phantom-force,liquidation,anchor-shot|steelworker|assault-vest
 heliolisk|+0|thunder,weather-ball,focus-blast,grass-knot|dry-skin|life-orb
@@ -53,7 +53,7 @@ toxicroak|+0|drain-punch,poison-jab,bulk-up,sucker-punch|dry-skin|black-sludge
 seismitoad|+0|liquidation,earthquake,power-whip,ice-punch|swift-swim|rindo-berry
 gyarados-mega|+2|waterfall,crunch,earthquake,dragon-dance|mold-breaker|gyaradosite
 
---mtc|Tabitha & Courtney||# magma hideout
+--mtc|Tabitha & Courtney||/leaders/rs-tabitha-courtney# magma hideout
 gigalith|+1|power-gem,earth-power,weather-ball,thunderbolt|solar-power|rocky-helmet
 darmanitan-standard|+1|flare-blitz,zen-headbutt,rock-slide,iron-head|sheer-force|life-orb
 steelix-mega|+2|gyro-ball,drill-run,rock-slide,fire-fang|sand-force|steelixite
@@ -61,7 +61,7 @@ ninetales|+1|heat-wave,moonblast,solar-beam,hypnosis|drought|fire-gem
 krookodile|+1|crunch,high-horsepower,stone-edge,thunder-fang|intimidate|assault-vest
 houndoom-mega|+2|dark-pulse,heat-wave,solar-beam,sludge-bomb|solar-power|houndoominite
 
---mtm|Maxie||#magma hideout
+--mtm|Maxie||/leaders/rs-maxie#magma hideout
 groudon|+0|precipice-blades,heat-crash,stone-edge,rock-polish|drought|lum-berry
 lycanroc-dusk|+1|strength,close-combat,psychic-fangs,accelerock|tough-claws|rock-gem
 hydreigon|+1|dark-pulse,draco-meteor,fire-blast,focus-blast|levitate|white-herb
@@ -69,7 +69,7 @@ crobat|+1|brave-bird,cross-poison,super-fang,hypnosis|infiltrator|shell-bell
 victreebel|+1|solar-blade,poison-jab,weather-ball,sleep-powder|chlorophyll|life-orb
 camerupt-mega|+2|earth-power,fire-blast,solar-beam,flash-cannon|sheer-force|cameruptite
 
---am2|Matt||#aqua hideout
+--am2|Matt||/leaders/rs-matt#aqua hideout
 pelipper|+0|hurricane,scald,roost,u-turn|drizzle|leftovers
 dhelmise|+0|anchor-shot,shadow-claw,liquidation,rock-slide|steelworker|steel-gem
 heliolisk|+0|thunder,weather-ball,focus-blast,grass-knot|dry-skin|life-orb
@@ -77,7 +77,7 @@ toxicroak|+0|drain-punch,gunk-shot,swords-dance,sucker-punch|dry-skin|black-slud
 seismitoad|+0|liquidation,earthquake,power-whip,ice-punch|swift-swim|assault-vest
 gyarados-mega|+2|waterfall,crunch,power-whip,dragon-dance|mold-breaker|gyaradosite
 
---mt2|Tabitha||#mossdeep space centre
+--mt2|Tabitha||/leaders/rs-tabitha#mossdeep space centre
 gigalith|+0|weather-ball,earth-power,stealth-rock,thunderbolt|sand-stream|passho-berry
 darmanitan-standard|+0|flare-blitz,zen-headbutt,rock-slide,earthquake|sheer-force|choice-scarf
 steelix-mega|+2|gyro-ball,earthquake,stone-edge,shore-up|sand-force|steelixite
@@ -85,7 +85,7 @@ gliscor|+0|earthquake,substitute,toxic,protect|poison-heal|toxic-orb
 excadrill|+0|earthquake,iron-head,rock-slide,swords-dance|sand-rush|focus-sash
 gastrodon|+0|earth-power,scald,toxic,recover|storm-drain|leftovers
 
---mmc|Maxie & Courtney||#mossdeep space centre
+--mmc|Maxie & Courtney||/leaders/rs-maxie-courtney#mossdeep space centre
 victreebel|+1|solar-blade,poison-jab,weather-ball,sleep-powder|chlorophyll|life-orb
 crobat|+1|brave-bird,cross-poison,hypnosis,super-fang|infiltrator|flying-gem
 camerupt-mega|+2|earth-power,fire-blast,solar-beam,flash-cannon|sheer-force|cameruptite
@@ -93,7 +93,7 @@ ninetales|+1|heat-wave,moonblast,solar-beam,will-o-wisp|drought|fire-gem
 krookodile|+1|knock-off,high-horsepower,stone-edge,iron-tail|intimidate|assault-vest
 houndoom-mega|+2|dark-pulse,heat-wave,solar-beam,sludge-bomb|solar-power|houndoominite
 
---as2|Shelly||#seafloor cavern
+--as2|Shelly||/leaders/rs-shelly#seafloor cavern
 ninetales-alola|+0|blizzard,moonblast,energy-ball,aurora-veil|snow-warning|light-clay
 empoleon|+0|hydro-pump,flash-cannon,blizzard,grass-knot|slush-rush|petaya-berry
 crawdaunt|+1|crabhammer,knock-off,close-combat,dragon-dance|adaptability|life-orb
@@ -101,7 +101,7 @@ clefable|+0|draining-kiss,mystical-fire,stored-power,calm-mind|magic-guard|lefto
 ludicolo|+0|scald,giga-drain,leech-seed,blizzard|swift-swim|safety-goggles
 beedrill-mega|+2|megahorn,poison-jab,drill-run,knock-off|adaptability|beedrillite
 
---aa2|Archie||#seafloor cavern
+--aa2|Archie||/leaders/rs-archie#seafloor cavern
 kyogre|+1|origin-pulse,thunder,ice-beam,calm-mind|drizzle||
 goodra|+1|dragon-rush,aqua-tail,rest,curse|hydration|leftovers
 tentacruel|+1|waterfall,poison-jab,swords-dance,protect|rain-dish|black-sludge
@@ -111,7 +111,7 @@ sharpedo-mega|+2|liquidation,crunch,psychic-fangs,close-combat|strong-jaw|sharpe
 
 # Rivals
 
---r1b|Brendan||
+--r1b|Brendan||/leaders/rs-brendan
 swellow|-1|aerial-ace,quick-attack,roost,refresh|guts||
 dewpider|-1|bug-bite,bubble,infestation,water-sport|water-bubble||water
 dewpider|-1|bug-bite,bubble,infestation,water-sport|water-bubble||grass
@@ -124,7 +124,7 @@ grovyle|+0|mega-drain,dragon-breath,fury-cutter,rock-tomb|overgrow|oran-berry|wa
 marshtomp|+0|mud-shot,water-gun,rock-tomb,growl|torrent|oran-berry|fire
 
 
---r1m|May||
+--r1m|May||/leaders/rs-may
 swellow|-1|aerial-ace,quick-attack,roost,refresh|guts||
 staryu|-1|bubble-beam,recover,psywave,swift|natural-cure||water
 staryu|-1|bubble-beam,recover,psywave,swift|natural-cure||grass
@@ -137,7 +137,7 @@ grovyle|+0|mega-drain,dragon-breath,fury-cutter,rock-tomb|overgrow|oran-berry|wa
 marshtomp|+0|mud-shot,water-gun,rock-tomb,growl|torrent|oran-berry|fire
 
 
---r2b|Brendan||
+--r2b|Brendan||/leaders/rs-brendan
 swellow|-1|wing-attack,quick-attack,roost,u-turn|guts||
 araquanid|-1|bug-bite,water-pulse,ice-fang,spider-web|water-bubble||water
 araquanid|-1|bug-bite,water-pulse,ice-fang,spider-web|water-bubble||grass
@@ -151,7 +151,7 @@ grovyle|+0|grass-pledge,dragon-breath,fury-cutter,rock-tomb|overgrow|sitrus-berr
 marshtomp|-1|bulldoze,water-pledge,rock-slide,brick-break|torrent|sitrus-berry|fire
 
 
---r2m|May||
+--r2m|May||/leaders/rs-may
 swellow|-1|aerial-ace,quick-attack,roost,refresh|guts||
 starmie|-1|water-pulse,recover,psybeam,icy-wind|natural-cure||water
 starmie|-1|water-pulse,recover,psybeam,icy-wind|natural-cure||grass
@@ -165,7 +165,7 @@ grovyle|+0|grass-pledge,dragon-breath,fury-cutter,rock-tomb|overgrow|sitrus-berr
 marshtomp|-1|bulldoze,water-pledge,rock-slide,brick-break|torrent|sitrus-berry|fire
 
 
---r3b|Brendan||
+--r3b|Brendan||/leaders/rs-brendan
 swellow|+0|hurricane,boomburst,heat-wave,u-turn|scrappy|life-orb
 araquanid|+0|liquidation,leech-life,ice-fang,sticky-web|water-bubble|mystic-water|water
 araquanid|+0|liquidation,leech-life,ice-fang,sticky-web|water-bubble|mystic-water|grass
@@ -180,7 +180,7 @@ swampert-mega|+2|earthquake,hydro-cannon,ice-punch,rain-dance|swift-swim|swamper
 sceptile-mega|+2|frenzy-plant,dragon-pulse,focus-blast,grassy-terrain|chloroplast|sceptilite|water
 
 
---r3m|May||
+--r3m|May||/leaders/rs-may
 swellow|+0|hurricane,boomburst,heat-wave,u-turn|scrappy|life-orb
 starmie|+0|hydro-pump,psyshock,thunder,ice-beam|analytic|life-orb|water
 starmie|+0|hydro-pump,psyshock,thunder,ice-beam|analytic|life-orb|grass
@@ -195,7 +195,7 @@ swampert-mega|+2|earthquake,hydro-cannon,ice-punch,rain-dance|swift-swim|swamper
 sceptile-mega|+2|frenzy-plant,dragon-pulse,focus-blast,grassy-terrain|chloroplast|sceptilite|water
 
 
---r4b|Brendan||
+--r4b|Brendan||/leaders/rs-brendan
 swellow|+1|brave-bird,facade,extreme-speed,u-turn|guts|flame-orb
 vikavolt|+1|thunderbolt,bug-buzz,energy-ball,aurora-beam|levitate|life-orb
 araquanid|+1|liquidation,leech-life,ice-fang,sticky-web|water-bubble|focus-sash|water
@@ -210,7 +210,7 @@ swampert-mega|+3|earthquake,liquidation,ice-punch,rain-dance|swift-swim|swampert
 sceptile-mega|+3|solar-beam,dragon-pulse,earthquake,growth|chloroplast|sceptilite|water
 
 
---r4m|May||
+--r4m|May||/leaders/rs-may
 vikavolt|+1|thunderbolt,bug-buzz,energy-ball,sticky-web|levitate|life-orb
 swellow|+1|brave-bird,facade,reversal,protect|guts|flame-orb
 starmie|+1|hydro-pump,psyshock,thunder,ice-beam|analytic|water-gem|water
@@ -225,14 +225,14 @@ swampert-mega|+3|earthquake,liquidation,ice-punch,rain-dance|swift-swim|swampert
 sceptile-mega|+3|solar-beam,dragon-pulse,earthquake,growth|chloroplast|sceptilite|water
 
 
---w1|Wally
+--w1|Wally||/leaders/rs-wally
 roselia|+0|giga-drain,venoshock,poison-powder,leech-seed|natural-cure|black-sludge
 fletchinder|+0|flame-charge,acrobatics,steel-wing,roost|gale-wings|flying-gem
 azumarill|+0|aqua-tail,play-rough,bulldoze,brick-break|huge-power|rocky-helmet
 kirlia|+1|psychic,draining-kiss,hypnosis,charm|trace|focus-sash
 
 
---w2|Wally
+--w2|Wally||/leaders/rs-wally
 garchomp|+1|dragon-rush,earthquake,stone-edge,stealth-rock|rough-skin|life-orb
 magnezone|+1|flash-cannon,volt-switch,hidden-power,thunder-wave|sturdy|air-balloon
 azumarill|+1|liquidation,play-rough,aqua-jet,iron-tail|huge-power|assault-vest
@@ -242,7 +242,7 @@ gallade-mega|+2|psycho-cut,night-slash,sacred-sword,ice-punch|keen-eye|galladite
 
 # Gym leaders
 
---1|Roxanne|rock|
+--1|Roxanne|rock|/leaders/rs-roxanne
 aron|-3|rock-tomb,metal-claw,stealth-rock,rest|sturdy|chesto-berry
 tyrunt|-3|rock-tomb,dragon-tail,bite,poison-fang|sturdy|red-card
 amaura|-3|rock-tomb,echoed-voice,bulldoze,thunder-wave|refrigerate|chople-berry
@@ -251,7 +251,7 @@ lileep|-3|rock-tomb,mega-drain,infestation,pain-split|storm-drain|oran-berry
 nosepass|+0|rock-tomb,bulldoze,fire-punch,sandstorm|sand-force|berry-juice
 
 
---2|Brawly|fighting|
+--2|Brawly|fighting|/leaders/rs-brawly
 meditite|-2|drain-punch,zen-headbutt,light-screen,reflect|pure-power|light-clay
 breloom|-2|drain-punch,bullet-seed,bulk-up,spore|poison-heal|toxic-orb
 lucario|-2|reversal,bullet-punch,bulk-up,payback|steadfast|lum-berry
@@ -260,7 +260,7 @@ dewott|-2|karate-chop,razor-shell,x-scissor,air-slash|torrent|eviolite
 hariyama|+0|arm-thrust,knock-off,bulldoze,bulk-up|guts|sitrus-berry
 
 
---3|Wattson|electric|
+--3|Wattson|electric|/leaders/rs-wattson
 galvantula|+0|volt-switch,bug-buzz,giga-drain,sticky-web|swarm|grass-gem
 lanturn|+0|volt-switch,surf,dazzling-gleam,icy-wind|water-absorb|air-balloon
 magneton|+0|volt-switch,flash-cannon,thunder-wave,electric-terrain|sturdy|eviolite
@@ -269,7 +269,7 @@ raichu-alola|+0|volt-switch,psychic,grass-knot,surf|surge-surfer|shuca-berry
 manectric|+2|volt-switch,aurora-beam,signal-beam,flamethrower|lightning-rod|sitrus-berry
 
 
---4|Flannery|fire|
+--4|Flannery|fire|/leaders/rs-flannery
 torkoal|+3|overheat,stealth-rock,clear-smog,rapid-spin|drought|white-herb
 houndoom|+0|overheat,dark-pulse,sucker-punch,solar-beam|flash-fire|fire-gem
 arcanine|+0|flare-blitz,close-combat,extreme-speed,play-rough|intimidate|assault-vest
@@ -278,7 +278,7 @@ volcarona|+0|fiery-dance,giga-drain,quiver-dance,roost|flame-body|charti-berry
 talonflame|+0|overheat,brave-bird,u-turn,defog|gale-wings|white-herb
 
 
---5|Norman|normal|
+--5|Norman|normal|/leaders/rs-norman
 swellow|+0|facade,brave-bird,reversal,u-turn|guts|flame-orb
 tauros|+0|facade,earthquake,throat-chop,close-combat|intimidate|life-orb
 linoone|+0|extreme-speed,shadow-claw,seed-bomb,belly-drum|gluttony|figy-berry
@@ -287,7 +287,7 @@ slaking|+2|giga-impact,night-slash,earthquake,yawn|truant|lum-berry
 kangaskhan-mega|+0|facade,crunch,seismic-toss,earthquake|parental-bond|kangaskhanite
 
 
---6|Winona|flying|
+--6|Winona|flying|/leaders/rs-winona
 gyarados|+1|waterfall,earthquake,stone-edge,power-whip|intimidate|wacan-berry
 hawlucha|+1|brave-bird,close-combat,rock-slide,encore|unburden|flying-gem
 dragonite|+1|wing-attack,earthquake,fire-punch,extreme-speed|multiscale|yache-berry
@@ -296,7 +296,7 @@ emolga|+1|hurricane,electroweb,tickle,helping-hand|lightning-rod|focus-sash
 altaria-mega|+3|return,earthquake,roost,dragon-dance|pixilate|altarianite
 
 
---7|Tate & Liza|psychic|
+--7|Tate & Liza|psychic|/leaders/rs-tate-liza
 slowbro-mega|+2|psychic,surf,ice-beam,calm-mind|shell-armor|slowbronite
 claydol|+2|psychic,earth-power,signal-beam,trick-room|levitate|absorb-bulb
 exeggutor|+2|psychic,solar-beam,sludge-bomb,trick-room|chloroplast|expert-belt
@@ -305,7 +305,7 @@ lunatone|+3|power-gem,shadow-ball,grass-knot,calm-mind|levitate|ghost-gem
 solrock|+3|zen-headbutt,rock-slide,flare-blitz,rock-polish|levitate|weakness-policy
 
 
---8|Juan|water|
+--8|Juan|water|/leaders/rs-juan
 politoed|+1|scald,boomburst,earth-power,perish-song|drizzle|eject-button
 ludicolo|+1|scald,giga-drain,ice-beam,focus-blast|swift-swim|expert-belt
 kabutops|+1|liquidation,stone-edge,leech-life,swords-dance|swift-swim|focus-sash
@@ -315,7 +315,7 @@ kingdra|+2|hydro-pump,draco-meteor,hurricane,flash-cannon|swift-swim|kingdranite
 
 # Elite four
 
---e1|Sidney|dark|
+--e1|Sidney|dark|/leaders/rs-sidney
 tyranitar|+1|crunch,stone-edge,stealth-rock,fire-punch|sand-stream|chople-berry
 cacturne|+1|knock-off,needle-arm,close-combat,swords-dance|sand-rush|focus-sash
 muk-alola|+1|gunk-shot,knock-off,fire-punch,ice-punch|poison-touch|assault-vest
@@ -323,7 +323,7 @@ greninja|+1|hydro-pump,gunk-shot,ice-beam,extrasensory|protean|life-orb
 mandibuzz|+1|foul-play,toxic,roost,whirlwind|overcoat|leftovers
 absol-mega|+2|knock-off,play-rough,close-combat,fire-blast|magic-bounce|absolite
 
---e2|Phoebe|ghost|
+--e2|Phoebe|ghost|/leaders/rs-phoebe
 mismagius|+1|shadow-ball,hyper-voice,nasty-plot,mystical-fire|pixilate|life-orb
 golurk|+1|shadow-punch,earthquake,meteor-mash,drain-punch|iron-fist|assault-vest
 chandelure|+1|shadow-ball,fire-blast,energy-ball,psychic|flash-fire|choice-scarf
@@ -331,7 +331,7 @@ dusknoir|+1|shadow-punch,thunder-punch,ice-punch,earthquake|iron-fist|shell-bell
 aegislash-shield|+1|shadow-ball,flash-cannon,shadow-sneak,kings-shield|stance-change|spell-tag
 banette-mega|+2|shadow-claw,return,play-rough,cotton-guard|prankster|banettite
 
---e3|Glacia|ice|
+--e3|Glacia|ice|/leaders/rs-glacia
 abomasnow|+1|blizzard,leaf-storm,earth-power,aurora-veil|snow-warning|choice-scarf
 froslass|+1|freeze-dry,shadow-ball,psychic,aurora-veil|whiteout|light-clay
 walrein|+2|toxic,protect,super-fang,substitute|ice-body|leftovers
@@ -339,7 +339,7 @@ mamoswine|+1|icicle-crash,earthquake,ice-shard,superpower|thick-fat|assault-vest
 glaceon|+1|blizzard,fire-blast,thunderbolt,surf|slush-rush|life-orb
 glalie-mega|+2|double-edge,ice-shard,stone-edge,earthquake|refrigerate|glalitite
 
---e4|Drake|dragon|
+--e4|Drake|dragon|/leaders/rs-drake
 dragalge|+1|draco-meteor,sludge-wave,focus-blast,toxic-spikes|adaptability|poison-gem
 kommo-o|+1|outrage,close-combat,iron-tail,shell-smash|soundproof|white-herb
 serperior|+2|draco-meteor,leaf-storm,hidden-power,glare|contrary|life-orb
@@ -347,7 +347,7 @@ garchomp|+1|outrage,earthquake,strength,swords-dance|rough-skin|yache-berry
 naganadel|+1|draco-meteor,sludge-wave,fire-blast,nasty-plot|beast-boost|white-herb
 salamence-mega|+2|double-edge,earthquake,fire-blast,dragon-dance|aerilate|salamencite
 
---c|Wallace||
+--c|Wallace||/leaders/rs-wallace
 wailord|+2|water-spout,ice-beam,weather-ball,earthquake|drizzle|choice-scarf
 latios|+2|draco-meteor,psyshock,thunder,aura-sphere|levitate|soul-dew
 ludicolo|+2|scald,giga-drain,ice-beam,quiver-dance|swift-swim|shell-bell
