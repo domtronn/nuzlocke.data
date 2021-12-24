@@ -1,47 +1,47 @@
 # Evil team
---mars1|Mars||/leaders/mars#valley windworks post
+--mars1|Mars||/leaders/dp-mars#valley windworks post
 zubat|15|bite,leech-life,toxic|inner-focus
 purugly|17|fake-out,scratch,feint-attack|thick-fat|oran-berry
 
---jup1|Jupiter||/leaders/jupiter#4F Eterna Building
+--jup1|Jupiter||/leaders/dp-jupiter#4F Eterna Building
 zubat|21|wing-attack,giga-drain,bite|inner-focus
 skuntank|23|night-slash,poison-gas,smokescreen,screech|stench|sitrus-berry
 
---cyr1|Cyrus||/leaders/cyrus#Galactic Headquarters
+--cyr1|Cyrus||/leaders/dp-cyrus#Galactic Headquarters
 golbat|34|air-cutter,poison-fang,supersonic,bite|inner-focus
 sneasel|34|ice-punch,slash,quick-attack,screech|inner-focus|
 murkrow|36|night-shade,astonish,feint-attack,drill-peck|insomnia|sitrus-berry
 
---cyr2|Cyrus||/leaders/cyrus#Galactic Headquarters
+--cyr2|Cyrus||/leaders/dp-cyrus#Galactic Headquarters
 sneasel|44|ice-punch,slash,quick-attack,screech|inner-focus|
 crobat|44|air-cutter,poison-fang,supersonic,bite|inner-focus
 honchkrow|46|night-shade,astonish,feint-attack,drill-peck|insomnia|sitrus-berry
 
---cyr3|Cyrus||/leaders/cyrus
+--cyr3|Cyrus||/leaders/dp-cyrus
 houndoom|45|flamethrower,will-o-wisp,dark-pulse,thunder-fang|flash-fire
 honchkrow|47|drill-peck,night-slash,heat-wave,psychic|insomnia
 crobat|46|cross-poison,toxic,air-slash,confuse-ray|inner-focus
 gyarados|46|waterfall,ice-fang,earthquake,giga-impact|intimidate
 weavile|48|night-slash,ice-punch,x-scissor,fake-out|pressure|sitrus-berry
 
---sat1|Saturn||/leaders/saturn#Vallor Cavern
+--sat1|Saturn||/leaders/dp-saturn#Vallor Cavern
 golbat|38|toxic,air-cutter,bite,supersonic|inner-focus
 bronzor|38|iron-defense,gyro-ball,rock-tomb,shadow-ball|levitate
 toxicroak|40|revenge,feint-attack,mud-bomb,poison-jab|anticipation|sitrus-berry
 
---mars2|Mars||/leaders/mars
+--mars2|Mars||/leaders/dp-mars
 golbat|38|toxic,air-cutter,bite,supersonic|inner-focus
 bronzor|38|iron-defense,gyro-ball,confuse-ray,extrasensory|levitate
 purugly|16|fake-out,slash,feint-attack,hypnosis|thick-fat|sitrus-berry
 
 
---sat2|Saturn||/leaders/saturn#Galactic HQ
+--sat2|Saturn||/leaders/dp-saturn#Galactic HQ
 golbat|42|bite,air-cutter,poison-fang,confuse-ray|inner-focus
 toxicroak|44|brick-break,feint-attack,x-scissor,poison-jab|anticipation|sitrus-berry
 bronzor|42|extrasensory,gyro-ball,confuse-ray,shadow-ball|levitate
 
 
---mnj|Mars & Jupiter||/leaders/mars-jupiter#Spear Pillar
+--mnj|Mars & Jupiter||/leaders/dp-mars-jupiter#Spear Pillar
 bronzor|44|gyro-ball,confuse-ray,extrasensory,light-screen|levitate
 golbat|44|air-cutter,confuse-ray,bite,poison-fang|inner-focus
 purugly|46|shadow-claw,slash,aerial-ace,hypnosis|thick-fat|sitrus-berry
@@ -51,18 +51,18 @@ skuntank|46|poison-jab,night-slash,flamethrower,smokescreen|stench|sitrus-berry
 
 
 # Rival
---b1|Barry||/leaders/barry#Route 201
+--b1|Barry||/leaders/dp-barry#Route 201
 chimchar|5|scratch,leer|blaze||grass
 piplup|5|pound,growl|torrent||fire
 turtwig|5|tackle,withdraw|overgrow||water
 
---b2|Barry||/leaders/barry#Route 203
+--b2|Barry||/leaders/dp-barry#Route 203
 starly|7|quick-attack,growl|keen-eye
 chimchar|9|scratch,leer|blaze||grass
 piplup|9|pound,growl|torrent||fire
 turtwig|9|tackle,withdraw|overgrow||water
 
---b3|Barry||/leaders/barry#Hearthome City
+--b3|Barry||/leaders/dp-barry#Hearthome City
 staravia|25|endeavor,double-team,wing-attack,quick-attack|intimidate
 roselia|23|poison-sting,stun-spore,mega-drain,leech-seed|natural-cure||fire
 roselia|23|poison-sting,stun-spore,mega-drain,leech-seed|natural-cure||grass
@@ -74,7 +74,7 @@ monferno|27|fury-swipes,leer,mach-punch,flame-wheel|blaze||grass
 prinplup|27|peck,metal-claw,bubble,growl|torrent||fire
 grotle|27|tackle,withdraw,razor-leaf,absorb|overgrow||water
 
---b4|Barry||/leaders/barry#Pastoria City
+--b4|Barry||/leaders/dp-barry#Pastoria City
 starly|34|endeavor,double-team,wing-attack,quick-attack|intimidate
 roselia|32|poison-sting,toxic-spikes,mega-drain,magical-leaf|natural-cure||fire
 roselia|32|poison-sting,toxic-spikes,mega-drain,magical-leaf|natural-cure||grass
@@ -86,7 +86,7 @@ monferno|36|fury-swipes,leer,mach-punch,flame-wheel|blaze||grass
 prinplup|36|peck,metal-claw,bubble-beam,growl|torrent||fire
 grotle|36|bite,withdraw,razor-leaf,mega-drain|overgrow||water
 
---b5|Barry||/leaders/barry#Canalave City
+--b5|Barry||/leaders/dp-barry#Canalave City
 staravia|36|aerial-ace,double-team,take-down,quick-attack|keen-eye
 heracross|37|horn-attack,night-slash,aerial-ace,brick-break|swarm
 roserade|35|giga-drain,grass-whistle,leech-seed,toxic-spikes|natural-cure||fire
@@ -99,7 +99,7 @@ infernape|38|flame-wheel,aerial-ace,mach-punch,brick-break|blaze||grass
 empoleon|38|fury-attack,bubble-beam,metal-claw,aerial-ace|torrent||fire
 torterra|38|razor-leaf,leech-seed,bite,mega-drain|overgrow||water
 
---b6|Barry||/leaders/barry#Victory Road
+--b6|Barry||/leaders/dp-barry#Victory Road
 staraptor|48|close-combat,aerial-ace,steel-wing,u-turn|keen-eye
 heracross|48|rock-slide,close-combat,night-slash,aerial-ace|swarm
 snorlax|49|rest,crunch,earthquake,body-slam|immunity
@@ -114,78 +114,78 @@ empoleon|51|brine,metal-claw,aerial-ace,shadow-claw|torrent||fire
 torterra|51|leaf-storm,synthesis,earthquake,crunch|overgrow||water
 
 # Gym leaders
---1|Roark|rock|/leaders/roark
+--1|Roark|rock|/leaders/dp-roark
 geodude|12|rock-throw,stealth-rock|rock-head
 onix|12|rock-throw,screech,stealth-rock|rock-head
 cranidos|14|headbutt,leer,pursuit|mold-breaker
 
---2|Gardenia|grass|/leaders/gardenia
+--2|Gardenia|grass|/leaders/dp-gardenia
 turtwig|20|razor-leaf,grass-knot,sunny-day,reflect|overgrow|
 cherubi|20|grass-knot,leech-seed,magical-leaf,safeguard|flower-gift|
 roserade|22|magical-leaf,grass-knot,stun-spore,poison-sting|natural-cure|sitrus-berry
 
---3|Fantina|ghost|/leaders/fantina
+--3|Fantina|ghost|/leaders/dp-fantina
 duskull|24|will-o-wisp,shadow-sneak,future-sight,pursuit|levitate
 haunter|24|confuse-ray,shadow-claw,hypnosis,sucker-punch|levitate
 mismagius|26|confuse-ray,shadow-ball,psybeam,magical-leaf|levitate|sitrus-berry
 
---4|Maylene|fighting|/leaders/maylene
+--4|Maylene|fighting|/leaders/dp-maylene
 meditite|28|fake-out,rock-tomb,confusion,drain-punch|pure-power
 machoke|29|strength,karate-chop,rock-tomb,focus-energy|guts
 lucario|32|drain-punch,force-palm,metal-claw,bone-rush|steadfast|sitrus-berry
 
---5|Crasher Wake|water|/leaders/wake
+--5|Crasher Wake|water|/leaders/dp-wake
 gyarados|33|brine,waterfall,twister,bite|intimidate
 quagsire|34|rock-tomb,water-pulse,mud-shot,yawn|damp
 floatzel|37|brine,ice-fang,crunch,aqua-jet|swift-swim|sitrus-berry
 
---6|Byron|steel|/leaders/byron
+--6|Byron|steel|/leaders/dp-byron
 magneton|37|flash-cannon,metal-sound,thunderbolt,tri-attack|magnet-pull
 steelix|36|earthquake,flash-cannon,sandstorm,ice-fang|rock-head
 bastiodon|39|metal-burst,iron-defense,stone-edge,taunt|sturdy|chesto-berry
 
---7|Candice|ice|/leaders/candice
+--7|Candice|ice|/leaders/dp-candice
 piloswine|38|earthquake,stone-edge,avalanche,hail|oblivious
 sneasel|40|aerial-ace,feint-attack,ice-shard,slash|inner-focus
 abomasnow|42|wood-hammer,focus-blast,avalanche,water-pulse|snow-warning
 froslass|44|double-team,blizzard,shadow-ball,psychic|snow-cloak|sitrus-berry
 
---8|Volkner|electric|/leaders/volkner
+--8|Volkner|electric|/leaders/dp-volkner
 raichu|46|charge-beam,signal-beam,quick-attack,focus-blast|static
 jolteon|46|charge-beam,thunder-wave,iron-tail,quick-attack|volt-absorb
 luxray|48|thunder-fang,fire-fang,ice-fang,crunch|rivalry|
 electivire|50|thunder-punch,fire-punch,giga-impact,quick-attack|motor-drive|sitrus-berry
 
 # Elite four
---e1|Aaron|bug|/leaders/aaron
+--e1|Aaron|bug|/leaders/dp-aaron
 yanmega|49|bug-buzz,u-turn,air-slash,double-team|speed-boost
 scizor|49|x-scissor,iron-head,night-slash,quick-attack|swarm
 heracross|51|megahorn,close-combat,stone-edge,night-slash|swarm
 vespiquen|50|attack-order,defend-order,heal-order,power-gem|pressure
 drapion|53|cross-poison,x-scissor,aerial-ace,ice-fang|battle-armor|sitrus-berry
 
---e2|Bertha|ground|/leaders/bertha
+--e2|Bertha|ground|/leaders/dp-bertha
 whiscash|50|earth-power,sandstorm,zen-headbutt,aqua-tail|oblivious
 gliscor|53|earthquake,fire-fang,ice-fang,thunder-fang|hyper-cutter
 golem|52|fire-punch,thunder-punch,earthquake,sandstorm|rock-head
 hippowdon|52|earthquake,stone-edge,crunch,yawn|sand-stream
 rhyperior|55|avalanche,megahorn,earthquake,rock-wrecker|lightning-rod|sitrus-berry
 
---e3|Flint|fire|/leaders/flint
+--e3|Flint|fire|/leaders/dp-flint
 houndoom|52|flamethrower,sunny-day,sludge-bomb,dark-pulse|early-bird
 flareon|55|overheat,will-o-wisp,giga-impact,quick-attack|flash-fire
 rapidash|53|sunny-day,flare-blitz,solar-beam,bounce|run-away
 infernape|55|flare-blitz,thunder-punch,earthquake,mach-punch|blaze
 magmortar|57|flamethrower,thunderbolt,solar-beam,hyper-beam|flame-body|sitrus-berry
 
---e4|Lucian|psychic|/leaders/lucian
+--e4|Lucian|psychic|/leaders/dp-lucian
 mr-mime|53|psychic,light-screen,reflect,thunderbolt|soundproof
 espeon|55|psychic,quick-attack,signal-beam,shadow-ball|synchronize
 bronzong|54|psychic,gyro-ball,calm-mind,earthquake|levitate
 alakazam|56|psychic,focus-blast,recover,energy-ball|synchronize
 gallade|59|psycho-cut,drain-punch,leaf-blade,stone-edge|steadfast|sitrus-berry
 
---c|Cynthia||/leaders/cynthia
+--c|Cynthia||/leaders/dp-cynthia
 spiritomb|58|silver-wind,dark-pulse,shadow-ball,psychic|pressure
 roserade|58|energy-ball,extrasensory,sludge-bomb,toxic|natural-cure
 lucario|60|aura-sphere,shadow-ball,stone-edge,extreme-speed|steadfast
