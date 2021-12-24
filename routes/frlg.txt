@@ -14,12 +14,12 @@ Mt. Moon|clefairy,zubat,paras,geodude
 Cerulean City|psyduck,tentacool,slowpoke,krabby,horsea,magikarp,gyarados
 --Cerulean City Gym|2|gym-leader|Misty
 Route 24|psyduck,tentacool,slowpoke,krabby,horsea,magikarp,gyarados
---Rival|r2|rival|Blue
+--Rival|r3|rival|Blue
 Route 25|caterpie,metapod,weedle,kakuna,pidgey,oddish,psyduck,poliwag,poliwhirl,abra,bellsprout,slowpoke,goldeen,magikarp,gyarados
 Route 5|pidgey,oddish,meowth,bellsprout
 Route 6|pidgey,oddish,meowth,psyduck,poliwag,poliwhirl,bellsprout,slowpoke,goldeen,magikarp,gyarados
 Vermillion City|psyduck,tentacool,slowpoke,shellder,krabby,horsea,staryu,magikarp,gyarados
---S.S. Anne|r3|rival|Blue
+--S.S. Anne|r4|rival|Blue
 --Vermillion City Gym|3|gym-leader|Lt. Surge
 Route 11|spearow,ekans,sandshrew,psyduck,tentacool,slowpoke,drowzee,krabby,horsea,magikarp,gyarados
 Diglett's Cave|diglett,dugtrio

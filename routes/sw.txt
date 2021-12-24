@@ -65,7 +65,7 @@ Axew's Eye|vulpix,gloom,growlithe,delibird,pelipper,manectric,roselia,crawdaunt,
 --Energy Plant|rose|evil-team|Rose
 --Wyndon Championship Final|ca|elite-four|Champion Leon
 Fields of Honor
---Fields of Honor|kl1|rival |Klara
+--Fields of Honor|kl1|rival|Klara
 --Master Dojo|mustard1|rival|Mustard
 Soothing Wetlands
 Forest of Focus
