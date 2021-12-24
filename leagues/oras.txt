@@ -68,6 +68,10 @@ sharpedo|43|poison-fang,crunch,scary-face,slash|rough-skin|sharpedonite
 
 # Rivals
 
+--aarune|Aarune||/leaders/rs-aarune
+flygon|23|secret-power,fly,earth-power,dragon-claw|levitate|normal-gem
+
+
 --z1|Zinnia|dragon|/leaders/rs-zinnia@Kyledove@https://www.deviantart.com/kyle-dove
 tyrantrum|55|dragon-claw,crunch,earthquake,stone-edge|strong-jaw
 altaria|55|dragon-pulse,moonblast,flamethrower,hyper-voice|natural-cure
