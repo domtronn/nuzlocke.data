@@ -84,11 +84,11 @@ toxicroak|40|brick-break,thief,toxic,mud-slap|dry-skin
 
 --mnj|Mars & Jupiter||/leaders/dp-mars-jupiter#Spear Pillar
 bronzor|41|gyro-ball,confuse-ray,payback,reflect|levitate
-golbat|42|haze,u-turn,bite,poison-fang|inner-focus
-purugly|45|dig,body-slam,aerial-ace,u-turn|thick-fat|sitrus-berry
 bronzor|41|confuse-ray,payback,light-screen,extrasensory|levitate
-golbat|41|air-cutter,haze,giga-drain,sludge-bomb|inner-focus
+purugly|45|dig,body-slam,aerial-ace,u-turn|thick-fat|sitrus-berry
 skuntank|46|poison-gas,belch,flamethrower,snarl|aftermath|sitrus-berry
+golbat|42|haze,u-turn,bite,poison-fang|inner-focus
+golbat|41|air-cutter,haze,giga-drain,sludge-bomb|inner-focus
 
 --cyr1|Cyrus||/leaders/dp-cyrus#Galactic Headquarters
 murkrow|40|night-shade,wing-attack,taunt,assurance|insomnia

@@ -153,7 +153,8 @@ alomomola|18|helping-hand,double-slap,heal-pulse,water-gun|healer
 salazzle|22|torment,flame-burst,venom-drench,toxic|schooling|petaya-berry
 salandit|20|poison-gas,venoshock,taunt,scratch|corrosion
 
---6|Mallow's Trial|grass|/leaders/sm-mallow@Kyledove@https://www.deviantart.com/kyle-dovelurantis|24|razor-leaf,x-scissor,solar-blade,synthesis|leaf-guard|power-herb|
+--6|Mallow's Trial|grass|/leaders/sm-mallow@Kyledove@https://www.deviantart.com/kyle-dove
+lurantis|24|razor-leaf,x-scissor,solar-blade,synthesis|leaf-guard|power-herb|
 trumbeak|22|rock-blast,pluck,supersonic,screech|keen-eye||
 castform|22|sunny-day,water-gun,headbutt,weather-ball|forecast||
 
