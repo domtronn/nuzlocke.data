@@ -60,7 +60,7 @@ Axew's Eye|vulpix,gloom,growlithe,delibird,pelipper,manectric,roselia,crawdaunt,
 --Rose Tower|oleana|evil-team|Oleana
 --Wyndon Championship Match|e3|elite-four|Bede
 --Wyndon Championship Match|e4|elite-four|Nessa
---Wyndon Championship Match|e5a|elite-four|Bea
+--Wyndon Championship Match|e5b|elite-four|Allister
 --Wyndon Championship Match|e6|elite-four|Raihan
 --Energy Plant|rose|evil-team|Rose
 --Wyndon Championship Final|ca|elite-four|Champion Leon
