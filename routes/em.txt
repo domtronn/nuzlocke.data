@@ -10,7 +10,7 @@ Petalburg Woods|poochyena,zigzagoon,wurmple,silcoon,cascoon,taillow,shroomish,sl
 Rustboro City|makuhita,ralts,lileep,anorith
 --Rustboro Gym|1|gym-leader|Roxanne
 --Rustboro City|r2|rival|May
-Route 105|tentacool,magikarp,wingull,pelipper,wailmer
+Route 105|regice,tentacool,magikarp,wingull,pelipper,wailmer
 Route 116|abra,poochyena,zigzagoon,taillow,nincada,whismur,skitty
 Rusturf Tunnel|whismur
 Dewford Town|tentacool,magikarp,wingull,pelipper,wailmer
@@ -79,7 +79,6 @@ Route 131|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
 Sky Pillar|golbat,sableye,mawile,claydol,banette,dusclops,altaria,rayquaza
 Pacifidlog Town|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
 Mirage Island|wynaut
-Route 105|tentacool,magikarp,wingull,pelipper,wailmer
 Route 108|tentacool,magikarp,wingull,pelipper,wailmer
 Abandoned Ship|tentacool,tentacruel,magikarp
 Route 109|tentacool,magikarp,wingull,pelipper,wailmer

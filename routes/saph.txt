@@ -11,7 +11,7 @@ Rustboro City|makuhita,ralts,lileep,anorith
 --Rustboro Gym|1|gym-leader|Roxanne
 Route 116|abra,poochyena,zigzagoon,taillow,nincada,whismur,skitty
 Rusturf Tunnel|whismur
-Route 105|tentacool,magikarp,wingull,pelipper,wailmer
+Route 105|regice,tentacool,magikarp,wingull,pelipper,wailmer
 Dewford Town|tentacool,magikarp,wingull,pelipper,wailmer
 --Dewford Gym|2|gym-leader|Brawly
 Route 106|tentacool,magikarp,wingull,pelipper,wailmer
@@ -80,7 +80,6 @@ Pacifidlog Town|corsola,tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
 Route 132|tentacool,horsea,magikarp,wingull,pelipper,sharpedo,wailmer
 Route 133|tentacool,horsea,magikarp,wingull,pelipper,sharpedo,wailmer
 Route 134|tentacool,horsea,magikarp,wingull,pelipper,sharpedo,wailmer
-Route 105|regice,tentacool,magikarp,wingull,pelipper,wailmer
 Ever Grande City|tentacool,wingull,pelipper,magikarp,wailmer,luvdisc,corsola
 Victory Road|zubat,golbat,whismur,loudred,makuhita,hariyama,aron,lairon,meditite,medicham,geodude,graveler,sableye,mawile,goldeen,magikarp,barboach,whiscash
 --Victory Road|w2|rival|Wally

@@ -70,7 +70,6 @@ Route 20|jigglypuff,noctowl,zoroark,gothorita,amoonguss,trevenant,sudowoodo,foon
 Pokémon Village|garbodor,banette,jigglypuff,ditto,noctowl,zoroark,gothorita,foongus,amoonguss,poliwag,poliwhirl,lombre
 --Snowbelle Gym|8|gym-leader|Wulfric
 Route 21|poliwag,poliwhirl,scyther,dratini,dragonair,ursaring,lombre,spinda,altaria,floatzel,basculin,swablu
-Route 22|psyduck,farfetch'd,goldeen,seaking,magikarp,gyarados,azumarill,dunsparce,azurill,carvanha,sharpedo,bidoof,bibarel,riolu,bunnelby,diggersby,litleo
 Victory Road|noibat,geodude,graveler,haunter,lickitung,gurdurr,druddigon,zweilous,floatzel,shuckle,ariados,fearow,skarmory,hydreigon,lombre,floatzel,poliwag,poliwhirl,basculin
 --Victory Road|se5|rival|Serena
 --Pokémon League - Blazing Chamber|e1|elite-four|Malva

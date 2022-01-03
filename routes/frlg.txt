@@ -47,7 +47,7 @@ Safari Zone|nidoran♀,nidorina,nidoran♂,nidorino,parasect,venonat,psyduck,pol
 Route 15|pidgey,pidgeotto,oddish,gloom,venonat,bellsprout,weepinbell,ditto
 Route 14|pidgey,pidgeotto,oddish,gloom,venonat,bellsprout,weepinbell,ditto
 Route 13|pidgey,pidgeotto,oddish,gloom,venonat,psyduck,bellsprout,weepinbell,tentacool,slowpoke,krabby,horsea,magikarp,gyarados,ditto
-Power Plant|pikachu,magnemite,magneton,voltorb,electrode,electabuzz,zapdos
+Power Plant|zapdos,pikachu,magnemite,magneton,voltorb,electrode,electabuzz
 Route 19|pikachu,magnemite,magneton,voltorb,electrode,electabuzz,zapdos
 Route 20|psyduck,tentacool,slowpoke,krabby,kingler,horsea,seadra,magikarp,gyarados
 Seafoam Islands|zubat,golbat,psyduck,golduck,slowpoke,slowbro,seel,dewgong,krabby,horsea,magikarp,gyarados,makuhita,absol,chingling,bronzor
@@ -58,7 +58,6 @@ One Island|psyduck,tentacool,tentacruel,slowpoke,shellder,krabby,kingler,horsea,
 Two Island
 Three Island
 Route 21|psyduck,tentacool,slowpoke,krabby,kingler,tangela,horsea,seadra,magikarp,gyarados
-Power Plant|pikachu,magnemite,magneton,voltorb,electrode,electabuzz,zapdos
 --Viridian City Gym|8|gym-leader|Giovanni
 Route 23|spearow,fearow,ekans,arbok,sandshrew,sandslash,psyduck,mankey,primeape,poliwag,poliwhirl,slowpoke,goldeen,magikarp,gyarados
 Victory Road|arbok,sandslash,zubat,golbat,primeape,machop,machoke,geodude,onix,marowak,moltres
