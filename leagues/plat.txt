@@ -141,8 +141,8 @@ floatzel|37|brine,ice-fang,crunch,aqua-jet|swift-swim|sitrus-berry
 
 --6|Byron|steel|/leaders/dp-byron
 magneton|37|flash-cannon,metal-sound,thunderbolt,tri-attack|magnet-pull
-steelix|36|earthquake,flash-cannon,sandstorm,ice-fang|rock-head
-bastiodon|39|metal-burst,iron-defense,stone-edge,taunt|sturdy|chesto-berry
+steelix|38|earthquake,flash-cannon,sandstorm,ice-fang|rock-head
+bastiodon|41|metal-burst,iron-defense,stone-edge,taunt|sturdy|sitrus-berry
 
 --7|Candice|ice|/leaders/dp-candice
 piloswine|38|earthquake,stone-edge,avalanche,hail|oblivious
