@@ -1,4 +1,4 @@
-Starter|treecko,mudkip,torchic
+Starter|bulbasaur,squirtle,charmander,treecko,mudkip,torchic,turtwig,piplup,chimchar,snivy,oshawott,tepig,chespin,froakie,fennekin,rowlet,popplio,litten
 Littleroot Town|cosmog,chikorita,cyndaquil,totodile
 Route 101|zigzagoon,poochyena,wurmple,zorua,lillipup,bonsly,audino,beautifly,dustox,swadloon
 Route 103|shellos,gastrodon,shinx,snubbull,blitzle,grubbin,kricketot,kricketune,pineco,hoothoot,audino,luxio,charjabug,wingull,pelipper,magikarp,gyarados,tentacool,wailmer,sharpedo
