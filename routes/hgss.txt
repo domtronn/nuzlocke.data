@@ -1,6 +1,7 @@
 Starter|cyndaquil,chikorita,totodile
 New Bark Town|tentacool,tentacruel,shellder,magikarp,chinchou,lanturn
 Route 29|pidgey,rattata,sentret,hoothoot
+Route 46|rattata,spearow,geodude,aipom,heracross
 Cherrygrove City|tentacool,tentacruel,krabby,kingler,staryu,magikarp,corsola
 --Cherrygrove City|r1|rival|Silver
 Route 30|caterpie,metapod,weedle,kakuna,pidgey,rattata,poliwag,poliwhirl,bellsprout,magikarp,hoothoot,ledyba,spinarak
@@ -66,7 +67,6 @@ Blackthorn City|poliwag,magikarp
 Dragon's Den|magikarp,dratini,dragonair
 --Blackthorn City Gym|8|gym-leader|Clair
 Route 45|poliwag,geodude,graveler,magikarp,gligar,teddiursa,skarmory,phanpy
-Route 46|rattata,spearow,geodude,aipom,heracross
 Route 27|raticate,arbok,sandslash,tentacool,tentacruel,ponyta,doduo,dodrio,shellder,magikarp,chinchou,lanturn,quagsire
 Tohjo Falls|rattata,raticate,zubat,golbat,slowpoke,goldeen,seaking,magikarp
 Route 26|raticate,arbok,sandslash,ponyta,doduo,quagsire,tentacool,tentacruel,magikarp,shellder
