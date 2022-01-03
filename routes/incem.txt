@@ -7,6 +7,7 @@ Petalburg City|marill,azumarill,masquerain,goldeen,corphish,crawdaunt
 Route 104|azurill,taillow,sentret,pidove,litleo,budew,bunnelby,ledyba,audino,yungoos,patrat,wingull,pelipper,magikarp,gyarados,luvdisc
 Petalburg Woods|shroomish,slakoth,phantump,pidgey,pidgeotto,paras,buneary,pichu,silcoon,cascoon,kakuna,beedrill,metapod,butterfree,venipede,pansage,panpour,pansear,morelull,bounsweet,oddish,bellsproute,yanma,croagunk,misdreavus,murkrow,emolga,dewpider,audino,pikachu,aipon,cherubi,poliwag,poliwhirl,poliwrath,politoed,slowpoke,slowbro,exeggcute,venonat,trevenant
 --Petalbug Woods grunt|g1|evil-team|Grunt
+Seaspray Cave|tynamo,psyduck,zubat,golbat,wooper,quagsire,woobat,stunfisk,eelektrik,wishiwashi,krabby,kingler,binacle,dwebble
 Rustboro City|pawniard,nidoran-f,nidoran-m,petilil,cottonee,eevee,glameow,audino,nidorino,nidorina
 --Rustboro City|r1b|rival|Brendan
 --Rustboro City|r1m|rival|May
@@ -27,8 +28,6 @@ Slateport City|tentatcool,wingull,pelipper,horsea,frillish,jellicent,alomomola,s
 Route 110|electrike,gulpin,plusle,minun,trubbish,magnemite,pachirisu,stunky,audino,ekans,doduo,shellos,gastrodon,wingull,pelipper,wailmer,wailord,chinchou,lanturn
 --Route 110|r2b|rival|Brendan
 --Route 110|r2m|rival|May
-Altering Cave|mewtwo,rhydon,swoobat,noivern,druddigon,lucario,parasect,wobuffet,gigalith,eelektross,shiinotic,dugtrio,blissey,seaking,gastrodon,barboach,whiscash,magikarp,gyarados,steelix,shuckle,crustle
-New Mauville|rotom,magnemite,magneton,klink,klang,elekid,electrode,electabuzz,togedemaru
 --Mauville City|w1|rival|Wally
 --Mauville City Gym|3|gym-leader|Wattson
 Verdanturf Town|happiny
@@ -50,6 +49,7 @@ Fiery Path|slugma,diglett,torkoal,grimer,koffing,magby,heatmor,durant
 Route 111|sandshrew,cacnea,trapinch,gible,sandile,baltoy,maractus,hippopotas,geodude,graveler,shuckle,marill,azumarill,surskit,masquerain,barboach,goldeen,seaking,basculin
 Mirage Tower|sandshrew,trapinch,bronzor,golett,sigilyph,yamask,darumaka,geodude,dwebble
 --Petalburg Gym|5|gym-leader|Norman
+New Mauville|rotom,magnemite,magneton,klink,klang,elekid,electrode,electabuzz,togedemaru
 Route 118|linoone,manectric,lickitung,raticate,kecleon,liepard,carnivine,dedenne,tentacool,wingull,pelipper,magikarp,gyarados,carvanha,sharpedo,basculin,fearow,venomoth
 Route 119|gumshoos,tropius,goomy,sluggoo,oranguru,passimian,comfey,kecleon,amoonguss,audino,gastrodon,floatzel,pelipper,carvanha,sharpedo,magikarp,gyarados,milotic
 Weather Institute|castform
@@ -112,3 +112,4 @@ Victory Road|mawile,sableye,zweilous,exploud,carbink,lairon,aggron,medicham,noiv
 --Pokémon League|e3|elite-four|Glacia
 --Pokémon League Champion|c|elite-four|Wallace
 Artisan Cave|smeargle
+Altering Cave|mewtwo,rhydon,swoobat,noivern,druddigon,lucario,parasect,wobuffet,gigalith,eelektross,shiinotic,dugtrio,blissey,seaking,gastrodon,barboach,whiscash,magikarp,gyarados,steelix,shuckle,crustle

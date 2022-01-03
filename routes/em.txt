@@ -22,7 +22,6 @@ Slateport City|tentacool,magikarp,wingull,pelipper,wailmer
 Route 110|oddish,tentacool,magikarp,poochyena,zigzagoon,wingull,pelipper,electrike,plusle,minun,gulpin,wailmer
 --Route 110|r3|rival|May
 Altering Cave|zubat,mareep,aipom,pineco,shuckle,teddiursa,houndour,stantler
-New Mauville|magnemite,magneton,voltorb,electrode
 --Mauville City|w1|rival|Wally
 --Mauville City Gym|3|gym-leader|Wattson
 Route 117|oddish,goldeen,magikarp,marill,poochyena,zigzagoon,seedot,surskit,volbeat,illumise,roselia,corphish
@@ -39,6 +38,7 @@ Fiery Path|machop,grimer,koffing,slugma,numel,torkoal
 Route 111|sandshrew,geodude,goldeen,magikarp,marill,surskit,trapinch,cacnea,barboach,baltoy
 Mirage Tower|sandshrew,trapinch
 --Petalburg Gym|5|gym-leader|Norman
+New Mauville|magnemite,magneton,voltorb,electrode
 Route 118|tentacool,magikarp,zigzagoon,linoone,wingull,pelipper,electrike,manectric,carvanha,sharpedo,kecleon
 Route 119|oddish,tentacool,magikarp,zigzagoon,linoone,wingull,pelipper,carvanha,kecleon,tropius
 --Weather Institute|as1|evil-team|Shelly
