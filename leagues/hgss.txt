@@ -53,7 +53,7 @@ gastly|14|lick,spite,mean-look,curse|levitate||
 zubat|16|leech-life,supersonic,astonish,bite|inner-focus||
 quilava|18|leer,smokescreen,ember,quick-attack|blaze||grass
 croconaw|18|water-gun,rage,bite,scary-face|torrent||fire
-bayleef|18|poison-powder,reflect,synthesis,razor-leaf|overgrow||grass
+bayleef|18|poison-powder,reflect,synthesis,razor-leaf|overgrow||water
 
 --r3|Silver||/leaders/gs-silver# Burned tower
 gastly|20|lick,confuse-ray,mean-look,curse|levitate||
@@ -61,7 +61,7 @@ zubat|20|wing-attack,supersonic,astonish,bite|inner-focus||
 magnemite|18|thunder-shock,supersonic,sonic-boom,thunder-wave|magnet-pull||
 quilava|22|flame-wheel,smokescreen,ember,quick-attack|blaze||grass
 croconaw|22|water-gun,scary-face,ice-fang,bite|torrent||fire
-bayleef|22|reflect,magical-leaf,poison-powder,synthesis|overgrow||grass
+bayleef|22|reflect,magical-leaf,poison-powder,synthesis|overgrow||water
 
 --r4|Silver||/leaders/gs-silver#Goldenrod tunnel
 golbat|32|air-cutter,confuse-ray,bite,astonish|inner-focus||
@@ -70,7 +70,7 @@ haunter|32|shadow-ball,confuse-ray,mean-look,curse|levitate||
 sneasel|34|feint-attack,quick-attack,icy-wind,fury-swipes|inner-focus||
 quilava|34|smokescreen,swift,quick-attack,flame-wheel|blaze||grass
 feraligatr|32|water-gun,ice-fang,crunch,thrash|torrent||fire
-meganium|34|reflect,petal-dance,poison-powder,synthesis|overgrow||grass
+meganium|34|reflect,petal-dance,poison-powder,synthesis|overgrow||water
 
 --r5|Silver||/leaders/gs-silver#Victory road
 sneasel|36|feint-attack,quick-attack,icy-wind,fury-swipes|inner-focus||
@@ -80,7 +80,7 @@ kadabra|37|reflect,disable,psybeam,recover|synchronize||
 haunter|37|shadow-ball,confuse-ray,mean-look,curse|levitate||
 typhlosion|40|lava-plume,flame-wheel,swift,quick-attack,flame-wheel|blaze||grass
 feraligatr|40|waterfall,ice-fang,crunch,slash|torrent||fire
-meganium|40|petal-dance,synthesis,reflect,poison-powder|overgrow||grass
+meganium|40|petal-dance,synthesis,reflect,poison-powder|overgrow||water
 
 --r6|Silver||/leaders/gs-silver# Mt Moon
 sneasel|46|feint-attack,shadow-claw,icy-wind,quick-attack|inner-focus||
@@ -90,7 +90,7 @@ alakazam|48|psychic,reflect,recover,disable|synchronize||
 gengar|48|shadow-ball,confuse-ray,mean-look,curse|levitate||
 typhlosion|50|flamethrower,quick-attack,flame-wheel,swift|blaze||grass
 feraligatr|50|waterfall,ice-fang,crunch,slash|torrent||fire
-meganium|50|petal-dance,synthesis,light-screen,poison-powder|overgrow||grass
+meganium|50|petal-dance,synthesis,light-screen,poison-powder|overgrow||water
 
 # Gym leaders
 --1|Falkner|flying|/leaders/gs-falkner
