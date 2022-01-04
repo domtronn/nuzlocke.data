@@ -86,25 +86,24 @@ Honeycalm Island
 --Battle Court|kl3|rival|Klara
 --Battle Court|mustard2|rival|Master Mustard
 Slippery Slope
---Slipper Slope Ambush|p|rival|Peony
-Freezington
-Max Lair
+--Slippery Slope Ambush|p|rival|Peony
+Freezington|cosmog
+--Max Lair|p2|rival|Peony
 Frostpoint Field
 Giant's Bed
 Old Cemetery
 Snowslide Slope
 Tunnel to the Top
 Path to the Peak
-Crown Shrine
+Crown Shrine|calyrex,spectrier,glastrier
 Giant's Foot
 Roaring-Sea Caves
 Frigrid Sea
 Three-Point Pass
 Ballimere Lake
 Lakeside Cave
-Dyna Tree Hill
-Rock Peak Ruins
-Iceberg Ruins
-Iron Ruins
-Split-Decision Ruins
+Rock Peak Ruins|regirock
+Iceberg Ruins|regice
+Iron Ruins|registeel
+Split-Decision Ruins|regieleki,regidrago
 

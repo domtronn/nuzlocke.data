@@ -140,6 +140,13 @@ slowbro-galar|67|water-pulse,shell-side-arm,confusion|quick-draw
 copperajah|70|high-horsepower,heavy-slam,play-rough,superpower|sheer-force
 aggron|70|body-press,stone-edge,crunch,iron-head|sturdy|sitrus-berry
 
+--p2|Peony|steel|/leaders/swsh-peony@Brumirage@https://www.instagram.com/brumirage
+perrserker|74|u-turn,iron-head,seed-bomb,throat-chop|tough-claws||
+bronzong|73|extrasensory,calm-mind,flash-cannon,shadow-ball|heatproof||
+scizor|73|x-scissor,bullet-punch,wing-attack,double-hit|technician||
+aggron|74|body-press,stone-edge,crunch,iron-head|sturdy|
+copperajah|74|high-horsepower,heavy-slam,play-rough,superpower|sheer-force
+
 # Gym leaders
 --1|Milo|grass|/leaders/swsh-milo@Drawnamu@https://www.deviantart.com/drawnamu
 gossifleur|19|magical-leaf,round,rapid-spin|regenerator||
