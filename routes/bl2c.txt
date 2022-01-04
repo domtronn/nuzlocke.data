@@ -1,5 +1,5 @@
 Starter|snivy,tepig,oshawott
-Aspertia City|goldeen,seaking,snivy,tepig,oshawott,basculin
+Aspertia City|goldeen,seaking,basculin
 --Aspertia City|r1|rival|Hugh
 Route 19|poliwag,poliwhirl,politoed,patrat,purrloin,basculin
 Floccesy Town|dratini,gible

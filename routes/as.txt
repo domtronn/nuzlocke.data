@@ -1,5 +1,5 @@
 Starter|torchic,treecko,mudkip
-Route 101|chikorita,cyndaquil,totodile,treecko,torchic,mudkip,poochyena,zigzagoon,wurmple,turtwig,chimchar,piplup,snivy,tepig,oshawott,lillipup,sewaddle,zorua
+Route 101|chikorita,cyndaquil,totodile,poochyena,zigzagoon,wurmple,turtwig,chimchar,piplup,snivy,tepig,oshawott,lillipup,sewaddle,zorua
 Route 102|goldeen,magikarp,marill,azumarill,poochyena,zigzagoon,wurmple,lotad,ralts,surskit,masquerain,corphish,lillipup,tympole,gothita
 Route 103|tentacool,magikarp,poochyena,zigzagoon,wingull,pelipper,wailmer,shellos,chatot,lillipup
 --Route 103|r1|rival|Rival

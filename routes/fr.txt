@@ -1,5 +1,5 @@
 Starter|bulbasaur,charmander,squirtle
-Pallet Town|bulbasaur,charmander,squirtle,psyduck,tentacool,shellder,krabby,horsea,seadra,magikarp,gyarados
+Pallet Town|psyduck,tentacool,shellder,krabby,horsea,seadra,magikarp,gyarados
 --Rival|r1|rival|Blue
 Route 1|pidgey,rattata
 Viridian City|psyduck,poliwag,poliwhirl,goldeen,magikarp,gyarados

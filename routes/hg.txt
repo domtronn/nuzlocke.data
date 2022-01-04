@@ -1,5 +1,5 @@
 Starter|cyndaquil,chikorita,totodile
-New Bark Town|tentacool,tentacruel,shellder,exeggcute,magikarp,chikorita,cyndaquil,totodile,hoothoot,spinarak,chinchou,lanturn,pineco
+New Bark Town|tentacool,tentacruel,shellder,exeggcute,magikarp,hoothoot,spinarak,chinchou,lanturn,pineco
 Route 29|pidgey,rattata,exeggcute,sentret,hoothoot,spinarak,pineco,plusle,minun,shinx
 Route 46|rattata,spearow,geodude,aipom,heracross,plusle,minun,shinx
 Cherrygrove City|tentacool,tentacruel,exeggcute,hoothoot,spinarak,pineco,taillow

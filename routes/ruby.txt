@@ -1,6 +1,6 @@
 Starter|treecko,mudkip,torchic
 Littleroot Town|chikorita,cyndaquil,totodile
-Route 101|treecko,torchic,mudkip,poochyena,zigzagoon,wurmple
+Route 101|poochyena,zigzagoon,wurmple
 Route 103|tentacool,magikarp,poochyena,zigzagoon,wingull,pelipper,sharpedo,wailmer
 --Route 103|r1|rival|May
 Route 102|goldeen,magikarp,marill,poochyena,zigzagoon,wurmple,seedot,ralts,surskit,corphish

@@ -1,6 +1,6 @@
 Starter|rowlet,litten,popplio
 --Route 1|r1|rival|Hau
-Route 1|caterpie,rattataalola,rattata,pikachu,meowthalola,slowpoke,magnemite,grimeralola,gastly,ledyba,spinarak,pichu,wingull,drifloon,buneary,bonsly,happiny,munchlax,zorua,inkay,rowlet,litten,popplio,pikipek,yungoos,grubbin,rockruff
+Route 1|caterpie,rattataalola,rattata,pikachu,meowthalola,slowpoke,magnemite,grimeralola,gastly,ledyba,spinarak,pichu,wingull,drifloon,buneary,bonsly,happiny,munchlax,zorua,inkay,pikipek,yungoos,grubbin,rockruff
 --Iki Town Festival|r2|rival|Hau
 Hau'oli Outskirts|raticatealola,magikarp,gyarados,chinchou,lanturn,natu,xatu,wingull,nosepass,honedge,gumshoos,wishiwashi,stufful
 Hau'oli City|meowthalola,abra,tentacool,magnemite,grimeralola,hypno,mrmime,magikarp,gyarados,corsola,remoraid,octillery,wingull,clamperl,huntail,gorebyss,luvdisc,mimejr,happiny,finneon,mantyke,scatterbug,furfrou,wishiwashi,mareanie,bewear
