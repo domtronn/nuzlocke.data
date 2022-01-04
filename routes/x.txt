@@ -1,0 +1,81 @@
+Starter|chespin,fennekin,froakie
+--Aquacode Town|sh1|rival|Shauna
+Route 2|weedle,pidgey,zigzagoon,bunnelby,fletchling,scatterbug
+Santalune Forest|caterpie,weedle,kakuna,pikachu,pansage,pansear,panpour,fletchling,scatterbug
+--Santlune Gym|1|gym-leader|Viola
+Route 3|pidgey,pikachu,goldeen,seaking,magikarp,gyarados,marill,dunsparce,masquerain,azurill,corphish,crawdaunt,bidoof,burmy,bunnelby,fletchling
+Route 22|psyduck,farfetchd,goldeen,seaking,magikarp,gyarados,azumarill,dunsparce,azurill,carvanha,sharpedo,bidoof,bibarel,riolu,bunnelby,diggersby,litleo
+Route 4|ledyba,ralts,skitty,budew,combee,flabebe
+Lumiose City|bulbasaur,charmander,squirtle,ralts
+--Pokémon Lab|sy1|rival|Sycamore
+Route 5|abra,doduo,plusle,minun,gulpin,scraggy,bunnelby,skiddo,pancham,furfrou
+--Route 5|ti1|rival|Tierno
+Route 6|oddish,sentret,nincada,kecleon,audino,venipede,espurr,honedge
+Parfum Palace|goldeen,seaking,magikarp,gyarados,corphish,crawdaunt
+Route 7|psyduck,snorlax,ledyba,hoppip,smeargle,volbeat,illumise,roselia,burmy,combee,croagunk,ducklett,spewpa,flabebe,swirlix
+--Route 7|tnt|rival|Trevor & Tierno
+Connecting Cave|zubat,whismur,meditite,axew
+Route 8|tentacool,staryu,starmie,qwilfish,taillow,wingull,wailmer,spoink,zangoose,seviper,absol,luvdisc,bagon,drifloon,dwebble,mienfoo,inkay,binacle,clauncher,clawitzer
+Ambrette Town|tentacool,horsea,seadra,magikarp,eevee,omanyte,kabuto,aerodactyl,wailmer,lileep,anorith,relicanth,luvdisc,cranidos,shieldon,dwebble,tirtouga,archen,binacle,clauncher,clawitzer,tyrunt,amaura
+Route 9|hippopotas,sandile,helioptile
+Glittering Cave|machop,onix,cubone,rhyhorn,kangaskhan,mawile,lunatone,solrock,woobat,dwebble,ferroseed
+Cyllage City|tentacool,onix,horsea,seadra,magikarp,eevee,steelix,wailmer,relicanth,luvdisc,dwebble,clauncher,clawitzer
+--Cyllage Gym|2|gym-leader|Grant
+Route 10|eevee,yanma,snubbull,houndour,nosepass,sigilyph,emolga,golett,hawlucha
+--Geosenge|3a|rival|Korrina
+Route 11|nidoranf,nidorina,nidoranm,nidorino,hariyama,starly,staravia,chingling,stunky,sawk,dedenne
+Reflection Cave|mrmime,wobbuffet,sableye,chingling,mimejr,roggenrola,woobat,solosis,ferroseed,carbink
+Shalour City|tentacool,chinchou,lanturn,remoraid,octillery,luvdisc,mantyke,alomomola
+Tower of Mystery|lucario
+--Tower of Mastery|se1|rival|Serena
+--Shalour Gym|3|gym-leader|Korrina
+--Tower of Mastery|3b|rival|Korrina
+Route 12|tentacool,slowpoke,exeggcute,pinsir,tauros,lapras,mareep,corsola,remoraid,octillery,miltank,wingull,clamperl,huntail,luvdisc,pachirisu,chatot,mantyke,dwebble,binacle
+Azure Bay|tentacool,slowpoke,exeggcute,lapras,chinchou,lanturn,remoraid,octillery,wingull,luvdisc,chatot,mantyke,dwebble,alomomola,inkay,binacle
+--Coumarine Pokémon Center|se2|rival|Serena
+--Coumarine Gym|4|gym-leader|Ramos
+Route 13|dugtrio,graveler,slugma,trapinch,gible
+--Power Plant|al1|evil-team|Aliana
+--Lumiose Gym|5|gym-leader|Clemont
+Route 14|ekans,poliwag,poliwhirl,bellsprout,weepinbell,haunter,quagsire,barboach,whiscash,skorupi,carnivine,karrablast,shelmet,stunfisk,goomy
+--Route 14|se3|rival|Serena
+Laverre City|poliwag,poliwhirl,basculin
+--Laverre Gym|6|gym-leader|Valeria
+--Pokéball Factory|cnb|evil-team|Celosia & Bryony
+Route 15|poliwag,poliwhirl,murkrow,mightyena,lombre,floatzel,skorupi,watchog,basculin,foongus,pawniard,klefki
+Lost Hotel|magneton,electrode,rotom,trubbish,garbodor,litwick,pawniard,klefki
+Route 16|poliwag,poliwhirl,weepinbell,murkrow,lombre,floatzel,skorupi,basculin,foongus,klefki,phantump,pumpkaboo
+Frost Cavern|poliwag,poliwhirl,haunter,jynx,piloswine,smoochum,floatzel,basculin,vanillite,cubchoo,beartic,cryogonal,bergmite
+--Frost Cavern|m1|evil-team|Mable
+Route 17|sneasel,delibird,snover,abomasnow
+--Anistar City|se4|rival|Serena
+--Anistar Gym|7|gym-leader|Olympia
+--Lysandre Labs|l1|evil-team|Lysandre
+--Lysandre Labs|al2|evil-team|Aliana
+--Lysandre Labs|c|evil-team|Celosia
+--Lysandre Labs|b|evil-team|Bryony
+--Lysandre Labs|m2|evil-team|Mable
+--Lysandre Labs|x|evil-team|Xerosic
+--Team Flare Secret HQ|l2|evil-team|Lysandre
+Team Flare Secret HQ|xerneas
+--Team Flare Secret HQ|l3|evil-team|Lysandre
+Route 18|sandslash,geodude,graveler,shuckle,lairon,torkoal,gurdurr,heatmor,durant
+Couriway Town|poliwag,poliwhirl,magikarp,eevee,lombre,floatzel,basculin
+--Couriway Town Sycamore Battle|sy2|rival|Sycamore
+Route 19|arbok,poliwag,poliwhirl,weepinbell,haunter,politoed,quagsire,gligar,barboach,whiscash,drapion,carnivine,karrablast,shelmet,stunfisk,sliggoo
+--Route 19|sh2|rival|Shauna
+--Route 19|ti2|rival|Tierno
+--Route 19|trv|rival|Trevor
+Route 20|jigglypuff,noctowl,sudowoodo,zoroark,gothorita,foongus,amoonguss,trevenant
+Pokémon Village|jigglypuff,poliwag,poliwhirl,ditto,noctowl,lombre,banette,basculin,garbodor,zoroark,gothorita,foongus,amoonguss
+--Snowbelle Gym|8|gym-leader|Wulfric
+Route 21|poliwag,poliwhirl,scyther,dratini,dragonair,ursaring,lombre,spinda,swablu,altaria,floatzel,basculin
+Victory Road|fearow,poliwag,poliwhirl,poliwrath,geodude,graveler,haunter,lickitung,ariados,shuckle,skarmory,lombre,floatzel,gurdurr,basculin,druddigon,zweilous,hydreigon,noibat
+--Victory Road|se5|rival|Serena
+--Pokémon League - Blazing Chamber|e1|elite-four|Malva
+--Pokémon League - Flood Chamber|e2|elite-four|Siebold
+--Pokémon League - Ironworks Chamber|e3|elite-four|Wikstrom
+--Pokémon League - Dragonmark Chamber|e4|elite-four|Drasna
+--Pokémon Champion - Radiant Chamber|c1|elite-four|Diantha
+Terminus Cave|sandslash,geodude,graveler,ariados,shuckle,aron,lairon,durant,noibat,zygarde
+Sea Spirit's Den|articuno,zapdos,moltres

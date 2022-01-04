@@ -1,4 +1,9 @@
+node_modules
+_dump
 patches.json
 routes.json
 league.json
 *.js
+.DS_STORE
+static
+*.modded.txt

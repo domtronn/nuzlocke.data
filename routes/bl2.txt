@@ -1,0 +1,92 @@
+Starter|snivy,tepig,oshawott
+Aspertia City|goldeen,seaking,snivy,tepig,oshawott,basculin
+--Aspertia City|r1|rival|Hugh
+Route 19|poliwag,poliwhirl,politoed,patrat,purrloin,basculin
+Floccesy Town|dratini,gible
+Route 20|poliwag,poliwhirl,marill,azumarill,politoed,sunkern,dunsparce,azurill,patrat,purrloin,pidove,audino,sewaddle,venipede,basculin
+Floccesy Ranch|psyduck,poliwag,poliwhirl,mareep,marill,azumarill,politoed,dunsparce,azurill,riolu,patrat,lillipup,pidove,audino,basculin
+--Floccesy Ranch|r2|rival|Hugh
+--Aspertia City Gym|1n|gym-leader|Cheren
+Virbank City|krabby,kingler,qwilfish,finneon,lumineon,frillish,jellicent,alomomola
+--Virbank City Gym|2n|gym-leader|Roxie
+Virbank Complex|growlithe,magnemite,krabby,kingler,koffing,qwilfish,magby,finneon,lumineon,patrat,pidove,audino,frillish,jellicent,alomomola
+Castelia City|rattata,eevee,buneary,lopunny,pidove,audino,cottonee,whimsicott
+Castelia Sewers|rattata,zubat,grimer,muk
+--Castelia City Gym|3n|gym-leader|Burgh
+Relic Passage|rattata,raticate,poliwag,poliwhirl,poliwrath,onix,marill,azumarill,roggenrola,boldore,woobat,drilbur,timburr,gurdurr,basculin
+Route 4|qwilfish,clamperl,huntail,relicanth,finneon,lumineon,petilil,sandile,darumaka,scraggy,trubbish,frillish,jellicent,alomomola,mandibuzz
+--Route 4|col1|evil-team|Colress
+Desert Resort|sandshrew,trapinch,sandile,darumaka,maractus,dwebble,scraggy,sigilyph
+Relic Castle|sandshrew,sandslash,baltoy,sandile,krokorok,yamask,volcarona
+--Nimbasa Subway|subway|rival|Ingo & Emmet
+--Nimbasa City Gym|4n|gym-leader|Elesa
+Route 16|liepard,audino,trubbish,minccino,cinccino,gothita,emolga
+Lostlorn Forest|poliwag,poliwhirl,politoed,heracross,roselia,roserade,combee,vespiquen,buizel,floatzel,pansage,pansear,panpour,audino,swadloon,leavanny,venipede,whirlipede,cottonee,whimsicott,basculin,emolga
+Route 5|liepard,audino,trubbish,minccino,cinccino,gothita,emolga
+Driftveil Drawbridge|ducklett
+Driftveil City|zorua
+--Driftveil City Gym|5n|gym-leader|Clay
+--Driftveil Tournament Round 1|r3|rival|Hugh
+--Driftveil Tournament Round 2|ch|rival|Cheren
+--Driftveil Tournament Round 3|col2|rival|Colress
+Route 6|poliwag,poliwhirl,marill,azumarill,politoed,dunsparce,castform,tranquill,unfezant,audino,swadloon,leavanny,basculin,deerling,emolga,karrablast,foongus,shelmet
+Mistralton Cave|aron,boldore,woobat,drilbur,axew
+--Mistralton City Gym|6c|gym-leader|Skyla
+Chargestone Cave|nosepass,boldore,drilbur,joltik,ferroseed,klink,tynamo
+Route 7|zangoose,seviper,watchog,tranquill,unfezant,zebstrika,gigalith,audino,deerling,emolga,foongus,cubchoo
+Celestial Tower|golbat,mesprit,elgyem,litwick
+Reversal Mountain|skarmory,spoink,grumpig,trapinch,vibrava,drifblim,skorupi,heatran,boldore,woobat,excadrill,audino
+Strange House|raticate,golbat,banette,gothita,gothorita,litwick
+Undella Town|shellder,cloyster,staryu,starmie,luvdisc,basculin,frillish,jellicent
+--Undella Town|r4|rival|Hugh
+Undella Bay|chinchou,lanturn,remoraid,octillery,mantine,wailmer,wailord,spheal,sealeo,walrein,mantyke,frillish,jellicent
+Route 13|shellder,cloyster,tangela,staryu,starmie,pelipper,lunatone,solrock,absol,luvdisc,drifblim,tangrowth,audino,basculin,emolga,frillish,jellicent,cobalion
+--Lacunosa Town|zinz1|evil-team|Zinzolin & Grunt
+Route 12|dunsparce,heracross,roselia,roserade,combee,vespiquen,tranquill,unfezant,audino,sewaddle,leavanny,emolga
+Village Bridge|golduck,lapras,marill,azumarill,dunsparce,carvanha,sharpedo,zangoose,seviper,audino,basculin,emolga
+Route 11|golduck,goldeen,seaking,marill,azumarill,gligar,zangoose,seviper,buizel,floatzel,gliscor,audino,basculin,emolga,karrablast,amoonguss,shelmet,virizion
+Route 9|muk,liepard,audino,garbodor,minccino,cinccino,gothorita,gothitelle,emolga,pawniard
+--Opelucid City Gym|7n|gym-leader|Drayden
+--Opelucid City|zinz2|evil-team|Zinzolin
+--Opelucid City|shad|evil-team|Shadow
+Seaside Cave|golduck,seel,dewgong,shellder,cloyster,shuckle,luvdisc,boldore,woobat,excadrill,frillish,jellicent,tynamo,eelektrik
+Route 21|remoraid,octillery,mantine,luvdisc,mantyke,frillish,jellicent,alomomola
+Humilau City|shellder,cloyster,staryu,starmie,corsola,luvdisc,tangrowth,basculin,frillish,jellicent
+--Humilau City Gym|8n|gym-leader|Marlon
+Route 22|golduck,goldeen,seaking,marill,azumarill,delibird,pelipper,lunatone,solrock,audino,basculin,emolga,amoonguss,mienfoo,terrakion
+--Command Center|zinz3|evil-team|Zinzolin & grunt
+--Kyurem's Location|zinz4|evil-team|Zinzolin
+--Control Room|col3|evil-team|Colress
+Giant Chasm|clefairy,clefable,poliwag,poliwhirl,poliwrath,seel,dewgong,tangela,ditto,sneasel,piloswine,delibird,pelipper,lunatone,solrock,metang,metagross,tangrowth,mamoswine,excadrill,audino,basculin,vanillish,vanilluxe,kyurem
+--Giant Chasm|ghetsis|evil-team|Ghetsis
+Route 23|golduck,poliwag,poliwhirl,poliwrath,gligar,buizel,floatzel,gliscor,azelf,audino,throh,sawk,basculin,emolga,amoonguss,mienfoo,mienshao,bouffalant,vullaby
+Victory Road|poliwag,poliwhirl,poliwrath,onix,marill,azumarill,politoed,dunsparce,roselia,altaria,banette,roserade,buizel,floatzel,tranquill,unfezant,boldore,excadrill,audino,gurdurr,throh,sawk,cottonee,whimsicott,basculin,druddigon,golurk,zweilous
+--Victory Road|r5|rival|Hugh
+--Pokémon League W Room|e1n|elite-four|Shauntal
+--Pokémon League NW Room|e2n|elite-four|Grimsley
+--Pokémon League NE Room|e3n|elite-four|Caitlin
+--Pokémon League E Room|e4n|elite-four|Caitlin
+--Pokémon League Champion|cn|elite-four|Iris
+Marvelous Bridge|cresselia,swanna
+Route 15|sandslash,gligar,pupitar,tyranitar,gliscor,rotom,audino,throh,sawk,scrafty,emolga
+Route 14|golduck,goldeen,seaking,swablu,altaria,absol,buizel,floatzel,drifblim,audino,basculin,emolga,mienfoo
+Abundant Shrine|vulpix,ninetales,golduck,goldeen,seaking,marill,azumarill,swablu,altaria,bronzor,bronzong,audino,cottonee,whimsicott,basculin,emolga
+Moor of Icirrus|barboach,whiscash,croagunk,palpitoad,seismitoad,karrablast,shelmet,stunfisk
+Icirrus City|barboach,whiscash,croagunk,palpitoad,seismitoad,karrablast,shelmet,stunfisk
+Dragonspiral Tower|dratini,dragonair,dragonite,tranquill,unfezant,audino,basculin,vanillish,vanilluxe,sawsbuck,emolga,beartic,mienfoo,mienshao,druddigon,golurk,zekrom
+Twist Mountain|onix,steelix,regigigas,boldore,woobat,excadrill,gurdurr,beartic,cryogonal,heatmor,durant
+Clay Tunnel|poliwag,poliwhirl,poliwrath,onix,steelix,nosepass,lairon,boldore,woobat,excadrill,basculin,durant
+Underground Ruins|
+Pinwheel Forest|goldeen,seaking,marill,azumarill,yanma,vigoroth,slaking,toxicroak,yanmega,pansage,pansear,panpour,audino,gurdurr,palpitoad,seismitoad,throh,sawk,swadloon,whirlipede,scolipede,cottonee,whimsicott,basculin
+Nacrene City|omanyte,kabuto,aerodactyl,lileep,anorith,cranidos,shieldon,uxie,tirtouga,archen
+Route 3|goldeen,seaking,yanma,corphish,crawdaunt,yanmega,watchog,herdier,stoutland,purrloin,tranquill,unfezant,zebstrika,audino,basculin
+Wellspring Cave|poliwag,poliwhirl,poliwrath,boldore,woobat,excadrill,basculin
+Striaton City|goldeen,seaking,corphish,crawdaunt,basculin
+Dreamyard|raticate,jigglypuff,wigglytuff,golbat,crobat,dunsparce,latios,watchog,liepard,munna,musharna,audino
+Route 2|jigglypuff,wigglytuff,lickitung,dunsparce,lickilicky,watchog,herdier,stoutland,liepard,audino
+Accumula Town|alakazam,ambipom
+Route 1|jigglypuff,wigglytuff,dunsparce,feebas,milotic,watchog,herdier,stoutland,audino,basculin,scrafty
+Route 17|horsea,seadra,kingdra,finneon,lumineon,frillish,jellicent,alomomola
+Route 18|horsea,seadra,dunsparce,corsola,kingdra,tropius,carnivine,finneon,lumineon,watchog,audino,throh,sawk,crustle,scrafty,frillish,jellicent,alomomola
+P2 Laboratory|magneton,weezing,horsea,seadra,qwilfish,kingdra,finneon,lumineon,magnezone,watchog,herdier,stoutland,audino,scrafty,frillish,jellicent,alomomola,klang,klinklang
+Nature Preserve|golduck,magikarp,gyarados,noctowl,girafarig,dunsparce,nuzleaf,shiftry,altaria,kecleon,buizel,floatzel,audino,basculin,fraxure,haxorus

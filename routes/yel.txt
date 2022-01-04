@@ -1,71 +1,71 @@
 Starter|bulbasaur,charmander,squirtle,pikachu
-Pallet Town|bulbasaur,charmander,squirtle,pikachu,poliwag,tentacool,goldeen,staryu,magikarp
+Pallet Town|pikachu,poliwag,tentacool,goldeen,staryu,magikarp
 --Professor Oak's Lab|r1|rival|Blue
 Route 1|pidgey,rattata
-Viridian City|poliwag,tentacool,goldeen,magikarp
-Route 22|rattata,spearow,nidoran-f,nidoran-m,mankey,poliwag,poliwhirl,goldeen,magikarp
+Viridian City|poliwag,goldeen,magikarp
+Route 22|rattata,spearow,nidoranf,nidoranm,mankey,poliwag,poliwhirl,goldeen,magikarp
 --Route 22|r2|rival|Blue (Optional)
-Route 2|caterpie,weedle,pidgey,rattata,nidoran-f,nidoran-m
-Viridian Forest|caterpie,metapod,weedle,kakuna,pidgey,pidgeotto,pikachu
+Route 2|pidgey,rattata,nidoranf,nidoranm,mrmime
+Viridian Forest|caterpie,metapod,pidgey,pidgeotto
 --Pewter City Gym|1|gym-leader|Brock
-Route 3|pidgey,rattata,spearow,sandshrew,jigglypuff,mankey
-Route 4|rattata,spearow,ekans,sandshrew,mankey
-Mt. Moon|sandshrew,clefairy,zubat,paras,geodude
+Route 3|rattata,spearow,sandshrew,mankey
+Route 4|rattata,spearow,sandshrew,mankey,magikarp
+Mt. Moon|clefairy,zubat,paras,geodude
 --Team Rocket|jj1|evil-team|Jessie & James
-Cerulean City|bulbasaur,psyduck,poliwag,krabby,goldeen,seaking,magikarp
+Cerulean City|bulbasaur
 --Cerulean City Gym|2|gym-leader|Misty
-Route 24|charmander,caterpie,metapod,weedle,kakuna,pidgey,pidgeotto,oddish,venonat,psyduck,poliwag,abra,bellsprout,krabby,goldeen,seaking,magikarp
+Route 24|charmander,pidgey,pidgeotto,oddish,venonat,poliwag,bellsprout,goldeen,seaking,magikarp
 --Route 24|r3|rival|Blue
-Route 25|caterpie,metapod,weedle,kakuna,pidgey,pidgeotto,oddish,venonat,psyduck,poliwag,abra,bellsprout,krabby,kingler,goldeen,magikarp
-Route 5|pidgey,pidgeotto,rattata,jigglypuff,oddish,meowth,mankey,abra,bellsprout
-Route 6|pidgey,pidgeotto,rattata,jigglypuff,oddish,meowth,psyduck,golduck,mankey,poliwag,abra,bellsprout,shellder,krabby,goldeen,magikarp
-Vermillion City|squirtle,poliwag,tentacool,shellder,krabby,horsea,goldeen,magikarp
+Route 25|pidgey,pidgeotto,oddish,venonat,poliwag,bellsprout,krabby,kingler,goldeen,magikarp
+Route 5|pidgey,pidgeotto,rattata,jigglypuff,abra,machoke
+Route 6|pidgey,pidgeotto,rattata,jigglypuff,psyduck,golduck,poliwag,abra,goldeen,magikarp
+Vermillion City|poliwag,tentacool,shellder,goldeen,staryu,magikarp
 --S.S. Anne|r4|rival|Blue
 --Vermillion City Gym|3|gym-leader|Lt. Surge
-Route 11|pidgey,pidgeotto,rattata,raticate,spearow,ekans,sandshrew,poliwag,tentacool,shellder,drowzee,krabby,horsea,goldeen,magikarp
+Route 11|pidgey,pidgeotto,rattata,raticate,dugtrio,poliwag,tentacool,drowzee,horsea,goldeen,magikarp
 Diglett's Cave|diglett,dugtrio
-Route 9|rattata,raticate,spearow,fearow,ekans,sandshrew,nidoran-f,nidorina,nidoran-m,nidorino
-Route 10|rattata,raticate,spearow,ekans,sandshrew,nidoran-f,nidoran-m,poliwag,poliwhirl,machop,slowpoke,magnemite,krabby,kingler,voltorb,horsea,goldeen,magikarp
+Route 9|rattata,raticate,spearow,fearow,nidoranf,nidorina,nidoranm,nidorino
+Route 10|rattata,raticate,nidoranf,nidoranm,poliwag,machop,magnemite,krabby,kingler,horsea,goldeen,magikarp
 Rock Tunnel|zubat,machop,geodude,onix
 Pokémon Tower|gastly,haunter,cubone
-Route 12|pidgey,pidgeotto,oddish,gloom,venonat,poliwag,bellsprout,weepinbell,tentacool,slowpoke,slowbro,farfetch'd,krabby,horsea,seadra,goldeen,magikarp,snorlax
-Route 8|pidgey,pidgeotto,rattata,ekans,sandshrew,vulpix,jigglypuff,meowth,mankey,growlithe,abra,kadabra
-Route 7|pidgey,pidgeotto,rattata,vulpix,jigglypuff,oddish,meowth,mankey,growlithe,abra,bellsprout
-Celadon City|poliwag,poliwhirl,slowpoke,goldeen,magikarp
+Route 12|pidgey,pidgeotto,oddish,gloom,poliwag,bellsprout,weepinbell,slowpoke,slowbro,farfetchd,horsea,seadra,goldeen,magikarp,snorlax
+Route 8|pidgey,pidgeotto,rattata,jigglypuff,abra,kadabra
+Route 7|pidgey,pidgeotto,rattata,jigglypuff,abra
+Celadon City|vulpix,wigglytuff,abra,scyther,pinsir,porygon
 --Celadon City Gym|4|gym-leader|Erica
 --Rocket Hideout|jj2|evil-team|Jessie & James
 --Rocket Hideout|g1|evil-team|Giovanni
 --Pokemon Tower|jj3|evil-team|Jessie & James
 --Pokemon Tower|r5|rival|Blue
-Saffron City|hitmonlee,hitmonchan,lapras
+Saffron City|hitmonlee,hitmonchan
 --Silph Co.|r6|rival|Blue
 --Silph Co.|jj4|evil-team|Jessie & James
 --Silph Co. Boss|g2|evil-team|Giovanni
 --Saffron City Gym|6|gym-leader|Sabrina
 Route 16|rattata,raticate,spearow,fearow,doduo,snorlax
-Route 17|raticate,spearow,fearow,poliwag,tentacool,ponyta,doduo,dodrio,shellder,krabby,goldeen,magikarp
-Route 18|rattata,raticate,spearow,fearow,poliwag,tentacool,doduo,shellder,krabby,goldeen,magikarp
-Fuschia City|magikarp,poliwag,goldeen,krabby,seaking,gyarados
+Route 17|fearow,poliwag,tentacool,ponyta,doduo,dodrio,shellder,goldeen,magikarp
+Route 18|rattata,raticate,spearow,fearow,parasect,poliwag,tentacool,doduo,shellder,goldeen,magikarp
+Fuschia City|poliwag,goldeen,magikarp,gyarados
 --Fuschia City Gym|5|gym-leader|Koga
-Safari Zone|nidoran-f,nidorina,nidoran-m,nidorino,paras,parasect,venonat,psyduck,poliwag,slowpoke,krabby,exeggcute,rhyhorn,chansey,tangela,goldeen,scyther,pinsir,magikarp,dratini,dragonair
-Route 15|pidgey,pidgeotto,oddish,gloom,venonat,venomoth,bellsprout,weepinbell,ditto
-Route 14|pidgey,pidgeotto,oddish,gloom,venonat,venomoth,bellsprout,weepinbell,ditto
-Route 13|pidgey,pidgeotto,oddish,gloom,venonat,poliwag,bellsprout,weepinbell,tentacool,slowpoke,slowbro,farfetch'd,krabby,horsea,seadra,goldeen,magikarp,ditto
-Power Plant|pikachu,raichu,magnemite,magneton,grimer,muk,voltorb,electrode,electabuzz,zapdos
-Route 19|tentacool,magikarp,poliwag,goldeen,shellder,tentacruel,horsea,staryu
-Route 20|poliwag,tentacool,tentacruel,shellder,horsea,goldeen,staryu,magikarp
-Seafoam Islands|zubat,golbat,psyduck,golduck,poliwag,tentacool,slowpoke,slowbro,seel,dewgong,shellder,krabby,kingler,horsea,seadra,goldeen,staryu,magikarp,articuno
-Cinnabar Island|poliwag,tentacool,shellder,horsea,goldeen,staryu,magikarp
-Pokémon Mansion|rattata,raticate,vulpix,growlithe,ponyta,grimer,muk,koffing,weezing,magmar,ditto
+Safari Zone|nidoranf,nidoranm,nidorino,poliwag,exeggcute,cubone,marowak,tangela,goldeen,pinsir,tauros,magikarp,dratini
+Route 15|pidgeotto,oddish,gloom,venonat,venomoth,bellsprout,weepinbell
+Route 14|pidgeotto,oddish,gloom,venonat,venomoth,bellsprout,weepinbell
+Route 13|pidgey,pidgeotto,oddish,gloom,poliwag,bellsprout,weepinbell,tentacool,slowpoke,slowbro,farfetchd,horsea,seadra,goldeen,magikarp
+Power Plant|magnemite,magneton,grimer,muk,voltorb,zapdos
+Route 19|poliwag,tentacool,tentacruel,goldeen,staryu,magikarp
+Route 20|poliwag,tentacool,tentacruel,goldeen,staryu,magikarp
+Seafoam Islands|zubat,golbat,poliwag,tentacool,seel,dewgong,krabby,kingler,goldeen,staryu,magikarp,articuno
+Cinnabar Island|dewgong,muk,rhydon
+Pokémon Mansion|raticate,grimer,muk,ditto
 --Cinnabar Island Gym|7|gym-leader|Blaine
-Route 21|pidgey,pidgeotto,rattata,raticate,poliwag,tentacool,tentacruel,shellder,tangela,horsea,goldeen,staryu,magikarp
+Route 21|pidgey,pidgeotto,rattata,raticate,poliwag,tentacool,tentacruel,goldeen,staryu,magikarp
 --Viridian City Gym|8|gym-leader|Giovanni
-Route 23|spearow,fearow,ekans,arbok,sandshrew,sandslash,nidorina,nidorino,mankey,primeape,poliwag,poliwhirl,slowbro,kingler,seadra,goldeen,seaking,magikarp,ditto
-Victory Road|zubat,golbat,machop,machoke,geodude,graveler,onix,marowak,moltres
+Route 23|fearow,nidorina,nidorino,mankey,primeape,poliwag,poliwhirl,goldeen,magikarp
+Victory Road|golbat,machoke,geodude,graveler,onix
 --Victory Road|r7|rival|Blue
 --Indigo Plateau|e1|elite-four|Lorelei
 --Indigo Plateau|e2|elite-four|Bruno
 --Indigo Plateau|e3|elite-four|Agatha
 --Indigo Plateau|e4|elite-four|Lance
 --Champion|c|elite-four|Blue
-Cerulean Cave|arbok,raichu,sandslash,golbat,gloom,parasect,venomoth,poliwag,kadabra,weepinbell,graveler,slowbro,magneton,dodrio,hypno,kingler,seadra,goldeen,seaking,magikarp,ditto,mewtwo
+Cerulean Cave|golbat,poliwag,graveler,lickitung,rhyhorn,rhydon,chansey,goldeen,seaking,magikarp,ditto,mewtwo

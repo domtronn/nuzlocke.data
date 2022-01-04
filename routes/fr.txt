@@ -1,0 +1,74 @@
+Starter|bulbasaur,charmander,squirtle
+Pallet Town|bulbasaur,charmander,squirtle,psyduck,tentacool,shellder,krabby,horsea,seadra,magikarp,gyarados
+--Rival|r1|rival|Blue
+Route 1|pidgey,rattata
+Viridian City|psyduck,poliwag,poliwhirl,goldeen,magikarp,gyarados
+Route 22|rattata,spearow,psyduck,mankey,poliwag,poliwhirl,goldeen,magikarp,gyarados
+--Rival|r2|rival|Blue
+Route 2|caterpie,weedle,pidgey,rattata,mrmime
+Viridian Forest|caterpie,metapod,weedle,kakuna,pikachu
+--Pewter City Gym|1|gym-leader|Brock
+Route 3|pidgey,spearow,nidoranf,nidoranm,jigglypuff,mankey
+Route 4|rattata,spearow,ekans,psyduck,mankey,tentacool,krabby,horsea,magikarp,gyarados
+Mt. Moon|clefairy,zubat,paras,geodude
+Cerulean City|psyduck,tentacool,krabby,horsea,jynx,magikarp,gyarados
+--Cerulean City Gym|2|gym-leader|Misty
+Route 24|caterpie,metapod,weedle,kakuna,pidgey,oddish,psyduck,abra,tentacool,krabby,horsea,magikarp,gyarados
+--Rival|r3|rival|Blue
+Route 25|caterpie,metapod,weedle,kakuna,pidgey,oddish,psyduck,poliwag,poliwhirl,abra,goldeen,magikarp,gyarados
+Route 5|pidgey,nidoranf,oddish,meowth
+Route 6|pidgey,oddish,meowth,psyduck,poliwag,poliwhirl,goldeen,magikarp,gyarados
+Vermillion City|psyduck,tentacool,shellder,krabby,horsea,magikarp,gyarados
+--S.S. Anne|r4|rival|Blue
+--Vermillion City Gym|3|gym-leader|Lt. Surge
+Route 11|spearow,ekans,nidorina,psyduck,tentacool,drowzee,krabby,horsea,magikarp,gyarados
+Diglett's Cave|diglett,dugtrio
+Route 9|rattata,spearow,ekans
+Route 10|spearow,ekans,psyduck,tentacool,krabby,voltorb,horsea,magikarp,gyarados
+Rock Tunnel|zubat,mankey,machop,geodude,graveler,onix
+Pokémon Tower|gastly,haunter,cubone
+Route 12|pidgey,oddish,gloom,venonat,psyduck,tentacool,krabby,horsea,magikarp,gyarados,snorlax
+Route 8|pidgey,ekans,meowth,growlithe
+Route 7|pidgey,oddish,meowth,growlithe
+Celadon City|clefairy,abra,scyther,porygon,dratini
+--Celadon City Gym|4|gym-leader|Erica
+--Rocket Hideout|g1|evil-team|Giovanni
+--Pokemon Tower Rival|r5|rival|Blue
+Saffron City|hitmonlee,hitmonchan
+--Silph Co. Rival|r6|rival|Blue
+--Silph Co.|g2|evil-team|Giovanni
+--Saffron City Gym|6|gym-leader|Sabrina
+Route 16|rattata,raticate,spearow,doduo,snorlax
+Route 17|rattata,raticate,spearow,fearow,doduo
+Route 18|rattata,raticate,spearow,fearow,doduo,lickitung
+Fuschia City|psyduck,poliwag,goldeen,seaking,magikarp,gyarados
+--Fuschia City Gym|5|gym-leader|Koga
+Safari Zone|nidoranf,nidoranm,nidorino,venonat,venomoth,psyduck,poliwag,doduo,exeggcute,kangaskhan,goldeen,seaking,tauros,magikarp,dratini,dragonair
+Route 15|pidgey,pidgeotto,oddish,gloom,venonat,ditto
+Route 14|pidgey,pidgeotto,oddish,gloom,venonat,ditto
+Route 13|pidgey,pidgeotto,oddish,gloom,venonat,psyduck,tentacool,krabby,horsea,magikarp,gyarados,ditto
+Power Plant|pikachu,magnemite,magneton,voltorb,electabuzz,zapdos
+Route 19|psyduck,tentacool,krabby,horsea,magikarp,gyarados
+Route 20|psyduck,tentacool,krabby,horsea,magikarp,gyarados
+Seafoam Islands|golbat,psyduck,golduck,seel,dewgong,krabby,horsea,magikarp,gyarados,articuno
+Cinnabar Island|omanyte,kabuto,aerodactyl
+Pokémon Mansion|rattata,raticate,growlithe,grimer,koffing,weezing,ditto
+--Cinnabar Island Gym|7|gym-leader|Blaine
+One Island|psyduck,tentacool,tentacruel,shellder,horsea,seadra,magikarp,gyarados
+Two Island|
+Three Island|
+Route 21|psyduck,tentacool,krabby,tangela,horsea,magikarp,gyarados
+--Viridian City Gym|8|gym-leader|Giovanni
+Route 23|spearow,fearow,ekans,arbok,psyduck,mankey,primeape,poliwag,poliwhirl,goldeen,magikarp,gyarados
+Victory Road|arbok,zubat,golbat,machop,machoke,geodude,onix,marowak
+--Rival|r7|rival|Blue
+--Indigo Plateau|e1|elite-four|Lorelei
+--Indigo Plateau|e2|elite-four|Bruno
+--Indigo Plateau|e3|elite-four|Agatha
+--Indigo Plateau|e4|elite-four|Lance
+--Champion|c|elite-four|Blue
+Four Island|psyduck,poliwag,poliwhirl,goldeen,magikarp,gyarados,wooper
+Five Island|
+Six Island|
+Seven Island|
+Cerulean Cave|golbat,parasect,psyduck,golduck,poliwag,poliwhirl,kadabra,machoke,geodude,graveler,magneton,electrode,goldeen,magikarp,gyarados,ditto,mewtwo,wobbuffet

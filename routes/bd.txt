@@ -1,0 +1,98 @@
+Starter|piplup,chimchar,turtwig
+Twinleaf Town|psyduck,golduck,goldeen,seaking,magikarp,gyarados
+Route 201|nidoranf,nidoranm,doduo,starly,bidoof
+Lake Verity|psyduck,golduck,goldeen,seaking,magikarp,gyarados,wobbuffet,surskit,starly,bidoof
+Route 202|sentret,zigzagoon,starly,bidoof,kricketot,shinx
+Route 203|zubat,psyduck,golduck,abra,cubone,goldeen,seaking,magikarp,gyarados,ralts,kirlia,starly,bidoof,kricketot,shinx
+--Route 203|b1|rival|Barry
+Oreburgh Gate|zubat,golbat,psyduck,golduck,geodude,magikarp,gyarados,barboach,whiscash
+Oreburgh City|abra
+--Oreburgh Gym|1|gym-leader|Roark
+Oreburgh Mine|zubat,geodude,onix
+Route 207|zubat,machop,geodude,phanpy,larvitar,kricketot
+Route 204|zubat,psyduck,golduck,goldeen,seaking,magikarp,gyarados,sunkern,ralts,kirlia,starly,bidoof,kricketot,shinx,budew
+Ravaged Path|zubat,golbat,psyduck,golduck,geodude,magikarp,gyarados,barboach,whiscash
+Floaroma Meadow|aipom,heracross,wurmple,silcoon,cascoon,burmy,combee,cherubi,munchlax
+Route 205|psyduck,golduck,tentacool,tentacruel,shellder,magikarp,gyarados,hoppip,skiploom,wingull,pelipper,barboach,whiscash,bidoof,pachirisu,buizel,shellos,finneon,lumineon
+Valley Windworks|tentacool,tentacruel,shellder,magikarp,gyarados,mareep,wingull,pelipper,electrike,bidoof,pachirisu,buizel,shellos,finneon,lumineon
+--Valley Windoworks|mars1|evil-team|Mars
+Eterna Forest|murkrow,wurmple,silcoon,beautifly,slakoth,nincada,budew,buneary
+The Old Chateau|gastly
+Eterna City|psyduck,golduck,magikarp,gyarados,barboach,whiscash
+--Eterna Gym|2|gym-leader|Gardenia
+--Eterna Building|jup1|evil-team|Jupiter
+Underground: Spacious Cave|caterpie,rattata,raticate,zubat,golbat,oddish,gloom,venonat,venomoth,psyduck,mankey,primeape,growlithe,machop,machoke,geodude,graveler,magnemite,farfetchd,doduo,krabby,voltorb,lickitung,rhyhorn,rhydon,tauros,sentret,furret,hoothoot,natu,aipom,murkrow,houndoom,tyrogue,miltank,poochyena,mightyena,zigzagoon,wingull,pelipper,skitty,swablu,corphish,crawdaunt,absol,bidoof,bibarel,kricketot,shinx,luxio,budew,pachirisu,buneary,chingling,stunky,skuntank,munchlax,mantyke
+Underground: Grassland Cave|bulbasaur,caterpie,rattata,raticate,ekans,nidoranf,nidorina,nidoranm,nidorino,zubat,golbat,oddish,gloom,paras,venonat,venomoth,mankey,primeape,poliwag,poliwhirl,machop,machoke,bellsprout,weepinbell,farfetchd,doduo,scyther,tauros,chikorita,hoothoot,ledian,ariados,mareep,flaaffy,hoppip,skiploom,sunkern,murkrow,pineco,shuckle,tyrogue,miltank,treecko,wurmple,silcoon,seedot,nuzleaf,nincada,volbeat,illumise,roselia,vibrava,cacnea,cacturne,zangoose,kecleon,tropius,absol,turtwig,bidoof,bibarel,kricketot,shinx,luxio,budew,combee,cherubi,buneary,stunky,skuntank,munchlax
+Underground: Fountainspring Cave|squirtle,psyduck,poliwag,poliwhirl,tentacool,tentacruel,farfetchd,seel,dewgong,shellder,lickitung,horsea,staryu,tauros,dratini,totodile,hoothoot,ledian,chinchou,lanturn,togepi,wooper,quagsire,qwilfish,corsola,octillery,mudkip,wingull,pelipper,ralts,surskit,carvanha,swablu,barboach,whiscash,corphish,crawdaunt,clamperl,piplup,bidoof,bibarel,buizel,shellos,gastrodon,gible,gabite,mantyke
+Underground: Rocky Cave|geodude,graveler,onix,cubone,rhyhorn,rhydon,tauros,sentret,furret,gligar,shuckle,phanpy,larvitar,pupitar,zigzagoon,aron,lairon,numel,camerupt,trapinch,vibrava,cacnea,cacturne,baltoy,beldum,bronzor,hippopotas,skorupi
+Underground: Swampy Cave|bulbasaur,caterpie,ekans,nidoranf,nidorina,nidoranm,nidorino,zubat,golbat,oddish,gloom,paras,venonat,venomoth,bellsprout,weepinbell,tentacool,tentacruel,grimer,lickitung,weezing,tangela,ledian,ariados,wooper,quagsire,pineco,gligar,qwilfish,swinub,roselia,cacnea,cacturne,zangoose,barboach,whiscash,tropius,skorupi,croagunk,tangrowth
+Underground: Dazzling Cave|nidoranf,nidorina,nidoranm,nidorino,kadabra,grimer,gastly,drowzee,krabby,voltorb,cubone,mrmime,ditto,togepi,natu,wobbuffet,girafarig,snubbull,houndoom,smoochum,elekid,poochyena,mightyena,ralts,kirlia,mawile,meditite,volbeat,illumise,zangoose,solrock,baltoy,banette,duskull,dusclops,absol,chingling,bronzor
+Underground: Whiteout Cave|machop,machoke,magnemite,seel,dewgong,mrmime,tauros,sentret,furret,mareep,flaaffy,sneasel,swinub,delibird,tyrogue,elekid,aron,lairon,meditite,swablu,snorunt,glalie,walrein,beldum,shinx,luxio,pachirisu,buneary,munchlax,snover
+Underground: Icy Cave|magnemite,seel,dewgong,staryu,mrmime,tauros,chinchou,lanturn,sneasel,swinub,delibird,smoochum,poochyena,mightyena,aron,lairon,swablu,snorunt,glalie,walrein,beldum,buneary,bronzor,snover
+Underground: Riverbank Cave|bulbasaur,squirtle,caterpie,rattata,raticate,ekans,nidoranf,nidorina,nidoranm,nidorino,oddish,gloom,venonat,venomoth,psyduck,poliwag,poliwhirl,bellsprout,weepinbell,tentacool,tentacruel,shellder,cubone,lickitung,horsea,staryu,scyther,tauros,chikorita,totodile,hoothoot,ledian,murkrow,qwilfish,shuckle,corsola,octillery,tyrogue,treecko,mudkip,wurmple,silcoon,seedot,nuzleaf,wingull,pelipper,surskit,nincada,carvanha,solrock,barboach,whiscash,corphish,crawdaunt,kecleon,clamperl,turtwig,piplup,bidoof,bibarel,kricketot,budew,buizel,buneary,stunky,skuntank,gible,gabite,munchlax,croagunk,mantyke
+Underground: Sandsear Cave|charmander,growlithe,ponyta,onix,rhyhorn,rhydon,cyndaquil,slugma,magcargo,houndoom,torchic,numel,camerupt,torkoal,trapinch,chimchar,hippopotas,skorupi
+Underground: Still-Water Cave|bulbasaur,squirtle,caterpie,rattata,raticate,ekans,nidoranf,nidorina,nidoranm,nidorino,oddish,gloom,venonat,venomoth,psyduck,poliwag,poliwhirl,bellsprout,weepinbell,tentacool,tentacruel,shellder,cubone,lickitung,horsea,staryu,scyther,tauros,chikorita,totodile,hoothoot,ledian,murkrow,qwilfish,shuckle,corsola,octillery,tyrogue,treecko,mudkip,wurmple,silcoon,seedot,nuzleaf,wingull,pelipper,surskit,nincada,carvanha,solrock,barboach,whiscash,corphish,crawdaunt,kecleon,clamperl,turtwig,piplup,bidoof,bibarel,kricketot,budew,buizel,buneary,stunky,skuntank,gible,gabite,munchlax,croagunk,mantyke
+Underground: Sunlit Cavern|bulbasaur,caterpie,rattata,raticate,ekans,nidoranf,nidorina,nidoranm,nidorino,zubat,golbat,oddish,gloom,paras,venonat,venomoth,mankey,primeape,poliwag,poliwhirl,machop,machoke,bellsprout,weepinbell,farfetchd,doduo,rhyhorn,scyther,tauros,chikorita,hoothoot,ledian,ariados,mareep,flaaffy,hoppip,skiploom,sunkern,murkrow,pineco,gligar,shuckle,tyrogue,miltank,treecko,wurmple,silcoon,seedot,nuzleaf,nincada,volbeat,illumise,roselia,vibrava,cacnea,cacturne,zangoose,kecleon,tropius,absol,turtwig,bidoof,bibarel,kricketot,shinx,luxio,budew,combee,cherubi,buneary,stunky,skuntank,munchlax
+Underground: Big Bluff Cavern|geodude,graveler,onix,cubone,rhyhorn,rhydon,scyther,tauros,sentret,furret,gligar,shuckle,phanpy,larvitar,pupitar,zigzagoon,aron,lairon,numel,camerupt,trapinch,vibrava,cacnea,cacturne,baltoy,absol,beldum,bronzor,hippopotas,skorupi
+Underground: Stargleam Cavern|nidoranf,nidorina,nidoranm,nidorino,kadabra,grimer,gastly,drowzee,krabby,voltorb,cubone,mrmime,ditto,togepi,natu,wobbuffet,girafarig,snubbull,houndoom,smoochum,elekid,poochyena,mightyena,ralts,kirlia,mawile,meditite,volbeat,illumise,zangoose,solrock,baltoy,banette,duskull,dusclops,absol,chingling,bronzor
+Underground: Glacial Cavern|magnemite,seel,dewgong,staryu,mrmime,tauros,chinchou,lanturn,sneasel,swinub,delibird,smoochum,elekid,poochyena,mightyena,aron,lairon,swablu,snorunt,glalie,walrein,beldum,buneary,bronzor,snover
+Underground: Bogsunk Cavern|bulbasaur,caterpie,ekans,nidoranf,nidorina,nidoranm,nidorino,zubat,golbat,oddish,gloom,paras,venonat,venomoth,bellsprout,weepinbell,tentacool,tentacruel,grimer,lickitung,weezing,tangela,ledian,ariados,wooper,quagsire,pineco,gligar,qwilfish,swinub,roselia,cacnea,cacturne,zangoose,barboach,whiscash,tropius,skorupi,croagunk,tangrowth
+Route 206|zubat,geodude,ponyta,nosepass,baltoy,kricketot,kricketune,stunky,bronzor
+Wayward Cave|zubat,geodude,bronzor,gible
+Mt. Coronet|clefairy,zubat,golbat,machop,machoke,geodude,graveler,magikarp,gyarados,dratini,dragonair,noctowl,cleffa,loudred,meditite,medicham,barboach,whiscash,chimecho,chingling,bronzor,bronzong,snover,abomasnow
+Route 208|zubat,psyduck,golduck,machop,magikarp,gyarados,dunsparce,tyrogue,meditite,barboach,whiscash,bidoof,bibarel
+Hearthome City|eevee,happiny
+--Hearthome City|b2|rival|Barry
+Route 209|zubat,psyduck,golduck,gastly,chansey,goldeen,seaking,tauros,magikarp,gyarados,snubbull,miltank,starly,staravia,bibarel,mimejr
+The Lost Tower|zubat,golbat,gastly,murkrow
+Solaceon Ruins|unown
+Route 210|psyduck,golduck,machop,machoke,geodude,ponyta,chansey,tauros,magikarp,gyarados,hoothoot,noctowl,miltank,meditite,barboach,whiscash,kecleon,bibarel,kricketune,mimejr
+Route 215|abra,kadabra,geodude,ponyta,drowzee,mightyena,kricketune
+--Veilstone Gym|3|gym-leader|Maylene
+Trophy Garden|pikachu,pichu,roselia,staravia,kricketune
+Pastoria City|tentacool,tentacruel,magikarp,gyarados,remoraid,octillery,wingull,pelipper
+Great Marsh|psyduck,magikarp,gyarados,hoothoot,noctowl,marill,wooper,quagsire,azurill,carvanha,barboach,whiscash,starly,bidoof,bibarel,budew
+--Pastoria Gym|4|gym-leader|Crasher Wake
+--Pastoria City|b3|rival|Barry
+Route 212|psyduck,golduck,grimer,goldeen,seaking,magikarp,gyarados,wooper,quagsire,smeargle,roselia,barboach,whiscash,starly,staravia,bibarel,kricketune,budew
+Route 213|tentacool,tentacruel,magikarp,gyarados,remoraid,octillery,swellow,wingull,pelipper,sharpedo,absol,buizel,floatzel,shellos
+Valor Lakefront|nidorina,nidorino,geodude,graveler,girafarig,staravia,bibarel,kricketune
+Lake Valor|psyduck,golduck,lickitung,goldeen,seaking,magikarp,gyarados,noctowl,wobbuffet,staravia,bibarel,chingling
+Route 214|psyduck,golduck,geodude,graveler,ponyta,goldeen,seaking,magikarp,gyarados,girafarig,mightyena,spoink,kricketune,stunky
+Ruin Maniac's Cave|magnemite,seel,dewgong,staryu,mrmime,tauros,chinchou,lanturn,sneasel,swinub,delibird,smoochum,poochyena,mightyena,aron,lairon,swablu,snorunt,glalie,walrein,beldum,buneary,bronzor,snover
+Celestic Town|psyduck,golduck,magikarp,gyarados,barboach,whiscash,corphish,crawdaunt
+--Hearthome Gym|5|gym-leader|Fantina
+Fuego Ironworks|tentacool,tentacruel,magnemite,shellder,magikarp,gyarados,wingull,pelipper,aron,shinx,luxio,pachirisu,floatzel,shellos,gastrodon,finneon,lumineon
+Routes 219|tentacool,tentacruel,magikarp,gyarados,wingull,pelipper,clamperl,finneon,lumineon
+Route 220|tentacool,tentacruel,magikarp,gyarados,chinchou,lanturn,wingull,pelipper,finneon,lumineon
+Route 221|nidorina,nidorino,tentacool,tentacruel,farfetchd,magikarp,gyarados,wingull,pelipper,roselia,clamperl,floatzel,shellos,gastrodon,stunky,skuntank,finneon,lumineon
+Route 218|tentacool,tentacruel,voltorb,mrmime,magikarp,gyarados,ditto,wingull,pelipper,floatzel,shellos,gastrodon,finneon,lumineon
+Canalave City|tentacool,tentacruel,staryu,magikarp,gyarados,wingull,pelipper,finneon,lumineon
+--Canalave City|b4|rival|Barry
+Iron Island|zubat,golbat,tentacool,tentacruel,geodude,graveler,onix,magikarp,gyarados,steelix,qwilfish,wingull,pelipper,finneon,lumineon
+--Canalave Gym|6|gym-leader|Byron
+Route 211|zubat,machoke,geodude,graveler,ponyta,hoothoot,noctowl,tyrogue,meditite,swablu,bidoof,chingling
+--Valor Cavern|sat1|evil-team|Saturn
+--Lake Verity|mars2|evil-team|Mars
+Route 216|zubat,machoke,graveler,noctowl,sneasel,delibird,meditite,snorunt,snover
+Route 217|zubat,machoke,noctowl,sneasel,swinub,meditite,medicham,snorunt,snover
+Acuity Lakefront|zubat,machoke,noctowl,sneasel,meditite,medicham,snorunt,snover
+Lake Acuity|psyduck,golduck,goldeen,seaking,magikarp,gyarados,noctowl,wobbuffet,sneasel,smoochum,bibarel,chingling
+Snowpoint Temple|golbat,graveler,onix,steelix,sneasel
+--Snowpoint Gym|7|gym-leader|Candice
+--Galactic HQ|cyr1|evil-team|Cyrus
+--Galactic HQ|sat2|evil-team|Saturn
+--Spear Pillar|mnj|evil-team|Mars & Jupiter
+--Spear Pillar|cyr2|evil-team|Cyrus
+Route 222|tentacool,tentacruel,mrmime,magikarp,gyarados,flaaffy,remoraid,octillery,wingull,pelipper,skitty,sharpedo,floatzel,gastrodon,chatot
+Sunyshore City|tentacruel,staryu,magikarp,gyarados,remoraid,octillery,pelipper,mantyke
+--Sunyshore Gym|8|gym-leader|Volkner
+Route 223|tentacruel,magikarp,gyarados,remoraid,octillery,pelipper,wailmer,wailord,mantyke
+Victory Road|golbat,kadabra,machoke,graveler,onix,magikarp,gyarados,lapras,steelix,medicham,floatzel
+Pokémon League|tentacruel,magikarp,gyarados,remoraid,octillery,pelipper,luvdisc
+--Victory Road|b5|rival|Barry
+--Elite Four|e1|elite-four|Aaron
+--Elite Four|e2|elite-four|Bertha
+--Elite Four|e3|elite-four|Flint
+--Elite Four|e4|elite-four|Lucian
+--Champion|c|elite-four|Cynthia

@@ -1,93 +1,93 @@
 Starter|rowlet,litten,popplio
-Hau'oli Outskirts|rattata-alola,slowpoke,wingull,yungoos,tentacool,finneon
+Hau'oli Outskirts|raticatealola,wingull,nosepass,honedge,gumshoos,stufful
 --Iki Town|r1|rival|Hau
-Route 1|caterpie,rattata-alola,ledyba,spinark,pikipek,yungoos,pichu,pikachu,happiny,grubbin,metapod,bonsly,sudowoodo,munchlax,snorlax
+Route 1|caterpie,metapod,rattataalola,pikachu,meowthalola,tentacool,slowpoke,magnemite,grimeralola,snorlax,ledyba,spinarak,pichu,sudowoodo,wingull,bonsly,happiny,munchlax,finneon,pikipek,yungoos,grubbin
 Trainer's School|meowth-alola,magnemite,grimer-alola
 --Iki Town Festival|r2|rival|Hau
-Hau'oli City|rattata-alola,abra,magnemite,grimer-alola,pichu,pikachu,happiny,wingull,yungoos,klink,tentacool,finneon
+Hau'oli City|rattataalola,pikachu,meowthalola,abra,magnemite,grimeralola,pichu,wingull,happiny,klink,yungoos
 --Hau'oli City Trial Captain|1|gym-leader|Ilima
-Route 2|rattata-alola,meowth-alola,abra,drowzee,smeargle,yungoos,spearow,growlithe,cutiefly,makuhita,crabrawler,machop,chikorita
-Verdant Cavern|zubat,diglett-alola,rattata-alola,yungoos,pheromosa
+Route 2|rattataalola,spearow,meowthalola,growlithe,abra,machop,drowzee,chikorita,smeargle,makuhita,yungoos,crabrawler,cutiefly
+Verdant Cavern|rattataalola,zubat,diglettalola
 Berry Fields|crabrawler
 --Totem Trial|1a|gym-leader|Ilima's trial
 Hau'oli Cemetery|zubat,gastly,misdreavus,drifloon,litwick
-Route 3|rattata-alola,spearow,mankey,delibird,yungoos,cutiefly,bagon,salamence,rufflet,vullaby,crabrawler,cyndaquil
+Route 3|rattataalola,spearow,mankey,cyndaquil,delibird,bagon,salamence,rufflet,yungoos,crabrawler,cutiefly
 --Route 3|r3|rival|Hau
-Melemele Meadow|caterpie,metapod,butterfree,cottonee,petilil,oricorio-pom-pom,cutiefly,buzzwole
-Seaward Cave|zubat,diglett-alola,psyduck,magikarp,gyarados,barboach,whiscash,totodile
+Melemele Meadow|caterpie,metapod,butterfree,cottonee,oricorio,cutiefly,buzzwole
+Seaward Cave|zubat,diglettalola,psyduck,magikarp,gyarados,totodile,barboach,whiscash
 --Hala's Grand Trial|2|gym-leader|Hala
--Hau'oli City|1_2|gym-leader|Ilima (Optional)
-Kala'e Bay|rattata-alola,slowpoke,slowbro,wingull,bagon,shelgon,yungoos,tentacool,finneon,shellder,magikarp,gyarados,wishiwashi,horsea
-Ten Carat Hill|zubat,diglett-alola,roggenrola,carbink,sableye,psyduck,deino,machop,spinda,carbink,rockruff,necrozma
+-Hau'oli City|rattataalola,pikachu,meowthalola,abra,magnemite,grimeralola,pichu,wingull,happiny,klink,yungoos
+Kala'e Bay|rattataalola,tentacool,slowpoke,slowbro,shellder,horsea,magikarp,gyarados,wingull,bagon,shelgon,finneon,yungoos,wishiwashi
+Ten Carat Hill|zubat,diglettalola,machop,sableye,spinda,roggenrola,deino,carbink,rockruff,necrozma
 --Heahea City|dsa|rival|Dexio#Dexio x Sina
-Route 4|rattata-alola,eevee,espeon,umbreon,igglybuff,jigglypuff,happiny,lillipup,pikipek,yungoos,grubbin,mudbray,crabrawler,venipede
-Paniola Town|magikarp,barboach,gyarados,whiscash
+Route 4|rattataalola,jigglypuff,eevee,igglybuff,espeon,umbreon,happiny,lillipup,venipede,pikipek,yungoos,grubbin,crabrawler,mudbray
+Paniola Town|magikarp,gyarados,barboach,whiscash
 --Paniola Ranch|r4|rival|Hau
-Paniola Ranch|tauros,miltank,lillipup,mudbray,eevee
-Route 5|caterpie,metapod,butterfree,lillipup,pikipek,grubbin,fomantis,crabrawler,bounsweet,bellsprout,bonsly,sudowoodo,happiny,trumbeak,diglett-alola
+Paniola Ranch|tauros,eevee,miltank,lillipup,mudbray
+Route 5|caterpie,metapod,butterfree,diglettalola,bellsprout,lillipup,pikipek,grubbin,crabrawler,fomantis,bounsweet
 --Team skull|g1|evil-team|Gladion
-Brooklet Hill|paras,psyduck,poliwag,wingull,surskit,lillipup,dewpider,morelull,goldeen,seaking,gyarados,magikarp,feebas,wishiwashi,marill,tentacool,finneon,alomomola
+Brooklet Hill|paras,psyduck,poliwag,tentacool,goldeen,seaking,magikarp,gyarados,marill,wingull,surskit,feebas,finneon,lillipup,alomomola,wishiwashi,dewpider,morelull
 --Totem Trial|3|gym-leader|Lana's trial
-Route 6|rattata-alola,eevee,espeon,umbreon,igglybuff,jigglypuff,happiny,lillipup,pikipek,yungoos,grubbin,mudbray,oricorio-pau,gothita
-Route 7|diglett-alola,tentacool,wingull,finneon,pyukumuku,staryu,starmie,magikarp,gyarados,wishiwashi,spheal
-Wela Volcano Park|cubone,kangaskhan,magby,magmar,fletchling,salandit,nihilego
+Route 6|rattataalola,jigglypuff,eevee,igglybuff,espeon,umbreon,happiny,lillipup,gothita,pikipek,yungoos,grubbin,oricorio,mudbray
+Route 7|diglettalola,tentacool,staryu,starmie,magikarp,gyarados,wingull,spheal,finneon,wishiwashi,pyukumuku
+Wela Volcano Park|cubone,kangaskhan,magmar,magby,fletchling,salandit,nihilego
 --Totem Trial|4|gym-leader|Kiawe's trial
-Melemele Sea|tentacool,wingull,finneon,magikarp,gyarados,corsola,mareanie,luvdisc,wishiwashi
-Route 8|rattata-alola,fletchinder,trumbeak,pikipek,yungoos,salandit,stufful,crabrawler,wimpod,tentacool,wingull,finneon,magikarp,gyarados,chinchou,wishiwashi,luxio,
-Fossil Restoration Center|shieldon,anorith,tirtouga,kabuto,omanyte,tyrunt,archen,lileep,amaura,cranidos
-Lush Jungle|caterpie,metapod,butterfree,paras,bonsly,sudowoodo,happiny,trumbeak,fomantis,morelull,comfey,oranguru,passimian,goomy,castform,bounsweet,zubat,diglett-alola
+Melemele Sea|tentacool,magikarp,gyarados,corsola,wingull,luvdisc,finneon,wishiwashi,mareanie
+Route 8|rattataalola,magikarp,gyarados,chinchou,luxio,cranidos,shieldon,tirtouga,archen,fletchinder,pikipek,trumbeak,yungoos,crabrawler,wishiwashi,salandit,stufful,wimpod
+Fossil Restoration Center|golbat,dugtrioalola,crobat,guzzlord
+Lush Jungle|caterpie,metapod,butterfree,zubat,paras,diglettalola,pinsir,sudowoodo,castform,bonsly,happiny,goomy,trumbeak,fomantis,morelull,bounsweet,comfey,passimian,xurkitree
 --Totem Trial|6|gym-leader|Mallow's trial
-Digletts Tunnel|zubat,diglett-alola
-Route 9|magikarp,gyarados,corsola,mareanie,luvdisc,wishiwashi
+Digletts Tunnel|zubat,diglettalola,nihilego
+Route 9|magikarp,gyarados,corsola,luvdisc,wishiwashi,mareanie
 Konikoni City|poliwhirl
-Memorial Hill|zubat,gastly,phantump
-Akala Outskirts|raticate-alola,wingull,nosepass,gumshoos,stufful,magikarp,gyarados,chinchou,wishiwashi,honedge
+Memorial Hill|zubat,gastly,phantump,xurkitree
+Akala Outskirts|raticatealola,wingull,nosepass,honedge,gumshoos,stufful
 --Akala Outskirts|p1|evil-team|Plumeria
 --Ruins of Life|7|gym-leader|Island Kahuna Olivia
-Hano Beach|staryu,sandygast,tentacool,wingull,finneon,pyukumuku
-Malie City|raticate-alola,magnemite,grimer-alola,trubbish,garbodor,gumshoos
-Malie Garden|mewoth-alola,psyduck,poliwag,ledian,ariados,masquerain,cottonee,petilil,araquanid,poliwhirl,poliwrath,politoed,castform,goldeen,seaking,magikarp,gyarados
+Hano Beach|tentacool,staryu,wingull,finneon,sandygast,pyukumuku
+Malie City|raticatealola,magnemite,grimeralola,happiny,trubbish,garbodor,gumshoos
+Malie Garden|meowthalola,psyduck,poliwag,poliwhirl,poliwrath,goldeen,seaking,magikarp,gyarados,ledian,ariados,politoed,masquerain,castform,cottonee,araquanid,kartana
 --Malie City|r5|rival|Hau
-Route 10|raticate-alola,fearow,ledian,ariados,skarmory,pancham,pangoro,gumshoos,crabrawler,staravia
-Mount Hokulani|fearow,ditto,cleffa,clefairy,chansey,skarmory,beldum,minior,axew
+Route 10|raticatealola,fearow,ledian,ariados,skarmory,staravia,pancham,pangoro,gumshoos,crabrawler
+Mount Hokulani|fearow,clefairy,chansey,ditto,cleffa,skarmory,beldum,axew,minior
 --Hokulani Observatory|mol|rival|Molayne
 --Totem Trial|8|gym-leader|Sophocles' trial
 --Malie Garden|gz1|evil-team|Guzma
-Route 11|raticate-alola,paras,ledian,ariados,pancham,pangoro,trumbeak,gumshoos,morelull,komala,vigoroth
-Route 12|geodude-alola,elekid,electabuzz,chansey,torkoal,mudbray
-Secluded Shore|finneon,tentacool,pelipper,magikarp,wishiwashi,bruxish,gyarados,crabrawler
-Blush Mountain|geodude-alola,elekid,electabuzz,chansey,torkoal,charjabug,mudbray,turtonator,togedemaru,rhyhorn
+Route 11|raticatealola,paras,ledian,ariados,vigoroth,pancham,pangoro,trumbeak,gumshoos,morelull,komala
+Route 12|geodudealola,chansey,electabuzz,elekid,torkoal,crabrawler,mudbray
+Secluded Shore|tentacool,magikarp,gyarados,pelipper,finneon,wishiwashi,bruxish
+Blush Mountain|geodudealola,rhyhorn,chansey,electabuzz,elekid,torkoal,charjabug,mudbray,turtonator,togedemaru
 Route 13|magikarp,gyarados,wishiwashi,bruxish
-Tapu Village|raticate-alola,sandshrew-alola,vulpix-alola,swinub,pelipper,graveler-alola,absol,snorunt,gumshoos,vanillite,castform
-Route 15|raticate-alola,slowpoke,pelipper,gumshoos,tentacool,finneon,magikarp,gyarados,wishiwashi,bruxish
+Tapu Village|raticatealola,vulpixalola,graveler,magikarp,gyarados,swinub,pelipper,castform,absol,snorunt,vanillite,gumshoos,wishiwashi,bruxish
+Route 15|raticatealola,tentacool,slowpoke,magikarp,gyarados,porygon,pelipper,finneon,gumshoos,crabrawler,wishiwashi,bruxish
 Aether House|porygon
-Route 14|magikarp,gyarados,pelipper,finneon,wishiwashi,bruxish
+Route 14|raticatealola,vulpixalola,tentacool,magikarp,gyarados,pelipper,absol,snorunt,finneon,gumshoos,wishiwashi,bruxish
 Thrify Megamart|golbat,haunter,gengar,klefki,mimikyu
 --Totem Trial|9|gym-leader|Acerola's Trial
 --Route 15|p2|evil-team|Plumeria
-Route 16|raticate-alola,slowpoke,pelipper,gumshoos,crabrawler,zygarde,duosion
-Ula'ula Meadow|ledian,ariados,cottonee,petilil,oricorio-baile,ribombee,roselia
+Route 16|raticatealola,slowpoke,pelipper,duosion,zygarde,gumshoos,crabrawler
+Ula'ula Meadow|ledian,ariados,roselia,cottonee,oricorio,ribombee
 Lake of the Moone|cosmog#Sun
-Route 17|raticate-alola,fearow,ledian,ariados,pancham,pangoro,gumshoos,graveler-alola,skarmory,castform,goomy,crabrawler
+Route 17|raticatealola,fearow,graveleralola,ledian,ariados,skarmory,castform,pancham,pangoro,goomy,gumshoos,crabrawler,kartana
 --Shady house|gz2|evil-team|Guzma
 --Aether house|g3|evil-team|Gladion
 --Malie City|10|gym-leader|Island Kahuna Nanu
-Haina Desert|dugtrio-alola,trapinch,sandile,gabite,castform,celesteela
+Haina Desert|dugtrioalola,trapinch,castform,gabite,sandile
 --Aether Paradise|f1|evil-team|Faba
 --Aether Paradise|f2|evil-team|Faba & Employee
 --Aether Paradise|gz3|evil-team|Guzma
 --Aether Paradise|l1|evil-team|Lusamine
-Seafolk Village|magikarp,gyarados,wailmer,wailord,dhelmise,aerodactyl,steenee
-Poni Wilds|raticate-alola,exeggcute,granbull,pelipper,gastrodon,gumshoos,crabrawler,wimpod,tentacruel,lumineon,lapras,wailmer,wailord,relicanth,samurott
-Ancient Poni Path|raticate-alola,exeggcute,granbull,pelipper,gastrodon,gumshoos,emboar
-Poni Breaker Coast|wimpod,magikarp,gyarados,wailmer,wailord,sharpedo
-Exeggutor Island|exeggcute,exeggutor-alola,pelipper,gastrodon,sliggoo,castform,serperior
+Seafolk Village|magikarp,gyarados,aerodactyl,wailmer,wailord,steenee,dhelmise
+Poni Wilds|raticatealola,tentacruel,exeggcute,magikarp,gyarados,lapras,granbull,pelipper,wailmer,wailord,relicanth,gastrodon,lumineon,samurott,gumshoos,crabrawler,wimpod
+Ancient Poni Path|raticatealola,exeggcute,granbull,pelipper,gastrodon,emboar,gumshoos
+Poni Breaker Coast|magikarp,gyarados,sharpedo,wailmer,wailord,wimpod
+Exeggutor Island|exeggcute,exeggutoralola,pelipper,castform,gastrodon,serperior,sliggoo
 --Vast Poni Canyon|11|gym-leader|Island Kahuna Hapu
-Vast Poni Canyon|machoke,murkrow,skarmory,boldore,carbink,lycanroc,jangmo-o,konmmo-o,hakamo-o,golbat,dugtrio-alola,golduck,magikarp,gyarados,dratini,dragonair,barboach,whiscash
+Vast Poni Canyon|golbat,dugtrioalola,golduck,machoke,magikarp,gyarados,dratini,dragonair,murkrow,skarmory,sableye,barboach,whiscash,boldore,carbink,lycanroc,jangmoo,hakamoo,kommoo
 --Totem Trial|12|gym-leader|Kommo-o's Trial
 --Ultra Space|l2|evil-team|Ultra Lusamine
 Altar of the Sunne|solgaleo
-Mount Lanakila|sandshrew-alola,vulpix-alola,sneasel,absol,snorunt,glalie,vanillish,castform,golbat,drampa
+Mount Lanakila|vulpixalola,golbat,sneasel,castform,absol,snorunt,glalie,vanillish
 --Mount Lanakila|g4|rival|Gladion
 --Mount Lanakila|r6|rival|Hau
 --Pokémon League|e1|elite-four|Hala
@@ -95,13 +95,13 @@ Mount Lanakila|sandshrew-alola,vulpix-alola,sneasel,absol,snorunt,glalie,vanilli
 --Pokémon League|e3|elite-four|Acerola
 --Pokémon League|e4|elite-four|Kahili
 --Pokémon League Champion|c|elite-four|Kukui
-Poni Grove|raticate-alola,pinsir,granbull,riolu,lucario,chansey,trumbeak,gumshoos,eelektross
-Poni Plains|raticate-alola,tauros,miltank,cottonee,petilil,trumbeak,gumshoos,hypno,fearow,mudsdale,pelipper,hariyama,braviary,mandibuzz,primeape,emolga,scyther,crabrawler,conkeldurr
-Poni Meadow|cottonee,petilil,oricorio-sensu,ribombee,magikarp,gyarados,dratini,dragonair,barboach,whiscash,leavanny
-Resolution Cave|golbat,crobat,dugtrio-alola,guzzlord
-Poni Coast|dugtrio-alola
-Poni Gauntlet|raticate-alola,golduck,granbull,pelipper,gumshoos,bewear,magikarp,dratini,dragonair,dragonite,barboach,whiscash,magikarp,gyarados,talonflame,togekiss
-Ruins of Conflict|tapu-koko
-Ruins of Life|tapu-lele
-Ruins of Abundance|tapu-bulu
-Ruins of Hope|tapu-fini
+Poni Grove|raticatealola,chansey,pinsir,granbull,riolu,lucario,eelektross,trumbeak,gumshoos
+Poni Plains|raticatealola,fearow,primeape,hypno,scyther,tauros,miltank,pelipper,hariyama,conkeldurr,cottonee,emolga,braviary,trumbeak,gumshoos,crabrawler,mudsdale
+Poni Meadow|magikarp,gyarados,dratini,dragonair,barboach,whiscash,leavanny,cottonee,oricorio,ribombee
+Resolution Cave|golbat,dugtrioalola,crobat,guzzlord
+Poni Coast|dugtrioalola
+Poni Gauntlet|raticatealola,golduck,magikarp,gyarados,dratini,dragonair,dragonite,granbull,pelipper,barboach,whiscash,togekiss,talonflame,gumshoos,bewear
+Ruins of Conflict|tapukoko
+Ruins of Life|tapulele
+Ruins of Abundance|tapubulu
+Ruins of Hope|tapufini
