@@ -18,8 +18,8 @@ roar-of-time||80|Forces the target to switch to a random ally.
 ice-hammer|||No effect
 
 # New moves
-soul-robbery|psychic|100|The target's stat increases are stolen from it and applied to the user before dealing damage.
-dark-hole|dark|100|This move has a 40% chance to inflict sleep on the target, it also bypasses substitute.
+soul-robbery|psychic|100|The target's stat increases are stolen from it and applied to the user before dealing damage.|special
+dark-hole|dark|100|This move has a 40% chance to inflict sleep on the target, it also bypasses substitute.|special
 
 --ability
 
