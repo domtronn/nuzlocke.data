@@ -1,0 +1,220 @@
+--item
+toxtricitite|mawilite|Allows Toxtricity to Mega Evolve into Mega Toxtricity
+duraludite|aggronite|Allows Duraludon to Mega Evolve into Mega Duraludon
+
+--move
+# Modifications
+drill-peck|||Has an increased chance for a critical hit.
+triple-kick||20
+charge-beam|||Boosts the user's Special Attack by one stage
+self-destruct||100|Target's Defense is halved during damage. User faints.
+explosion||100|Target's Defense is halved during damage. User faints.
+poison-fang||75
+shadow-claw||80
+parabolic-charge||75
+rock-smash||60
+kings-shield|||Protects from damaging attacks.
+roar-of-time||80|Forces the target to switch to a random ally.
+ice-hammer|||No effect
+
+# New moves
+soul-robbery|psychic|100|The target's stat increases are stolen from it and applied to the user before dealing damage.
+dark-hole|dark|100|This move has a 40% chance to inflict sleep on the target, it also bypasses substitute.
+
+--ability
+
+# Ability modifications
+defeatist|While this Pokemon has ⅓ or less of its maximum HP, its Attack and Special Attack are halved.
+iron-fist|This Pokemon's punch-based attacks have their power multiplied by 1.3×.
+flare-boost|When burned, special attacks have 1.5× power. This Pokemon is also immune to burn damage.
+illusion|Appears as last Pokemon in party until damaged. Moves have their power multiplied by 1.3× whilst disguised.
+liquid-voice|This Pokemon's sound-based moves become Water-type moves and have their power multiplied by 1.2×.
+
+# New abilities
+blazing-soul|If this Pokemon is at full HP, its Fire-type moves have their priority increased by 1.
+blademaster|This Pokemon's blade-based attacks have their power multiplied by 1.2× and get a +1 critical hit ratio.
+
+--pokemon
+#hp,atk,def,spa,spd,spe|name|type
+,,,95|butterfree
+60,91|raticate
+,86|raticate-alola
+,100,,,,115|fearow
+75,,75|arbok|poison,dark
+70,100,,100|raichu
+,110,120,25,65|sandslash
+,110|sandslash-alola
+80,110,100|parasect
+,,65,95|venomoth|bug,psychic
+,110|dugtrio-alola
+,80,,60|persian
+,,,55|persian-alola
+,,,100,,100|golduck|water,psychic
+,,70,,75|victreebel
+,60,80,90|tentacruel
+|ponyta-galar|fire,fairy
+,,,60,,125|rapidash-galar|fire,fairy
+,,,60,,125|rapidash
+,75,105,115|slowbro-galar
+,50,,90|dewgong
+,55,,100|electrode
+80,,,30|marowak
+,115|hitmonchan
+75,,70,,77|farfetchd|fighting,flying
+50,60,150,,,65|onix
+50|mrmime
+,,,70|tauros
+,,,65,100,95|flareon
+,,50,,,100|jynx
+,70,,,,105|articuno
+,70,95,,,100|articuno-galar
+,86|furret
+110|noctowl
+,90,,35,100|ledian|bug,fighting
+,95,,,,70|ariados
+,,,90|crobat
+,50,65,90|lanturn
+,,,105,,105|xatu
+85,70|bellossom
+90|sudowoodo
+,85,,35|jumpluff
+95,,,135,,55|sunflora|grass,fire
+100,,90|quagsire
+,,80,,75|dunsparce
+100|granbull|fairy,fighting
+,105|qwilfish
+,100,,,,105|delibird
+100,,80,55,80|ursaring
+85,,100,,100|corsola
+,,,,,75|octillery
+,,,90|mantine
+80,100,70,100,73,100|stantler
+,85|miltank
+,105,,85|sceptile|grass,dragon
+,95|mightyena
+85,85|linoone
+,,,104,,75|beautifly
+80,40,,60|dustox
+,120,,110|shiftry
+80|masquerain|water,bug
+,81,,,,73|exploud
+,,,65|delcatty
+,,,,,110|plusle
+,85,75,50,40,110|minun
+85,47,,90,,100|volbeat|bug,electric
+85,90,47,,100|illumise|bug,fairy
+,88,88,93,88|swalot
+150,50,80,105,80,50|wailord
+90|camerupt
+90|grumpig
+100,,,100|flygon
+,120,,120|cacturne
+85|altaria
+,,70,,70,100|zangoose
+83,,83,,73,100|seviper
+,,,105,,90|lunatone
+,105,,,,90|solrock
+,75,,95|torkoal
+,,,80|claydol
+,,84,,,86|milotic
+85,100|kecleon
+,,,92,,81|tropius|grass,dragon
+90,,,,,80|chimecho
+90|walrein
+,,,104|gorebyss|water,fairy
+,105,115|relicanth
+,,,100|luvdisc|water,fairy
+,110,,110,,113|infernape
+,,80,,80,50|bibarel
+,95,71,,71,80|kricketune
+,59,,79|wormadam-sandy
+,59,,79|wormadam-trash
+,84,,,,80|mothim
+85|vespiquen
+75,,,95|pachirisu
+90,90|floatzel
+,100,,60|cherrim
+70,,70|mismagius|ghost,fairy
+,,,,,96|honchkrow
+100,,79,,79|purugly
+,,,91|skuntank
+,,,,,101|chatot
+,80|drapion
+89,,82,55,82|carnivine
+79,59,,96,69,101|lumineon
+,95,,,,30|lickilicky
+,113,,105|electivire
+,80,,,,98|magmortar
+,130,110|leafeon
+80,45,100,,,75|glaceon
+65,45,,80|probopass
+,95,,95|froslass
+,,70,,70|rotom
+,108,,95,,100|samurott|water,steel
+80,100,74,,74|watchog
+90,115|stoutland
+,95,,78|liepard
+,,,,,108|unfezant
+75,,65|swoobat
+,,95,,95|throh
+,110|basculin
+,130|darmanitan-galar
+,106,,85|maractus
+,,,,,55|crustle
+,115,,,,60|garbodor
+,77,,97,,108|swanna
+,90,,,,84|vanilluxe
+,110,,,,105|sawsbuck
+,55,,95|emolga
+,,80,75|jellicent
+,105,,115|eelektross
+95|beheeyem
+,140|beartic|ice,fighting
+,110|cryogonal
+90,,,,,41|druddigon
+100,,90,,90|golurk
+,90,,,,100|heatmor
+,,,,,65|bouffalant
+,91|talonflame
+,,72,67,87,74|gogoat
+,90|furfrou
+,55|meowstic
+,62,82|aromatisse
+,90,,75|slurpuff
+,,,,,72|clawitzer
+,,,91|dedenne
+,120,82|trevenant
+,,,102|noivern
+,,,95,85,100|decidueye
+90|toucannon
+98|gumshoos
+,,,,,55|lurantis|grass,fighting
+75|shiinotic
+,,110,,80|oranguru
+,,,,75|passimian
+75|komala
+70,58|turtonator
+,108|togedemaru
+103,50|drampa
+,74,,,,98|xurkitree
+203,,73,,73,23|guzzlord
+,111|cinderace
+,,,97,,110|thievul
+75,,,|90eldegoss
+82|dubwool
+,100,,80|boltund
+,,65,100,,105|cramorant
+90,,,30|perrserker
+80,75,,,,55|cursola
+82|sirfetchd
+,65,,,90,100|mrrime
+75,,,60|falinks|bug,fighting
+68,81|pincurchin|electric,water
+,,65|frosmoth
+,,,,50,80|stonjourner
+,100,,45|eiscue
+,110|morpeko
+,,79,,79|copperajah
+,,,55,,80|arctovish
+,,,,55,80|arctozolt
+85|duraludon
