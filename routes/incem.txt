@@ -110,6 +110,7 @@ Victory Road|mawile,sableye,zweilous,exploud,carbink,lairon,aggron,medicham,noiv
 --Pokémon League|e1|elite-four|Sidney
 --Pokémon League|e2|elite-four|Phoebe
 --Pokémon League|e3|elite-four|Glacia
+--Pokémon League|e4|elite-four|Drake
 --Pokémon League Champion|c|elite-four|Wallace
 Artisan Cave|smeargle
 Altering Cave|mewtwo,rhydon,swoobat,noivern,druddigon,lucario,parasect,wobuffet,gigalith,eelektross,shiinotic,dugtrio,blissey,seaking,gastrodon,barboach,whiscash,magikarp,gyarados,steelix,shuckle,crustle

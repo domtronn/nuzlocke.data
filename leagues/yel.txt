@@ -83,12 +83,12 @@ meowth|31|growl,bite,screech,pay-day
 weezing|31|tackle,smog,sludge
 
 
---g1|Giovanni|ground|#Rocket hideout
+--g1|Giovanni|ground|/leaders/frlg-giovanni#Rocket hideout
 onix|25|screech,bind,rage,rock-throw
 rhyhorn|24|horn-attack
 persian|29|pay-day,scratch,bite,growl
 
---g2|Giovanni|ground|#silph co
+--g2|Giovanni|ground|/leaders/frlg-giovanni#silph co
 nidorino|37|double-kick,poison-sting,focus-energy,fury-attack
 rhyhorn|37|horn-attack,stomp,tail-whip
 persian|35|scratch,growl,bite,pay-day
@@ -96,15 +96,15 @@ nidoqueen|41|double-kick,tail-whip,body-slam,poison-sting
 
 # Gym leaders
 
---1|Brock|rock|/leaders/frlg-brock2
+--1|Brock|rock|/leaders/frlg-brock
 geodude|10|tackle
 onix|12|tackle,screech,bide,bind
 
---2|Misty|water|/leaders/frlg-misty2
+--2|Misty|water|/leaders/frlg-misty
 staryu|18|tackle,water-gun
 starmie|21|tackle,harden,water-gun,bubble-beam
 
---3|Lt. Surge|electric|/leaders/frlg-surge2
+--3|Lt. Surge|electric|/leaders/frlg-surge
 raichu|28|thunderbolt,mega-punch,mega-kick,growl
 
 --4|Erica|grass|
@@ -118,12 +118,12 @@ venonat|46|toxic,psychic,psybeam,supersonic
 venonat|48|toxic,psychic,sleep-powder,double-edge
 venomoth|50|psychic,toxic,leech-life,double-team
 
---6|Sabrina|psychic|/leaders/frlg-sabrina2
+--6|Sabrina|psychic|/leaders/frlg-sabrina
 abra|50|flash
 kadabra|50|psychic,recover,kinesis,psywave
 alakazam|50|psychic,recover,reflect,psywave
 
---7|Blaine|fire|/leaders/frlg-blaine2
+--7|Blaine|fire|/leaders/frlg-blaine
 ninetales|48|quick-attack,tail-whip,confuse-ray,flamethrower
 rapidash|50|take-down,stomp,growl,fire-spin
 arcanine|54|reflect,take-down,fire-blast,flamethrower

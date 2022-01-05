@@ -164,8 +164,8 @@ boldore|26|rock-blast,mud-slap,headbutt|sturdy||
 lycanroc-midnight|26|bite,rock-throw|vital-spirit|rockium-z--held|
 
 --8|Sophocles' Trial|electric|/leaders/sm-sophocles@Kyledove@https://www.deviantart.com/kyle-dove
-vikavolt|29|vise-grip,charge,spark,bug-bite|levitate|occa-berry|
-charjabug|28|thunder-wave,string-shot,mud-slap,vise-grip|battery||
+vikavolt|29|vice-grip,charge,spark,bug-bite|levitate|occa-berry|
+charjabug|28|thunder-wave,string-shot,mud-slap,vice-grip|battery||
 charjabug|28|bite,thunder-wave,spark|battery||
 
 --9|Acerola's Trial|ghost|/leaders/sm-acerola@Drawnamu@https://www.deviantart.com/drawnamu

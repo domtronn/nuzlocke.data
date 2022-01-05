@@ -98,7 +98,7 @@ Victory Road|machoke,golbat,graveler,medicham,hariyama,gabite,rhydon,steelix,mag
 --Pokémon League - Round 1|e1b|elite-four|Aaron (Team B)
 --Pokémon League - Round 1|e1c|elite-four|Aaron (Team C)
 --Pokémon League - Round 1|e1d|elite-four|Aaron (Team D)
---Pokémon League - Round 2|e2a|elite-four|undefined
+--Pokémon League - Round 2|e2a|elite-four|Bertha (Team A)
 --Pokémon League - Round 2|e2b|elite-four|Bertha (Team B)
 --Pokémon League - Round 2|e2c|elite-four|Bertha (Team C)
 --Pokémon League - Round 2|e2d|elite-four|Bertha (Team D)

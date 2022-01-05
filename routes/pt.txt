@@ -77,6 +77,7 @@ Route 223|tentacruel,magikarp,gyarados,remoraid,octillery,pelipper,mantyke
 --Victory Road|b5|rival|Barry
 Victory Road|golbat,graveler,onix,steelix,floatzel,gabite
 Pokémon League|tentacruel,magikarp,gyarados,remoraid,octillery,wingull,pelipper,luvdisc
+--Pokémon League|b6|rival|Barry
 --Elite Four|e1|elite-four|Aaron
 --Elite Four|e2|elite-four|Bertha
 --Elite Four|e3|elite-four|Flint

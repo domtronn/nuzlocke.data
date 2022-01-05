@@ -62,7 +62,7 @@ chesnaught|51|spiky-shield,seed-bomb,brick-break|overgrow||fire
 delphox|51|mystical-fire,psychic,calm-mind|blaze||water
 
 --ti1|Tierno||/leaders/xy-tierno@Gnomowladny@https://www.deviantart.com/gnomowladny# Route 5
-corphish|12|vise-grip,swords-dance|shell-armor
+corphish|12|vice-grip,swords-dance|shell-armor
 
 --ti2|Tierno||/leaders/xy-tierno@Gnomowladny@https://www.deviantart.com/gnomowladny#route 19
 talonflame|48|swords-dance,quick-attack,acrobatics|flame-body
@@ -77,7 +77,7 @@ florges|51|moonblast,misty-terrain,energy-ball,confide|flower-veil
 --tnt|Trevor & Tierno||/leaders/xy-tierno-trevor@Muzyun & Gnomowladny@https://www.deviantart.com/gnomowladny#Route 7
 pikachu|14|thunder-shock,quick-attack|static
 flabebe|14|vine-whip,fairy-wind|flower-veil
-corphish|16|vise-grip,swords-dance|shell-armor
+corphish|16|vice-grip,swords-dance|shell-armor
 
 --sy1|Sycamore||/leaders/xy-sycamore@Kyledove@https://www.deviantart.com/kyle-dove
 bulbasaur|10|tackle,growl,leech-seed,vine-whip|overgrow
