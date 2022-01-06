@@ -21,6 +21,8 @@ needle-arm||90
 cross-poison||90
 x-scissor|||Has an increased chance for a critical hit.
 
+hidden-power-fire|fire|60||special|Hidden Power
+
 --ability
 overgrow|Strengthens grass moves by 1.2×. This increases to 1.5× while the Pokémon is at ⅓ HP or less.
 blaze|Strengthens fire moves by 1.2×. This increases to 1.5× while the Pokémon is at ⅓ HP or less.

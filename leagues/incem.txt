@@ -234,7 +234,7 @@ kirlia|+1|psychic,draining-kiss,hypnosis,charm|trace|focus-sash
 
 --w2|Wally||/leaders/rs-wally
 garchomp|+1|dragon-rush,earthquake,stone-edge,stealth-rock|rough-skin|life-orb
-magnezone|+1|flash-cannon,volt-switch,hidden-power,thunder-wave|sturdy|air-balloon
+magnezone|+1|flash-cannon,volt-switch,hidden-power-fire,thunder-wave|sturdy|air-balloon
 azumarill|+1|liquidation,play-rough,aqua-jet,iron-tail|huge-power|assault-vest
 roserade|+1|mega-drain,sludge-bomb,quiver-dance,sleep-powder|technician|black-sludge
 talonflame|+1|flare-blitz,brave-bird,steel-wing,u-turn|gale-wings|choice-band
@@ -342,7 +342,7 @@ glalie-mega|+2|double-edge,ice-shard,stone-edge,earthquake|refrigerate|glalitite
 --e4|Drake|dragon|/leaders/rs-drake
 dragalge|+1|draco-meteor,sludge-wave,focus-blast,toxic-spikes|adaptability|poison-gem
 kommo-o|+1|outrage,close-combat,iron-tail,shell-smash|soundproof|white-herb
-serperior|+2|draco-meteor,leaf-storm,hidden-power,glare|contrary|life-orb
+serperior|+2|draco-meteor,leaf-storm,hidden-power-fire,glare|contrary|life-orb
 garchomp|+1|outrage,earthquake,strength,swords-dance|rough-skin|yache-berry
 naganadel|+1|draco-meteor,sludge-wave,fire-blast,nasty-plot|beast-boost|white-herb
 salamence-mega|+2|double-edge,earthquake,fire-blast,dragon-dance|aerilate|salamencite
