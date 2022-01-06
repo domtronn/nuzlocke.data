@@ -44,13 +44,13 @@ Saffron City|treecko,mudkip,lapras,clobbopus,crabrawler
 --Silph Co. Rival|r4|rival|Gary
 --Silph Co.|ev3|evil-team|Archer & Ariana
 --Saffron City Dojo|mb5|rival|Chuck
---Saffron City Gym|6|gym-leader|Sabrina
+--Saffron City Gym|5|gym-leader|Sabrina
 Route 16|mudbray,duosion,dodrio,falinks,gulpin,togedemaru,audino,elgyem,hawlucha,gothorita,trubbish
 Route 17|weezing,zebstrika,muk,hypno,grumpig,torkoal,audino,drampa,skarmory,weezing-galar,muk-alola,turtonator
 Route 18|morpeko,xatu,vigoroth,leavanny,abomasnow,altaria,oricorio-baile,toxicroak,bisharp,eevee,oricorio-pom,drapion
 Fuschia City|magikarp,poliwag,goldeen,psyduck,seaking,gyarados,slowpoke
 --Safari Zone|b3|rival|Brendan
---Fuschia City Gym|5|gym-leader|Koga
+--Fuschia City Gym|6|gym-leader|Koga
 Safari Zone|kecleon,spinda,absol,meltan,porygon,scyther,chansey,heracross,hawlucha,castform,bouffalant,wobbuffet,zorua,pinsir,kangaskhan,tauros,klefki,sawk,bisharp,skarmory,binacle,axew,throh,druddigon,vespiquen,hippowdon,yanma,crabominable,smeargle,magikarp,krabby,qwilfish,mareanie,mantyke,alomomola,basculin,sharpedo,feebas,frillish,golduck,jellicent,arrokuda,corsola,seadra,remoraid,gorebyss,huntail,starmie,dhelmise,wimpod,lanturn,araquanid,seismitoad,poliwag,pyukumuku,wailmer,kingler,bruxish,skrelp,dewpider,toxapex,golisopod,horsea,crawdaunt,seaking,relicanth,lumineon,floatzel,milotic
 Route 15|amoonguss,ambipom,tsareena,galvantula,panpour,oricorio-baile,sigilyph,ferrothorn,ditto,simipour
 Route 14|pelipper,swadloon,torkoal,whirlipede,charjabug,durant,golisopod,palossand

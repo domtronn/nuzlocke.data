@@ -1,6 +1,7 @@
 --item
 toxtricitite|mawilite|Allows Toxtricity to Mega Evolve into Mega Toxtricity
 duraludite|aggronite|Allows Duraludon to Mega Evolve into Mega Duraludon
+heavy-duty-boots|heavy-duty-boots|When switching in, the holder is unaffected by hazards on its side of the field.
 
 --move
 # Modifications
@@ -20,6 +21,12 @@ ice-hammer|||No effect
 # New moves
 soul-robbery|psychic|100|The target's stat increases are stolen from it and applied to the user before dealing damage.|special
 dark-hole|dark|100|This move has a 40% chance to inflict sleep on the target, it also bypasses substitute.|special
+
+hidden-power-grass|grass|60||special|Hidden Power
+hidden-power-fire|fire|60||special|Hidden Power
+hidden-power-fighting|fighting|60||special|Hidden Power
+hidden-power-dark|dark|60||special|Hidden Power
+hidden-power-ice|ice|60||special|Hidden Power
 
 --ability
 
