@@ -59,25 +59,25 @@ flareon|40|flamethrower,fire-spin,leer,smog|||fire
 
 # Evil team
 
---jj1|Jessie & James
+--jj1|Jessie & James||/leaders/frlg-@Kimba@https://www.deviantart.com/kimba616
 ekans|14|wrap,leer,poison-sting
 meowth|14|scratch,growl,bite
 koffing|14|tackle,smog
 
 
---jj2|Jessie & James
+--jj2|Jessie &james||/leaders/frlg-@Kimba@https://www.deviantart.com/kimba616
 ekans|25|bite,leer,glare,poison-sting
 meowth|25|growl,bite,screech,pay-day
 koffing|25|tackle,smog
 
 
---jj3|Jessie & James
+--jj3|Jessie &james||/leaders/frlg-@Kimba@https://www.deviantart.com/kimba616
 arbok|27|bite,leer,glare,poison-sting
 meowth|27|growl,bite,screech,pay-day
 weezing|27|tackle,smog,sludge
 
 
---jj4|Jessie & James
+--jj4|Jessie &james||/leaders/frlg-@Kimba@https://www.deviantart.com/kimba616
 arbok|31|bite,leer,glare,poison-sting
 meowth|31|growl,bite,screech,pay-day
 weezing|31|tackle,smog,sludge
@@ -107,12 +107,12 @@ starmie|21|tackle,harden,water-gun,bubble-beam
 --3|Lt. Surge|electric|/leaders/frlg-surge
 raichu|28|thunderbolt,mega-punch,mega-kick,growl
 
---4|Erica|grass|
+--4|Erica|grass|/leaders/frlg-erika
 tangela|30|bind,constrict,mega-drain,vine-whip
 weepinbell|32|acid,stun-spore,sleep-powder,razor-leaf
 gloom|32|acid,petal-dance,stun-spore,sleep-powder
 
---5|Koga|poison|
+--5|Koga|poison|/leaders/frlg-koga
 venonat|44|toxic,psychic,tackle,sleep-powder
 venonat|46|toxic,psychic,psybeam,supersonic
 venonat|48|toxic,psychic,sleep-powder,double-edge

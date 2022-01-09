@@ -18,7 +18,7 @@ Kala'e Bay|rattataalola,tentacool,slowpoke,slowbro,shellder,horsea,magikarp,gyar
 --Route 3|r3|rival|Hau
 --Iki Town|2|gym-leader|Island Kahuna Hala
 Ten Carat Hill|zubat,psyduck,machop,onix,sableye,mawile,spinda,roggenrola,carbink,rockruff
---Heahea City|dsb|rival|Dexio#Dexio x Sina
+--Heahea City|dsb|rival|Dexio
 Route 4|beedrill,rattataalola,jigglypuff,eevee,igglybuff,espeon,umbreon,happiny,lillipup,pikipek,yungoos,grubbin,crabrawler,mudbray
 Paniola Town|magikarp,gyarados,barboach,whiscash
 --Paniola Town|r4|rival|Hau
@@ -91,7 +91,7 @@ Vast Poni Canyon|golbat,dugtrioalola,golduck,machoke,magikarp,gyarados,skarmory,
 Megalopolis|poipole
 --Seafolk Village|12_1|gym-leader|Captain Mina
 --Hau'oli Cemetry|12_2|gym-leader|Captain Ilima
---Lush Jungle|12_3b|gym-leader|Captain Mallow#Lana 
+--Lush Jungle|12_3b|gym-leader|Captain Mallow
 --Wela Volcano Park|12_4|gym-leader|Captain Kiawe 
 --Hokulani Observatory|12_5|gym-leader|Captain Sophocles 
 --Aether House|12_6|gym-leader|Island Kahuna Nanu 

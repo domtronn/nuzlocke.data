@@ -50,7 +50,7 @@ Route 8|barboach,whiscash,croagunk,palpitoad,seismitoad,shelmet,stunfisk
 Moor of Icirrus|barboach,whiscash,palpitoad,seismitoad,shelmet,stunfisk
 --Moor of Icirrus|b5|rival|Bianca
 Route 9|poochyena,liepard,audino,garbodor,minccino,cinccino,duosion,reuniclus,emolga,pawniard
---Opelucid Gym|8b|gym-leader|Iris#White iris
+--Opelucid Gym|8b|gym-leader|Iris
 Route 10|tyrogue,herdier,stoutland,audino,throh,sawk,emolga,foongus,amoonguss,bouffalant,rufflet
 --Route 10|c6|rival|Cheren
 Victory Road|poliwag,poliwhirl,poliwrath,boldore,woobat,excadrill,basculin,fraxure,mienfoo,rufflet,heatmor,durant,deino,terrakion

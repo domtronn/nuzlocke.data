@@ -19,7 +19,7 @@ Seaward Cave|zubat,diglettalola,psyduck,magikarp,gyarados,totodile,barboach,whis
 -Hau'oli City|rattataalola,pikachu,meowthalola,abra,magnemite,grimeralola,pichu,wingull,happiny,klink,yungoos
 Kala'e Bay|rattataalola,tentacool,slowpoke,slowbro,shellder,horsea,magikarp,gyarados,wingull,bagon,shelgon,finneon,yungoos,wishiwashi
 Ten Carat Hill|zubat,diglettalola,machop,sableye,spinda,roggenrola,deino,carbink,rockruff,necrozma
---Heahea City|dsa|rival|Dexio#Dexio x Sina
+--Heahea City|dsa|rival|Dexio
 Route 4|rattataalola,jigglypuff,eevee,igglybuff,espeon,umbreon,happiny,lillipup,venipede,pikipek,yungoos,grubbin,crabrawler,mudbray
 Paniola Town|magikarp,gyarados,barboach,whiscash
 --Paniola Ranch|r4|rival|Hau
@@ -67,7 +67,7 @@ Thrify Megamart|golbat,haunter,gengar,klefki,mimikyu
 --Route 15|p2|evil-team|Plumeria
 Route 16|raticatealola,slowpoke,pelipper,duosion,zygarde,gumshoos,crabrawler
 Ula'ula Meadow|ledian,ariados,roselia,cottonee,oricorio,ribombee
-Lake of the Moone|cosmog#Sun
+Lake of the Moone|cosmog
 Route 17|raticatealola,fearow,graveleralola,ledian,ariados,skarmory,castform,pancham,pangoro,goomy,gumshoos,crabrawler,kartana
 --Shady house|gz2|evil-team|Guzma
 --Aether house|g3|evil-team|Gladion

@@ -33,8 +33,8 @@ Desert Underpass|ditto,whismur,loudred
 Meteor Falls|golbat,goldeen,magikarp,lunatone,barboach,whiscash,bagon
 Route 115|jigglypuff,tentacool,magikarp,taillow,swellow,wingull,pelipper,wailmer,swablu
 Jagged Pass|machop,numel,spoink
---Mt. Chimney|saph1|evil-team|Matt #saph1 MAtt
---Mt. Chimney|arc1|evil-team|Archie#arc2 Archie
+--Mt. Chimney|saph1|evil-team|Matt
+--Mt. Chimney|arc1|evil-team|Archie
 Lavaridge Town|wynaut
 --Lavaridge Gym|4|gym-leader|Flannery
 Fiery Path|machop,grimer,koffing,slugma,numel,torkoal
@@ -43,7 +43,7 @@ Mirage Tower|sandshrew,trapinch
 --Petalburg Gym|5|gym-leader|Norman
 Route 118|tentacool,goldeen,magikarp,zigzagoon,linoone,wingull,pelipper,electrike,manectric,carvanha,sharpedo,kecleon
 Route 119|castform
---Weather Institute|saph2|evil-team|Shelly#saph2 Shelly
+--Weather Institute|saph2|evil-team|Shelly
 --Weather Institute|r3|rival|May
 Fortree City|skitty,plusle
 --Fortree City Gym|6|gym-leader|Winona

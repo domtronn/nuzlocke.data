@@ -16,10 +16,10 @@ Jubilife City|bulbasaur,charmander,squirtle,pichu,cleffa,igglybuff,togepi,tyrogu
 Ravaged Path|zubat,geodude,wooper,psyduck,sandshrew,makuhita,quagsire,magikarp,barboach,gyarados,whiscash
 Floaroma Town|chikorita,cyndaquil,totodile
 Floaroma Meadow|cherubi,shroomish,exeggcute,seedot,tangela
-Route 205|bidoof,slowpoke,marill,croagunk,exeggcute,volbeat,illumise,yanma,azumarill,magikarp,corphish,gyarados,crawdaunt,starly,pidgey,hoothoot,taillow,farfetchd 
+Route 205|bidoof,slowpoke,marill,croagunk,exeggcute,volbeat,illumise,yanma,azumarill,magikarp,corphish,gyarados,crawdaunt,starly,pidgey,hoothoot,taillow,farfetchd
 Valley Windworks|magnemite,elekid,electrike,voltorb,drifloon,pachirisu,plusle,minun,shellos,tentacool,gastrodon,tentacruel,magikarp,shellder,chinchou,gyarados,cloyster,lanturn,aipom,slakoth,caterpie,weedle,munchlax
 --Valley Windoworks|mars1|evil-team|Mars
-Eterna Forest|buneary,shroomish,paras,slakoth,nincada,taillow,murkrow,misdreavus,beautifly,dustox,beedrill 
+Eterna Forest|buneary,shroomish,paras,slakoth,nincada,taillow,murkrow,misdreavus,beautifly,dustox,beedrill
 --Eterna Forest|cheryl||Cheryl
 The Old Chateau|rotom,gastly,haunter,gengar,rattata,raticate,duskull,shuppet
 Eterna City|omanyte,kabuto,aerodactyl,lileep,anorith,cranidos,shieldon,psyduck,golduck,magikarp,poliwag,dratini,gyarados,poliwhirl,dragonair
@@ -30,14 +30,14 @@ Eterna Building|porygon
 --Route 207|d1|rival|Dawn
 Route 206|stunky,slugma,mankey,magby,spoink,numel,gligar,torkoal,combee,burmy,pineco,silcoon,cascoon,heracross
 Wayward Cave|gabite,zubat,geodude,gible,baltoy,sandshrew,onix,sableye,mawile
---Wayward Cave|mira|rival|Mira
+--Wayward Cave|mira||Mira
 Mt. Coronet|geodude,bronzor,cleffa,nosepass,chingling,zubat,beldum,solrock,lunatone,clefairy,chimecho,metang,spheal,seel,sealeo,feebas,golbat,magikarp,barboach,gyarados,whiscash,graveler,bronzong,abomasnow,medicham,loudred,absol,donphan,ursaring,clefable,horsea,dratini,seadra,dragonair
 Route 208|bibarel,roselia,skitty,jigglypuff,kirlia,zangoose,seviper,smeargle,dunsparce,psyduck,golduck,magikarp,goldeen,remoraid,gyarados,seaking,octillery,cherubi,shroomish,exeggcute,seedot,tangela
---Route 208|aaron|rival|Aaron
+--Route 208|aaron||Aaron
 --Hearthome Gym|3|gym-leader|Fantina
 --Hearthome City|b3|rival|Barry
 --Route 212|sat1|evil-team|Saturn & Gentleman Backlot
-Route 209|spiritomb,staravia,glameow,vulpix,bonsly,mime jr.,snubbull,meowth,chansey,purugly,psyduck,golduck,magikarp,goldeen,gyarados,seaking,pidgeotto,noctowl,swellow,farfetchd
+Route 209|spiritomb,staravia,glameow,vulpix,bonsly,mime-jr,snubbull,meowth,chansey,purugly,psyduck,golduck,magikarp,goldeen,gyarados,seaking,pidgeotto,noctowl,swellow,farfetchd
 The Lost Tower
 Solaceon Ruins|unown
 Route 210|kricketune,nuzleaf,scyther,pinsir,miltank,tauros,pidgeotto,rapidash,noctowl,kecleon,combee,pineco,silcoon,cascoon,wormadam,mothim,heracross,swablu,fearow,machoke,drifblim,zangoose,seviper,skarmory,shelgon,altaria,psyduck,golduck,magikarp,horsea,dratini,gyarados,seadra,dragonair,staravia,swellow,farfetchd
@@ -62,14 +62,14 @@ Fuego Ironworks|magnemite,magmar,magneton,manectric,forretress,weezing,shellos,t
 Route 219|wingull,tentacool,pelipper,tentacruel,krabby,horsea,clamperl,kingler,huntail,gorebyss
 Route 220|wingull,mantyke,pelipper,mantine,luvdisc,horsea,corsola,seadra
 Route 221|sudowoodo,skuntank,nidorina,nidorino,farfetchd,girafarig,dodrio,wingull,tentacool,pelipper,tentacruel,krabby,horsea,clamperl,kingler,huntail,gorebyss,cherrim,shroomish,exeggcute,nuzleaf,tangela
---Pal Park|darach|rival|Castle Valet Darach
-Route 218|floatzel,gastrodon,purugly,mr. mime,electrode,ditto,electabuzz,chatot,tentacool,shellos,tentacruel,magikarp,finneon,staryu,gyarados,lumineon,starmie,combee,forretress,wormadam,mothim,beautifly,dustox,heracross,vespiquen
+--Pal Park|darach||Castle Valet Darach
+Route 218|floatzel,gastrodon,purugly,mr-mime,electrode,ditto,electabuzz,chatot,tentacool,shellos,tentacruel,magikarp,finneon,staryu,gyarados,lumineon,starmie,combee,forretress,wormadam,mothim,beautifly,dustox,heracross,vespiquen
 Canalave City|tentacool,shellos,tentacruel,gastrodon,magikarp,finneon,staryu,gyarados,lumineon,starmie
 --Canalave City|b5|rival|Barry
 Iron Island|wingull,tentacool,pelipper,tentacruel,magikarp,finneon,qwilfish,gyarados,lumineon,graveler,golbat,lairon,mawile,sableye,nosepass,rhydon,steelix
---Iron Island|riley|rival|Riley
+--Iron Island|riley||Riley
 --Canalave Gym|6|gym-leader|Byron
-Route 211|meditite,machop,swablu,teddiursa,natu,bagon,tyrogue,aipom,slakoth,metapod,kakuna,munchlax,chingling,tyrogue 
+Route 211|meditite,machop,swablu,teddiursa,natu,bagon,tyrogue,aipom,slakoth,metapod,kakuna,munchlax,chingling,tyrogue
 --Valor Cavern|sat2|evil-team|Saturn
 --Lake Verity|mars2|evil-team|Mars
 Route 216|snover,swinub,smoochum,snorunt,sneasel,delibird
@@ -83,9 +83,9 @@ Snowpoint Temple|golbat,graveler,sneasel,steelix,jynx,glalie,froslass,weavile
 --Spear Pillar|mnj|evil-team|Mars & Jupiter
 --Distortion World|cyr3|evil-team|Cyrus
 --Distortion World|cyr4|evil-team|Cyrus
-Route 222|electabuzz,floatzel,luxio,purugly,pelipper,flaaffy,mr. mime,chatot,delcatty,tentacool,wingull,tentacruel,magikarp,remoraid,wailmer,gyarados,octillery,wailord,tangela,heracross,farfetchd,snorlax
+Route 222|electabuzz,floatzel,luxio,purugly,pelipper,flaaffy,mr-mime,chatot,delcatty,tentacool,wingull,tentacruel,magikarp,remoraid,wailmer,gyarados,octillery,wailord,tangela,heracross,farfetchd,snorlax
 Sunyshore City|tentacruel,pelipper,mantine,magikarp,krabby,staryu,gyarados,kingler,starmie
---Sunyshore City|dahlia|rival|Arcade Star Dahlia
+--Sunyshore City|dahlia||Arcade Star Dahlia
 --Sunyshore Gym|8|gym-leader|Volkner
 Route 223|tentacruel,pelipper,mantine,magikarp,remoraid,wailmer,gyarados,octillery,wailord
 Pokémon League|tentacruel,pelipper,mantine,magikarp,luvdisc,corsola,gyarados
