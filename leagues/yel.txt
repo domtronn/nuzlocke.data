@@ -59,25 +59,25 @@ flareon|40|flamethrower,fire-spin,leer,smog|||fire
 
 # Evil team
 
---jj1|Jessie & James||/leaders/frlg-@Kimba@https://www.deviantart.com/kimba616
+--jj1|Jessie & James||/leaders/frlg-jessiejames@Kimba@https://www.deviantart.com/kimba616
 ekans|14|wrap,leer,poison-sting
 meowth|14|scratch,growl,bite
 koffing|14|tackle,smog
 
 
---jj2|Jessie &james||/leaders/frlg-@Kimba@https://www.deviantart.com/kimba616
+--jj2|Jessie &james||/leaders/frlg-jessiejames@Kimba@https://www.deviantart.com/kimba616
 ekans|25|bite,leer,glare,poison-sting
 meowth|25|growl,bite,screech,pay-day
 koffing|25|tackle,smog
 
 
---jj3|Jessie &james||/leaders/frlg-@Kimba@https://www.deviantart.com/kimba616
+--jj3|Jessie &james||/leaders/frlg-jessiejames@Kimba@https://www.deviantart.com/kimba616
 arbok|27|bite,leer,glare,poison-sting
 meowth|27|growl,bite,screech,pay-day
 weezing|27|tackle,smog,sludge
 
 
---jj4|Jessie &james||/leaders/frlg-@Kimba@https://www.deviantart.com/kimba616
+--jj4|Jessie &james||/leaders/frlg-jessiejames@Kimba@https://www.deviantart.com/kimba616
 arbok|31|bite,leer,glare,poison-sting
 meowth|31|growl,bite,screech,pay-day
 weezing|31|tackle,smog,sludge

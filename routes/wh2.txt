@@ -31,7 +31,7 @@ Driftveil City|zorua
 --Driftveil Tournament Round 3|col2|rival|Colress
 Route 6|poliwag,poliwhirl,marill,azumarill,politoed,dunsparce,castform,tranquill,unfezant,audino,swadloon,leavanny,basculin,deerling,emolga,karrablast,foongus,shelmet
 Mistralton Cave|aron,boldore,woobat,drilbur,axew
---Mistralton City Gym|6c|gym-leader|Skyla
+--Mistralton City Gym|6n|gym-leader|Skyla
 Chargestone Cave|nosepass,boldore,drilbur,joltik,ferroseed,klink,tynamo
 Route 7|zangoose,seviper,watchog,tranquill,unfezant,zebstrika,gigalith,audino,deerling,emolga,foongus,cubchoo
 Celestial Tower|golbat,mesprit,elgyem,litwick
