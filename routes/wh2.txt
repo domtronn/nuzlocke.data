@@ -65,7 +65,7 @@ Victory Road|poliwag,poliwhirl,poliwrath,onix,marill,azumarill,politoed,dunsparc
 --Pokémon League W Room|e1n|elite-four|Shauntal
 --Pokémon League NW Room|e2n|elite-four|Grimsley
 --Pokémon League NE Room|e3n|elite-four|Caitlin
---Pokémon League E Room|e4n|elite-four|Caitlin
+--Pokémon League E Room|e4n|elite-four|Marshal
 --Pokémon League Champion|cn|elite-four|Iris
 Marvelous Bridge|cresselia,swanna
 Route 15|sandslash,gligar,pupitar,tyranitar,gliscor,rotom,audino,throh,sawk,scrafty,emolga
