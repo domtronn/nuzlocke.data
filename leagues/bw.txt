@@ -75,16 +75,6 @@ pignite|20|defense-curl,flame-charge,arm-thrust,smog|blaze||water
 munna|18|yawn,moonlight,psybeam,imprison|forewarn
 
 --b4|Bianca||/leaders/blwh-bianca
-stoutland|38|crunch,roar,retaliate,work-up|intimidate
-simisear|38|leer,fury-swipes,lick,flame-burst|gluttony||grass
-simipour|38|leer,fury-swipes,lick,scald|gluttony||fire
-simisage|38|leer,fury-swipes,lick,seed-bomb|gluttony||water
-samurott|40|aqua-jet,revenge,slash,encore|torrent||grass
-serperior|40|slam,coil,mega-drain,leaf-blade|overgrow||fire
-emboar|40|heat-crash,assurance,rollout,take-down|blaze||water
-musharna|38|defense-curl,lucky-chant,psybeam,hypnosis|forewarn
-
---b5|Bianca||/leaders/blwh-bianca
 herdier|26|crunch,odor-sleuth,take-down,work-up|intimidate
 pansear|26|amnesia,flame-burst,bite,yawn|gluttony||grass
 panpour|26|bite,taunt,scald,water-sport|gluttony||fire
@@ -93,6 +83,16 @@ dewott|28|water-pulse,razor-shell,revenge,fury-cutter|torrent||grass
 servine|28|slam,mega-drain,leaf-tornado,leech-seed|overgrow||fire
 pignite|28|arm-thrust,smog,rollout,take-down|blaze||water
 munna|26|defense-curl,lucky-chant,psybeam,hypnosis|forewarn
+
+--b5|Bianca||/leaders/blwh-bianca
+stoutland|38|crunch,roar,retaliate,work-up|intimidate
+simisear|38|leer,fury-swipes,lick,flame-burst|gluttony||grass
+simipour|38|leer,fury-swipes,lick,scald|gluttony||fire
+simisage|38|leer,fury-swipes,lick,seed-bomb|gluttony||water
+samurott|40|aqua-jet,revenge,slash,encore|torrent||grass
+serperior|40|slam,coil,mega-drain,leaf-blade|overgrow||fire
+emboar|40|heat-crash,assurance,rollout,take-down|blaze||water
+musharna|38|defense-curl,lucky-chant,psybeam,hypnosis|forewarn
 
 --c1|Cheren||/leaders/blwh-cheren
 oshawott|5|tackle,tail-whip|torrent||fire
