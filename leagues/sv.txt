@@ -93,34 +93,34 @@ cetitan|47|ice-spinner,liquidation,ice-shard|thick-fat
 altaria|48|ice-beam,dragon-pulse,moonblast,hurricane|natural-cure
 
 # Evil team
---giacomo|Giacomo|dark
+--giacomo|Giacomo|dark|/leaders/sv-giacomo
 pawniard|21|metal-claw,fury-cutter,aerial-ace,snarl|defiant
 revavroom|20|wicked-torque,swift,spin-out|intimidate
 
---mela|Mela|fire
+--mela|Mela|fire|/leaders/sv-mela
 torkoal|27|flame-wheel,clear-smog|drought
 revavroom|26|blazing-torque,spin-out,overheat,screech|speed-boost
 
---atticus|Atticus|poison
+--atticus|Atticus|poison|/leaders/sv-atticus
 skuntank|32|sucker-punch,toxic,venoshock|stench
 muk|32|sludge-wave,mud-slap|stench
 revavroom|33|iron-head,sludge,assurance,bulldoze|overcoat
 revavroom|32|noxious-torque,spin-out,smog,flame-charge|toxic-debris
 
---ortega|Ortega|fairy
+--ortega|Ortega|fairy|/leaders/sv-ortega
 azumarill|50|aqua-tail,play-rough,bounce,charm|huge-power
 wigglytuff|50|body-slam,play-rough,gyro-ball,charm|cute-charm
 dachsbun|51|crunch,play-rough,baby-doll-eyes,mud-slap|well-baked-body
 revavroom|50|magical-torque,spin-out,steel-roller,confuse-ray|misty-surge
 
---eri|Eri|fighting
+--eri|Eri|fighting|/leaders/sv-eri
 toxicroak|55|poison-jab,brick-break,sucker-punch|anticipation
 passimian|55|close-combat,rock-tomb,seed-bomb|receiver
 lucario|55|dragon-pulse,aura-sphere,dark-pulse|steadfast
 annihilape|56|rage-fist,close-combat,ice-punch,fire-punch|vital-spirit
 revavroom|56|combat-torque,spin-out,high-horsepower,shift-gear|stamina
 
---clive|Clive||
+--clive|Clive||/leaders/sv-clavell@Kyledove@https://www.deviantart.com/kyle-dove
 oranguru|60|yawn,dream-eater,reflect,foul-play|inner-focus
 abomasnow|60|aurora-veil,blizzard,wood-hammer,ice-shard|snow-warning
 polteageist|60|shell-smash,shadow-ball,sucker-punch,will-o-wisp|weak-armor
