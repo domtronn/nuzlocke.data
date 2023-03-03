@@ -186,7 +186,7 @@ absol|52|aerial-ace,night-slash,psycho-cut,slash|super-luck
 
 --e2|Phoebe|ghost|/leaders/rs-phoebe-oras@Brumirage@https://www.instagram.com/brumirage
 dusclops|51|shadow-punch,confuse-ray,curse,future-sight|pressure|
-banette|41|shadow-ball,spite,will-o-wisp,feint-attack|insomnia
+banette|51|shadow-ball,spite,will-o-wisp,feint-attack|insomnia
 sableye|51|shadow-claw,foul-play,power-gem,fake-out|keen-eye
 banette|51|shadow-ball,grudge,toxic,psychic|insomnia
 dusknoir|53|hex,fire-punch,ice-punch,thunder-punch|pressure

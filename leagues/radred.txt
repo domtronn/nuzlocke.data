@@ -277,7 +277,7 @@ ninetales-alola|84|blizzard,aurora-veil,freeze-dry,hail|snow-warning|light-clay
 glaceon|84|blizzard,earth-power,freeze-dry,hidden-power-fire|slush-rush|choice-specs
 rotom|85|volt-switch,hydro-pump,hail,thunder-wave|levitate|wiki-berry
 azumarill|85|aqua-jet,liquidation,play-rough,knock-off|huge-power|assault-vest
-calyrex-ice-rider|85|glacial-lance,high-horsepower,zen-headbutt,seed-bomb|as-one-glastrier|choice-band
+calyrex-ice|85|glacial-lance,high-horsepower,zen-headbutt,seed-bomb|as-one-glastrier|choice-band
 abomasnow|85|blizzard,focus-blast,hidden-power-fire,energy-ball|snow-warning|abomasite
 
 --e1b|Lorelei (Team B)|ice|/leaders/frlg-lorelei
@@ -342,4 +342,4 @@ metagross|85|bullet-punch,zen-headbutt,fire-punch,meteor-mash|clear-body|metagro
 groudon|85|fire-punch,precipice-blades,thunder-wave,stone-edge|drought|red-orb
 yveltal|85|oblivion-wing,dark-hole,heat-wave,sucker-punch|dark-aura|assault-vest
 eternatus|85|meteor-beam,sludge-bomb,flamethrower,dynamax-cannon|pressure|power-herb
-darmanitan-standard-galar|85|u-turn,icicle-crash,flare-blitz,earthquake|gorilla-tactics|choice-scarf
+darmanitan-galar-standard|85|u-turn,icicle-crash,flare-blitz,earthquake|gorilla-tactics|choice-scarf
