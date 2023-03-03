@@ -25,22 +25,22 @@ quaquaval|43|air-slash,aqua-step,aqua-jet|torrent||grass
 skeledirge|43|snarl,torch-song,lick|blaze||water
 
 # Titans
---t1|Klawf||https://img.nuzlocke.app/sprite/950
+--t1|Klawf||/sprite/950
 klawf|16|vice-grip,rock-smash,block,rock-tomb|anger-shell
 
---t2|Bombirdier||https://img.nuzlocke.app/sprite/962
+--t2|Bombirdier||/sprite/962
 bombirdier|20|rock-throw,wing-attack,pluck,torment|rocky-payload
 
---t3|Orthworm||https://img.nuzlocke.app/sprite/968
+--t3|Orthworm||/sprite/968
 orthworm|29|iron-tail,headbutt,wrap,sandstorm|earth-eater
 
---t4s|Great Tusk||https://img.nuzlocke.app/sprite/984
+--t4s|Great Tusk||/sprite/984
 great-tusk|45|rapid-spin,brick-break,knock-off,stomping-tantrum|protosynthesis
 
---t4v|Iron Treads||https://img.nuzlocke.app/sprite/985
+--t4v|Iron Treads||/sprite/990
 iron-treads|45|rapid-spin,iron-head,knock-off,stomping-tantrum|quark-drive
 
---t5|Tatsugiri||https://img.nuzlocke.app/sprite/978
+--t5|Tatsugiri||/sprite/978
 tatsugiri|57|muddy-water,icy-wind,taunt,dragon-pulse|commander
 
 # Gym leaders
