@@ -14,7 +14,7 @@ Mt. Moon|clefairy,zubat,paras,geodude
 Cerulean City|jynx
 --Cerulean City Gym|2|gym-leader|Misty
 Route 24|caterpie,metapod,pidgey,psyduck,poliwag,abra,bellsprout,krabby,goldeen,magikarp
---Rival|r2|rival|Blue
+--Rival (optional)|r3|rival|Blue
 Route 25|caterpie,metapod,weedle,kakuna,pidgey,psyduck,poliwag,abra,bellsprout,krabby,goldeen,magikarp
 Route 5|pidgey,nidoranf,meowth,bellsprout
 Route 6|pidgey,meowth,poliwag,bellsprout,shellder,krabby,goldeen,magikarp

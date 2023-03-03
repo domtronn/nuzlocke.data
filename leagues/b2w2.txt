@@ -99,10 +99,10 @@ tranquill|25|air-cutter,roost,taunt,detect|super-luck
 --r4|Hugh||/leaders/blwh-hugh
 unfezant|39|taunt,air-slash,razor-wind,detect|super-luck|scope-lens
 simipour|39|scald,leer,lick,fury-swipes|gluttony|mystic-water|grass
-emboar|41|take-down,assurance,heat-crash,rollout|blaze|charcoal|grass
 simisage|39|seed-bomb,leer,lick,fury-swipes|gluttony|miracle-seed|fire
-dewott|41|aqua-jet,encore,revenge,slash|torrent|mystic-water|fire
 simisear|39|flame-burst,leer,lick,fury-swipes|gluttony|charcoal|water
+emboar|41|take-down,assurance,heat-crash,rollout|blaze|charcoal|grass
+dewott|41|aqua-jet,encore,revenge,slash|torrent|mystic-water|fire
 servine|41|coil,leaf-blade,mega-drain,slam|overgrow|miracle-seed|water
 
 --r5|Hugh||/leaders/blwh-hugh
@@ -150,7 +150,7 @@ lillipup|13|tackle,work-up,bite|vital-spirit
 
 --1c|Cheren|normal|/leaders/blwh-cheren-boss
 patrat|12|tackle,work-up,bite,detect|keen-eye|
-pidove|12|quick-attack,work-up,leer,growl|super-luck|
+pidove|12|quick-attack,work-up,leer,tackle|super-luck|
 lillipup|14|tackle,work-up,bite,helping-hand|vital-spirit|oran-berry
 
 
@@ -174,12 +174,12 @@ shelmet|24|acid,curse,mega-drain,struggle-bug|shell-armor|
 karrablast|24|endure,headbutt,aerial-ace,struggle-bug|shed-skin|
 leavanny|26|grass-whistle,razor-leaf,aerial-ace,struggle-bug|swarm|sitrus-berry
 
---4n|Elesa|electric|/leaders/blwh-elesa
+--4n|Elesa|electric|/leaders/blwh-elesa-2
 emolga|28|quick-attack,pursuit,volt-switch|static
 flaaffy|28|thunder-wave,volt-switch,take-down|static
 zebstrika|30|volt-switch,pursuit,flame-charge,quick-attack|motor-drive|sitrus-berry
 
---4c|Elesa|electric|/leaders/blwh-elesa
+--4c|Elesa|electric|/leaders/blwh-elesa-2
 emolga|30|quick-attack,pursuit,aerial-ace,volt-switch|static|sitrus-berry
 flaaffy|30|thunder-wave,volt-switch,confuse-ray,take-down|static
 joltik|30|thunder-wave,volt-switch,energy-ball,x-scissor|unnerve
@@ -213,7 +213,7 @@ flygon|46|rock-slide,dragon-tail,crunch,earth-power|levitate
 haxorus|48|dragon-dance,dragon-tail,slash,assurance|mold-breaker|sitrus-berry
 
 --7c|Drayden|dragon|/leaders/blwh-drayden
-druddigon|50|revenge,crunch,slash,rock-slide|sheer-force|sitrus-berry
+druddigon|50|revenge,crunch,dragon-tail,rock-slide|sheer-force|sitrus-berry
 flygon|50|rock-slide,dragon-tail,crunch,earth-power|levitate
 altaria|50|cotton-guard,fire-blast,sing,dragon-pulse|natural-cure
 haxorus|52|dragon-dance,dragon-tail,x-scissor,shadow-claw|mold-breaker|sitrus-berry
@@ -225,8 +225,8 @@ jellicent|51|brine,scald,recover,ominous-wind|cursed-body|sitrus-berry
 
 --8c|Marlon|water|/leaders/blwh-marlon
 wailord|53|scald,rain-dance,ice-beam,earthquake|water-veil
-mantine|53|air-slash,confuse-ray,ice-beam,scald|swift-swim
 carracosta|53|rock-slide,shell-smash,scald,crunch|sturdy|sitrus-berry
+mantine|53|air-slash,confuse-ray,ice-beam,scald|swift-swim
 jellicent|55|energy-ball,recover,scald,shadow-ball|cursed-body|sitrus-berry
 
 # Elite four

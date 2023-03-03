@@ -46,7 +46,7 @@ houndoom|57|dark-pulse,flamethrower,sludge-bomb,nasty-plot|intimidate|life-orb
 magnezone|57|thunderbolt,flash-cannon,signal-beam,mirror-coat|magnet-pull|wise-glasses
 weavile|58|crunch,icicle-crash,aerial-ace,x-scissor|technician|expert-belt
 
---sat2|Saturn||/leaders/dp-saturn#Galactic HQ
+--sat3|Saturn||/leaders/dp-saturn#Galactic HQ
 bronzong|56|zen-headbutt,gyro-ball,reflect,light-screen|levitate|light-clay
 octillery|56|hydro-pump,blizzard,fire-blast,energy-ball|suction-cups|expert-belt
 alakazam|56|psychic,shadow-ball,dazzling-gleam,focus-blast|magic-guard|life-orb

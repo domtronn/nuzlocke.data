@@ -22,6 +22,7 @@ Dewford Manor|gastly,solosis,litwick,rattata,hoothoot,mime-jr
 Route 106|inkay,chatot,buizel,crabrawler,exeggcute,binacle,wimpod,dwebble,clauncher,clawitzer,skrelp,dragalge,tentacool,wingull,pelipper
 Granite Cave|geodude,zubat,makuhita,aron,abra,axew,timburr,mawile,sableye,onix,carbink,cubone,bronzor,nosepass,dwebble,beldum
 Route 107|frillish,mantyke,wingull,remoraid,octillery,finneon,lumineon,gyarados
+Route 109|sandygast,frillish,mantyke,pyukumuku,corsola,mareanie,toxapex,bruxish
 Slateport City|tentacool,wingull,pelipper,horsea,frillish,jellicent,alomomola,seadra,kingdra
 --Slateport Museum|g2|evil-team|Grunts
 --Slateport Museum|aa1|evil-team|Archie
@@ -100,7 +101,6 @@ Sky Pillar|sableye,mawile,banette,dusclops,claydol,golurk,altaria
 Pacifidlog Town|tentacruel,pelipper,sharpedo,magikarp,skrelp,dragalge,wailmer,dhelmise
 Route 108|frillish,mantyke,wingull,remoraid,octillery,finneon,lumineon,gyarados
 Abandoned Ship|spiritomb,frillish,jellicent,skrelp,dragalge,dhelmise
-Route 109|sandygast,frillish,mantyke,pyukumuku,corsola,mareanie,toxapex,bruxish
 Route 132|jellicent,pelipper,wailord,magikarp,tentacool,horsea,seadra,kingdra
 Route 133|jellicent,pelipper,wailord,magikarp,tentacool,horsea,seadra,kingdra
 Route 134|jellicent,pelipper,wailord,magikarp,tentacool,horsea,seadra,kingdra

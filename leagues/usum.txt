@@ -281,9 +281,9 @@ noivern|48|boomburst,screech,dragon-pulse,air-slash|infiltrator||
 scizor|46|light-screen,pursuit,bullet-punch,x-scissor|technician||
 
 --12_1|Captain Mina|fairy|/leaders/sm-mina@Kyledove@https://www.deviantart.com/kyle-dove
-blissey|53|heal-pulse,light-screen,helping-hand,dazzling-gleam|serene-grace||
-pelipper|52|stockpile,scald,spit-up,seed-bomb|drizzle||
-ribombee|55|bug-buzz,draining-kiss,quiver-dance,dazzling-gleam|shield-dust|occa-berry|
+mawile|51|iron-head,play-rough,sucker-punch|intimidate
+granbull|51|stone-edge,play-rough,earthquake|intimidate
+ribombee|51|pollen-puff,dazzling-gleam,psychic|shield-dust|fairium-z--held
 
 --12_2|Captain Ilima|normal|/leaders/sm-ilima@Drawnamu@https://www.deviantart.com/drawnamu
 gumshoos|51|crunch,hyper-fang,super-fang|stakeout

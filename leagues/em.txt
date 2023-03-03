@@ -62,7 +62,7 @@ treecko|5|pound,leer|overgrow||water
 --r2|May||/leaders/rs-may# Rustboro city
 lotad|13|astonish,growl,absorb,nature-power|swift-swim||grass
 torchic|15|scratch,growl,focus-energy,ember|blaze||grass
-slugma|13|yawn,smog,ember|flame-body||fire
+torkoal|13|curse,smog,ember|flame-body||fire
 mudkip|15|growl,mud-slap,water-gun,bide|torrent||fire
 wingull|13|growl,water-gun,supersonic,wing-attack|keen-eye||water
 treecko|15|pound,leer,absorb,quick-attack|overgrow||water

@@ -37,6 +37,7 @@ Mistralton Cave|boldore,woobat,drilbur,axew,cobalion
 Chargestone Cave|boldore,drilbur,joltik,ferroseed,klink,tynamo
 --Chargestone Cave|n4|evil-team|N
 Route 7|sentret,watchog,tranquill,unfezant,zebstrika,audino,deerling,emolga,foongus,cubchoo
+--Route 7|c55|rival|Cheren
 --Mistralton Gym|6|gym-leader|Skyla
 Route 17|horsea,finneon,frillish,jellicent,alomomola
 Route 18|exeggcute,horsea,chinchou,finneon,watchog,audino,throh,sawk,dwebble,crustle,scraggy,frillish,jellicent,alomomola,larvesta

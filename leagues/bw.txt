@@ -75,16 +75,6 @@ pignite|20|defense-curl,flame-charge,arm-thrust,smog|blaze||water
 munna|18|yawn,moonlight,psybeam,imprison|forewarn
 
 --b4|Bianca||/leaders/blwh-bianca
-stoutland|38|crunch,roar,retaliate,work-up|intimidate
-simisear|38|leer,fury-swipes,lick,flame-burst|gluttony||grass
-simipour|38|leer,fury-swipes,lick,scald|gluttony||fire
-simisage|38|leer,fury-swipes,lick,seed-bomb|gluttony||water
-samurott|40|aqua-jet,revenge,slash,encore|torrent||grass
-serperior|40|slam,coil,mega-drain,leaf-blade|overgrow||fire
-emboar|40|heat-crash,assurance,rollout,take-down|blaze||water
-musharna|38|defense-curl,lucky-chant,psybeam,hypnosis|forewarn
-
---b5|Bianca||/leaders/blwh-bianca
 herdier|26|crunch,odor-sleuth,take-down,work-up|intimidate
 pansear|26|amnesia,flame-burst,bite,yawn|gluttony||grass
 panpour|26|bite,taunt,scald,water-sport|gluttony||fire
@@ -93,6 +83,16 @@ dewott|28|water-pulse,razor-shell,revenge,fury-cutter|torrent||grass
 servine|28|slam,mega-drain,leaf-tornado,leech-seed|overgrow||fire
 pignite|28|arm-thrust,smog,rollout,take-down|blaze||water
 munna|26|defense-curl,lucky-chant,psybeam,hypnosis|forewarn
+
+--b5|Bianca||/leaders/blwh-bianca
+stoutland|38|crunch,roar,retaliate,work-up|intimidate
+simisear|38|leer,fury-swipes,lick,flame-burst|gluttony||grass
+simipour|38|leer,fury-swipes,lick,scald|gluttony||fire
+simisage|38|leer,fury-swipes,lick,seed-bomb|gluttony||water
+samurott|40|aqua-jet,revenge,slash,encore|torrent||grass
+serperior|40|slam,coil,mega-drain,leaf-blade|overgrow||fire
+emboar|40|heat-crash,assurance,rollout,take-down|blaze||water
+musharna|38|defense-curl,lucky-chant,psybeam,hypnosis|forewarn
 
 --c1|Cheren||/leaders/blwh-cheren
 oshawott|5|tackle,tail-whip|torrent||fire
@@ -136,6 +136,17 @@ dewott|26|fury-cutter,focus-energy,razor-shell,water-pulse|torrent|sitrus-berry|
 servine|26|leaf-tornado,leech-seed,mega-drain,growth|overgrow|sitrus-berry|water
 pignite|26|flame-charge,rollout,arm-thrust,smog|blaze|sitrus-berry|grass
 tranquill|24|quick-attack,detect,air-cutter,roost|super-luck
+
+
+--c55|Cheren||/leaders/blwh-cheren
+unfezant|33|roost,detect,air-slash,taunt|super-luck|scope-lens
+liepard|33|torment,fake-out,hone-claws,assurance|unburden|sitrus-berry
+simisage|33|leer,lick,fury-swipes,seed-bomb|gluttony|miracle-seed|grass
+simisear|33|leer,lick,fury-swipes,flame-burst|gluttony|charcoal|fire
+simipour|33|leer,lick,fury-swipes,scald|gluttony|mystic-water|water
+dewott|35|fury-cutter,water-pulse,revenge,aqua-jet|torrent|leftovers|fire
+servine|35|leech-seed,mega-drain,slam,leaf-blade|overgrow|leftovers|water
+pignite|35|smog,rollout,take-down,heat-crash|blaze|leftovers|grass
 
 --c6|Cheren||/leaders/blwh-cheren
 unfezant|43|razor-wind,detect,air-slash,taunt|super-luck|scope-lens

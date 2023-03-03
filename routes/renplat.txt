@@ -79,7 +79,7 @@ Lake Acuity|sneasel,abomasnow,piloswine,jynx,glalie,wobbuffet,sealeo,dewgong,lap
 Snowpoint Temple|golbat,graveler,sneasel,steelix,jynx,glalie,froslass,weavile
 --Snowpoint Gym|7|gym-leader|Candice
 --Galactic HQ|cyr2|evil-team|Cyrus
---Galactic HQ|sat2|evil-team|Saturn
+--Galactic HQ|sat3|evil-team|Saturn
 --Spear Pillar|mnj|evil-team|Mars & Jupiter
 --Distortion World|cyr3|evil-team|Cyrus
 --Distortion World|cyr4|evil-team|Cyrus

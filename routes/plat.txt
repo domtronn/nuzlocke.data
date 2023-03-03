@@ -74,7 +74,7 @@ Route 222|magnemite,magneton,mr. mime,electabuzz,wingull,pelipper,luxio,floatzel
 Sunyshore City|tentacool,tentacruel,wingull,pelipper,mantyke,magikarp,remoraid,staryu,gyarados,octillery
 --Sunyshore Gym|8|gym-leader|Volkner
 Route 223|tentacruel,magikarp,gyarados,remoraid,octillery,pelipper,wailmer,wailord,mantyke
---Victory Road|b5|rival|Barry
+--Victory Road|b6|rival|Barry
 Victory Road|golbat,machoke,graveler,onix,rhyhorn,rhydon,steelix,medicham,gabite,kadabra,magneton,azumarill,floatzel,magikarp,gyarados
 Pokémon League
 --Pokémon League|b6|rival|Barry

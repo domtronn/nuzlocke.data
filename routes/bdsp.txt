@@ -35,6 +35,7 @@ Underground: Still-Water Cave
 Underground: Sunlit Cavern
 Underground: Big Bluff Cavern
 Underground: Stargleam Cavern
+Underground: Volcanic Cave
 Underground: Glacial Cavern
 Underground: Bogsunk Cavern
 Route 206|zubat,geodude,ponyta,kricketot,kricketune,stunky,bronzor,nosepass,baltoy
