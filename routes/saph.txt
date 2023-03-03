@@ -1,3 +1,5 @@
+# League rs.txt
+
 Starter|treecko,mudkip,torchic
 Littleroot Town|chikorita,cyndaquil,totodile
 Route 101|poochyena,zigzagoon,wurmple
@@ -86,6 +88,7 @@ Victory Road|golbat,goldeen,magikarp,sableye,lairon,medicham,barboach,whiscash
 --Pokémon League|e1|elite-four|Sidney
 --Pokémon League|e2|elite-four|Phoebe
 --Pokémon League|e3|elite-four|Glacia
+--Pokémon League|e4|elite-four|Drake
 --Pokémon League Champion|c|elite-four|Steven
 Sky Pillar|rayquaza
 Artisan Cave|smeargle

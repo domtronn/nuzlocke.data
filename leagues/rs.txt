@@ -167,6 +167,13 @@ sealeo|52|hail,blizzard,dive,attract|thick-fat||
 glalie|52|hail,ice-beam,shadow-ball,crunch|inner-focus||
 walrein|53|blizzard,surf,body-slam,sheer-cold|thick-fat|sitrus-berry|
 
+--e4|Drake|ice|/leaders/rs-drake
+shelgon|52|dragon-claw,rock-tomb,protect,crunch|rock-head||
+altaria|54|take-down,dragon-breath,dragon-dance,refresh|natural-cure||
+flygon|53|flamethrower,dragon-breath,crunch,sand-attack|levitate|
+flygon|53|fly,dragon-breath,dig,sandstorm|levitate|
+salamence|53|flamethrower,dragon-claw,crunch,fly|intimidate|sitrus-berry
+
 --c|Steven||/leaders/rs-steven#Ruby and Sapphire - Steven
 skarmory|52|steel-wing,toxic,aerial-ace,spikes|keen-eye||
 claydol|55|earthquake,ancient-power,light-screen,reflect|levitate||
