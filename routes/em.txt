@@ -7,16 +7,16 @@ Route 102|goldeen,magikarp,marill,poochyena,zigzagoon,wurmple,lotad,seedot,ralts
 Petalburg City|goldeen,magikarp,marill,corphish
 Route 104|magikarp,marill,poochyena,wurmple,taillow,wingull,pelipper
 Petalburg Woods|poochyena,wurmple,silcoon,cascoon,taillow,shroomish,slakoth
-Rustboro City|seedot
+Rustboro City|seedot,lileep,anorith
 --Rustboro Gym|1|gym-leader|Roxanne
 --Rustboro City|r2|rival|May
-Route 105|regice
+Route 105|tentacool,magikarp,wingull,pelipper,wailmer,regice
 Route 116|abra,poochyena,taillow,nincada,whismur,skitty
 Rusturf Tunnel|whismur
 Dewford Town|tentacool,magikarp,wailmer
 --Dewford Gym|2|gym-leader|Brawly
 Route 106|tentacool,magikarp,wingull,pelipper,wailmer
-Granite Cave|zubat,abra,geodude,nosepass,sableye,aron
+Granite Cave|zubat,abra,geodude,makuhita,nosepass,sableye,aron
 Route 107|tentacool,magikarp,wingull,pelipper,wailmer
 Slateport City|tentacool,magikarp,wingull,pelipper,wailmer
 Route 110|oddish,tentacool,magikarp,poochyena,wingull,pelipper,electrike,plusle,minun,gulpin,wailmer
@@ -30,26 +30,26 @@ Route 112|marill,numel
 Route 113|slugma,skarmory,spinda
 Route 114|geodude,goldeen,magikarp,marill,lotad,lombre,nuzleaf,swablu,seviper,barboach
 Desert Underpass|ditto,whismur,loudred
-Meteor Falls|golbat,goldeen,magikarp,solrock,barboach,whiscash,bagon
+Meteor Falls|zubat,golbat,goldeen,magikarp,solrock,barboach,whiscash,bagon
 Route 115|jigglypuff,tentacool,magikarp,taillow,swellow,wingull,pelipper,wailmer,swablu
 Lavaridge Town|wynaut
 --Lavaridge Gym|4|gym-leader|Flannery
 Fiery Path|machop,grimer,koffing,slugma,numel,torkoal
-Route 111|regirock
+Route 111|sandshrew,geodude,goldeen,magikarp,marill,trapinch,cacnea,barboach,baltoy,regirock
 Mirage Tower|sandshrew,trapinch
 --Petalburg Gym|5|gym-leader|Norman
 New Mauville|magnemite,magneton,voltorb,electrode
 Route 118|tentacool,goldeen,magikarp,zigzagoon,linoone,wingull,pelipper,electrike,manectric,carvanha,sharpedo,kecleon
-Route 119|castform
+Route 119|oddish,tentacool,goldeen,magikarp,zigzagoon,linoone,wingull,pelipper,carvanha,feebas,castform,kecleon,tropius
 --Weather Institute|as1|evil-team|Shelly
 --Weather Institute|r4|rival|May
 Fortree City|skitty,plusle
-Route 120|registeel
+Route 120|oddish,goldeen,magikarp,marill,poochyena,mightyena,seedot,barboach,kecleon,absol,registeel
 --Fortree City Gym|6|gym-leader|Winona
 Route 121|oddish,gloom,tentacool,magikarp,poochyena,mightyena,wingull,pelipper,wailmer,kecleon,shuppet
-Safari Zone|pikachu,oddish,gloom,psyduck,doduo,goldeen,seaking,magikarp,natu,wobbuffet,girafarig
+Safari Zone|pikachu,oddish,gloom,psyduck,golduck,geodude,doduo,dodrio,rhyhorn,goldeen,seaking,pinsir,magikarp,hoothoot,ledyba,spinarak,natu,xatu,mareep,marill,aipom,sunkern,wooper,quagsire,wobbuffet,girafarig,pineco,gligar,snubbull,shuckle,heracross,teddiursa,remoraid,octillery,houndour,phanpy,stantler,miltank
 Route 122|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
-Mt. Pyre|shuppet,duskull,chimecho
+Mt. Pyre|vulpix,wingull,shuppet,duskull,chimecho
 Route 123|oddish,gloom,tentacool,magikarp,poochyena,mightyena,wingull,pelipper,wailmer,kecleon,shuppet
 Jagged Pass|machop,numel,spoink
 Team Magma Hideout|geodude,graveler,electrode,torkoal
@@ -58,25 +58,25 @@ Team Magma Hideout|geodude,graveler,electrode,torkoal
 Lilycove City|tentacool,staryu,magikarp,wingull,pelipper,wailmer
 --Lilycove City|r5|rival|May
 --Team Aqua Hideout|am1|evil-team|Matt
-Route 124|chinchou,clamperl,relicanth
-Mossdeep City|beldum
+Route 124|tentacool,magikarp,chinchou,wingull,pelipper,sharpedo,wailmer,clamperl,relicanth
+Mossdeep City|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer,beldum
 --Mossdeep City Gym|7|gym-leader|Tate & Liza
 --Mossdeep Space Center|mtmaxt|evil-team|Maxie & Tabitha
 Route 125|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
-Shoal Cave|zubat,golbat,snorunt,spheal
+Shoal Cave|zubat,golbat,tentacool,magikarp,wailmer,snorunt,spheal
 Route 127|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
 Route 128|tentacool,magikarp,corsola,wingull,pelipper,wailmer,luvdisc
 Seafloor Cavern|zubat,golbat,tentacool,magikarp,wailmer
 --Seafloor Cavern|as2|evil-team|Shelly
 --Seafloor Cavern|aqarc|evil-team|Archie
-Route 126|chinchou,clamperl,relicanth
+Route 126|tentacool,magikarp,chinchou,wingull,pelipper,sharpedo,wailmer,clamperl,relicanth
 Sootopolis City|tentacool,magikarp,gyarados
 --Sootopolis Gym|8|gym-leader|Juan
 Cave of Origin|zubat,golbat,sableye,mawile,kyogre,groudon
 Route 129|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer,wailord
 Route 130|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
 Route 131|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
-Sky Pillar|rayquaza
+Sky Pillar|golbat,sableye,altaria,claydol,banette,rayquaza
 Pacifidlog Town|tentacool,horsea,magikarp,wingull,pelipper,sharpedo,wailmer
 Mirage Island|wynaut
 Route 108|tentacool,magikarp,wingull,pelipper,wailmer
@@ -86,7 +86,7 @@ Route 132|tentacool,horsea,magikarp,wingull,pelipper,sharpedo,wailmer
 Route 133|tentacool,horsea,magikarp,wingull,pelipper,sharpedo,wailmer
 Route 134|tentacool,horsea,magikarp,wingull,pelipper,sharpedo,wailmer
 Ever Grande City|tentacool,magikarp,corsola,wingull,pelipper,wailmer,luvdisc
-Victory Road|golbat,goldeen,magikarp,sableye,mawile,lairon,barboach,whiscash
+Victory Road|zubat,golbat,geodude,graveler,goldeen,magikarp,whismur,loudred,makuhita,hariyama,sableye,mawile,aron,lairon,barboach,whiscash
 --Victory Road|w2|rival|Wally
 --Pokémon League|e1|elite-four|Sidney
 --Pokémon League|e2|elite-four|Phoebe
