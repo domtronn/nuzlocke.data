@@ -1,28 +1,39 @@
 # Rival fights
 
 # after 2 gyms
+--r0|Nemona||/leaders/sv-nemona@Kyledove@https://www.deviantart.com/kyle-dove
+sprigatito|5|scratch,tail-whip,leafage|overgrow||fire
+fuecoco|5|tackle,leer,ember|blaze||water
+quaxly|5|pound,growl,water-gun|torrent||grass
+
+--r00|Nemona||/leaders/sv-nemona@Kyledove@https://www.deviantart.com/kyle-dove
+sprigatito|8|scratch,tail-whip,leafage,bite|overgrow||fire
+fuecoco|8|tackle,leer,ember,round|blaze||water
+quaxly|8|pound,growl,water-gun,work-up|torrent||grass
+pawmi|9|thunder-shock|static|||electric
+
 --r1|Nemona||/leaders/sv-nemona@Kyledove@https://www.deviantart.com/kyle-dove
 rockruff|21|double-team,rock-throw,howl,bite|vital-spirit
 pawmi|21|charge,nuzzle,dig,bite|static
-floragato|22|quick-attack,magical-leaf,hone-claws,bite|overgrow||fire
-quaxwell|22|double-hit,water-pulse,wing-attack,work-up|torrent||grass
-crocalor|22|incinerate,yawn,bite,round|blaze||water
+floragato|22|quick-attack,magical-leaf,hone-claws,bite|overgrow||fire|grass
+quaxwell|22|double-hit,water-pulse,wing-attack,work-up|torrent||grass|water
+crocalor|22|incinerate,yawn,bite,round|blaze||water|fire
 
 --r2|Nemona||/leaders/sv-nemona@Kyledove@https://www.deviantart.com/kyle-dove
 lycanroc-midday|36|quick-attack,accelerock,bite|sand-rush
 goomy|36|dragon-pulse,water-pulse,flail|sap-sipper
 pawmo|36|arm-thrust,spark,thunder-wave,quick-attack|volt-absorb
-meowscarada|37|slash,flower-trick,quick-attack|overgrow||fire
-quaquaval|37|air-slash,aqua-step,aqua-jet|torrent||grass
-skeledirge|37|snarl,torch-song,lick|blaze||water
+meowscarada|37|slash,flower-trick,quick-attack|overgrow||fire|grass
+quaquaval|37|air-slash,aqua-step,aqua-jet|torrent||grass|water
+skeledirge|37|snarl,torch-song,lick|blaze||water|fire
 
 --r3|Nemona||/leaders/sv-nemona@Kyledove@https://www.deviantart.com/kyle-dove
 lycanroc-midday|42|accelerock,crunch,rock-slide,sand-attack|sand-rush
 sliggoo|42|dragon-pulse,water-pulse,flail|sap-sipper
 pawmot|42|arm-thrust,spark,thunder-wave,quick-attack|volt-absorb
-meowscarada|43|slash,flower-trick,quick-attack|overgrow||fire
-quaquaval|43|air-slash,aqua-step,aqua-jet|torrent||grass
-skeledirge|43|snarl,torch-song,lick|blaze||water
+meowscarada|43|slash,flower-trick,quick-attack|overgrow||fire|grass
+quaquaval|43|air-slash,aqua-step,aqua-jet|torrent||grass|water
+skeledirge|43|snarl,torch-song,lick|blaze||water|fire
 
 # Titans
 --t1|Klawf||/sprite/950
@@ -51,46 +62,46 @@ tatsugiri|57|muddy-water,icy-wind,taunt,dragon-pulse|commander
 --1|Katy|bug|/leaders/sv-katy@Kyledove@https://www.deviantart.com/kyle-dove
 nymble|14|struggle-bug,double-kick|swarm||
 tarountula|14|bug-bite,assurance|insomnia||
-teddiursa|15|fury-cutter,fury-swipes|pickup||
+teddiursa|15|fury-cutter,fury-swipes|pickup|||bug
 
 --2|Brassius|grass|/leaders/sv-brassius@Kyledove@https://www.deviantart.com/kyle-dove
 petilil|16|sleep-powder,mega-drain|own-tempo||
 smoliv|16|tackle,razor-leaf|early-bird||
-sudowoodo|17|trailblaze,rock-throw|sturdy||
+sudowoodo|17|trailblaze,rock-throw|sturdy|||grass
 
 --3|Iono|electric|/leaders/sv-iono@Kyledove@https://www.deviantart.com/kyle-dove
 wattrel|23|pluck,quick-attack,spark|wind-power||
 bellibolt|23|water-gun,spark|electromorphosis||
 luxio|23|spark,bite|intimidate||
-mismagius|24|charge-beam,hex,confuse-ray|levitate||
+mismagius|24|charge-beam,hex,confuse-ray|levitate|||electric
 
 --4|Kofu|water|/leaders/sv-kofu@Kyledove@https://www.deviantart.com/kyle-dove
 veluza|29|splash,pluck,aqua-cutter|mold-breaker
 wugtrio|29|mud-slap,water-pulse,headbutt|gooey
-crabominable|30|crabhammer,rock-smash,slam|iron-fist
+crabominable|30|crabhammer,rock-smash,slam|iron-fist|||water
 
 --5|Larry|normal|/leaders/sv-larry@Kyledove@https://www.deviantart.com/kyle-dove
 komala|35|yawn,sucker-punch,slam|comatose
 dudunsparce|35|hyper-drill,drill-run,glare|serene-grace
-staraptor|36|facade,aerial-ace|intimidate
+staraptor|36|facade,aerial-ace|intimidate|||normal
 
 --6|Ryme|ghost|/leaders/sv-ryme@Kyledove@https://www.deviantart.com/kyle-dove
 banette|41|icy-wind,sucker-punch,shadow-sneak|insomnia
 mimikyu-disguised|41|light-screen,shadow-sneak,slash|disguise
 houndstone|41|play-rough,crunch,phantom-force|sand-rush
-toxtricity-low-key|42|discharge,hex,hyper-voice|punk-rock
+toxtricity-low-key|42|discharge,hex,hyper-voice|punk-rock|||ghost
 
 --7|Tulip|psychic|/leaders/sv-tulip@Kyledove@https://www.deviantart.com/kyle-dove
 farigiraf|44|crunch,zen-headbutt,reflect|armor-tail
 gardevoir|44|psychic,dazzling-gleam,energy-ball|synchronize
 espathra|44|psychic,quick-attack,shadow-ball|opportunist
-florges|45|psychic,moonblast,petal-blizzard|flower-veil
+florges|45|psychic,moonblast,petal-blizzard|flower-veil|||psychic
 
 --8|Grusha|ice|/leaders/sv-grusha@Kyledove@https://www.deviantart.com/kyle-dove
 frosmoth|47|blizzard,bug-buzz,tailwind|shield-dust
 beartic|47|aqua-jet,icicle-crash,earthquake|snow-cloak
 cetitan|47|ice-spinner,liquidation,ice-shard|thick-fat
-altaria|48|ice-beam,dragon-pulse,moonblast,hurricane|natural-cure
+altaria|48|ice-beam,dragon-pulse,moonblast,hurricane|natural-cure|||ice
 
 # Evil team
 --giacomo|Giacomo|dark|/leaders/sv-giacomo
@@ -149,28 +160,28 @@ whiscash|57|muddy-water,earth-power,blizzard,future-sight|oblivious
 camerupt|57|earth-power,fire-blast,flash-cannon,yawn|magma-armor
 donphan|57|earthquake,stone-edge,iron-head,poison-jab|sturdy
 dugtrio|57|earthquake,rock-slide,sucker-punch,sandstorm|sand-veil
-clodsire|58|earthquake,liquidation,toxic,protect|water-absorb
+clodsire|58|earthquake,liquidation,toxic,protect|water-absorb|||ground
 
 --e2|Poppy|steel|/leaders/sv-poppy@Kyledove@https://www.deviantart.com/kyle-dove
 copperajah|58|high-horsepower,play-rough,heavy-slam,stealth-rock|sheer-force
 magnezone|58|discharge,flash-cannon,light-screen,tri-attack|sturdy
 bronzong|58|iron-head,zen-headbutt,rock-blast,earthquake|levitate
 corviknight|58|brave-bird,iron-head,body-press,iron-defense|pressure
-tinkaton|58|play-rough,gigaton-hammer,brick-break,stone-edge|mold-breaker
+tinkaton|58|play-rough,gigaton-hammer,brick-break,stone-edge|mold-breaker|||steel
 
 --e3|Larry|flying|/leaders/sv-larry@Kyledove@https://www.deviantart.com/kyle-dove
 tropius|59|air-slash,solar-beam,dragon-pulse,sunny-day|chlorophyll
 oricorio-pom-pom|59|revelation-dance,air-slash,teeter-dance,icy-wind|dancer
 altaria|59|moonblast,flamethrower,ice-beam,dragon-pulse|natural-cure
 staraptor|59|facade,brave-bird,close-combat,thief|intimidate
-flamigo|60|brave-bird,close-combat,throat-chop,liquidation|scrappy
+flamigo|60|brave-bird,close-combat,throat-chop,liquidation|scrappy|||flying
 
 --e4|Hassel|dragon|/leaders/sv-hassel@Kyledove@https://www.deviantart.com/kyle-dove
 noivern|60|air-slash,dragon-pulse,super-fang,hyper-voice|infiltrator
 haxorus|60|dragon-claw,crunch,iron-head,rock-tomb|mold-breaker
 dragalge|60|sludge-bomb,dragon-pulse,hydro-pump,thunderbolt|poison-point
 flapple|60|dragon-rush,seed-bomb,aerial-ace,leech-seed|ripen
-baxcalibur|61|icicle-crash,brick-break,glaive-rush|thermal-exchange
+baxcalibur|61|icicle-crash,brick-break,glaive-rush|thermal-exchange|||dragon
 
 --ec|Geeta||/leaders/sv-geeta@Kyledove@https://www.deviantart.com/kyle-dove
 espathra|61|lumina-crash,dazzling-gleam,quick-attack,reflect|opportunist
@@ -178,7 +189,7 @@ gogoat|61|horn-leech,zen-headbutt,play-rough,bulk-up|sap-sipper
 veluza|61|aqua-jet,liquidation,psycho-cut,ice-fang|mold-breaker
 avalugg|61|avalanche,crunch,earthquake,body-press|own-tempo
 kingambit|61|iron-head,kowtow-cleave,zen-headbutt,stone-edge|supreme-overlord
-glimmora|62|tera-blast,sludge-wave,earth-power,dazzling-gleam|toxic-debris
+glimmora|62|tera-blast,sludge-wave,earth-power,dazzling-gleam|toxic-debris|||rock
 
 --ec2|Nemona||/leaders/sv-nemona@Kyledove@https://www.deviantart.com/kyle-dove
 lycanroc-midday|65|accelerock,drill-run,stealth-rock,stone-edge|sand-rush
@@ -186,6 +197,6 @@ goodra|65|dragon-pulse,muddy-water,ice-beam,sludge-bomb|sap-sipper
 dudunsparce|65|hyper-drill,drill-run,dragon-rush,coil|serene-grace
 orthworm|65|iron-tail,body-press,earthquake,rock-blast|earth-eater
 pawmot|65|double-shock,close-combat,ice-punch,quick-attack|volt-absorb
-meowscarada|66|thunder-punch,flower-trick,shadow-claw,play-rough|overgrow||fire
-quaquaval|66|brick-break,aqua-step,aerial-ace,ice-spinner|torrent||grass
-skeledirge|66|torch-song,earth-power,shadow-ball,snarl|blaze||water
+meowscarada|66|thunder-punch,flower-trick,shadow-claw,play-rough|overgrow||fire|grass
+quaquaval|66|brick-break,aqua-step,aerial-ace,ice-spinner|torrent||grass|water
+skeledirge|66|torch-song,earth-power,shadow-ball,snarl|blaze||water|fire

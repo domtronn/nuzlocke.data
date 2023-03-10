@@ -21,9 +21,9 @@ You can use the [**Boss Editor** app](https://nuzlocke-builder.vercel.app/) to h
 ### **League data**
 ```
 --1|Gym Leader Name|Gym Leader Speciality|/image/path
-pokemon|level|move1,move2,move3,move4|ability|held-item
-pokemon|level|move1,move2,move3,move4|ability|held-item
-pokemon|level|move1,move2,move3,move4|ability|held-item
+pokemon|level|move1,move2,move3,move4|ability|held-item|starter|tera-type
+pokemon|level|move1,move2,move3,move4|ability|held-item|starter|tera-type
+pokemon>sprite|level|move1,move2,move3,move4|ability|held-item|starter|tera-type
 ```
 
 ### **Route data**
