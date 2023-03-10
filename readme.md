@@ -74,3 +74,17 @@ Pokemon stats are a comma `,` separated list, but for brevity you only need to i
 
 Examples can be found for all three inside [`leagues`](/leagues), [`routes`](/routes) & [`patches`](/patches).
 PR's welcome where I will do the testing necessary before approval.
+
+--- 
+
+## Development
+
+Generally recommended to have three terminal tabs open, one to rebuild the data on change, one to test in
+
+```
+fswatch {leagues,patches,routes} | xargs -n1 -I{} make data
+```
+
+```
+yarn dev
+```
