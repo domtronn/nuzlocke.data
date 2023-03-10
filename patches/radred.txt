@@ -40,6 +40,9 @@ liquid-voice|This Pokemon's sound-based moves become Water-type moves and have t
 # New abilities
 blazing-soul|If this Pokemon is at full HP, its Fire-type moves have their priority increased by 1.
 blademaster|This Pokemon's blade-based attacks have their power multiplied by 1.2× and get a +1 critical hit ratio.
+bad-company|Prevents self-lowering stat drops and recoil.
+as-one|This Pokemon's Attack is raised by 1 stage if it attacks and knocks out another Pokemon. While this Pokemon is active, it prevents opposing Pokemon from using their Berries. This Ability activates before hazards and other Abilities take effect.
+primal-armor|This Pokemon receives 1/2 damage from supereffective attacks.
 
 --pokemon
 #hp,atk,def,spa,spd,spe|name|type
