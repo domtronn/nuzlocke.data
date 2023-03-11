@@ -325,7 +325,7 @@ rotom-mow>rotom-mow|-2|thunderbolt,leaf-storm,hidden-power-ice,nasty-plot|levita
 manectric|-2|volt-switch,rising-voltage,flamethrower,hidden-power-grass|intimidate|manectite
 
 --4r|Erika (Rematch)|grass|/leaders/frlg-erika
-tsareena|-2|triple-axel,trop-kick,high-jump-kick,rapid-spin|queenly-majesty|focus-sash
+tsareena|-2|triple-axel,trop-kick,high-jump-kick,rapid-spin|striker|focus-sash
 hawlucha|-2|swords-dance,acrobatics,close-combat,roost|unburden|grassy-seed
 bellossom|-2|sleep-powder,quiver-dance,giga-drain,fiery-dance|chlorophyll|leftovers
 rillaboom|-2|swords-dance,grassy-glide,acrobatics,high-horsepower|grassy-surge|grassy-seed
