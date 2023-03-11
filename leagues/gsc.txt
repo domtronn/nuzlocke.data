@@ -48,7 +48,7 @@ gastly|12|lick,spite,hypnosis|||
 zubat|14|leech-life,supersonic,bite|||
 quilava|16|tackle,leer,smokescreen,ember|||grass
 croconaw|16|water-gun,rage,leer,scratch|||fire
-bayleef|16|growl,poison-powder,reflect,razor-leaf|||grass
+bayleef|16|growl,poison-powder,reflect,razor-leaf|||water
 
 --r3|Silver||/leaders/gs-silver# Burned tower
 haunter|20|lick,spite,mean-look,curse|||
@@ -56,7 +56,7 @@ magnemite|18|thunder-shock,supersonic,sonic-boom,tackle|||
 zubat|20|leech-life,supersonic,bite,confuse-ray|||
 quilava|22|tackle,leer,smokescreen,ember|||grass
 croconaw|22|water-gun,bite,rage,leer|||fire
-bayleef|22|growl,poison-powder,reflect,razor-leaf|||grass
+bayleef|22|growl,poison-powder,reflect,razor-leaf|||water
 
 --r4|Silver||/leaders/gs-silver#Goldenrod tunnel
 golbat|30|wing-attack,confuse-ray,bite,leech-life|||
@@ -65,7 +65,7 @@ haunter|30|shadow-ball,lick,curse,mean-look|||
 sneasel|32|feint-attack,quick-attack,leer,screech|||
 quilava|32|smokescreen,quick-attack,ember,flame-wheel|||grass
 feraligatr|32|water-gun,bite,rage,scary-face|||fire
-meganium|34|reflect,poison-powder,razor-leaf,body-slam|||grass
+meganium|34|reflect,poison-powder,razor-leaf,body-slam|||water
 
 --r5|Silver||/leaders/gs-silver#Victory road
 sneasel|34|feint-attack,quick-attack,screech,fury-cutter|||
@@ -75,7 +75,7 @@ haunter|35|shadow-ball,confuse-ray,mean-look,curse|||
 kadabra|35|recover,disable,psybeam,future-sight|||
 typhlosion|38|ember,flame-wheel,smokescreen,quick-attack|||grass
 feraligatr|38|water-gun,rage,scary-face,slash|||fire
-meganium|38|reflect,poison-powder,razor-leaf,body-slam|||grass
+meganium|38|reflect,poison-powder,razor-leaf,body-slam|||water
 
 --r6|Silver||/leaders/gs-silver# Mt Moon
 sneasel|41|quick-attack,screech,feint-attack,fury-cutter|||
@@ -85,7 +85,7 @@ gengar|43|shadow-ball,confuse-ray,mean-look,curse|||
 alakazam|43|psychic,future-sight,recover,disable|||
 typhlosion|45|swift,smokescreen,quick-attack,flame-wheel|||grass
 feraligatr|45|bite,water-gun,rage,scary-face|||fire
-meganium|45|light-screen,poison-powder,razor-leaf,body-slam|||grass
+meganium|45|light-screen,poison-powder,razor-leaf,body-slam|||water
 
 # Gym leaders
 

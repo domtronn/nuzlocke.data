@@ -135,8 +135,8 @@ vaporeon|57|muddy-water,aurora-beam,quick-attack|water-absorb||water
 altaria|58|dragon-pulse,dazzling-gleam,confide|natural-cure
 absol|59|night-slash,slash,swords-dance,quick-attack|super-luck
 delphox|61|psychic,shadow-ball,flamethrower|blaze||grass
-greninja|46|dark-pulse,ice-beam,water-shuriken|torrent||fire
-chesnaught|46|brick-break,seed-bomb,body-slam|overgrow||water
+greninja|61|dark-pulse,ice-beam,water-shuriken|torrent||fire
+chesnaught|61|brick-break,seed-bomb,body-slam|overgrow||water
 
 # Gym Leaders
 
