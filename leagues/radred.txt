@@ -300,6 +300,38 @@ dragonite|80|extreme-speed,dragon-dance,fire-punch,dual-wingbeat|multiscale|weak
 naganadel|81|nasty-plot,sludge-wave,draco-meteor,flamethrower|beast-boost|life-orb
 duraludon|81|draco-meteor,steel-beam,thunderbolt,dark-pulse|bad-company|duraludite
 
+--1r|Brock (Rematch)|rock|/leaders/frlg-brock
+gigalith|-2|stealth-rock,stone-edge,earthquake,explosion|sand-stream|smooth-rock
+tyranitar|-2|stone-edge,fire-punch,crunch,dragon-dance|sand-stream|weakness-policy
+lycanroc-midday>lycanroc-midday|-2|accelerock,stone-edge,close-combat,crunch|tough-claws|life-orb
+omastar|-2|shell-smash,meteor-beam,ice-beam,surf|battle-armor|power-herb
+sandslash|-2|swords-dance,earthquake,stone-edge,x-scissor|sand-rush|soft-sand
+aerodactyl|-2|stone-edge,earthquake,dual-wingbeat,dragon-dance|tough-claws|aerodactylite
+
+--2r|Misty (Rematch)|water|/leaders/frlg-misty
+politoed|-2|scald,ice-beam,hypnosis,flip-turn|drizzle|damp-rock
+greninja|-2|dark-pulse,water-shuriken,ice-beam,grass-knot|protean|life-orb
+gorebyss|-2|shell-smash,surf,moonblast,ice-beam|regenerator|white-herb
+kingdra|-2|dragon-pulse,surf,hurricane,ice-beam|swift-swim|life-orb
+inteleon|-2|snipe-shot,dark-pulse,ice-beam,air-slash|sniper|scope-lens
+gyarados|-2|dragon-dance,waterfall,crunch,earthquake|mold-breaker|gyaradosite
+
+--3r|Lt. Surge (Rematch)|electric|/leaders/frlg-surge
+pachirisu|-2|reflect,light-screen,nuzzle,u-turn|prankster|light-clay
+dracozolt|-2|bolt-beak,dragon-claw,crunch,fire-fang|hustle|choice-scarf
+dedenne|-2|rising-voltage,volt-switch,dazzling-gleam,grass-knot|electric-surge|terrain-extender
+rotom-wash>rotom-wash|-2|nasty-plot,rising-voltage,hidden-power-grass,hydro-pump|levitate|life-orb
+rotom-mow>rotom-mow|-2|thunderbolt,leaf-storm,hidden-power-ice,nasty-plot|levitate|life-orb
+manectric|-2|volt-switch,rising-voltage,flamethrower,hidden-power-grass|intimidate|manectite
+
+--4r|Erika (Rematch)|grass|/leaders/frlg-erika
+tsareena|-2|triple-axel,trop-kick,high-jump-kick,rapid-spin|queenly-majesty|focus-sash
+hawlucha|-2|swords-dance,acrobatics,close-combat,roost|unburden|grassy-seed
+bellossom|-2|sleep-powder,quiver-dance,giga-drain,fiery-dance|chlorophyll|leftovers
+rillaboom|-2|swords-dance,grassy-glide,acrobatics,high-horsepower|grassy-surge|grassy-seed
+serperior|-2|leaf-storm,giga-drain,dragon-pulse,leech-seed|contrary|focus-sash
+venusaur|-2|giga-drain,sludge-bomb,earth-power,synthesis|thick-fat|venusaurite
+
 # Elite four
 
 --e1a|Lorelei (Rain Team)|ice|/leaders/frlg-lorelei

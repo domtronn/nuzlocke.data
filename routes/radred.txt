@@ -91,6 +91,10 @@ Berry Forest|carnivine-sevii,wyrdeer,decidueye-hisui,pinsir,indeedee,roserade,du
 Bond Bridge|decidueye-hisui,sneasel-hisui,hatterene,crustle,braviary-hisui,gliscor,hawlucha,feebas,remoraid,clawitzer,sharpedo,alomomola,dhelmise-sevii,pelipper,slowking,mantine-sevii,milotic-sevii
 Cape Brink|electrode-hisui,blitzle-sevii,lilligant-hisui,slowbro-galar,araquanid,grapploct,scyther,shiftry,slowbro,golisopod,feebas,remoraid,corsola-galar,barraskewda,luvdisc,wishiwashi,kingler,cramorant,barbaracle
 Kindle Road|absol,smeargle,alcremie-strawberry,centiskorch,gardevoir,seviper,centiskorch-sevii,grimmsnarl,eelektross,feebas,remoraid,corsola-galar,qwilfish,luvdisc,gorebyss,huntail,mantyke-sevii,pyukumuku,cramorant,mantine-sevii
+--Pewter City Gym|1r|gym-leader|Brock Rematch
+--Cerulean City Gym|2r|gym-leader|Misty Rematch
+--Vermillion City Gym|3r|gym-leader|Lt. Surge Rematch
+--Celadon City Gym|4r|gym-leader|Erika Rematch
 Cerulean Cave|magikarp,staryu,carvanha,pyukumuku,krabby,seismitoad,poliwhirl,crawdaunt,golduck,kingler,parasect,golbat,machamp,magneton,duraludon,type-null,conkeldurr,amoonguss,swoobat,primeape,audino,alakazam,type:null,pangoro,reuniclus,feebas,mareanie,corphish,poliwrath,sharpedo,gyarados,slowbro,toxapex,milotic,shiinotic,noivern,medicham,lopunny,gardevoir,excadrill,toxicroak
 --Cerulean Cave|ev4|evil-team|Admin Archer
 --Cerulean Cave|ev5|evil-team|Admin Ariana
