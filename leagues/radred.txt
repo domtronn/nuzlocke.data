@@ -177,7 +177,7 @@ drampa|-2|dragon-breath,roost,flamethrower,thunderbolt|berserk/sap-sipper|leftov
 
 --mb4|Morty|ghost|/leaders/gs-morty
 mimikyu-disguised|-2|play-rough,shadow-claw,shadow-sneak,swords-dance|disguise|lum-berry
-zoroark-hisui >zoroark-hisui|-2|hyper-voice,shadow-ball,flamethrower,nasty-plot|illusion|colbur-berry
+zoroark-hisui>zoroark-hisui|-2|hyper-voice,shadow-ball,flamethrower,nasty-plot|illusion|colbur-berry
 dusknoir|-2|shadow-punch,shadow-sneak,dynamic-punch,will-o-wisp|hustle|reaper-cloth
 gengar|-2|shadow-ball,sludge-wave,nasty-plot,focus-blast|shadow-tag|gengarite
 weavile|-2|triple-axel,knock-off,ice-shard,swords-dance|infiltrator|focus-sash
@@ -208,8 +208,8 @@ arctovish|-2|fishious-rend,psychic-fangs,icicle-crash,icicle-spear|water-absorb|
 glalie|-2|double-edge,earthquake,ice-shard,crunch|refrigerate|glalitite
 
 --mb6c|Prye (Team C)|ice|/leaders/gs-pryce
-ninetales-alola|-2|aurora-veil,freeze-dry,blizzard,moonblast|snow-warning|icy-rock
-sandslash-alola|-2|earthquake,icicle-crash,iron-head,ice-shard|ice-scales|assault-vest
+ninetales-alola>ninetales-alola|-2|aurora-veil,freeze-dry,blizzard,moonblast|snow-warning|icy-rock
+sandslash-alola>sandslash-alola|-2|earthquake,icicle-crash,iron-head,ice-shard|ice-scales|assault-vest
 beartic|-2|play-rough,triple-axel,superpower,swords-dance|slush-rush|focus-sash
 arctozolt|-2|bolt-beak,icicle-crash,stomping-tantrum,rock-slide|slush-rush|choice-band
 frosmoth|-2|quiver-dance,ice-beam,bug-buzz,giga-drain|ice-scales|leftovers
@@ -243,7 +243,7 @@ aggron|-2|dragon-claw,heavy-slam,earthquake,fire-punch|filter|aggronite
 
 # Gym leaders
 --1|Brock|rock|/leaders/frlg-brock
-geodude-alola|13|spark,rock-tomb,self-destruct,bulldoze|sturdy|custap-berry
+geodude-alola>geodude-alola|13|spark,rock-tomb,self-destruct,bulldoze|sturdy|custap-berry
 vulpix|14|incinerate,ominous-wind,hidden-power-grass,sleep-talk|flash-fire|oran-berry
 archen|12|pluck,rock-tomb,bulldoze,roost|defeatist|oran-berry
 onix|14|rock-tomb,bulldoze,sleep-talk,|sturdy|berry-juice
@@ -256,7 +256,7 @@ lanturn|25|parabolic-charge,scald,icy-wind,hidden-power-grass|volt-absorb|iapapa
 
 --3|Lt. Surge|electric|/leaders/frlg-surge
 pincurchin|32|volt-switch,scald,discharge,hidden-power-grass|electric-surge|electric-seed
-raichu-alola|33|psyshock,volt-switch,nasty-plot,grass-knot|surge-surfer|twisted-spoon
+raichu-alola>raichu-alola|33|psyshock,volt-switch,nasty-plot,grass-knot|surge-surfer|twisted-spoon
 vikavolt|33|volt-switch,bug-buzz,energy-ball,roost|levitate|occa-berry
 boltund|33|thunder-fang,fire-fang,ice-fang,psychic-fangs|strong-jaw|expert-belt
 manectric|34|charge-beam,flame-burst,volt-switch,hidden-power-grass|intimidate|manectite
@@ -311,7 +311,7 @@ kyogre-primal>kyogre-primal|85|water-sport,origin-pulse,thunder,ice-beam|primord
 dracovish|85|fishious-rend,outrage,psychic-fangs,crunch|strong-jaw|choice-scarf
 
 --e1b|Lorelei (Hail Team)|ice|/leaders/frlg-lorelei
-ninetales-alola|84|blizzard,aurora-veil,freeze-dry,hail|snow-warning|light-clay
+ninetales-alola>ninetales-alola|84|blizzard,aurora-veil,freeze-dry,hail|snow-warning|light-clay
 glaceon|84|blizzard,earth-power,freeze-dry,hidden-power-fire|slush-rush|choice-specs
 calyrex-ice>calyrex-ice|85|glacial-lance,high-horsepower,zen-headbutt,seed-bomb|as-one|choice-band
 rotom-wash|85|volt-switch,hydro-pump,hail,thunder-wave|levitate|wiki-berry

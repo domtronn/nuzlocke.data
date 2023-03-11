@@ -45,7 +45,7 @@ as-one|This Pokemon's Attack is raised by 1 stage if it attacks and knocks out a
 primal-armor|This Pokemon receives 1/2 damage from supereffective attacks.
 
 --pokemon
-#hp,atk,def,spa,spd,spe|name|type
+#hp,atk,def,spa,spd,spe|name|type|sprite
 ,,,95|butterfree
 60,91|raticate
 ,86|raticate-alola
@@ -228,3 +228,26 @@ primal-armor|This Pokemon receives 1/2 damage from supereffective attacks.
 ,,,55,,80|arctovish
 ,,,,55,80|arctozolt
 85|duraludon
+
+--fakemon
+# stats|name|alias|type|sprite|evoline>evos
+# New pokemon
+45,45,32,65,32,76|Seviian Blitzle|blitzle-sevii|ice,electric|/radred/blitzle-sevii|blitzle>zebstrika-sevii
+75,70,63,110,63,116|Seviian Zebstrika|zebstrika-sevii|ice,electric|/radred/zebstrika-sevii|blitzle
+94,100,92,55,77,36|Seviian Carnivine|carnivine-sevii|poison,steel|/radred/carnivine-sevii|carnivine
+100,115,65,65,90,90|Seviian Centiskorch|centiskorch-sevii|ground,bug|/radred/centiskorch-sevii|sizzlipede
+50,65,45,50,50,45|Seviian Sizzlipede|sizzlipede-sevii|ground,bug|/radred/sizzlipede-sevii|sizzlipede>centiskorch-sevii
+50,38,62,58,63,59|Seviian Clauncher|clauncher-sevii|bug,dark|/radred/clauncher-sevii|clauncher>clawitzer-sevii
+81,63,83,110,79,97|Seviian Clawitzer|clawitzer-sevii|bug,dark|/radred/clawitzer-sevii|clauncher
+90,81,105,106,95,40|Seviian Dhelmise|dhelmise-sevii|water,grass|/radred/dhelmise-sevii|dhelmise
+65,125,65,40,65,110|Seviian Dodrio|dodrio-sevii|fire,ground|/radred/dodrio-sevii|doduo
+40,80,45,35,35,75|Seviian Doduo|doduo-sevii|fire,ground|/radred/doduo-sevii|doduo>dodrio-sevii
+20,15,20,10,55,80|Seviian Feebas|feebas-sevii|water,ground|/radred/feebas-sevii|feebas>milotic-sevii
+95,60,84,105,125,81|Seviian Milotic|milotic-sevii|fairy,ground|/radred/milotic-sevii|feebas
+80,30,70,100,120,95|Seviian Mantine|mantine-sevii|electric,poison|/radred/mantine-sevii|mantyke
+45,20,55,70,85,70|Seviian Mantyke|mantyke-sevii|electric,poison|/radred/mantyke-sevii|mantyke>mantine-sevii
+55,80,50,45,50,50|Seviian Teddiursa|teddiursa-sevii|ghost|/radred/teddiursa-sevii|teddiursa>ursaring-sevii
+100,110,90,55,90,55|Seviian Ursaring|ursaring-sevii|ghost,fighting|/radred/ursaring-sevii|teddiursa
+60,20,20,25,15,35|Seviian Wishiwashi|wishiwashi-sevii|ghost|/radred/wishiwashi-sevii|wishwashi
+60,140,130,140,135,25|Seviian Wishiwashi|wishiwashi-sevii-school|ghost,dragon|/radred/wishiwashi-sevii-school|wishiwashi
+
