@@ -22,26 +22,26 @@ hatenna|16|confusion,round,disarming-voice|anticipation||
 --b2|Bede||/leaders/swsh-bede@Brumirage@https://www.instagram.com/brumirage
 solosis|21|psyshock,psybeam,endeavor|magic-guard||
 gothita|22|psyshock,rock-tomb,psybeam|competitive||
-ponyta-galar|22|confusion,fairy-wind|pastel-veil||
+ponyta-galar>ponyta-galar|22|confusion,fairy-wind|pastel-veil||
 hatenna|23|psybeam,disarming-voice|anticipation||
 
 --b3|Bede||/leaders/swsh-bede@Brumirage@https://www.instagram.com/brumirage
 duosion|32|light-screen,reflect,psyshock,psybeam|magic-guard||
 gothorita|32|fake-tears,psybeam,rock-tomb|competitive||
-ponyta-galar|33|fairy-wind,psybeam,agility|pastel-veil||
+ponyta-galar>ponyta-galar|33|fairy-wind,psybeam,agility|pastel-veil||
 hattrem|35|dazzling-gleam,psybeam|anticipation||
 
 # Rival marnie
 --m1|Marnie||/leaders/swsh-marnie@Brumirage@https://www.instagram.com/brumirage
 croagunk|24|poison-sting,venoshock,revenge,sucker-punch|dry-skin||
 scraggy|24|beat-up,headbutt,low-kick|shed-skin||
-morpeko|26|bite,thunder-shock,quick-attack|hunger-switch||
+morpeko-full-belly>morpeko|26|bite,thunder-shock,quick-attack|hunger-switch||
 
 --m2|Marnie||/leaders/swsh-marnie@Brumirage@https://www.instagram.com/brumirage
 liepard|42|fake-out,torment,nasty-plot,sucker-punch|prankster||
 toxicroak|43|venoshock,sucker-punch,swagger,poison-jab|dry-skin||
 scrafty|43|brick-break,scary-face,crunch,swagger|shed-skin||
-morpeko|44|quick-attack,torment,spark,bite|hunger-switch||
+morpeko-full-belly>morpeko|44|quick-attack,torment,spark,bite|hunger-switch||
 
 # Rival Hop
 --r1|Hop||/leaders/swsh-hop@Brumirage@https://www.instagram.com/brumirage
@@ -105,36 +105,36 @@ shinx|61|spark,bite|intimidate
 mienshao|78|fake-out,close-combat,blaze-kick,u-turn|inner-focus|
 luxray|78|wild-charge,crunch,psychic-fangs,play-rough|intimidate
 corviknight|79|iron-head,brave-bird,light-screen,body-press|unnerve
-lycanroc-midday>lycanroc|80|stone-edge,accelerock,play-rough,stealth-rock|keen-eye
+lycanroc-midday>lycanroc-midday|80|stone-edge,accelerock,play-rough,stealth-rock|keen-eye
 kommo-o|80|clanging-scales,flash-cannon,aura-sphere,clangorous-soul|soundproof
 urshifu-single-strike>urshifu|80|wicked-blow,close-combat,iron-head,poison-jab|unseen-fist
 urshifu-rapid-strike>urshifu|80|surging-strikes,close-combat,iron-head,poison-jab|unseen-fist
 
 --kl1|Klara|poison|/leaders/swsh-klara@Drawnamu@https://www.deviantart.com/drawnamu
 venipede|58|poison-tail|poison-point
-slowpoke|60|confusion,acid|gluttony
+slowpoke-galar>slowpoke-galar|60|confusion,acid|gluttony
 --kl2|Klara|poison|/leaders/swsh-klara@Drawnamu@https://www.deviantart.com/drawnamu
-slowpoke|62|confusion,acid|gluttony
+slowpoke-galar>slowpoke-galar|62|confusion,acid|gluttony
 koffing|62|clear-smog,assurance|levitate
 whirlipede|63|poison-tail,bug-bite|poison-point
 --kl3|Klara|poison|/leaders/swsh-klara@Drawnamu@https://www.deviantart.com/drawnamu
 skorupi|65|bite,poison-fang|battle-armor
-weezing-galar|66|clear-smog,assurance|levitate
+weezing-galar>weezing-galar|66|clear-smog,assurance|levitate
 whirlipede|66|poison-tail,bug-bite|poison-point
-slowbro-galar|67|water-pulse,confusion,shell-side-arm|quick-draw
+slowbro-galar>slowbro-galar|67|water-pulse,confusion,shell-side-arm|quick-draw
 
 --av1|Avery|psychic|/leaders/swsh-avery@Drawnamu@https://www.deviantart.com/drawnamu
 abra|58|confusion|synchronize
-slowpoke|60|confusion,acid|gluttony
+slowpoke-galar>slowpoke-galar|60|confusion,acid|gluttony
 --av2|Avery|psychic|/leaders/swsh-avery@Drawnamu@https://www.deviantart.com/drawnamu
-slowpoke|62|confusion,acid|gluttony
+slowpoke-galar>slowpoke-galar|62|confusion,acid|gluttony
 woobat|62|confusion,air-cutter|unaware
 kadabra|53|psybeam,swift|synchronize
 --av3|Avery|psychic|/leaders/swsh-avery@Drawnamu@https://www.deviantart.com/drawnamu
-ponyta-galar|65|psybeam,fairy-wind|run-away
+ponyta-galar>ponyta-galar|65|psybeam,fairy-wind|run-away
 swoobat|66|confusion,air-cutter|unaware
 kadabra|66|psybeam,swift|synchronize
-slowbro-galar|67|water-pulse,shell-side-arm,confusion|quick-draw
+slowbro-galar>slowbrow-galar|67|water-pulse,shell-side-arm,confusion|quick-draw
 
 --p|Peony|steel|/leaders/swsh-peony@Brumirage@https://www.instagram.com/brumirage
 copperajah|70|high-horsepower,heavy-slam,play-rough,superpower|sheer-force
@@ -163,7 +163,7 @@ arcanine|25|will-o-wisp,flame-wheel,bite,agility|intimidate||
 centiskorch|27|flame-wheel,coil,bug-bite,smokescreen|flash-fire||
 
 --5|Opal|fairy|/leaders/swsh-opal@Brumirage@https://www.instagram.com/brumirage
-weezing-galar|36|sludge,fairy-wind,tackle|levitate||
+weezing-galar>weezing-galar|36|sludge,fairy-wind,tackle|levitate||
 mawile|36|draining-kiss,crunch,iron-defense,astonish|intimidate||
 togekiss|37|air-slash,draining-kiss,ancient-power|hustle||
 alcremie|38|draining-kiss,acid-armor,sweet-kiss|sweet-veil||
@@ -200,7 +200,7 @@ coalossal|42|tar-shot,stealth-rock,heat-crash,rock-tomb|steam-engine||
 
 --6b|Melony|ice|/leaders/swsh-melony@Brumirage@https://www.instagram.com/brumirage
 frosmoth|40|icy-wind,feather-dance,bug-buzz,hail|shield-dust||
-darmanitan-standard-galar>darmanitan-galar|40|icicle-crash,headbutt,taunt,fire-fang|zen-mode||
+darmanitan-galar-standard>darmanitan-galar|40|icicle-crash,headbutt,taunt,fire-fang|zen-mode||
 eiscue-ice>eiscue|41|amnesia,freeze-dry,hail,icy-wind|ice-face||
 lapras|42|icy-wind,ice-beam,surf,sing|shell-armor||
 
@@ -209,7 +209,7 @@ lapras|42|icy-wind,ice-beam,surf,sing|shell-armor||
 liepard|47|fake-out,torment,nasty-plot,snarl|prankster||
 toxicroak|47|venoshock,sucker-punch,swagger,toxic|dry-skin||
 scrafty|47|swagger,scary-face,brick-break,crunch|shed-skin||
-morpeko|48|bullet-seed,torment,spark,bite|hunger-switch||
+morpeko-full-belly>morpeko|48|bullet-seed,torment,spark,bite|hunger-switch||
 grimmsnarl|49|spirit-break,darkest-lariat,bulk-up,torment|prankster||
 
 --e2|Hop||/leaders/swsh-hop@Brumirage@https://www.instagram.com/brumirage
@@ -224,7 +224,7 @@ cinderace|49|pyro-ball,counter,gunk-shot,bounce|blaze||water
 --e3|Bede|psychic|/leaders/swsh-bede-2@Drawnamu@https://www.deviantart.com/drawnamu
 mawile|51|play-rough,iron-head,crunch|intimidate||
 gardevoir|51|dazzling-gleam,psychic,calm-mind,wish|synchronize||
-rapidash-galar|52|psycho-cut,take-down,dazzling-gleam,quick-attack|pastel-veil||
+rapidash-galar>rapidash-galar|52|psycho-cut,take-down,dazzling-gleam,quick-attack|pastel-veil||
 hatterene|53|psychic,dazzling-gleam,calm-mind,mystical-fire|anticipation||
 
 --e4|Nessa|water|/leaders/swsh-nessa@Drawnamu@https://www.deviantart.com/drawnamu

@@ -68,7 +68,7 @@ silvally|53|crunch,crush-claw,x-scissor,multi-attack|rks-system|grass-memory|wat
 --mol|Molayne|steel|/leaders/sm-molayne@Beliot419@https://www.deviantart.com/beliot419
 skarmory|29|air-cutter,metal-claw|sturdy
 metang|29|zen-headbutt,bullet-punch,pursuit|clear-body
-dugtrio-alola|30|metal-claw,mud-bomb,sucker-punch|tangling-hair
+dugtrio-alola>dugtrio-alola|30|metal-claw,mud-bomb,sucker-punch|tangling-hair
 
 --r1|Hau||/leaders/sm-hau@Beliot419@https://www.deviantart.com/beliot419
 popplio|5|pound,water-gun,growl|torrent||grass
@@ -94,7 +94,7 @@ dartrix|17|razor-leaf,peck,tackle|overgrow|normalium-z--held|fire
 torracat|17|fire-fang,lick,scratch|blaze|normalium-z--held|water
 
 --r5|Hau||/leaders/sm-hau@Beliot419@https://www.deviantart.com/beliot419
-raichu-alola|28|electro-ball,quick-attack,psychic|surge-surfer
+raichu-alola>raichu-alola|28|electro-ball,quick-attack,psychic|surge-surfer
 flareon|28|fire-fang,quick-attack|flash-fire||grass
 vaporeon|28|water-pulse,quick-attack|water-absorb||fire
 leafeon|28|giga-drain,quick-attack|leaf-guard||water
@@ -103,7 +103,7 @@ dartrix|29|razor-leaf,peck|overgrow|grassium-z--held|fire
 torracat|29|fire-fang,bite|blaze|firium-z--held|water
 
 --r6|Hau||/leaders/sm-hau@Beliot419@https://www.deviantart.com/beliot419
-raichu-alola|53|thunderbolt,quick-attack,psychic,focus-blast|surge-surfer
+raichu-alola>raichu-alola|53|thunderbolt,quick-attack,psychic,focus-blast|surge-surfer
 flareon|53|flare-blitz,quick-attack,charm,baby-doll-eyes|flash-fire||grass
 vaporeon|53|hydro-pump,quick-attack,charm,baby-doll-eyes|water-absorb||fire
 leafeon|53|leaf-blade,quick-attack,charm,baby-doll-eyes|leaf-guard||water
@@ -136,8 +136,8 @@ gumshoos|12|super-fang,bite,scary-face,leer|adaptability|pecha-berry
 yungoos|10|leer,tackle,bide,pursuit|stakeout
 
 --1b|Ilima's trial|normal|/leaders/sm-ilima@Drawnamu@https://www.deviantart.com/drawnamu
-raticate-alola|12|focus-energy,tail-whip,super-fang,tackle|gluttony|pecha-berry
-rattata-alola|10|tackle,focus-energy,quick-attack,tail-whip|hustle
+raticate-alola>raticate-alola|12|focus-energy,tail-whip,super-fang,tackle|gluttony|pecha-berry
+rattata-alola>rattata-alola|10|tackle,focus-energy,quick-attack,tail-whip|hustle
 
 --2|Island Kahuna Hala|fighting|/leaders/sm-hala@Beliot419@https://www.deviantart.com/beliot419
 mankey|14|karate-chop,focus-energy,pursuit|anger-point
@@ -176,10 +176,10 @@ gengar|27|shadow-ball,hypnosis,night-shade,shadow-punch|cursed-body||
 --10|Island Kahuna Nanu|dark|/leaders/sm-nanu@Drawnamu@https://www.deviantart.com/drawnamu
 sableye|38|power-gem,shadow-ball,fake-out|keen-eye||
 krokorok|38|crunch,assurance,swagger,earthquake|intimidate||
-persian-alola|39|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z--held|
+persian-alola>persian-alola|39|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z--held|
 
 --11|Island Kahuna Hapu|ground|/leaders/sm-hapu@Beliot419@https://www.deviantart.com/beliot419
-dugtrio-alola|47|iron-head,earthquake,sucker-punch,sandstorm|sand-veil||
+dugtrio-alola>dugtrio-alola|47|iron-head,earthquake,sucker-punch,sandstorm|sand-veil||
 gastrodon|47|muddy-water,mud-bomb,recover|sticky-hold||
 flygon|47|earth-power,dragon-breath|levitate||
 mudsdale|48|heavy-slam,earthquake,double-kick,counter|stamina|groundium-z--held|
@@ -200,7 +200,7 @@ crabominable|55|ice-hammer,close-combat|iron-fist|fightinium-z--held|
 --e2|Olivia|rock|/leaders/sm-olivia@Kyledove@https://www.deviantart.com/kyle-dove#Olivia
 relicanth|54|hydro-pump,ancient-power,yawn|swift-swim||
 carbink|54|power-gem,moonblast,reflect|clear-body||
-golem-alola|54|thunder-punch,rock-blast,steamroller|sturdy||
+golem-alola>golem-alola|54|thunder-punch,rock-blast,steamroller|sturdy||
 probopass|54|earth-power,power-gem,thunder-wave,sandstorm|sturdy||
 lycanroc-midnight|55|crunch,stone-edge,counter,rock-climb|keen-eye|rockium-z--held|
 
@@ -220,7 +220,7 @@ toucannon|55|bullet-seed,rock-blast,beak-blast,screech|skill-link|flyinium-z--he
 
 --c|Kukui||/leaders/sm-kukui@Kyledove@https://www.deviantart.com/kyle-dove#Champion
 lycanroc-midday|57|stone-edge,accelerock,crunch,stealth-rock|keen-eye||
-ninetales-alola|56|dazzling-gleam,blizzard,ice-shard,safeguard|snow-cloak||
+ninetales-alola>ninetales-alola|56|dazzling-gleam,blizzard,ice-shard,safeguard|snow-cloak||
 braviary|56|crush-claw,brave-bird,tailwind,whirlwind|keen-eye||
 magnezone|56|thunderbolt,flash-cannon,thunder-wave,mirror-coat|sturdy||
 snorlax|56|body-slam,crunch,heavy-slam,high-horsepower|thick-fat||

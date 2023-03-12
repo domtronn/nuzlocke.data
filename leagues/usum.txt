@@ -90,7 +90,7 @@ shiinotic|61|spore,dazzling-gleam|effect-spore
 --f4|Faba||/leaders/sm-faba@Beliot419@https://www.deviantart.com/beliot419
 claydol|63|earth-power,extrasensory,ancient-power,grass-knot|levitate
 bruxish|63|aqua-jet,crunch,psychic-fangs,waterfall|strong-jaw
-raichu-alola|63|psychic,quick-attack,nuzzle,thunderbolt|surge-surfer
+raichu-alola>raichu-alola|63|psychic,quick-attack,nuzzle,thunderbolt|surge-surfer
 alakazam|63|psychic,psyshock,disable,dazzling-gleam|synchronize
 hypno|63|psychic,hypnosis,focus-blast,dream-eater|insomnia
 
@@ -122,7 +122,8 @@ pinsir|41|throat-chop,storm-throw,x-scissor|mold-breaker
 golisopod|45|sucker-punch,razor-shell,first-impression|emergency-exit
 masquerain|45|air-slash,bug-buzz,icy-wind|intimidate
 pinsir|45|throat-chop,storm-throw,x-scissor,stone-edge|mold-breaker
-vikavolt|45|flash-cannon,thunderbolt,bug-buzz,energy-ball|
+vikavolt|45|flash-cannon,thunderbolt,bug-buzz,energy-ball|levitate
+
 # Rivals
 
 --g1|Gladion||/leaders/sm-gladion@Beliot419@https://www.deviantart.com/beliot419#Route 5
@@ -178,7 +179,7 @@ vaporeon|28|water-pulse,quick-attack|water-absorb||fire
 leafeon|28|giga-drain,quick-attack|leaf-guard||water
 noibat|28|wing-attack,bite|infiltrator
 tauros|28|pursuit,horn-attack|intimidate
-raichu-alola|29|electro-ball,quick-attack,psychic|surge-surfer
+raichu-alola>raichu-alola|29|electro-ball,quick-attack,psychic|surge-surfer
 
 --ryuki|Ryuki|dragon|/leaders/sm-ryuki@Poffin Case@https://pokengine.org/trainers/Ryuki
 turtonator|29|flamethrower,dragon-tail,iron-defense|shell-armor
@@ -225,8 +226,8 @@ gumshoos|12|super-fang,bite,leer,scary-face|adaptability|pecha-berry|
 yungoos|10|leer,tackle,pursuit,odor-sleuth|stakeout||
 
 --1b|Ilima's Trial|normal|/leaders/sm-ilima@Drawnamu@https://www.deviantart.com/drawnamu
-raticate-alola|12|super-fang,bite,fury-swipes,scary-face|gluttony|pecha-berry|
-rattata-alola|10|tackle,tail-whip,quick-attack,pursuit|hustle||
+raticate-alola>raticate-alola|12|super-fang,bite,fury-swipes,scary-face|gluttony|pecha-berry|
+rattata-alola>rattata-alola|10|tackle,tail-whip,quick-attack,pursuit|hustle||
 
 --2|Island Kahuna Hala|fighting|/leaders/sm-hala@Beliot419@https://www.deviantart.com/beliot419#Hala
 machop|15|karate-chop,revenge,focus-energy|guts||
@@ -239,7 +240,7 @@ masquerain|18|scary-face,stun-spore,tailwind,bug-bite|intimidate||
 dewpider|18|sticky-web,rain-dance,bug-bite,bubble|water-bubble||
 
 --4|Kiawe's Trial|fire|/leaders/sm-kiawe@Drawnamu@https://www.deviantart.com/drawnamu
-marowak-alola|22|hex,flame-wheel,brick-break,detect|cursed-body|thick-club|
+marowak-alola>marowak-alola|22|hex,flame-wheel,brick-break,detect|cursed-body|thick-club|
 salazzle|20|poison-gas,venoshock,flame-burst,torment|corrosion||
 
 --5|Mallow's Trial|grass|/leaders/sm-mallow@Kyledove@https://www.deviantart.com/kyle-dove
@@ -250,7 +251,7 @@ kecleon|22|sunny-day,ancient-power,dizzy-punch,screech|color-change||
 --6|Island Kahuna Olivia|rock|/leaders/sm-olivia@Kyledove@https://www.deviantart.com/kyle-dove#Olivia
 anorith|27|bug-bite,smack-down,metal-claw|battle-armor||
 lileep|27|giga-drain,ancient-power,brine|suction-cups||
-lycanroc-midnight|28|bite,rock-tomb|vital-spirit|rockium-z--held|
+lycanroc-midnight>lycanroc-midnight|28|bite,rock-tomb|vital-spirit|rockium-z--held|
 
 --7|Sophocles' Trial|electric|/leaders/sm-sophocles@Kyledove@https://www.deviantart.com/kyle-dove
 togedemaru|33|zing-zap,spiky-shield,iron-head,bounce|lightning-rod|sitrus-berry|
@@ -265,15 +266,15 @@ jellicent|33|water-pulse,snore,spite,night-shade|cursed-body||
 --9|Island Kahuna Nanu|dark|/leaders/sm-nanu@Drawnamu@https://www.deviantart.com/drawnamu
 sableye|43|power-gem,shadow-ball,fake-out|keen-eye||
 krokorok|43|crunch,assurance,swagger,earthquake|intimidate||
-persian-alola|44|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z--held|
+persian-alola>persian-alola|44|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z--held|
 
 --10a|Necrozma|psychic|/leaders/sm-necrozma
-necrozma-dusk|50|sunsteel-strike,morning-sun,psycho-cut,night-slash|prism-armor
-necrozma-ultra|60|photon-geyser,smart-strike,power-gem,dragon-pulse|neuroforce
+necrozma-dusk>necrozma-dusk-make|50|sunsteel-strike,morning-sun,psycho-cut,night-slash|prism-armor
+necrozma-ultra>necrozma-ultra|60|photon-geyser,smart-strike,power-gem,dragon-pulse|neuroforce
 
 --10b|Necrozma|psychic|/leaders/sm-necrozma
-necrozma-dawn|50|moongeist-beam,moonlight,psychic,power-gem|prism-armor
-necrozma-ultra|60|photon-geyser,smart-strike,power-gem,dragon-pulse|neuroforce
+necrozma-dawn>necrozma-dawn-wings|50|moongeist-beam,moonlight,psychic,power-gem|prism-armor
+necrozma-ultra>necrozma-ultra|60|photon-geyser,smart-strike,power-gem,dragon-pulse|neuroforce
 
 --11|Kommo-o's Trial|dragon|/leaders/sm-kommoo
 kommo-o|49|drain-punch,dragon-claw,thunder-punch,poison-jab|soundproof|roseli-berry|
@@ -303,17 +304,17 @@ araquanid|51|liquidation,leech-life,crunch|water-bubble|waterium-z--held
 --12_4|Captain Kiawe|fire|/leaders/sm-kiawe@Drawnamu@https://www.deviantart.com/drawnamu
 arcanine|51|crunch,flare-blitz,extreme-speed|intimidate
 talonflame|51|quick-attack,flame-charge,brave-bird|flame-body
-marowak|51|flame-wheel,shadow-bone,bonemerang|cursed-body|firium-z--held
+marowak-alola>marowak-alola|51|flame-wheel,shadow-bone,bonemerang|cursed-body|firium-z--held
 
 --12_5|Captain Sophocles|electric|/leaders/sm-sophocles@Kyledove@https://www.deviantart.com/kyle-dove
 togedemaru|51|spiky-shield,zing-zap,fell-stinger|iron-barbs
 magnezone|51|flash-cannon,discharge,tri-attack|sturdy
-golem-alola|51|stone-edge,thunder-punch,steamroller|sturdy|electrium-z--held
+golem-alola>golem-alola|51|stone-edge,thunder-punch,steamroller|sturdy|electrium-z--held
 
 --12_6|Island Kahuna Nanu|dark|/leaders/sm-nanu@Drawnamu@https://www.deviantart.com/drawnamu
 sableye|52|power-gem,shadow-ball,dark-pulse|keen-eye
 absol|52|sucker-punch,night-slash,psycho-cut|super-luck
-persian-alola|52|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z--held
+persian-alola>persian-alola|52|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z--held
 
 --12|Mina's Trial|fairy|/leaders/sm-mina@Kyledove@https://www.deviantart.com/kyle-dove
 blissey|53|heal-pulse,light-screen,helping-hand,dazzling-gleam|serene-grace||
@@ -333,14 +334,14 @@ klefki|56|spikes,thunder-wave,flash-cannon,reflect|prankster||
 bisharp|56|night-slash,iron-head,x-scissor,metal-sound|defiant||
 magnezone|56|flash-cannon,thunderbolt,tri-attack,screech|sturdy||
 metagross|56|hammer-arm,meteor-mash,bullet-punch,zen-headbutt|clear-body||
-dugtrio-alola|57|earthquake,iron-head,sucker-punch,fissure|tangling-hair|steelium-z--held|
+dugtrio-alola>dugtrio-alola|57|earthquake,iron-head,sucker-punch,fissure|tangling-hair|steelium-z--held|
 
 --e2|Olivia|rock|/leaders/sm-olivia@Kyledove@https://www.deviantart.com/kyle-dove#Olivia
 armaldo|56|crush-claw,x-scissor,rock-blast|battle-armor||
 cradily|56|rock-tomb,energy-ball,stealth-rock|suction-cups||
 gigalith|56|stone-edge,bulldoze,iron-head|sand-stream||
 probopass|56|earth-power,power-gem,thunder-wave,sandstorm|sturdy||
-lycanroc-midnight|57|crunch,stone-edge,counter,rock-climb|keen-eye|rockium-z--held|
+lycanroc-midnight>lycanroc-midnight|57|crunch,stone-edge,counter,rock-climb|keen-eye|rockium-z--held|
 
 --e3|Acerola|ghost|/leaders/sm-acerola@Drawnamu@https://www.deviantart.com/drawnamu#Acerola
 banette|56|shadow-claw,feint-attack,infestation,screech|keen-eye||
@@ -357,7 +358,7 @@ mandibuzz|56|bone-rush,brave-bird,punishment,flatter|big-pecks||
 toucannon|57|bullet-seed,rock-blast,beak-blast,screech|skill-link|flyinium-z--held|
 
 --c|Hau||/leaders/sm-hau@Beliot419@https://www.deviantart.com/beliot419#Champion
-raichu-alola|59|thunderbolt,quick-attack,psychic,focus-blast|surge-surfer||
+raichu-alola>raichu-alola|59|thunderbolt,quick-attack,psychic,focus-blast|surge-surfer||
 flareon|58|flare-blitz,quick-attack,charm,baby-doll-eyes|flash-fire||grass
 leafeon|58|leaf-blade,quick-attack,charm,baby-doll-eyes|leaf-guard||water
 vaporeon|58|hydro-pump,quick-attack,charm,baby-doll-eyes|water-absorb||fire
