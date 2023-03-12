@@ -1,0 +1,7 @@
+--fakemon
+# stats|name|alias|type|sprite|evoline>evos
+# New pokemon
+100,100,100,100,100,100|MT|mt|steel||mt
+100,100,100,100,100,100|MT2|mt2|steel,electric||mt
+100,100,100,100,100,100|F-00|f00|steel,normal||f00
+100,100,100,100,100,100|UFO|ufo|flying,electric||ufo
