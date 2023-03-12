@@ -1,6 +1,8 @@
+# https://drive.google.com/drive/folders/1wVz7qTdZh8kn0Du9bmMKuXlrQRBeF01d
+
 Aspertia City|ducklett,surskit,remoraid,feebas
 
---Aspertia City|r0_c
+--Aspertia City|r0_n
 
 Route 19|patrat,purrloin,starly,pidgey,kricketot,sentret,venonat,bidoof,ledyba,hoppip,audino,marill,surskit,azumarill,basculin-red-stripe,staryu
 
@@ -10,16 +12,16 @@ Route 20|pidove,sunkern,sewaddle,venipede,cubone,wurmplep,lotad,caterpie,seedot,
 
 Floccesy Ranch|lillipup,azurill,machop,mareep,riolu,ponyta,psyduck,taillow,poochyena,houndour,audino,dunsparce,teddiursa,happiny,togepi,magikarp,basculin-red-stripe,basculin-blue-stripe,poliwag,goldeen,pichu,igglybuff,slugma,tyrogue,smoochum,elekid,magby,carvanha,spheal,budew,munna,blitzle,vanillite,litwick,elgyem,cubchoo
 
---Floccesy Ranch|r1_c|rival|Hugh
+--Floccesy Ranch|r1_n|rival|Hugh
 
---Aspertia City Trainer School|o1_c||Roxanne
---Aspertia City Gym|1_c|gym-leader|Cheren
+--Aspertia City Trainer School|o1_n||Roxanne
+--Aspertia City Gym|1_n|gym-leader|Cheren
 
 Virbank City|frillish,alomomola,basculin-red-stripe,jellicent,tentacool,tentacruel,finneon,krabby,chinchou,horsea,bulbasaur,charmander,squirtle,meditite
 
---Virbank City|o2_c||Brawly
---Virbank City Gym|2_c|gym-leader|Roxie
---Virbank City|3_c||Brycen
+--Virbank City|o2_n||Brawly
+--Virbank City Gym|2_n|gym-leader|Roxie
+--Virbank City|3_n||Brycen
 
 Virbank Complex|spearow,ekans,electrike,zigzagoon,nidoran-m,nidoran-f,shellos,makuhita,tyrogue,buizel,audino,frillish,alomomola,basculin-red-stripe,tentacruel,tentacool,jellicent,finneon,corphish,qwilfish,magnemite,croagunk,growlithe,voltorb,elekid,magby,koffing,shinx,wooper,pawniard,slugma,klink,pichu,porygon,castform,beldum
 
@@ -27,14 +29,13 @@ Castelia City|eevee,cottonee,petilil,roselia,munna,oddish,buneary,snubbull,skitt
 Castelia Sewers|grimer,koffing,rattata,zubat,gulpin,trubbish,spinarak,gastly,slowpoke,stunfisk,palpitoad,seismitoad,muk
 
 
---Café Sonata|o3_c||Wattson
---Castelia City Gym|4_c|gym-leader|Burgh
+--Café Sonata|o3_n||Wattson
+--Castelia City Gym|4_n|gym-leader|Burgh
 
 
 Relic Passage|rhyhorn,diglett,geodude,onix,timburr,nincada,whismur,aron,woobat,paras,roggenrola,clefairy,gible,larvitar,boldore,drilbur,gurdurr,loudred,dugtrio,graveler,meditite,parasect,excadrill,machoke,mawile,sableye,gabite,pupitar,swoobat,shellos,basculin-red-stripe,basculin-blue-stripe,gastrodon,Barboach,barboach,whiscash,krokorok,yamask,unown,lileep,omanyte,anorith,kabuto,cofagrigus,cranidos,tirtouga,shieldon,archen,baltoy,claydol,aerodactyl,darmanitan-zen,volcarona
 
-Route 4|mandibuzz,dwebble,darumaka,sandile,scraggy,numel,sandshrew,hippopotas,cacnea,elgyem,trapinch,tentacool,alomomola,frillish,tentacruel,relicanth,luvdisc,clamperl
-# Route 4|braviary,dwebble,darumaka,sandile,scraggy,numel,sandshrew,hippopotas,cacnea,elgyem,trapinch,tentacool,alomomola,frillish,tentacruel,relicanth,luvdisc,clamperl
+Route 4|braviary,dwebble,darumaka,sandile,scraggy,numel,sandshrew,hippopotas,cacnea,elgyem,trapinch,tentacool,alomomola,frillish,tentacruel,relicanth,luvdisc,clamperl
 
 --Route 4|col1|evil-team|Colress
 
@@ -43,14 +44,14 @@ Desert Resort|scraggy,dwebble,darumaka,sandile,sigilyph,vullaby,maractus,rufflet
 Relic Castle|baltoy,yamask,elgyem,numel,golett,bronzor,chingling,onix,cubone,litwick
 
 
---Nimbasa City Gym|5_c|gym-leader|Lenora
+--Nimbasa City Gym|5_n|gym-leader|Lenora
 
 --Nimbasa Subway|emin|rival|Ingo & Emmet
 --Nimbasa Subway|natros|rival|Nate & Rosa
 
 Anville Town|turtwig,chimchar,piplup
 
---Big Stadium|o4_c||Flannery
+--Big Stadium|o4_n||Flannery
 
 
 Route 5|solosis,gothita,ponyta,doduo,stantler,blitzle,natu,Farfetch'd,plusle,miltank,minun,bouffalant,pikachu,pachirisu,smeargle,audino,emolga
@@ -60,7 +61,7 @@ Route 16|solosis,gothita,stunky,sawk,glameow,throh,drowzee,hoothoot,lickitung,sh
 Lostlorn Forest|combee,exeggcute,pinsir,murkrow,slakoth,misdreavus,carnivine,vigoroth,roselia,heracross,scyther,breloom,audino,emolga,pansage,pansear,panpour,vespiquen,nidorina,nidorino,roserade,buizel,basculin-blue-stripe,basculin-red-stripe,floatzel,psyduck
 
 
---Nimbasa City Gym|6_c|gym-leader|Elesa
+--Nimbasa City Gym|6_n|gym-leader|Elesa
 --Nimbasa City|charles|gym-leader|Charles
 
 
@@ -70,9 +71,9 @@ Driftveil City|turtwig,chimchar,piplup
 Route 6|deerling,foongus,yanma,tranquill,shelmet,karrablast,pidgeotto,sudowoodo,marill,mr-mime,bonsly,mime-jr,audino,emolga,dunsparce,unfezant,castform,Corsola,yanmega,azumarill,basculin-red-stripe,basculin-blue-stripe,chinchou,tentacool,barboach,vanillite,snover,seel,dewgong
 
 --Route 6|rood||Rood
---Route 6|o5_c||Norman
+--Route 6|o5_n||Norman
 
---Driftveil City Gym|7_c|gym-leader|Clay
+--Driftveil City Gym|7_n|gym-leader|Clay
 
 Clay Tunnel|sandshrew,sandslash,woobat,shuckle,golbat,onix,lairon,diglett,golett,azumarill,palpitoad,seel,feebas,barboach
 
@@ -82,21 +83,21 @@ Chargestone Cave|nosepass,klink,geodude,ferroseed,diglett,boldore,magnemite,jolt
 
 Route 7|yanma,zebstrika,deerling,sawsbuck,watchog,phanpy,donphan,aipom,furret,kecleon,zangoose,seviper,spinda,audino,cubchoo,beartic,snorunt,sneasel
 
---Twist Mountain|col2_c||Colress
+--Twist Mountain|col2_n||Colress
 --Route 6|r2||Hugh
 
 Celestial Tower|litwick,cubone,elgyem,chingling,shuppet,duskull,bronzor,haunter,murkrow,misdreavus,chimecho,lampent,noctowl,marowak,drifblim,dusclops,beheeyem,banette,bronzong
 
 Reversal Mountain - Outside|spoink,grumpig,cacturne,camerupt,drifblim,skorupi,drapion,numel,rhydon,rhyhorn,skarmory,torkoal,gligar,trapinch,audino,mienfoo,wooper,boldore,quagsire,druddigon,magcargo,throh,sawk,golduck
 
---Reversal Mountain|bianca_c||Bianca
+--Reversal Mountain|bianca_n||Bianca
 
 Strange House|litwick,shuppet,banette,gothorita,duosion,duskull,dusclops,drowzee,hypno,kirlia,bronzong,spiritomb
 
 Undella Town|frillish,staryu,basculin-blue-stripe,basculin-red-stripe,jellicent,remoraid,tentacool,luvdisc,cloyster
 
 
---Undella Town|r3_c|rival|Hugh
+--Undella Town|r3_n|rival|Hugh
 
 
 Undella Bay|frillish,mantyke,wailmer,wailord,sealeo,spheal,remoraid,horsea,chinchou,octillery,lanturn,jellicent
@@ -113,7 +114,7 @@ Route 13|tangela,swellow,golbat,lunatone,solrock,hoppip,skiploom,wingull,linoone
 
 Route 12|ponyta,rapidash,combee,beautifly,dustox,girafarig,cherubi,Cherrim -s,heracross,pinsir,doduo,dodrio,staravia,audino,emolga,dunsparce,staraptor
 
---Route 12|benga_c||Benga
+--Route 12|benga_n||Benga
 
 Village Bridge|exeggcute,ducklett,bibarel,marill,rufflet,braviary,vullaby,mandibuzz,volbeat,zangoose,illumise,seviper,farfetchd,chatot,audino,emolga,dunsparce,exeggutor,azumarill,swanna,basculin-blue-stripe,lapras,carvanha,basculin-red-stripe,sharpedo,
 
@@ -122,8 +123,8 @@ Route 11|shelmet,karrablast,golduck,fearow,zangoose,seviper,marill,amoonguss,gli
 Route 9|poochyena,mightyena,houndour,houndoom,garbodor,gothorita,duosion,swalot,bisharp,kirlia,weepinbell,victreebel,munchlax,audino,emolga,gothitelle,reuniclus
 
 
---Opelucid City|o7_c||Winona
---Opelucid City Gym|9_c|gym-leader|Drayden
+--Opelucid City|o7_n||Winona
+--Opelucid City Gym|9_n|gym-leader|Drayden
 --Opelucid City|zinz2|evil-team|Zinzolin & Grunt
 
 
@@ -132,21 +133,21 @@ Route 21|shellder,staryu,basculin-blue-stripe,cloyster,relicanth
 Humilau City|clamperl,alomomola,tentacool,tentacruel,luvdisc,huntail,gorebyss
 
 
---Humilau City|o8_c||Tate & Liza
---Humilau City Gym|10_c|gym-leader|Marlon
+--Humilau City|o8_n||Tate & Liza
+--Humilau City Gym|10_n|gym-leader|Marlon
 
 
 Route 22|mienfoo,mienshao,amoonguss,weepinbell,gloom,venomoth,piloswine,ledian,ariados,parasect,delibird,audino,emolga,vileplume,victreebel,bellossom,mamoswine,terrakion,lotad,lombre,surskit,masquerain,goldeen,basculin-blue-stripe,basculin-red-stripe,seaking
 
 Team Plasma Safehouse|zorua 
---Containment Room|zinz3_c|evil-team|Zinzolin & grunt
---Plasma Frigate|zinz4_c|evil-team|Zinzolin
---Plasma Frigate|col3_c|evil-team|Colress
+--Containment Room|zinz3_n|evil-team|Zinzolin & grunt
+--Plasma Frigate|zinz4_n|evil-team|Zinzolin
+--Plasma Frigate|col3_n|evil-team|Colress
 
 
 Giants Chasm|tangela,swellow,golbat,lunatone,solrock,clefairy,vanillish,piloswine,audino,vanilluxe,mamoswine,clefable,crobat,delibird,boldore,jynx,cryogonal,sneasel,shellos,seel,gastrodon,dewgong,shellder,cloyster,ditto,metang,snorunt,abomasnow,snover,kyurem
 
---Giant Chasm|ghetsis_c|evil-team|Ghetsis
+--Giant Chasm|ghetsis_n|evil-team|Ghetsis
 
 
 Route 23|bouffalant,mienfoo,mienshao,sawk,throh,vullaby,mandibuzz,rufflet,braviary,tropius,amoonguss,gligar,tauros,audino,emolga,wooper,shellos,quagsire,gastrodon,krabby,basculin-blue-stripe,basculin-red-stripe,kingler
@@ -156,27 +157,27 @@ Route 23|bouffalant,mienfoo,mienshao,sawk,throh,vullaby,mandibuzz,rufflet,bravia
 --Victory Road|o9_sun||Sun Trainer Elmer
 --Victory Road|o9_rain||Rain Trainer Porta
 --Victory Road|o9_sand||Sand Trainer Sterling
-#--Victory Road|o9_c||Lance
+#--Victory Road|o9_n||Lance
 
 
 Victory Road|absol,golurk,banette,dusclops,hypno,lampent,gothorita,duosion,basculin-blue-stripe,marill,basculin-red-stripe,azumarill,frillish,tranquill,altaria,persian,scrafty,onix,skarmory,fearow,mandibuzz,braviary,audino,dunsparce,unfezant,buizel,floatzel,cottonee,petilil,nuzleaf,lombre,carnivine,roselia,exeggcute,vigoroth,venomoth,forretress,panpour,pansear,pansage,roserade,slaking,ludicolo,shiftry,boldore,donphan,lairon,durant,magneton,heatmor,kadabra,rhydon,ursaring,parasect,graveler,wobbuffet,mawile,sableye,golbat,electrode,ditto,excadrill,gurdurr,machoke,throh,sawk,nidorino,nidorina,medicham,primeape,riolu,nidoqueen,nidoking,lucario,druddigon,magmar,steelix,electabuzz,kangaskhan,arbok,shelgon,zweilous,fraxure,gabite,woobat,swoobat,hariyama,pupitar,loudred,bisharp
 
 
---Victory Road|r4_c|rival|Hugh
+--Victory Road|r4_n|rival|Hugh
 
---Pokémon League W Room|e1_c|elite-four|Shauntal
-
-
---Pokémon League NW Room|e2_c|elite-four|Grimsley
+--Pokémon League W Room|e1_n|elite-four|Shauntal
 
 
---Pokémon League NE Room|e3_c|elite-four|Caitlin
+--Pokémon League NW Room|e2_n|elite-four|Grimsley
 
 
---Pokémon League E Room|e4_c|elite-four|Marshal
+--Pokémon League NE Room|e3_n|elite-four|Caitlin
 
 
---Pokémon League Champion|champ_c|elite-four|Iris
+--Pokémon League E Room|e4_n|elite-four|Marshal
+
+
+--Pokémon League Champion|champ_n|elite-four|Iris
 
 
 # Post game locations 

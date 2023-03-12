@@ -33,8 +33,7 @@ Castelia Sewers|grimer,koffing,rattata,zubat,gulpin,trubbish,spinarak,gastly,slo
 
 Relic Passage|rhyhorn,diglett,geodude,onix,timburr,nincada,whismur,aron,woobat,paras,roggenrola,clefairy,gible,larvitar,boldore,drilbur,gurdurr,loudred,dugtrio,graveler,meditite,parasect,excadrill,machoke,mawile,sableye,gabite,pupitar,swoobat,shellos,basculin-red-stripe,basculin-blue-stripe,gastrodon,Barboach,barboach,whiscash,krokorok,yamask,unown,lileep,omanyte,anorith,kabuto,cofagrigus,cranidos,tirtouga,shieldon,archen,baltoy,claydol,aerodactyl,darmanitan-zen,volcarona
 
-Route 4|mandibuzz,dwebble,darumaka,sandile,scraggy,numel,sandshrew,hippopotas,cacnea,elgyem,trapinch,tentacool,alomomola,frillish,tentacruel,relicanth,luvdisc,clamperl
-# Route 4|braviary,dwebble,darumaka,sandile,scraggy,numel,sandshrew,hippopotas,cacnea,elgyem,trapinch,tentacool,alomomola,frillish,tentacruel,relicanth,luvdisc,clamperl
+Route 4|braviary,dwebble,darumaka,sandile,scraggy,numel,sandshrew,hippopotas,cacnea,elgyem,trapinch,tentacool,alomomola,frillish,tentacruel,relicanth,luvdisc,clamperl
 
 --Route 4|col1|evil-team|Colress
 
