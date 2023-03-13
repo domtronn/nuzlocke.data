@@ -1,4 +1,4 @@
-crestarter|bulbasaur,squirtle,charmander,chikorita,cyndaquil,totodile,treecko,torchic,mudkip,turtwig,chimchar,piplup,snivy,tepig,oshawott,chespin,fennekin,froakie,rowlet,litten,popplio,grookey,scorbunny,sobble,fuecoco,sprigatito,quaxly
+Starter|bulbasaur,squirtle,charmander,chikorita,cyndaquil,totodile,treecko,torchic,mudkip,turtwig,chimchar,piplup,snivy,tepig,oshawott,chespin,fennekin,froakie,rowlet,litten,popplio,grookey,scorbunny,sobble,fuecoco,sprigatito,quaxly
 Pallet Town|tentacool,binacle,barboach,carvanha,qwilfish,luvdisc,clamperl,whiscash,tentacruel
 
 --Oak's Laboratory|r1|rival|Gary
