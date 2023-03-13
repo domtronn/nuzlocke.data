@@ -16,7 +16,7 @@ Dewford Town|tentacool,magikarp,wingull,pelipper,wailmer
 Route 106|tentacool,krabby,magikarp,wingull,pelipper,wailmer,frillish,skrelp
 Granite Cave|zubat,abra,geodude,onix,makuhita,nosepass,mawile,aron,timburr,axew
 Route 107|tentacool,krabby,magikarp,chinchou,lanturn,wingull,pelipper,wailmer,clamperl,relicanth,frillish,skrelp
-Slateport City|tentacool,magikarp,wingull,pelipper,wailmer
+Slateport City|tentacool,magikarp,wingull,pelipper,wailmer,pikachu-libre,pikachu-belle,pikachu-phd,pikachu-rockstar,pikachu-pop-star
 Route 110|oddish,tentacool,magnemite,voltorb,magikarp,zigzagoon,wingull,pelipper,electrike,plusle,minun,gulpin,wailmer,shellos,chatot,trubbish
 --Route 110|r2|rival|Rival
 New Mauville|magnemite,voltorb

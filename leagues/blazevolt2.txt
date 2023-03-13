@@ -110,13 +110,13 @@ serperior|56|leaf-storm,glare,dragon-pulse,leech-seed|contrary|sitrus-berry
 samurott|56|swords-dance,aqua-jet,megahorn,wave-crash|shell-armor|life-orb
 emboar|56|flare-blitz,wild-charge,head-smash,high-horsepower|mold-breaker|fire-gem
 
---emin|Emmet & Ingo||
+--emin|Emmet & Ingo||/leaders/blazevolt-ingo-emmet
 eelektross|34|thunderbolt,brick-break,protect,thunder-wave|levitate|magnet
 chandelure|34|heat-wave,hex,protect,will-o-wisp|flash-fire|charcoal
 umbreon|34|helping-hand,foul-play,fake-tears,assurance|synchronize|leftovers
 espeon|34|psychic,dazzling-gleam,power-gem,aura-sphere|magic-bounce|psychic-gem
 
---natros|Nate & Rosa||TODO
+--natros|Nate & Rosa||/leaders/blazevolt-nate-rosa
 servine|31|body-slam,leech-seed,giga-drain,mirror-coat|contrary|sitrus-berry|fire
 simipour|30|tickle,aqua-tail,acrobatics,crunch|gluttony|sitrus-berry|fire
 pignite|31|arm-thrust,high-horsepower,take-down,heat-crash|sheer-force|sitrus-berry|water
@@ -125,35 +125,35 @@ dewott|31|razor-shell,aqua-jet,dual-chop,storm-throw|shell-armor|sitrus-berry|gr
 simisear|30|tickle,fire-lash,acrobatics,crunch|gluttony|sitrus-berry|grass
 
 # Optional mini bosses
---o1_n|Roxanne|rock|TODO
+--o1_n|Roxanne|rock|/leaders/blazevolt-roxanne
 geodude|10|rock-tomb,sandstorm,tackle,stealth-rock|sturdy|
 nosepass|11|rock-tomb,tackle|sand-force|
 
---o1_c|Roxanne|rock|TODO
+--o1_c|Roxanne|rock|/leaders/blazevolt-roxanne
 anorith|11|rock-tomb,metal-claw,bug-bite,knock-off|battle-armor|metronome
 lileep|11|rock-tomb,grass-knot,brine,ingrain|suction-cups|absorb-bulb
 nosepass|13|rock-tomb,rock-smash,shock-wave,rest|magnet-pull|chesto-berry
 archen|11|rock-tomb,wing-attack,bite,dragon-breath|defeatist|cell-battery
 
---o2_n|Brawly|fighting|TODO
+--o2_n|Brawly|fighting|/leaders/blazevolt-brawly
 machop|17|bulk-up,karate-chop,low-kick,seismic-toss|steadfast|
 meditite|17|bulk-up,focus-punch,reflect,light-screen|pure-power|light-clay
 makuhita|18|bulk-up,arm-thrust,vital-throw,reversal|thick-fat|sitrus-berry
 
---o2_c|Brawly|fighting|TODO
+--o2_c|Brawly|fighting|/leaders/blazevolt-brawly
 monferno|19|stealth-rock,fire-lash,rock-tomb,double-kick|blaze|focus-sash
 meditite|19|thunder-punch,rock-smash,psycho-cut,bullet-punch|pure-power|coba-berry
 machop|19|bulk-up,dynamic-punch,rock-slide,bullet-punch|no-guard|cheri-berry
 sawk|19|reversal,rock-tomb,dual-chop,payback|sturdy|salac-berry
 makuhita|20|bulk-up,revenge,fire-punch,ice-punch|sheer-force|berry-juice
 
---o3_n|Wattson|electric|TODO
+--o3_n|Wattson|electric|/leaders/blazevolt-wattson
 voltorb|25|rollout,spark,self-destruct,shock-wave|soundproof|
 electrike|25|quick-attack,thunder-wave,shock-wave,howl|static|
 magneton|25|supersonic,shock-wave,thunder-wave,sonic-boom|magnet-pull|
 manectric|26|quick-attack,thunder-wave,shock-wave,howl|intimidate|sitrus-berry
 
---o3_c|Wattson|electric|TODO
+--o3_c|Wattson|electric|/leaders/blazevolt-wattson
 jolteon|27|volt-switch,grass-knot,double-kick,shadow-ball|volt-absorb|shuca-berry
 rotom-frost>rotom-frost|27|volt-switch,blizzard,hex,trick|levitate|lagging-tail
 magneton|27|volt-switch,flash-cannon,bug-buzz,tri-attack|sturdy|eviolite
@@ -190,14 +190,14 @@ zangoose|43|facade,close-combat,night-slash,protect|toxic-boost|toxic-orb
 slaking|44|giga-impact,earthquake,hammer-arm,ice-punch|truant|normal-gem
 linoone|43|extreme-speed,belly-drum,shadow-claw,seed-bomb|gluttony|sitrus-berry
 
---o6_n|Juan|water|TODO
+--o6_n|Juan|water|/leaders/blazevolt-juan
 luvdisc|50|water-pulse,attract,lovely-kiss,moonblast|swift-swim|
 whiscash|50|rain-dance,waterfall,amnesia,earthquake|hydration|damp-rock
 kingdra|50|hydro-pump,ice-beam,rain-dance,rest|swift-swim|chesto-berry
 walrein|50|encore,body-slam,aurora-beam,water-pulse|thick-fat|
 crawdaunt|51|crabhammer,dragon-dance,crunch,aqua-jet|adaptability|
 
---o6_c|Juan|water|TODO
+--o6_c|Juan|water|/leaders/blazevolt-juan
 swampert|53|hammer-arm,rock-slide,waterfall,high-horsepower|torrent|rindo-berry
 slowking|53|ice-beam,muddy-water,psychic,trick-room|regenerator|lum-berry
 pelipper|53|hurricane,hydro-pump,ice-beam,u-turn|drizzle|flying-gem
@@ -205,7 +205,7 @@ starmie|53|hydro-pump,ice-beam,thunder,trick-room|analytic|wacan-berry
 crawdaunt|54|aqua-jet,crunch,crabhammer,close-combat|adaptability|life-orb
 azumarill|53|aqua-jet,ice-punch,belly-drum,play-rough|huge-power|sitrus-berry
 
---o7_n|Winona|flying|
+--o7_n|Winona|flying|/leaders/blazevolt-winona
 ninjask|58|swords-dance,baton-pass,protect,x-scissor|speed-boost|focus-sash
 altaria|59|brave-bird,dragon-dance,outrage,play-rough|cloud-nine|leftovers
 swellow|58|protect,brave-bird,quick-attack,facade|guts|life-orb
@@ -213,7 +213,7 @@ noctowl|58|hurricane,esper-wing,moonblast,nasty-plot|tinted-lens|colbur-berry
 skarmory|58|brave-bird,rock-slide,steel-wing,swords-dance|weak-armor|wacan-berry
 tropius|58|earthquake,leaf-blade,dual-wingbeat,dragon-dance|harvest|sitrus-berry
 
---o7_c|Winona|flying|
+--o7_c|Winona|flying|/leaders/blazevolt-winona
 dragonite|62|hurricane,earthquake,thunder,icy-wind|multiscale|flying-gem
 mantine|62|hydro-pump,hurricane,confuse-ray,tailwind|swift-swim|wacan-berry
 rotom-fan>rotom-fan|62|thunder,electroweb,air-slash,rain-dance|motor-drive|electric-gem
@@ -221,13 +221,13 @@ pelipper|62|hydro-pump,hurricane,soak,ice-beam|drizzle|sitrus-berry
 altaria|63|brave-bird,earthquake,play-rough,dragon-dance|natural-cure|life-orb
 drifblim|62|protect,hurricane,thunder,shadow-ball|flare-boost|flame-orb
 
---o8_n|Tate & Liza|psychic|/leaders/rs-tate-liza
+--o8_n|Tate & Liza|psychic|/leaders/blazevolt-tate-liza
 reuniclus|62|trick-room,psychic,focus-blast,energy-ball|magic-guard|
 gothitelle|62|fake-out,ally-switch,night-daze,psyshock|frisk|
 lunatone|63|cosmic-power,stored-power,power-gem,night-daze|levitate|sitrus-berry
 solrock|63|psyshield-bash,helping-hand,rock-slide,hypnosis|levitate|sitrus-berry
 
---o8_c|Tate & Liza|psychic|/leaders/rs-tate-liza
+--o8_c|Tate & Liza|psychic|/leaders/blazevolt-tate-liza
 mr-mime|66|trick-room,dazzling-gleam,baton-pass,aura-sphere|filter|lum-berry
 claydol|66|scorching-sands,extrasensory,shadow-ball,ice-beam|levitate|kasib-berry
 lunatone|67|psychic,ice-beam,earth-power,power-gem|levitate|rock-gem
@@ -237,7 +237,7 @@ medicham|66|high-jump-kick,zen-headbutt,ice-punch,bullet-punch|pure-power|life-o
 jynx|66|aura-sphere,psyshock,ice-beam,draining-kiss|trace|focus-sash
 beheeyem|66|mystical-fire,trick-room,thunderbolt,psychic|analytic|colbur-berry
 
---o9_hail|Hail Trainer Caroll||
+--o9_hail|Hail Trainer Caroll||/leaders/blazevolt-caroll
 abomasnow|72|blizzard,ice-shard,focus-blast,wood-hammer|snow-warning|occa-berry
 reuniclus|72|psychic,energy-ball,shadow-ball,focus-blast|magic-guard|leftovers
 weavile|72|icicle-crash,aerial-ace,night-slash,ice-shard|pressure|focus-sash
@@ -245,7 +245,7 @@ vanilluxe|72|blizzard,power-gem,extrasensory,dazzling-gleam|snow-warning|life-or
 cloyster|72|shell-smash,icicle-spear,rock-blast,hydro-pump|skill-link|white-herb
 jynx|72|blizzard,lovely-kiss,aura-sphere,psyshock|trace|ice-gem
 
---o9_sun|Sun Trainer Elmer||
+--o9_sun|Sun Trainer Elmer||/leaders/blazevolt-elmer
 torkoal|72|stealth-rock,yawn,solar-beam,lava-plume|drought|red-card
 darmanitan-standard|72|flare-blitz,lunge,earthquake,rock-slide|sheer-force|fire-gem
 venusaur|72|giga-drain,growth,weather-ball,earth-power|chlorophyll|life-orb
@@ -254,7 +254,7 @@ volcarona|72|quiver-dance,fiery-dance,bug-buzz,giga-drain|flame-body|focus-sash
 victreebel|72|growth,solar-beam,weather-ball,sludge-bomb|chlorophyll|occa-berry
 
 
---o9_rain|Rain Trainer Porta||
+--o9_rain|Rain Trainer Porta||/leaders/blazevolt-porta
 pelipper|72|scald,hurricane,u-turn,ice-beam|drizzle|wacan-berry
 seismitoad|72|earthquake,drain-punch,sludge-wave,ice-punch|swift-swim|rindo-berry
 electrode|72|thunder,aura-sphere,energy-ball,bug-buzz|aftermath|air-balloon
@@ -262,7 +262,7 @@ politoed|72|hypnosis,hydro-pump,psychic,focus-blast|drizzle|zoom-lens
 scizor|72|crabhammer,bullet-punch,psycho-cut,u-turn|technician|leftovers
 kingdra|72|hydro-pump,hurricane,dragon-pulse,ice-beam|swift-swim|life-orb
 
---o9_sand|Sand Trainer Sterline||
+--o9_sand|Sand Trainer Sterline||/leaders/blazevolt-sterline
 hippowdon|72|earthquake,stealth-rock,ice-fang,stone-edge|sand-stream|passho-berry
 garchomp|72|dragon-claw,earthquake,flamethrower,brick-break|rough-skin|yache-berry
 excadrill|72|earthquake,iron-head,swords-dance,x-scissor|sand-rush|air-balloon
@@ -426,24 +426,24 @@ starmie|67|thunder,hydro-pump,psychic,ice-beam|analytic|rindo-berry
 kingdra|68|muddy-water,dragon-pulse,hurricane,flash-cannon|swift-swim|water-gem
 
 # Evil Team
---col1|Colress|steel|/leaders/blwh-colress
+--col1|Colress||/leaders/blwh-colress
 magnemite|26|volt-switch,flash-cannon,thunder-wave,signal-beam|sturdy|air-balloon
 rotom-fan>rotom-fan|26|signal-beam,air-slash,dark-pulse,thunderbolt|motor-drive|wise-glasses
 klink|26|autotomize,gear-grind,wild-charge,flame-wheel|levitate|life-orb
 metang|26|bullet-punch,rock-tomb,zen-headbutt,bulldoze|clear-body|occa-berry
 porygon2|28|recover,tri-attack,charge-beam,psyshock|trace|eviolite
 
---col2_n|Colress|steel|/leaders/blwh-colress
+--col2_n|Colress||/leaders/blwh-colress
 f00|52|strength,iron-head,thunderbolt,agility|volt-absorb|chople-berry
 mt|52|iron-tail,stone-edge,crunch,ice-punch|analytic|leftovers
 
---col2_c|Colress|steel|/leaders/blwh-colress
+--col2_c|Colress||/leaders/blwh-colress
 mt|53|iron-head,stealth-rock,whirlwind,aqua-tail|analytic|red-card
 ufo|53|volt-switch,psychic,aeroblast,recover|magic-bounce|leftovers
 f00|53|u-turn,extreme-speed,thunder-wave,needle-arm|volt-absorb|chople-berry
 mt2|53|shift-gear,meteor-mash,earthquake,wild-charge|flash-fire|air-balloon
 
---col3_n|Colress|steel|/leaders/blwh-colress
+--col3_n|Colress||/leaders/blwh-colress
 beheeyem|65|bug-buzz,mystical-fire,psychic,destiny-bond|analytic|colbur-berry
 rotom-wash>rotom-wash|65|volt-switch,will-o-wisp,hydro-pump,thunderbolt|levitate|focus-sash
 magnezone|65|volt-switch,bug-buzz,thunderbolt,flash-cannon|sturdy|air-balloon
@@ -451,7 +451,7 @@ metagross|65|meteor-mash,shift-gear,ice-punch,zen-headbutt|iron-fist|occa-berry
 porygon-z|65|nasty-plot,thunderbolt,hyper-beam,ice-beam|adaptability|custap-berry
 klinklang|66|gear-grind,shift-gear,wild-charge,high-horsepower|levitate|life-orb
 
---col3_c|Colress|steel|/leaders/blwh-colress
+--col3_c|Colress||/leaders/blwh-colress
 beheeyem|69|bug-buzz,mystical-fire,psychic,destiny-bond|analytic|colbur-berry
 rotom-wash>rotom-wash|69|volt-switch,will-o-wisp,hydro-pump,thunderbolt|levitate|focus-sash
 magnezone|69|volt-switch,bug-buzz,thunderbolt,flash-cannon|sturdy|air-balloon
@@ -512,7 +512,7 @@ golem|66|rock-slide,accelerock,thunder-punch,steamroller|sturdy|rock-gem
 weavile|68|knock-off,icicle-crash,ice-shard,low-kick|pressure|life-orb
 carnivine|66|power-whip,rage-powder,sleep-powder,knock-off|levitate|focus-sash
 
---zinz4_n|Zinzolin||/leaders/blwh-zinzolin
+--zinz4_n|Zinzolin|evil-team|/leaders/blwh-zinzolin
 vanilluxe|65|dazzling-gleam,blizzard,power-gem,flash-cannon|snow-warning|focus-sash
 cryogonal|65|blizzard,reflect,light-screen,hail|levitate|light-clay
 froslass|65|blizzard,hex,will-o-wisp,destiny-bond|snow-cloak|ice-gem
@@ -530,13 +530,13 @@ weavile|70|night-slash,triple-axel,fake-out,low-kick|pressure|life-orb
 
 # Other
 
---benga_n|Benga||TODO
+--benga_n|Benga||/leaders/blazevolt-benga
 garchomp|55|stealth-rock,breaking-swipe,roar,stealth-rock|rough-skin|rocky-helmet
 metagross|55|bullet-punch,agility,meteor-mash,zen-headbutt|iron-fist|focus-sash
 emboar|55|flame-charge,earthquake,sucker-punch,wild-charge|mold-breaker|passho-berry
 conkeldurr|56|focus-punch,substitute,mach-punch,payback|guts|flame-orb
 
---benga_c|Benga||TODO
+--benga_c|Benga||/leaders/blazevolt-benga
 metagross|61|stealth-rock,bullet-punch,ice-punch,fire-punch|iron-fist|focus-sash
 garchomp|61|swords-dance,earthquake,dragon-claw,stone-edge|rough-skin|wide-lens
 emboar|61|v-create,earthquake,sucker-punch,wild-charge|mold-breaker|passho-berry

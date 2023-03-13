@@ -1,10 +1,10 @@
 --fakemon
 # stats|name|alias|type|sprite|evoline>evos
 # New pokemon
-100,100,100,100,100,100|MT|mt|steel||mt
-100,100,100,100,100,100|MT2|mt2|steel,electric||mt
-100,100,100,100,100,100|F-00|f00|steel,normal||f00
-100,100,100,100,100,100|UFO|ufo|flying,electric||ufo
+100,100,100,100,100,100|MT|mt|steel|/blazevolt/mt|mt
+100,100,100,100,100,100|MT2|mt2|steel,electric|/blazevolt/mt2|mt
+100,100,100,100,100,100|F-00|f00|steel,normal|/blazevolt/f00|f00
+100,100,100,100,100,100|UFO|ufo|flying,electric|/blazevolt/ufo|ufo
 
 --pokemon
 ,87,85,103|venusaur|

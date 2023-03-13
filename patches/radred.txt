@@ -230,6 +230,12 @@ striker|This Pokemon's kick-based attacks have their power multiplied by 1.3.
 ,,,,55,80|arctozolt
 85|duraludon
 
+|pikachu-belle|electric,ice
+|pikachu-phd|electric,psychic
+|pikachu-libre|electric,fighting
+|pikachu-rockstar|electric,steel
+|pikachu-pop-star|electric,fairy
+
 --fakemon
 # stats|name|alias|type|sprite|evoline>evos
 # New pokemon
@@ -251,4 +257,7 @@ striker|This Pokemon's kick-based attacks have their power multiplied by 1.3.
 100,110,90,55,90,55|Seviian Ursaring|ursaring-sevii|ghost,fighting|/radred/ursaring-sevii|teddiursa
 60,20,20,25,15,35|Seviian Wishiwashi|wishiwashi-sevii|ghost|/radred/wishiwashi-sevii|wishwashi
 60,140,130,140,135,25|Seviian Wishiwashi|wishiwashi-sevii-school|ghost,dragon|/radred/wishiwashi-sevii-school|wishiwashi
+
+35,55,40,50,50,90|Flying Pikachu|pikachu-flying>pikachu|electric,flying|/radred/pikachu-flying|pikachu
+35,55,40,50,50,90|Surfing Pikachu|pikachu-surfing>pikachu|electric,water|/radred/pikachu-surfing|pikachu
 
