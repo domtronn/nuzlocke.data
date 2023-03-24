@@ -165,10 +165,10 @@ skarmory|33|sand-attack,steel-wing,air-cutter,aerial-ace|keen-eye
 altaria|35|earthquake,dragon-breath,cotton-guard,roost|natural-cure
 
 --7|Tate & Liza|psychic|/leaders/rs-tate-liza-oras@Brumirage@https://www.instagram.com/brumirage
-lunatone|45|light-screen,psychic,calm-mind,hypnosis
-solrock|45|sunny-day,rock-slide,psychic,solar-beam
+lunatone|45|light-screen,psychic,calm-mind,hypnosis|levitate
+solrock|45|sunny-day,rock-slide,psychic,solar-beam|levitate
 
---8|Wallace|Water|/leaders/rs-wallace-oras@Kyledove@https://www.deviantart.com/kyle-dove
+--8|Wallace|water|/leaders/rs-wallace-oras@Kyledove@https://www.deviantart.com/kyle-dove
 luvdisc|44|draining-kiss,sweet-kiss,attract,water-pulse|swift-swim
 whiscash|44|earthquake,mud-sport,zen-headbutt,waterfall|oblivious
 sealeo|44|encore,waterfall,aurora-beam,body-slam|thick-fat

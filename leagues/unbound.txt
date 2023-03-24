@@ -1,0 +1,249 @@
+# https://www.reddit.com/r/PokemonUnbound/comments/m36wno/hopefully_definitive_list_of_helpful_resources/
+
+######################
+#### Rival Fights ####
+######################
+
+## Fire -> Gible
+## Water -> Beldum
+## Grass -> Larvitar
+
+--r1|Rival||/leaders/unbound-axelrod@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+larvitar|10|leer,rock-throw,sandstorm,bite|guts||fire||timid
+gible|10|tackle,sand-attack,metal-claw|sand-veil||water||careful
+beldum|10|tackle,flash,double-iron-bash|clear-body||grass||brave
+
+--r2|Rival||/leaders/unbound-axelrod@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+swinub|12|mud-slap,powder-snow,flail,mud-sport|oblivious||||hardy
+larvitar|13|leer,rock-throw,sandstorm,bite|guts||fire||timid
+gible|13|tackle,sand-attack,metal-claw,metal-claw|sand-veil||water||careful
+beldum|13|tackle,flash,double-iron-bash|clear-body||grass||brave
+
+--r3|Rival||/leaders/unbound-axelrod@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+toucannon|32|pluck,fury-attack,rock-blast,roost|skill-link||||hardy
+swinub|32@6,,,252,,252|ice-shard,mud-bomb,flail,mist|oblivious||||timid
+pupitar|33|rock-tomb,dark-pulse,bulldoze,screech|guts||fire||hardy
+gabite|33|dual-chop,bulldoze,metal-claw,fire-fang|sand-veil||water||hardy
+metang|33|bullet-punch,confusion,pursuit,magnet-rise|clear-body||grass||hardy
+
+
+--r4|Rival||/leaders/unbound-axelrod@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+toucannon|45@6,252,252|drill-peck,fury-attack,rock-blast,roost|skill-link||||adamant
+mamoswine|46@6,252,,,252|ice-fang,bulldoze,flail,ice-shard|oblivious||||adamant
+vaporeon|46|water-pulse,aurora-beam,quick-attack,aqua-ring|water-absorb||||hardy
+
+pupitar|47|rock-slide,stomping-tantrum,crunch,screech|shed-skin|tyranitarite|fire||hardy
+gabite|47|dual-chop,bulldoze,fire-fang,hone-claws|sand-veil|garchompite|water||hardy
+metagross|47|bullet-punch,psychic,brick-break,magnet-rise|clear-body|metagrossite|grass||hardy
+
+fraxure|46|dual-chop,crunch,rock-tomb,dragon-dance|mold-breaker||fire||hardy
+fraxure|46|dual-chop,crunch,rock-tomb,dragon-dance|mold-breaker||grass||hardy
+aggron|46|iron-head,rock-slide,bulldoze,autotomize|sturdy||water||hardy
+
+--r5|Rival||/leaders/unbound-axelrod@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+toucannon|61@252,4,,,,252|drill-peck,hyper-voice,bullet-seed,screech|skill-link||||jolly
+mamoswine|63|ice-fang,earthquake,double-hit,amnesia|oblivious||||hardy
+vaporeon|62@252,,4,,252|hydro-pump,ice-beam,acid-armor,aqua-ring|water-absorb|sitrus-berry|||calm
+
+haxorus|63|dragon-claw,crunch,taunt,dragon-dance|mold-breaker||fire||hardy
+aggron|63|iron-tail,rock-slide,earthquake,metal-burst|sturdy||water||hardy
+haxorus|63|dragon-claw,crunch,taunt,dragon-dance|mold-breaker||grass||hardy
+
+tyranitar|65|stone-edge,crunch,earthquake,ice-punch|sand-stream|tyranitarite|fire||hardy
+garchomp|65|dragon-rush,stomping-tantrum,crunch,sandstorm|sand-veil/sand-force|garchompite|water||hardy
+metagross|65|iron-head,zen-headbutt,hammer-arm,agility|clear-body/tough-claws|metagrossite|grass||hardy
+
+#####################
+#### Gym Leaders ####
+#####################
+
+--1|Mirskle|grass|/leaders/unbound-mirskle@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+floette|21|fairy-wind,razor-leaf,grass-knot,echoed-voice|flower-veil|grass-gem|||hardy
+gloom|20|acid,mega-drain,sweet-scent,sleep-powder|chlorophyll||||hardy
+weedle|18@6,252,,,,252|bug-bite,electroweb,poison-sting,string-shot|shield-dust||||adamant
+
+--2|Vega|dark|/leaders/unbound-vega@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+liepard|26|thief,fury-swipes,pursuit,fake-out|limber||||hardy
+absol|27|thief,slash,feint,pursuit|pressure||||hardy
+sneasel|25|thief,icy-wind,metal-claw,fake-out|keen-eye|dark-gem|||hardy
+
+--3|Alice|flying|/leaders/unbound-alice@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+dodrio|32|aerial-ace,double-hit,steel-wing,quick-attack|early-bird||||hardy
+gliscor|31|bulldoze,aerial-ace,knock-off,fire-fang|hyper-cutter|flying-gem|||hardy
+crobat|33|venoshock,aerial-ace,bite,toxic|inner-focus||||hardy
+pinsir|33@4,,252,,,252|bug-bite,brick-break,double-hit,rock-tomb|mold-breaker||||jolly
+
+--4|Mel|normal|/leaders/unbound-mel@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+bewear|36|facade,low-sweep,brutal-swing,payback|fluffy||||hardy
+heliolisk|37|swift,parabolic-charge,bulldoze,thunder-wave|dry-skin||||hardy
+miltank|36@252,,252,,4|facade,fire-punch,zen-headbutt,milk-drink|scrappy|normal-gem|||72
+lopunny|37@252,4,,,,252|facade,double-kick,low-kick,fake-out|cute-charm||||jolly
+
+--5|Galavan|electric|/leaders/unbound-galavan@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+golem-alola|46|rock-slide,thunder-punch,bulldoze,steamroller|sturdy||||hardy
+magneton|44@252,,252,,4|discharge,flash-cannon,tri-attack,volt-switch|sturdy|eviolite|||bold
+eelektross|45|discharge,crunch,giga-drain,dragon-claw|levitate|electric-gem|||hardy
+manectric|46|discharge,flamethrower,ice-fang,volt-switch|lightning-rod/intimidate|manectite|||hardy
+lanturn|45@252,,252,,4|discharge,scald,signal-beam,thunder-wave|volt-absorb||||bold
+
+--6|Big Mo|fighting|/leaders/unbound-big-mo@Skeli@https://www.pokecommunity.com/showthread.php?t=382178-mo
+conkeldurr|52|drain-punch,stone-edge,chip-away,bulk-up|guts|protective-pads|||hardy
+pangoro|52@252,,252,,4|crunch,drain-punch,rock-slide,bullet-punch|iron-fist|fighting-gem|||impish
+mienshao|53|drain-punch,aura-sphere,knock-off,acrobatics|regenerator||||hardy
+hariyama|52@252,,252,,4|revenge,heavy-slam,knock-off,fake-out|guts||||impish
+lucario|53|aura-sphere,metal-claw,dragon-pulse,blaze-kick|steadfast/adaptability|lucarionite|||hardy
+
+--7|Tessy|water|/leaders/unbound-tessy@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+toxapex|56@252,,252,,4|venoshock,knock-off,haze,toxic-spikes|merciless||||bold
+armaldo|57@252,,252,,4|aqua-tail,x-scissor,bulldoze,accelerock|swift-swim||||impish
+kingdra|58|snipe-shot,dragon-pulse,focus-energy,agility|swift-swim|scope-lens|||hardy
+seismitoad|57|muddy-water,earthquake,drain-punch,stealth-rock|swift-swim|water-gem|||hardy
+gyarados|58|waterfall,dragon-dance,bulldoze,ice-fang|intimidate/mold-breaker|gyaradosite|||hardy
+
+--8|Benjamin|bug|/leaders/unbound-benjamin@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+araquanid|61@252,,252,,4|liquidation,leech-fang,mirror-coat,sticky-web|water-bubble||||impish
+forretress|62|pin-missile,counter,toxic-spikes,stealth-rock|sturdy|eviolite|||hardy
+drapion|61@252,,252,,4|cross-poison,night-slash,pin-missile,agility|sniper|bug-gem|||impish
+butterfree|62@4,,252,,,252|bug-buzz,hurricane,sleep-powder,quiver-dance|compound-eyes||||timid
+scizor|62|x-scissor,bullet-punch,wing-attack,agility|technician|scizorite|||hardy
+
+
+
+####################
+#### Elite four ####
+####################
+
+--e1|Moleman|ground|/leaders/unbound-moleman@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+excadrill|74|earthquake,iron-head,rock-slide,protect|sand-rush||||hardy
+flygon|76@6,,,252,,252|dragon-pulse,earth-power,heat-wave,boomburst|levitate|ground-gem|||modest
+sandslash|76@252,,4,,252|earthquake,rock-slide,leech-fang,protect|sand-rush||||careful
+quagsire|74@252,,4,,252|muddy-water,recover,yawn,protect|water-absorb|sitrus-berry|||calm
+gliscor|75|earthquake,rock-slide,acrobatics,roost|sand-veil||||hardy
+
+--e2|Elias|ghost|/leaders/unbound-elias@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+mimikyu-disguised|74|shadow-claw,play-rough,shadow-sneak,swords-dance|disguise||||hardy
+aegislash-shield|75@252,,252,,4|shadow-claw,sacred-sword,kings-shield,swords-dance|stance-change||||impish
+trevenant|75@252,,252,,4|poltergeist,horn-leech,leech-seed,will-o-wisp|harvest|sitrus-berry|||impish
+chandelure|76|shadow-ball,flamethrower,energy-ball,calm-mind|flash-fire||||hardy
+banette|76@252,,252,,4|poltergeist,sucker-punch,will-o-wisp,skitter-smack|insomnia/frisk/prankster|banettite|||impish
+
+--e3|Arabella|fairy|/leaders/unbound-arrabella@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+ribombee|74@6,,,252,,252|moonblast,reflect,light-screen,sticky-web|shield-dust|focus-sash|||timid
+sylveon|75@252,,4,,252|moonblast,mystical-fire,psyshock,calm-mind|cute-charm||||calm
+togekiss|75|air-slash,moonblast,aura-sphere,wish|serene-grace||||hardy
+azumarill|76@252,,4,,252|aqua-tail,play-rough,superpower,aqua-jet|huge-power||||careful
+mawile|76|iron-head,play-rough,sucker-punch,swords-dance|intimidate/huge-power|mawilite|||hardy
+
+--e4|Penny|dragon|/leaders/unbound-penny@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+goodra|74@252,,252,,4|dragon-breath,muddy-water,thunderbolt,sludge-bomb|sap-sipper||||bold
+tyrantrum|75@252,,4,,252|dragon-claw,head-smash,crunch,fire-fang|rock-head||||careful
+kommo-o|75@6,,,252,252|clanging-scales,aura-sphere,hyper-voice,protect|bulletproof||||modest
+hydreigon|76|dragon-breath,dark-pulse,charge-beam,tailwind|levitate|roseli-berry|||hardy
+sceptile|76|dragon-pulse,giga-drain,rock-slide,protect|overgrow/technician|sceptilite|||hardy
+
+--c|Jax||/leaders/unbound-jax@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+salamence|76|dragon-claw,hyper-voice,flamethrower,steel-wing|intimidate/aerilate|salamencite|||hardy
+hitmontop|74@252,,252,,4|close-combat,fake-out,helping-hand,wide-guard|intimidate|sitrus-berry|||impish
+magnezone|75|thunderbolt,flash-cannon,volt-switch,protect|sturdy|air-balloon|||hardy
+gastrodon|74@252,,252,,4|muddy-water,earth-power,icy-wind,protect|storm-drain|rindo-berry|||bold
+pyroar|76@6,,,252,,252|heat-wave,hyper-voice,scorching-sands,protect|unnerve|fire-gem|||modest
+staraptor|75|brave-bird,close-combat,u-turn,protect|intimidate|eject-pack|||hardy
+
+#######################
+#### Light of Ruin ####
+#######################
+
+--lr1|Ruin Agent Vega & Grunt
+liepard|45@4,,252,,,252|foul-play,grass-knot,u-turn,fake-out|limber||||timid
+floette|38|dazzling-gleam,petal-dance,misty-terrain,aromatherapy|flower-veil||||hardy
+honchkrow|46@4,,252,,,252|punishment,drill-peck,swagger,tailwind|super-luck|dark-gem|||jolly
+sylveon|39|moonblast,psych-up,skill-swap,last-resort|cute-charm||||hardy
+absol|47|night-slash,psycho-cut,ice-beam,protect|pressure/magic-bounce|absolite|||hardy
+ribombee|38|dazzling-gleam,bug-buzz,quiver-dance,switcheroo|honey-gather||||hardy
+
+--lr2|Ruin Leader Aklove
+klefki|51@252,,252,,4|play-rough,reflect,light-screen,thunder-wave|prankster|light-clay|||impish
+roserade|51@252,,252,,4|giga-drain,dazzling-gleam,leech-seed,protect|natural-cure|big-root|||bold
+primarina|52|sparkling-aria,dazzling-gleam,ice-beam,aqua-jet|torrent|rindo-berry|||hardy
+togekiss|52@252,,252,,4|air-slash,dazzling-gleam,aura-sphere,mystical-fire|serene-grace||||bold
+hoopa-unbound|53|zen-headbutt,knock-off,dual-chop,drain-punch|magician||||hardy
+
+--lr3|Ruin Admin Ivory
+toxicroak|60|poison-jab,drain-punch,ice-punch,sucker-punch|anticipation||||hardy
+mismagius|61|hex,mystical-fire,power-gem,will-o-wisp|levitate||||hardy
+incineroar|62@6,252,252|flare-blitz,darkest-lariat,drain-punch,thunder-punch|intimidate|assault-vest|||adamant
+alakazam|62|psychic,shadow-ball,energy-ball,dazzling-gleam|magic-guard/trace|alakazite|||hardy
+mandibuzz|61@252,,252,,4|foul-play,swagger,roost,whirlwind|overcoat||||bold
+
+--lr4|Ruin Leader Aklove
+klefki|60@252,,252,,4|foul-play,play-rough,reflect,thunder-wave|prankster|light-clay|||impish
+primarina|62|hydro-pump,dazzling-gleam,hyper-voice,protect|torrent||||hardy
+roserade|61|giga-drain,sludge-bomb,dazzling-gleam,protect|natural-cure||||hardy
+gardevoir|62@252,,,4,,252|psychic,dazzling-gleam,shadow-ball,moonblast|trace/pixilate|gardevoirite|||timid
+raichu|61@6,252,,,,252|volt-tackle,play-rough,brick-break,thunder-punch|lightning-rod|air-balloon|||adamant
+
+--lr5|Ruin Leader Aklove
+klefki|70@252,,128,,128|foul-play,thunder-wave,reflect,light-screen|prankster|light-clay|||calm
+primarina|74@252,,,252,,6|hyper-voice,dazzling-gleam,ice-beam,energy-ball|liquid-voice|kebia-berry|||modest
+roserade|72@6,,,252,,252|giga-drain,dazzling-gleam,hidden-power-fire,protect|technician|focus-sash|||timid
+togekiss|71@6,,,252,,252|air-slash,dazzling-gleam,follow-me,protect|serene-grace|babiri-berry|||timid
+raichu|73@6,252,,,,252|volt-tackle,play-rough,brick-break,surf|lightning-rod|air-balloon|||adamant
+gardevoir|74@252,,,252,,6|psyshock,hyper-voice,mystical-fire,protect|trace/pixilate|gardevoirite|||modest
+
+#####################
+#### Team Shadow ####
+#####################
+
+--sh1|Shadow Admin Marlon & Grunt
+duskull|26|shadow-sneak,payback,night-shade,destiny-bond|levitate||||hardy
+cacnea|27|needle-arm,feint-attack,thunder-punch,cut|sand-veil||||hardy
+swoobat|28|heart-stamp,air-cutter,assurance,roost|unaware||||hardy
+sableye|26|feint-attack,fake-out,disable,leer|prankster||||hardy
+
+--sh2|Shadow Admin Ivory
+misdreavus|33|hex,will-o-wisp,mean-look,confuse-ray|levitate||||hardy
+kadabra|34|psybeam,ice-punch,night-shade,miracle-eye|synchronize||||hardy
+vullaby|32|punishment,pluck,incinerate,flatter|overcoat||||hardy
+
+--sh3|Shadow Boss Zeph
+houndoom|33|incinerate,thunder-fang,sucker-punch,howl|flash-fire/solar-power|houndoominite|||hardy
+
+--sh4|Shadow Admin Ivory & Grunt
+incineroar|38@252,,252,,4|fire-fang,darkest-lariat,thunder-punch,double-kick|blaze||||impish
+gourgeist-large|35|seed-bomb,worry-seed,scary-face,trick-or-treat|pickup||||hardy
+mismagius|36@252,,252,,4|ominous-wind,mystical-fire,power-gem,magical-leaf|levitate||||impish
+raticate-alola|36|crunch,sucker-punch,hyper-fang,scary-face|gluttony||||hardy
+alakazam|37|psyshock,charge-beam,night-shade,recover|synchronize||||hardy
+
+--sh5|Shadow Admin Marlon
+zapdos|39|discharge,drill-peck,ancient-power,light-screen|pressure||||hardy
+dusclops|41@252,,252,,4|night-shade,ice-punch,confuse-ray,will-o-wisp|pressure|eviolite|||impish
+cacturne|40|needle-arm,sucker-punch,poison-jab,thunder-punch|water-absorb||||hardy
+swoobat|39@6,,,252,,252|esper-wing,air-slash,stored-power,calm-mind|unaware||||modest
+krookodile|41|stomping-tantrum,crunch,stone-edge,power-up-punch|intimidate|black-glasses|||hardy
+
+--sh6|Shadow Boss Zeph
+mightyena|45@6,252,,,,252|sucker-punch,take-down,fire-fang,swagger|intimidate||||jolly
+gengar|45|hex,venoshock,mean-look,hypnosis|levitate/shadow-tag|gengarite|||hardy
+umbreon|46@252,,128,,128|dark-pulse,confuse-ray,charm,moonlight|synchronize||||calm
+exploud|44|strength,crunch,ice-fang,roar|soundproof||||hardy
+decidueye|46|leaf-blade,spirit-shackle,low-sweep,u-turn|overgrow||||hardy
+
+--sh7|Ex-Shadow Admin Marlon
+krookodile|62@252,252,,,,6|earthquake,crunch,rock-slide,protect|intimidate|passho-berry|||adamant
+swoobat|60|psychic,air-slash,thunder-wave,helping-hand|unaware|focus-sash|||hardy
+machamp|61@252,252,,,,6|cross-chop,stone-edge,dual-chop,protect|no-guard||||adamant
+dusknoir|61|shadow-punch,brick-break,ice-punch,thunder-punch|iron-fist||||hardy
+sharpedo|62|liquidation,jaw-lock,poison-fang,protect|speed-boost/strong-jaw|sharpedonite|||hardy
+
+
+###################
+### Mini Bosses ###
+###################
+
+--mb1|Successor Maxima|fairy|/leaders/unbound-maxima@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
+wigglytuff|39|fire-punch,ice-punch,thunder-punch,wake-up-slap|huge-power||||hardy
+delphox|39|mystical-fire,psyshock,shadow-ball,dazzling-gleam|blaze||||hardy
+empoleon|40@252,4,,,,252|aqua-jet,bulldoze,aerial-ace,swords-dance|defiant||||jolly
+ninetales-alola|40|ice-beam,dazzling-gleam,dark-pulse,nasty-plot|snow-cloak||||hardy
+altaria|41|dragon-claw,body-slam,flamethrower,dragon-dance|natural-cure/pixilate|altarianite|||hardy

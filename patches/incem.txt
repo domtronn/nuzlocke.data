@@ -284,6 +284,7 @@ whiteout|Boosts the power of Ice-type attacks in Hail by 1.5×.
 ,,76,,92|trevenant
 ,44,,66|pumpkaboo
 ,58,,90|gourgeist
+,58,,90|gourgeist-large
 ,,,70,90,110|decidueye
 ,,95,,95|toucannon
 ,,80,,80|cumshoos

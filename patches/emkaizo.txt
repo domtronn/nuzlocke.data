@@ -1,0 +1,62 @@
+--move
+rock-smash||40| 
+drill-run||80|Has an increased chance for a critical hit
+pin-missile||15
+petal-dance||95|Has a 10% Chance to lower opponents Sp. Def
+earth-power||90|Has a 30% Chance to lower opponents Def
+egg-bomb|grass|120|Deals ⅓ damage as recoil to the user
+head-smash||150|Deals ⅓ damage as recoil to the user
+sky-attack||120|Deals ⅓ damage as recoil to the user
+superpower||120|Deals ⅓ damage as recoil to the user
+overheat||120|Deals ⅓ damage as recoil to the user
+dizzy-punch||90
+crabhammer||120|Has an increased chance for a critical hit
+super-fang|dark
+aeroblast||120
+octazooka||95
+bone-rush||100|No effect
+giga-drain||75
+wild-charge|||Deals ⅓ damage as recoil to the user
+fury-cutter|||Has an increased chance for a critical hit
+steel-wing||80
+return||103
+frustration||103
+sacred fire||120|Has a 50% chance to inflict burn. Will also thaw the user from Frozen.
+morning-sun|||Heals the user for ½ of their Max HP
+moonlight|||Heals the user for ½ of their Max HP
+synthesis|||Heals the user for ½ of their Max HP
+swallo|||Heals the user for ½ of their Max HP
+extreme-speed||100
+ancient-power||80
+spit-up||100|No effect
+heat-wave||100 
+draco-meteor||120|Deals ⅓ damage as recoil to the user
+mist-ball||90
+luster-purge||90
+blaze-kick||100
+needle-arm||95
+hyper-voice||120|Has a 20% chance to lower the opponents Def a stage
+poison-fang||90
+crush-claw||100|Has a 50% chance to lower the opponents Def a stage
+air-slash||80|
+flash-cannon||90
+shadow-punch||70
+sky-uppercut||90
+poison-tail||120|Has an increased chance for a critical hit and may also cause Poison
+bullet-seed||25|Hits the opponent 2 times
+leaf-blade||90
+water-spout||150|Deals ⅓ damage as recoil to the user
+psycho-boost||140|Deals ¼ damage as recoil to the user
+
+hp-bug|bug|60||special|Hidden Power
+hp-electric|electric|60||special|Hidden Power
+hp-fighting|fighting|60||special|Hidden Power
+hp-fire|fire|60||special|Hidden Power
+hp-flying|flying|60||special|Hidden Power
+hp-ghost|ghost|60||special|Hidden Power
+hp-grass|grass|60||special|Hidden Power
+hp-ground|ground|60||special|Hidden Power
+hp-ice|ice|60||special|Hidden Power
+hp-psychic|psychic|60||special|Hidden Power
+hp-rock|rock|60||special|Hidden Power
+hp-water|water|60||special|Hidden Power

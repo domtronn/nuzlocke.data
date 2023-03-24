@@ -139,7 +139,7 @@ altaria|33|earthquake,dragon-breath,dragon-dance,aerial-ace|natural-cure||
 lunatone|42|light-screen,psychic,hypnosis,calm-mind|levitate||
 solrock|42|sunny-day,solar-beam,psychic,flamethrower|levitate||
 
---8|Wallace|Water|/leaders/rs-wallace
+--8|Wallace|water|/leaders/rs-wallace
 luvdisc|40|water-pulse,attract,sweet-kiss,flail|swift-swim||
 whiscash|42|rain-dance,water-pulse,earthquake,amnesia|oblivious||
 sealeo|40|encore,body-slam,aurora-beam,water-pulse|thick-fat||

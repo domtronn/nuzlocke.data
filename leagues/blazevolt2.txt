@@ -512,7 +512,7 @@ golem|66|rock-slide,accelerock,thunder-punch,steamroller|sturdy|rock-gem
 weavile|68|knock-off,icicle-crash,ice-shard,low-kick|pressure|life-orb
 carnivine|66|power-whip,rage-powder,sleep-powder,knock-off|levitate|focus-sash
 
---zinz4_n|Zinzolin|evil-team|/leaders/blwh-zinzolin
+--zinz4_n|Zinzolin||/leaders/blwh-zinzolin
 vanilluxe|65|dazzling-gleam,blizzard,power-gem,flash-cannon|snow-warning|focus-sash
 cryogonal|65|blizzard,reflect,light-screen,hail|levitate|light-clay
 froslass|65|blizzard,hex,will-o-wisp,destiny-bond|snow-cloak|ice-gem

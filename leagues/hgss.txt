@@ -78,7 +78,7 @@ golbat|38|air-cutter,confuse-ray,bite,astonish|inner-focus||
 magneton|37|thunder-wave,spark,supersonic,magnet-bomb|magnet-pull||
 kadabra|37|reflect,disable,psybeam,recover|synchronize||
 haunter|37|shadow-ball,confuse-ray,mean-look,curse|levitate||
-typhlosion|40|lava-plume,flame-wheel,swift,quick-attack,flame-wheel|blaze||grass
+typhlosion|40|lava-plume,flame-wheel,swift,quick-attack|blaze||grass
 feraligatr|40|waterfall,ice-fang,crunch,slash|torrent||fire
 meganium|40|petal-dance,synthesis,reflect,poison-powder|overgrow||water
 

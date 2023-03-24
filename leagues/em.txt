@@ -143,7 +143,7 @@ xatu|41|psychic,sunny-day,confuse-ray,calm-mind|synchronize|
 lunatone|42|light-screen,psychic,hypnosis,calm-mind|levitate|sitrus-berry
 solrock|42|sunny-day,solar-beam,psychic,flamethrower|levitate|sitrus-berry
 
---8|Juan|Water|/leaders/rs-juan
+--8|Juan|water|/leaders/rs-juan
 luvdisc|41|water-pulse,attract,sweet-kiss,flail|swift-swim|
 whiscash|41|rain-dance,water-pulse,amnesia,earthquake|oblivious|
 sealeo|43|encore,body-slam,aurora-beam,water-pulse|thick-fat|

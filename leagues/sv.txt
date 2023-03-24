@@ -35,6 +35,14 @@ meowscarada|43|slash,flower-trick,quick-attack|overgrow||fire|grass
 quaquaval|43|air-slash,aqua-step,aqua-jet|torrent||grass|water
 skeledirge|43|snarl,torch-song,lick|blaze||water|fire
 
+--arv|Arven||
+greedent|58|bullet-seed,body-slam,psychic-fangs,earthquake|cheek-pouch
+cloyster|59|rock-blast,icicle-spear,liquidation,light-screen|skill-link
+scovillain|60|fire-blast,energy-ball,zen-headbutt,crunch|chlorophyll
+toedscruel|61|power-whip,earth-power,spore,sludge-bomb|mycelium-might
+garganacl|62|stone-edge,earthquake,body-press,stealth-rock|purifying-salt
+mabosstiff|63|crunch,psychic-fangs,fire-fang,play-rough|intimidate|||dark
+
 # Titans
 --t1|Klawf||/sprite/950
 klawf|16|vice-grip,rock-smash,block,rock-tomb|anger-shell

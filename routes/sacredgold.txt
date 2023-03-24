@@ -1,0 +1,138 @@
+Starter|chikorita,totodile,cyndaquil
+New Bark Town|tentacool,tentacruel,magikarp,shellder,chinchou,lanturn,gyarados,rotom
+Route 29|pidgey,sentret,starly,rattata,zigzagoon,bidoof,hoppip,wurmple,hoothoot,poochyena,furret,raticate,plusle,minun
+Mr. Pokemon's House|eevee
+Route 46|geodude,spearow,spoink,swablu,rattata,numel,jigglypuff,phanpy,clefairy,houndour,shinx,graveler,fearow,igglybuff
+Cherrygrove City|marill,azumarill,magikarp,krabby,corphish,finneon,lumineon,kingler,crawdaunt
+Route 30|ledyba,taillow,lotad,seedot,caterpie,weedle,kricketot,surskit,ralts,metapod,kakuna,spinarak,hoothoot,lombre,nuzleaf,poliwag,poliwhirl,goldeen,psyduck,seaking,golduck
+Route 31|ledyba,bellsprout,buizel,shinx,abra,natu,exeggcute,psyduck,metapod,kakuna,butterfree,beedrill,wurmple,budew,silcoon,cascoon,spinarak,beautifly,dustox,marill,surskit,masquerain,tentacool,slowpoke,feebas,tentacruel,slowbro
+Dark Cave|geodude,zubat,bronzor,makuhita,sandshrew,teddiursa,slugma,larvitar,dunsparce,chingling,wynaut,golbat,shellos,wooper,gastrodon,goldeen,barboach,quagsire,seaking,whiscash,nosepass,graveler,wobbuffet,ursaring,golem
+Violet City|poliwag,poliwhirl,magikarp,staryu,whiscash,chinchou,lanturn
+--Violet City Gym|1|gym-leader|Falkner
+Sprout Tower|zigzagoon,rattata,pidgey,bidoof,starly,meditite,spinda,chatot,gastly,bellsprout,glameow,stunky,drifloon,bibarel,linoone
+Route 32|mareep,bellsprout,nincada,hoppip,magnemite,ekans,pachirisu,wooper,drifloon,flaaffy,magneton,tentacool,quagsire,tentacruel,psyduck,qwilfish,golduck
+Ruins of Alph|natu,smeargle,girafarig,geodude,nosepass,xatu,togepi,wooper,quagsire,magikarp,remoraid,dratini,dragonair,gyarados,relicanth,octillery
+Union Cave|zubat,sandshrew,geodude,whismur,makuhita,machop,aron,cubone,wooper,shellos,quagsire,gastrodon,magikarp,goldeen,barboach,gyarados,seaking,whiscash,sandslash,loudred,gible,bronzor,onix,bagon,golbat,steelix,graveler,sableye,machoke,mawile,lickitung,kangaskhan,lickilicky,exploud,lapras
+Route 33|croagunk,ekans,skorupi,slakoth,swablu,aipom,hoppip,rhyhorn,meowth,toxicroak,drapion,lombre
+Azalea Town|treecko,mudkip,torchic,spiritomb
+Slowpoke Well|zubat,slowpoke,gastly,shellos,shellder,swinub,snorunt,bronzor,slowbro,magikarp,barboach,gyarados,whiscash,wynaut,golbat,haunter,gastrodon,piloswine,bronzong,glalie,wobbuffet
+--Slowpoke Well|proton1|evil-team|Executive Proton
+--Azalea Town Gym|2|gym-leader|Bugsy
+Ilex Forest|shroomish,ledyba,pineco,exeggcute,buneary,budew,pikachu,butterfree,beedrill,roselia,wurmple,beautifly,dustox,paras,spinarak,oddish,venonat,murkrow,misdreavus,carnivine,psyduck,golduck,magikarp,poliwag,poliwhirl,gyarados,poliwrath,politoed,gloom,venomoth,pichu
+Route 34|drowzee,gulpin,electrike,bonsly,mime-jr,abra,ditto,snubbull,kadabra,tentacool,tentacruel,goldeen,chinchou,staryu,seaking,lanturn,starmie,manectric,hypno,ralts,kirlia
+Goldenrod City|turtwig,piplup,chimchar
+--Goldenrod City Gym|3|gym-leader|Whitney
+Route 35|nidoran-m,nidoran-f,pidgeotto,stunky,glameow,staravia,illumise,volbeat,ditto,yanma,meowth,noctowl,psyduck,golduck,magikarp,luvdisc,gyarados,skuntank,purugly,illumise
+National Park|metapod,kakuna,combee,taillow,nincada,burmy,scyther,pinsir,heracross,kricketune,sunkern,poochyena,butterfree,beedrill,scyther,heracross
+Route 36|growlithe,vulpix,combee,plusle,minun,nidorino,nidorina,staravia,stantler,noctowl,vespiquen,bonsly,mime-jr
+Route 37|growlithe,vulpix,stantler,ledian,pidgeotto,nidorino,nidorina,zangoose,seviper,ariados,noctowl,mightyena,linoone,arcanine,ninetales
+Ecruteak City|castform,poliwag,poliwhirl,magikarp,gyarados
+Burned Tower|rattata,koffing,zigzagoon,cubone,magby,grimer,duskull,shuppet,raticate,marowak,chimecho,linoone,weezing,magmar
+--Burned Tower|r1|rival|Silver
+Bell Tower|rattata,zigzagoon,golbat,gastly,shuppet,duskull,haunter,linoone,raticate,ditto,dusclops,banette,swablu,natu,bronzor,altaria,xatu,claydol,solrock,bronzong,lunatone,gengar
+--Ecruteak City Dance Hall|kimono||Kimono Girls
+--Ecruteak City Gym|4|gym-leader|Morty
+Route 38|doduo,luxio,magnemite,mankey,voltorb,elekid,farfetchd,miltank,tauros,cherubi,meowth,skitty,dodrio,electabuzz
+Route 39|raticate,ponyta,elekid,mankey,voltorb,cherubi,farfetchd,miltank,tauros,pidgeotto,meowth,skitty,rapidash,primeape
+Olivine City|tentacool,wingull,tentacruel,magikarp,staryu,chinchou,lanturn,gyarados
+Whirl Islands|krabby,seel,psyduck,spheal,golbat,shellder,kingler,dewgong,staryu,horsea,seadra,golduck,sealeo,kingdra
+Route 40|wingull,tentacool,pelipper,tentacruel,phione,magikarp,staryu,finneon,corsola,lumineon
+Route 41|wingull,mantyke,mantine,tentacruel,phione,magikarp,tentacool,horsea,wailmer,chinchou,corsola,seadra,lanturn,wailord
+Cianwood City|shuckle,kingler,wingull,tentacool,pelipper,tentacruel,magikarp,carvanha,clamperl,sharpedo
+--Suicune Encounter|eusine||Eusine
+--Cianwood City Gym|5|gym-leader|Chuck
+--Olivine City Gym|6|gym-leader|Jasmine
+Route 47|farfetchd,ditto,miltank,gloom,weepinbell,fearow,raticate,swellow,venomoth,noctowl,bellossom,victreebel,yanma,altaria,wingull,seel,spheal,magikarp,tentacool,shellder,chinchou,tentacruel,lanturn
+--Route 47|ariana1|evil-team|Executive Ariana
+Cliff Cave|graveler,golbat,baltoy,machoke,trapinch,kingler,quagsire,hippopotas,steelix,krabby,claydol,hippowdon,onix,misdreavus
+--Cliff Cave|petrel1|evil-team|Executive Petrel
+Route 48|farfetchd,tangela,diglett,gloom,weepinbell,girafarig,kecleon,chansey,absol,tropius,houndour,tangrowth,dugtrio,happiny
+Safari Zone
+--Safari Zone Gate|archer|evil-team|Executive Archer
+Route 42|flaaffy,fearow,hippopotas,cacnea,arbok,sandslash,munchlax,trapinch,golbat,cacturne,vibrava,tyrogue,goldeen,seaking,carvanha,sharpedo
+Mt. Mortar|graveler,golbat,rhyhorn,lairon,meditite,marill,marill,azumarill,rhydon,medicham,azurill,solrock,goldeen,barboach,seaking,whiscash,marill,hariyama,clefairy,solrock,lunatone,cleffa,golem,clefable,machoke,metang,pupitar,riolu
+Rocket Hideout
+Lake of Rage|magikarp,feebas,gyarados,milotic
+--Rocket Hideout|petrel2|evil-team|Executive Petrel
+--Rocket Hideout|ariana2|evil-team|Executive Ariana
+Route 43|pidgeotto,girafarig,exeggcute,kirlia,swablu,bibarel,linoone,manectric,venomoth,altaria,happiny,chansey,slowpoke,magikarp,gyarados
+Mahogany Town|riolu
+--Mahogany Town Gym|7|gym-leader|Pryce
+--Goldenrod Tunnel|ethan|rival|Ethan
+--Goldenrod Tunnel|lyra|rival|Lyra
+--Goldenrod Radio Tower|petrel3|evil-team|Executive Petrel
+--Goldenrod Radio Tower|proton2|evil-team|Executive Proton
+--Goldenrod Radio Tower|ariana3|evil-team|Executive Ariana
+--Goldenrod Radio Tower|archer2|evil-team|Executive Archer
+--Goldenrod Radio Tower|evg|evil-team|Rocket Boss Giovanni
+Route 44|tangela,lickitung,butterfree,beedrill,beautifly,skiploom,nuzleaf,cherrim,altaria,vespiquen,dustox,venomoth,snover,remoraid,tangrowth,lickilicky,combee,lombre,lotad,poliwag,poliwhirl,magikarp,gyarados,octillery
+Ice Path
+Blackthorn City|magikarp,dratini
+Dragon’s Den|magikarp,dratini,gyarados,dragonair
+--Blackthorn City Gym|8|gym-leader|Clair
+Route 45|graveler,grumpig,donphan,camerupt,torkoal,gligar,vibrava,skarmory,gliscor,golem,rhyhorn,rhydon,magikarp,dratini
+Route 27|doduo,skiploom,ponyta,dodrio,rapidash,sandslash,arbok,wooper,houndour,quagsire,jumpluff,grumpig,feebas,buizel,floatzel,luvdisc
+Tohjo Falls|raticate,azumarill,slowbro,dewgong,golbat,bronzong,quagsire,crobat,azurill,chingling,goldeen,slowpoke,seaking,magikarp,gyarados
+Route 26|dodrio,skiploom,rapidash,magneton,kangaskhan,sandslash,arbok,quagsire,houndoom,jumpluff,granbull,buizel,floatzel,luvdisc,lanturn,tentacruel
+Victory Road|golbat,graveler,rhydon,ursaring,donphan,marowak,steelix,bronzong,crobat,golem,chimecho,machoke,hariyama,lairon,loudred,medicham,magneton,venomoth,kadabra,exploud,aggron,mawile,sableye,gabite,metang,nosepass,alakazam
+--Victory Road|r2|rival|Silver
+Indigo Plateau
+--Elite Four|e1|elite-four|Will
+--Elite Four|e2|elite-four|Koga
+--Elite Four|e3|elite-four|Bruno
+--Elite Four|e4|elite-four|Karen
+--Champion Fight|c|elite-four|Lance
+Vermillion City|wingull,pelipper,lanturn,tentacool,chinchou,shellder,tentacruel,krabby,shuckle
+--Vermillion City Gym|k1|gym-leader|Lt. Surge
+Route 6|pidgeotto,kadabra,raticate,weepinbell,cherrim,persian,gloom,hippowdon,dunsparce,psyduck,golduck,magikarp,poliwag,poliwhirl
+Saffron City
+--Saffron City Gym|k2|gym-leader|Sabrina
+Route 7|weepinbell,pidgeotto,staravia,growlithe,vulpix,jigglypuff,raticate,kadabra,gloom,houndour,persian,houndoom,bellossom,linoone,bibarel
+Celadon City|grimer,muk
+--Celadon City Gym|k3|gym-leader|Erika
+Route 16|grimer,gulpin,skorupi,muk,magcargo,drapion,swalot,ninjask
+Route 17|grimer,gulpin,fearow,muk,magcargo,dodrio,misdreavus,swalot,mismagius,dusclops,drifblim
+Route 18|grimer,gulpin,fearow,muk,magcargo,dodrio,murkrow,swalot,honchkrow,ninjask
+Fuschia City
+--Fuschia City Gym|k4|gym-leader|Janine
+Route 15|nidorina,nidorino,swellow,skiploom,ditto,nidorina,venomoth,ditto,jumpluff
+Route 14|nidorina,nidorino,swellow,skiploom,chansey,nidorina,venomoth,chansey,jumpluff,bonsly,mime-jr
+Route 13|nidorina,nidorino,swellow,skiploom,farfetchd,nidorina,quagsire,noctowl,jumpluff,bonsly,mime-jr,chansey,slowpoke,slowbro,magikarp,poliwag,goldeen,horsea,seadra,poliwhirl,qwilfish
+Route 12|slowpoke,slowbro,relicanth,magikarp,poliwag,goldeen,horsea,seadra,poliwhirl,qwilfish
+Route 8|growlithe,vulpix,kadabra,xatu,staravia,growlithe,haunter,banette,arcanine,alakazam,duskull,shuppet
+
+Route 5|pidgeotto,raticate,kadabra,jigglypuff,machop,weepinbell,meditite,chatot,mightyena,persian,medicham,staravia,swellow
+Route 9|primeape,fearow,arbok,nidorina,nidorino,marowak,nidoqueen,nidoking,kangaskhan,flaaffy,goldeen,seaking,magikarp
+Route 10|fearow,luxio,electrode,flaaffy,raticate,manectric,electabuzz,pikachu,luxray,ampharos,pichu,elekid,chinchou,lanturn
+
+Power Plant
+Route 24|weepinbell,kirlia,skiploom,staravia,pidgeotto,roselia,surskit,gloom,noctowl,mightyena,jumpluff,hoppip,goldeen,masquerain,magikarp,seaking,staryu,dratini,dragonair
+Route 25|sunkern,buneary,vigoroth,combee,weepinbell,exeggcute,venomoth,sunflora,lopunny,venonat,slakoth,lairon,hoppip,goldeen,skiploom,masquerain,magikarp,seaking,staryu,dratini,dragonair
+Cerulean City|hoppip,goldeen,skiploom,masquerain,magikarp,seaking,staryu,dratini,dragonair,mewtwo
+--Cerulean City Gym|k5|gym-leader|Misty
+Rock Tunnel|graveler,golbat,lairon,makuhita,cubone,ditto,mankey,magnemite,hariyama,magneton,absol,kangaskhan,marowak,primeape,onix,nosepass,aggron,steelix
+Route 4|fearow,raticate,arbok,purugly,skuntank,jigglypuff,wigglytuff,sandslash,goldeen,seaking,magikarp
+Route 11|hypno,raticate,plusle,minun,linoone,luxio,luxray,tangela,munchlax
+Fuchsia City|magikarp,gyarados
+Diglett’s Cave|diglett,hippopotas,dugtrio,hippowdon,dunsparce
+Pewter City
+--Pewter City Gym|k6|gym-leader|Brock
+Route 3|fearow,staravia,pidgeotto,primeape,nidorino,nidorina,jigglypuff,noctowl,spinda,wigglytuff,staraptor,growlithe,vulpix
+Mt. Moon|golbat,clefairy,graveler,sandslash,parasect,crobat,golem,chimecho,solrock,lunatone,clefable,wooper,poliwhirl,quagsire,magikarp,poliwag
+--Mt. Moon Rival|r3|rival|Silver
+Viridian Forest|weepinbell,gloom,ledian,nuzleaf,scyther,,pinsir,wormadam,mothim,tropius,parasect,ariados,carnivine,murkrow,misdreavus,shiftry,vileplume,ambipom,raichu,heracross,mew
+Route 2|butterfree,beedrill,ledian,pidgeotto,pachirisu,cherrim,ariados,noctowl,yanma,pidgeot,sunkern,budew
+Viridian City|poliwag,psyduck,goldeen
+Route 1|pidgey,rattata,sentret,zigzagoon,bidoof,starly,pidgeotto,raticate,furret,staravia,hoothoot,ponyta,shinx,noctowl,rapidash,luxio,staraptor,bibarel,skiploom,linoone
+Pallet Town|marill,finneon,tentacool,staryu
+Route 21|tangela,mr-mime,raticate,pelipper,gastrodon,wingull,wailmer,tangrowth,floatzel,lickitung,tentacool,chinchou,shellder,tentacruel,lanturn
+Cinnabar Island|tentacool,tentacruel,relicanth,chinchou,shellder,lanturn
+Route 20|tentacool,wingull,pelipper,tentacruel,wailord,magikarp,goldeen,finneon,clamperl,lumineon,seaking,huntail,gorebyss
+--Cinnabar Island Gym|k7|gym-leader|Blaine
+--Viridian City Gym|k8|gym-leader|Blue
+Route 19|tentacool,wingull,pelipper,mantine,magikarp,goldeen,finneon,clamperl,lumineon,seaking,huntail,gorebyss,krabby,kingler
+Route 22|fearow,dodrio,raticate,primeape,rapidash,poliwag,buizel,poliwhirl,lombre,nuzleaf,poliwag,politoed
+Route 28|tangela,ponyta,rapidash,ursaring,donphan,dodrio,manectric,quagsire,sneasel,tangrowth,arbok,poliwag,poliwhirl,luvdisc,gyarados
+Mt. Silver|tangela,manectric,rapidash,ursaring,donphan,dodrio,quagsire,dusclops,sneasel,tangrowth,arbok,poliwag,poliwhirl,luvdisc,gyarados,phanpy,teddiursa,magmar,larvitar,graveler,golbat,golduck,misdreavus,pupitar,seadra,horsea,goldeen,krabby,corphish,seaking,kingler,crawdaunt,parasect,shelgon,bagon,paras,steelix,rhydon,,rhyperior,magneton,mawile,sableye,solrock,lunatone,magnezone,abomasnow,medicham,loudred,piloswine,snover,absol,noctowl,mamoswine,weavile,onix,gligar,lairon,machoke,skarmory,vibrava,gliscor,flygon,gabite,bronzong,machamp
+Cerulean Cave|golbat,graveler,sandslash,gloom,weepinbell,venomoth,parasect,ditto,haunter,kadabra,machoke,electrode,wobbuffet,bronzong,magneton,hypno,arbok,rapidash,raichu,nosepass,exploud,alakazam,porygon,golduck,slowbro,magikarp,poliwag,goldeen,krabby,seadra,seaking,rhyhorn,rhydon,solrock,lunatone,dodrio,marowak,wigglytuff,chansey,rhyperior,lickitung,dusclops,chimecho,banette,magcargo,magmar,electabuzz,steelix,dusknoir,lickilicky,clefairy,gyarados,tentacruel,lanturn,quagsire,barboach,finneon,whiscash,lumineon
+--Champion|red|rival|Red

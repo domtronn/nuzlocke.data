@@ -203,11 +203,11 @@ piplup|5|pound,growl|torrent||fire
 turtwig|5|tackle,withdraw|overgrow||water
 
 --b2|Barry||/leaders/dp-barry#Route 203
-starly|10|wing-attack,tackle,growl|keen-eye
-munchlax|10|tackle,rock-tomb,amnesia|thick-fat
-chimchar|11|ember,scratch,fury-swipes,leer|blaze|oran-berry|grass
-piplup|11|bubble,pound,peck,growl|torrent|oran-berry|fire
-turtwig|11|razor-leaf,tackle,curse,withdraw|overgrow|oran-berry|water
+starly|10|wing-attack,tackle,growl|reckless
+munchlax|10|tackle,metronome,amnesia,rock-tomb|thick-fat
+chimchar|11|ember,fury-swipes,taunt|iron-fist|oran-berry|grass
+piplup|11|water-pulse,pound,peck|torrent|oran-berry|fire
+turtwig|11|razor-leaf,tackle,curse|overgrow|oran-berry|water
 
 --b3|Barry||/leaders/dp-barry#Hearthome City
 staravia|32|facade,aerial-ace,double-team,endeavor|reckless|muscle-band

@@ -1,0 +1,16 @@
+--move
+hidden-power-bug|bug|60||special|Hidden Power
+hidden-power-electric|electric|60||special|Hidden Power
+hidden-power-fighting|fighting|60||special|Hidden Power
+hidden-power-fire|fire|60||special|Hidden Power
+hidden-power-flying|flying|60||special|Hidden Power
+hidden-power-ghost|ghost|60||special|Hidden Power
+hidden-power-grass|grass|60||special|Hidden Power
+hidden-power-ground|ground|60||special|Hidden Power
+hidden-power-ice|ice|60||special|Hidden Power
+hidden-power-psychic|psychic|60||special|Hidden Power
+hidden-power-rock|rock|60||special|Hidden Power
+hidden-power-water|water|60||special|Hidden Power
+
+leech-fang|poison|70|The user gains half the HP the target lost from this attack|physical|Leech Fang
+metal-bash|steel|60||physical|Metal Bash
