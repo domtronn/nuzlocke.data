@@ -14,3 +14,9 @@ hidden-power-water|water|60||special|Hidden Power
 
 leech-fang|poison|70|The user gains half the HP the target lost from this attack|physical|Leech Fang
 metal-bash|steel|60||physical|Metal Bash
+
+--ability
+portal-power|Reduces power of non-contact moves by 25%.
+royal-roar|The users Special-Attack increases one stage for every Pokémon it defeats.
+cotton-cloud|When a Pokémon with this Ability is hit by a damaging move, the Speed of all other Pokémon is decreased by one stage.
+bellow|Bellow boosts the power of the Pokémon's sound-based moves by 30%. A Pokémon with Bellow also takes half damage from damaging sound-based moves.

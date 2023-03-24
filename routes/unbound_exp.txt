@@ -1,0 +1,96 @@
+Starter|beldum,gible,larvitar
+--Frozen Heights|r1_exp|rival|Rival Axelrod
+Route 1|snorunt,vanillite,delibird,minior
+Bellin Town|skorupi,glameow,stunky
+Icicle Cave|seel,spheal,dewgong,sealeo,lapras,magikarp,shellder,cloyster,roggenrola,bergmite,boldore,avalugg,shuckle,zubat,makuhita,spheal,smoochum,bergmite,roggenrola,swinub,drilbur,mawile,sandshrew-alola,golbat,hariyama,sealeo,jynx,avalugg,boldore,piloswine
+--Icicle Cave|r2_exp|rival|Rival Axelrod
+Route 2|litleo,tentacool,pelipper,tentacruel,basculin,magikarp,staryu,shellder,gyarados,starmie,roggenrola,krabby,binacle
+Dresco Town|tentacool,pelipper,tentacruel,basculin,magikarp,staryu,shellder,gyarados,starmie,ducklett
+--Dresco Town Gym|1_exp|gym-leader|Leader Mirskle
+Route 3|wingull,bidoof,slowpoke,shellos,cherubi,dewpider,surskit,buizel,poliwag,sentret,skwovet,chewtle,sandygast,tentacool,pelipper,tentacruel,araquanid,magikarp,staryu,krabby,shellder,kingler,cloyster
+Flower Paradise|flabebe,cutiefly,oricorio,combee,comfey,pansage,panpour,pansear
+Route 4|tentacool,pelipper,tentacruel,basculin,magikarp,corphish,staryu,crawdaunt,gyarados,starmie
+Grim Woods|psyduck,masquerain,golduck,surskit,magikarp,barboach,whiscash,caterpie,weedle,seedot,pumpkaboo,gastly,shuppet,duskull,phantump,blipbug
+Cinder Volcano|woobat,slugma,salandit,numel,geodude,drilbur,torkoal,magby,camerupt,graveler,excadrill,heatmor,magmar,vulpix,rolycoly,carkol,slugma,magcargo,geodude,graveler,shuckle
+--Cinder Volcano|sh1_exp|evil-team|Shadow Admin Marlon & Grunt
+Route 5|snivy,tepig,oshawott,lickitung,taillow,zubat,murkrow,nidoran-m,nidoran-f,growlithe,yanma,houndour,venonat,ditto,purrloin,elgyem,yamper,nickit,tentacool,pelipper,tentacruel,basculin,magikarp,corphish,staryu,crawdaunt,gyarados,starmie
+Crater Town|clefairy
+KBT Expressway|zubat,woobat,makuhita,aron,nosepass,geodude,noibat,golbat,hariyama,lairon,graveler,geodude,nosepass,carbink
+--Crater Town Gym|2_exp|gym-leader|Leader Vega
+--Cinder Volcano|sh2_exp|evil-team|Shadow Admin Ivory
+--Cinder Volcano|sh3_exp|evil-team|Shadow Boss Zeph
+Valley Cave|finneon,woobat,psyduck,golduck,magikarp,lumineon,gyarados,geodude,nosepass,woobat,phanpy,nosepass,aron,noibat,gligar,dunsparce,meowth-galar,perrserker
+Route 6|tentacool,pelipper,tentacruel,mantyke,magikarp,goldeen,remoraid,seaking,octillery,gyarados
+Route 7|tentacool,pelipper,tentacruel,mantyke,magikarp,goldeen,remoraid,seaking,octillery,gyarados
+Frost Mountain|roggenrola,woobat,aron,bronzor,nosepass,sneasel,onix,cryogonal,seel,spheal,dewgong,sealeo,lapras,magikarp,shellder,cloyster
+--Frost Mountain|r3_exp|rival|Rival Axelford
+Route 8|roggenrola,snover,snorunt,sneasel,cubchoo,deerling,flaaffy,minior,stantler,mr-mime-galar,mr-rime
+Blizzard City|electrode,crabominable,vulpix-alola
+--Blizzard City Gym|3_exp|gym-leader|Leader Alice
+Frozen Forest|snover,cubchoo,sneasel,snom
+Fallshore City|togepi,lombre,tentacool,pelipper,tentacruel,pyukumuku,magikarp,remoraid,carvanha,luvdisc,octillery,sharpedo
+--Fallshore City Gym|4_exp|gym-leader|Leader Mel
+Route 11|tentacool,pelipper,tentacruel,basculin,magikarp,barboach,remoraid,luvdisc,whiscash,octillery,swablu,noctowl,exeggcute,spoink,meditite,togedemaru,gulpin,glameow,milcery
+Epidimy Town|finneon,psyduck,lumineon,golduck,magikarp,barboach,luvdisc,whiscash,geodude,graveler,elekid,hitmontop
+Route 10|palpitoad,surskit,lombre,masquerain,cramorant,magikarp,wishiwashi,bruxish,lotad,tympole,marill,linoone,lombre,palpitoad,goomy,ditto,shelmet,linoone-galar,obstagoon
+Auburn Waterway|palpitoad,surskit,lombre,masquerain,cramorant,magikarp,wishiwashi,goldeen,seaking,gyarados,bruxish,lotad,tympole,marill,linoone,lombre,palpitoad,goomy,ditto
+Route 9|marill,surskit,masquerain,azumarill,arrokuda,magikarp,wishiwashi,goldeen,seaking,gyarados,bruxish,spearow,grubbin,marill,deerling,shroomish,skorupi,audino,karrablast,toxel
+Tehl Town|marill,psyduck,golduck,azumarill,magikarp,wishiwashi,goldeen,seaking,gyarados,bruxish
+--Underground Passage|sh4_exp|evil-team|Shadow Admin Ivory & Grunt
+Tarmigan Town|pachirisu,poliwhirl,slowpoke,poliwag,politoed,magikarp,psyduck,golduck
+--Tramigan Mansion|mb1_exp|mini-boss|Successor Maxima
+Thundercap Mt.|nosepass,magnemite,cubone,klink,elekid,tynamo,magneton,electabuzz,timburr,gurdurr,klang,marowak,klang,eelektrik,joltik,ferroseed,pincurchin,stunfisk,chinchou,tynamo,lanturn,eelektrik,magikarp,geodude-alola,graveler-alola,nosepass,shuckle,binacle,corsola,krabby,kingler
+--Thunder Cap Mt.|sh5_exp|evil-team|Shadow Admin Marlon
+Route 12|tentacool,pelipper,tentacruel,mantyke,magikarp,carvanha,wailmer,sharpedo,wailord,gyarados,fletchling,hoothoot,rockruff,solosis,gothita,mienfoo,ponyta,snubbull,deerling,fletchinder,noctowl,dedenne,spritzee,swirlix,ponyta-galar,applin
+--Route 12|r4_exp|rival|Rival Axelford
+Dehara City|tentacool,pelipper,tentacruel,pyukumuku,magikarp,staryu,poliwag,poliwhirl,starmie,turtwig,chimchar,piplup,sandygast,voltorb,electrode,emolga,hawlucha,eevee,klefki,axew,porygon
+--Dehara City Gym|5_exp|gym-leader|Leader Galavan
+Ruins of Void|baltoy,yamask,duskull,sableye,bronzong,dusclops,lunatone,solrock,sigilyph,cofagrigus,claydol,yamask-galar,runerigus,tentacool,pelipper,tentacruel,mantine,golduck,magikarp,horsea,shellder,seadra,gyarados,kingdra,clamperl,mareanie,toxapex,chinchou,lanturn,luvdisc,relicanth,geodude,baltoy
+--Ruins of Void|lr1_exp|evil-team|Ruin Agent Vega & Grunt
+--Shadow Base|sh6_exp|evil-team|Shadow Boss Zeph
+Route 15|tentacool,pelipper,tentacruel,basculin,magikarp,horsea,shellder,seadra,gyarados,cloyster
+Route 13|tentacool,pelipper,tentacruel,alomomola,slowpoke-galar,magikarp,clauncher,skrelp,clawitzer,dragalge,binacle,geodude,corsola,krabby,kingler
+Route 14|tentacool,pelipper,tentacruel,mantine,slowpoke-galar,magikarp,horsea,shellder,wailmer,luvdisc,carvanha,seadra,wailord,cloyster,sharpedo,clamperl,mareanie,toxapex,chinchou,lanturn,binacle,geodude,corsola,krabby,kingler,pelipper,bibarel,golduck,gastrodon,floatzel,slowpoke,weepinbell,bellsprout,gloom,oddish,eldegoss
+Lost Tunnel|graveler,woobat,lairon,diglett,dugtrio,geodude,graveler,diglett,dugtrio,golem
+Great Desert|binacle,dwebble,geodude,shieldon,anorith,tirtouga,kabuto,omanyte,tyrunt,archen,lileep,amaura,cranidos,aerodactyl,sandslash,dwebble,krokorok,cacnea,darumaka,hippowdon,vibrava,maractus,silicobra,rufflet,vullaby,maractus
+Gurun Town|tentacool,pelipper,tentacruel,mantine,magikarp,remoraid,corsola,horsea,octillery,seadra,kingdra
+Vivill Woods|surskit,golduck,masquerain,psyduck,magikarp,barboach,whiscash,caterpie,weedle,wurmple,scatterbug,cottonee,swadloon,petilil,spewpa,metapod,kakuna,silcoon,cascoon,pikachu,hattrem,morgrem,paras,foongus,morelull
+Vivill Town|amoonguss,tentacool,pelipper,tentacruel,basculin,magikarp,horsea,shellder,seadra,gyarados,cloyster
+Vivill Warehouse|tentacool,basculin,tentacruel,seadra,magikarp,horsea,shellder,gyarados,dhelmise
+--Vivill Warehouse|lr2_exp|evil-team|Ruin Leader Aklove
+Route 16|tangela,girafarig,pancham,pawniard,chatot,throh,sawk,copperajah,falinks,kecleon,tentacool,pelipper,tentacruel,mantyke,magikarp,remoraid,corsola,horsea,octillery,seadra,clamperl,chinchou,lanturn,cursola,binacle,geodude,krabby,kingler
+Antisis City|tentacool,pelipper,tentacruel,mantyke,magikarp,remoraid,horsea,octillery,seadra,gyarados,trubbish,garbodor,grimer-alola
+Antisis Sewers|grimer,raticate,golbat,koffing,muk,weezing,whirlipede,weezing-galar,grimer,golbat,muk
+--Antisis City Gym|6_exp|gym-leader|Leader Big Mo
+Icy Hole|dewgong,sealeo,lapras,magikarp,seel,shellder,cloyster,golbat,hariyama,sealeo,jynx,avalugg,boldore,piloswine,eiscue,regieleki,regidrago
+Seaport City|rowlet,litten,popplio,pichu,ditto,mimikyu,tentacool,pelipper,tentacruel,mantyke,magikarp,remoraid,corsola,horsea,octillery,seadra,lapras
+Polder Town|palpitoad,stunfisk,gastrodon,sliggoo,magikarp,poliwag,barboach,poliwhirl,whiscash,politoed,feebas,rotom
+Safari Zone|skitty,rhyhorn,natu,meowth-alola,plusle,minun,bounsweet,blitzle,helioptile,cubone,treecko,torchic,mudkip,steenee,zebstrika,xatu,diglett-alola,spinda,wobbuffet,tauros,kangaskhan,rhydon,exeggcute,golisopod,grovyle,combusken,marshtomp,doublade,heliolisk,dugtrio-alola
+--Polder Town Gym|7_exp|gym-leader|Leader Tessy
+Cootes Bog|croagunk,quagsire,sliggoo,drapion,carnivine,weepinbell,gloom,toxicroak,croconaw,stunfisk-galar,feraligatr,quagsire,stunfisk,gastrodon,sliggoo,magikarp,poliwag,barboach,poliwhirl,whiscash,politoed
+Magnolia Town|vivillon,bulbasaur,charmander,squirtle,chespin,fennekin,pidgey,cacturne,trapinch,deino,sandile,pidove
+--Magnolia Town|r5_exp|rival|Rival Axelford
+Crystal Peak|loudred,woobat,onix,noibat,zweilous,steelix,skarmory,noivern,drifblim,rufflet,vullaby,absol,duraludon,dracozolt,arctozolt,gastrodon,golduck,dragonair,magikarp,psyduck,finneon,lumineon,qwilfish,graveler,onix
+--Crystal Peak|lr3_exp|evil-team|Ruin Admin Ivory
+--Crystal Peak|lr4_exp|evil-team|Ruin Leader Aklove
+--Crystal Peak|sh7_exp|evil-team|Ex-Shadow Admin Marlon
+
+Magnolia Fields|noctowl,tranquill,furfrou,mudsdale,gogoat,miltank,tauros,quilava,dubwool,frillish,pelipper,jellicent,magikarp,gyarados,wailmer,wailord,qwilfish
+Redwood Village|magikarp,lampent
+--Redwood Village Gym|8_exp|gym-leader|Leader Benjamin
+
+Route 18|farfetchd,noctowl,skuntank,persian,bouffalant,sudowoodo,happiny,bayleef,stonjourner,tentacool,pelipper,tentacruel,mantine,magikarp,remoraid,corsola,horsea,octillery,seadra,gyarados,binacle,geodude,krabby,kingler
+Victory Road|golbat,boldore,durant,woobat,graveler,magcargo,salazzle,camerupt,excadrill,heatmor,magmar,druddigon,turtonator,drampa,drakloak,roselia,chansey,lurantis,jigglypuff,corvisquire,hakamo-o,abomasnow,glalie,vanillish,beartic,minior,darmanitan-galar,hariyama,sealeo,jynx,avalugg,piloswine,lumineon,golbat,marill,azumarill,magcargo,woobat,floatzel,basculin,dewgong,sealeo,lapras,magikarp,finneon,psyduck,luvdisc,seel,shellder,golduck,gyarados,bruxish
+--Pokémon League|e1_exp|elite-four|Moleman
+--Pokémon League|e2_exp|elite-four|Elias
+--Pokémon League|e3_exp|elite-four|Arabella
+--Pokémon League|e4_exp|elite-four|Penny
+--Pokémon League Champion|c_exp|elite-four|Jax
+
+Tomb of Borrius|graveler,shuckle,unown,sigilyph
+Rift Cave|golbat,haunter,duskull,golett,bronzor,chimecho,bronzong,dusclops,golurk,sinistea
+Redwood Forest|ledian,ariados,vigoroth,ursaring,heracross,komala,passimian,oranguru,aipom,pineco,scyther,pinsir,nincada,raboot,thwackey,golduck,masquerain,drizzile,magikarp,psyduck,barboach,whiscash
+Cliff Cave|golbat,geodude-alola,machop,onix,wooper,misdreavus,quagsire,graveler-alola,machoke,steelix
+Cube Corp.|jellicent,pelipper,ditto,dracovish,arctovish,magikarp,gyarados,wailmer,wailord
+
+--Ruins of Void|lr5_exp|evil-team|Ruin Leader Aklove
