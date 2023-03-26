@@ -32,7 +32,7 @@ toxicroak|40|revenge,feint-attack,mud-bomb,poison-jab|anticipation|sitrus-berry
 --mars2|Mars||/leaders/dp-mars
 golbat|38|toxic,air-cutter,bite,supersonic|inner-focus
 bronzor|38|iron-defense,gyro-ball,confuse-ray,extrasensory|levitate
-purugly|16|fake-out,slash,feint-attack,hypnosis|thick-fat|sitrus-berry
+purugly|40|fake-out,slash,feint-attack,hypnosis|thick-fat|sitrus-berry
 
 
 --sat2|Saturn||/leaders/dp-saturn#Galactic HQ
@@ -75,7 +75,7 @@ prinplup|27|peck,metal-claw,bubble,growl|torrent||fire
 grotle|27|tackle,withdraw,razor-leaf,absorb|overgrow||water
 
 --b4|Barry||/leaders/dp-barry#Pastoria City
-starly|34|endeavor,double-team,wing-attack,quick-attack|intimidate
+staravia|34|endeavor,double-team,wing-attack,quick-attack|intimidate
 roselia|32|poison-sting,toxic-spikes,mega-drain,magical-leaf|natural-cure||fire
 roselia|32|poison-sting,toxic-spikes,mega-drain,magical-leaf|natural-cure||grass
 buizel|32|pursuit,aqua-jet,quick-attack,growl|swift-swim||grass
@@ -87,7 +87,7 @@ prinplup|36|peck,metal-claw,bubble-beam,growl|torrent||fire
 grotle|36|bite,withdraw,razor-leaf,mega-drain|overgrow||water
 
 --b5|Barry||/leaders/dp-barry#Canalave City
-staravia|36|aerial-ace,double-team,take-down,quick-attack|keen-eye
+staraptor|36|aerial-ace,double-team,take-down,quick-attack|keen-eye
 heracross|37|horn-attack,night-slash,aerial-ace,brick-break|swarm
 roserade|35|giga-drain,grass-whistle,leech-seed,toxic-spikes|natural-cure||fire
 roserade|35|giga-drain,grass-whistle,leech-seed,toxic-spikes|natural-cure||grass

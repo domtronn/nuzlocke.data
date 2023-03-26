@@ -22,9 +22,10 @@ The Old Chateau|gastly,rotom
 Eterna City|psyduck,golduck,magikarp,gyarados,barboach,whiscash
 --Eterna Gym|2|gym-leader|Gardenia
 --Eterna Building|jup1|evil-team|Jupiter
+Route 211|zubat,machop,geodude,ponyta,hoothoot,teddiursa,tyrogue,meditite,bidoof,chingling,bronzor,machoke,graveler,noctowl,swablu
+Mt. Coronet|clefairy,zubat,machop,geodude,cleffa,nosepass,meditite,chingling,bronzor,golbat,magikarp,barboach,gyarados,whiscash,machoke,graveler,medicham,bronzong,lunatone,solrock,noctowl,absol,snover,abomasnow,dratini,dragonair,feebas
 Route 206|zubat,machop,geodude,ponyta,gligar,larvitar,nosepass,baltoy,kricketot,kricketune,stunky,bronzor
 Wayward Cave|zubat,geodude,onix,bronzor,gible,sandshrew
-Mt. Coronet|clefairy,zubat,machop,geodude,cleffa,nosepass,meditite,chingling,bronzor,golbat,magikarp,barboach,gyarados,whiscash,machoke,graveler,medicham,bronzong,lunatone,solrock,noctowl,absol,snover,abomasnow,dratini,dragonair,feebas
 Route 208|zubat,psyduck,golduck,machop,goldeen,seaking,magikarp,gyarados,dunsparce,smeargle,tyrogue,ralts,meditite,roselia,zangoose,seviper,barboach,whiscash,bidoof,bibarel,budew
 Hearthome City|eevee
 --Hearthome Gym|3|gym-leader|Fantina
@@ -42,10 +43,10 @@ Ruin Maniac's Tunnel
 Valor Lakefront|nidorina,nidorino,geodude,graveler,girafarig,houndour,staravia,bibarel,kricketune
 Pastoria City|tentacool,tentacruel,magikarp,gyarados,remoraid,octillery,wingull,pelipper,shellos,gastrodon
 Great Marsh
+Route 213|tentacool,tentacruel,magikarp,gyarados,remoraid,octillery,swellow,wingull,pelipper,sharpedo,absol,buizel,floatzel,shellos,gastrodon,chatot
 --Pastoria City|b4|rival|Barry
 --Pastoria Gym|5|gym-leader|Crasher Wake
 Route 212|psyduck,golduck,goldeen,seaking,marill,smeargle,ralts,kirlia,budew,starly,staravia,ekans,tentacool,tentacruel,grimer,magikarp,gyarados,wooper,quagsire,remoraid,octillery,lotad,lombre,roselia,barboach,whiscash,bibarel,kricketune,buizel,shellos,gastrodon,croagunk
-Route 213|tentacool,tentacruel,magikarp,gyarados,remoraid,octillery,swellow,wingull,pelipper,sharpedo,absol,buizel,floatzel,shellos,gastrodon,chatot
 Celestic Town|psyduck,golduck,goldeen,seaking,magikarp,gyarados,barboach,whiscash,corphish,crawdaunt
 --Celestic Town|cyr1|evil-team|Cyrus
 Fuego Ironworks|psyduck,golduck,goldeen,seaking,magikarp,gyarados,barboach,whiscash,corphish,crawdaunt,magnemite,magmar,wingull,shinx,luxio,pachirisu,floatzel,gastrodon,shellos,pelipper
@@ -57,7 +58,6 @@ Canalave City|tentacool,tentacruel,staryu,magikarp,gyarados,wingull,pelipper,she
 --Canalave City|b5|rival|Barry
 --Canalave Gym|6|gym-leader|Byron
 Iron Island|tentacool,tentacruel,magikarp,gyarados,qwilfish,wingull,pelipper,finneon,lumineon,geodude,graveler,onix,sableye,mawile,steelix,riolu
-Route 211|zubat,machop,geodude,ponyta,hoothoot,teddiursa,tyrogue,meditite,bidoof,chingling,bronzor,machoke,graveler,noctowl,swablu
 --Valor Cavern|sat1|evil-team|Saturn
 --Lake Verity|mars2|evil-team|Mars
 Route 216|zubat,machoke,graveler,noctowl,sneasel,ursaring,delibird,meditite,snorunt,snover

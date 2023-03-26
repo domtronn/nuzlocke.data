@@ -43,6 +43,7 @@
 75,43,65,125,96,96|jynx|
 110|tauros|
 ,,,65,,95|flareon|
+|bayleef|grass,fairy
 ,,,93|meganium|grass,fairy
 ,,,110|typhlosion|
 75,,,49,68,53|croconaw|
