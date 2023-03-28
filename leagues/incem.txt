@@ -1,3 +1,5 @@
+# Challenge Mode - https://docs.google.com/spreadsheets/d/1rCW_1JDc2cDKC12Vc-T79kaubQ0JfofU/edit#gid=1845864340
+
 # Evail team
 
 --g1|Grunt||/leaders/rs-grunt# - Petalburg Woods
@@ -17,6 +19,7 @@ crobat|+0|air-cutter,venoshock,giga-drain,super-fang|inner-focus||
 sharpedo|+1|poison-fang,bite,aqua-jet,ice-fang|speed-boost||
 
 --mc1|Courtney||/leaders/rs-courtney# - Meteor Falls
+==double:true
 ninetales|+0|mystical-fire,hypnosis,solar-beam,calm-mind|drought|passho-berry
 krookodile|+0|crunch,earthquake,fire-fang,thunder-fang|intimidate|assault-vest
 houndoom|+0|dark-pulse,heat-wave,solar-beam,sludge-bomb|flash-fire|grass-gem
@@ -54,6 +57,7 @@ seismitoad|+0|liquidation,earthquake,power-whip,ice-punch|swift-swim|rindo-berry
 gyarados-mega|+2|waterfall,crunch,earthquake,dragon-dance|mold-breaker|gyaradosite
 
 --mtc|Tabitha & Courtney||/leaders/rs-tabitha-courtney# magma hideout
+==double:true
 gigalith|+1|power-gem,earth-power,weather-ball,thunderbolt|solar-power|rocky-helmet
 darmanitan-standard|+1|flare-blitz,zen-headbutt,rock-slide,iron-head|sheer-force|life-orb
 steelix-mega|+2|gyro-ball,drill-run,rock-slide,fire-fang|sand-force|steelixite
@@ -86,6 +90,7 @@ excadrill|+0|earthquake,iron-head,rock-slide,swords-dance|sand-rush|focus-sash
 gastrodon|+0|earth-power,scald,toxic,recover|storm-drain|leftovers
 
 --mmc|Maxie & Courtney||/leaders/rs-maxie-courtney#mossdeep space centre
+==double:true
 victreebel|+1|solar-blade,poison-jab,weather-ball,sleep-powder|chlorophyll|life-orb
 crobat|+1|brave-bird,cross-poison,hypnosis,super-fang|infiltrator|flying-gem
 camerupt-mega|+2|earth-power,fire-blast,solar-beam,flash-cannon|sheer-force|cameruptite
@@ -288,6 +293,7 @@ kangaskhan-mega|+0|facade,crunch,seismic-toss,earthquake|parental-bond|kangaskha
 
 
 --6|Winona|flying|/leaders/rs-winona
+==double:true
 gyarados|+1|waterfall,earthquake,stone-edge,power-whip|intimidate|wacan-berry
 hawlucha|+1|brave-bird,close-combat,rock-slide,encore|unburden|flying-gem
 dragonite|+1|wing-attack,earthquake,fire-punch,extreme-speed|multiscale|yache-berry
@@ -297,6 +303,7 @@ altaria-mega|+3|return,earthquake,roost,dragon-dance|pixilate|altarianite
 
 
 --7|Tate & Liza|psychic|/leaders/rs-tate-liza
+==double:true
 slowbro-mega|+2|psychic,surf,ice-beam,calm-mind|shell-armor|slowbronite
 claydol|+2|psychic,earth-power,signal-beam,trick-room|levitate|absorb-bulb
 exeggutor|+2|psychic,solar-beam,sludge-bomb,trick-room|chloroplast|expert-belt

@@ -136,6 +136,7 @@ skarmory|32|sand-attack,fury-attack,steel-wing,aerial-ace|keen-eye||
 altaria|33|earthquake,dragon-breath,dragon-dance,aerial-ace|natural-cure||
 
 --7|Tate & Liza|psychic|/leaders/rs-tate-liza
+==double:true
 lunatone|42|light-screen,psychic,hypnosis,calm-mind|levitate||
 solrock|42|sunny-day,solar-beam,psychic,flamethrower|levitate||
 

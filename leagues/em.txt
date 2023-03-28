@@ -138,6 +138,7 @@ skarmory|31|sand-attack,fury-attack,steel-wing,aerial-ace|keen-eye|
 altaria|33|earthquake,dragon-breath,dragon-dance,aerial-ace|natural-cure|oran-berry
 
 --7|Tate & Liza|psychic|/leaders/rs-tate-liza
+==double:true
 claydol|41|earthquake,ancient-power,psychic,light-screen|levitate|
 xatu|41|psychic,sunny-day,confuse-ray,calm-mind|synchronize|
 lunatone|42|light-screen,psychic,hypnosis,calm-mind|levitate|sitrus-berry

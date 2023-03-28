@@ -316,6 +316,7 @@ flygon|55|dragon-claw,flamethrower,earthquake,giga-drain|levitate|lum-berry
 moltres|55|sky-attack,overheat,hp-grass,steel-wing|pressure|lum-berry
 
 --7|Tate & Liza|psychic|/leaders/rs-tate-liza
+==double:true
 latias|70|dragon-claw,mist-ball,hp-fire,waterfall|levitate|lum-berry
 latios|70|dragon-claw,luster-purge,hp-fire,thunderbolt|levitate|lum-berry
 gardevoir|70|psychic,fire-punch,hp-grass,thunderbolt|synchronize|lum-berry

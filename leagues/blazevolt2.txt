@@ -103,6 +103,7 @@ persian|51|swift,water-pulse,thunderbolt,hypnosis|technician|
 mienshao|51|drain-punch,fake-out,rock-slide,acrobatics|reckless|
 
 --bianca_c|Bianca||/leaders/blwh-bianca
+==double:true
 mienshao|56|close-combat,fake-out,rock-slide,u-turn|regenerator|focus-sash
 musharna|56|psyshock,dazzling-gleam,reflect,light-screen|synchronize|light-clay
 haxorus|56|dragon-claw,cross-poison,dragon-dance,close-combat|mold-breaker|dragon-gem
@@ -198,6 +199,7 @@ walrein|50|encore,body-slam,aurora-beam,water-pulse|thick-fat|
 crawdaunt|51|crabhammer,dragon-dance,crunch,aqua-jet|adaptability|
 
 --o6_c|Juan|water|/leaders/blazevolt-juan
+==double:true|effect:rain
 swampert|53|hammer-arm,rock-slide,waterfall,high-horsepower|torrent|rindo-berry
 slowking|53|ice-beam,muddy-water,psychic,trick-room|regenerator|lum-berry
 pelipper|53|hurricane,hydro-pump,ice-beam,u-turn|drizzle|flying-gem
@@ -214,6 +216,7 @@ skarmory|58|brave-bird,rock-slide,steel-wing,swords-dance|weak-armor|wacan-berry
 tropius|58|earthquake,leaf-blade,dual-wingbeat,dragon-dance|harvest|sitrus-berry
 
 --o7_c|Winona|flying|/leaders/blazevolt-winona
+==effect:rain|double:true
 dragonite|62|hurricane,earthquake,thunder,icy-wind|multiscale|flying-gem
 mantine|62|hydro-pump,hurricane,confuse-ray,tailwind|swift-swim|wacan-berry
 rotom-fan>rotom-fan|62|thunder,electroweb,air-slash,rain-dance|motor-drive|electric-gem
@@ -222,12 +225,14 @@ altaria|63|brave-bird,earthquake,play-rough,dragon-dance|natural-cure|life-orb
 drifblim|62|protect,hurricane,thunder,shadow-ball|flare-boost|flame-orb
 
 --o8_n|Tate & Liza|psychic|/leaders/blazevolt-tate-liza
+==double:true
 reuniclus|62|trick-room,psychic,focus-blast,energy-ball|magic-guard|
 gothitelle|62|fake-out,ally-switch,night-daze,psyshock|frisk|
 lunatone|63|cosmic-power,stored-power,power-gem,night-daze|levitate|sitrus-berry
 solrock|63|psyshield-bash,helping-hand,rock-slide,hypnosis|levitate|sitrus-berry
 
 --o8_c|Tate & Liza|psychic|/leaders/blazevolt-tate-liza
+==double:true
 mr-mime|66|trick-room,dazzling-gleam,baton-pass,aura-sphere|filter|lum-berry
 claydol|66|scorching-sands,extrasensory,shadow-ball,ice-beam|levitate|kasib-berry
 lunatone|67|psychic,ice-beam,earth-power,power-gem|levitate|rock-gem
@@ -327,6 +332,7 @@ parasect|25|x-scissor,spore,seed-bomb,counter|dry-skin|focus-sash
 leavanny|27|x-scissor,leaf-blade,swords-dance,aerial-ace|swarm|life-orb
 
 --4_c|Burgh|bug|/leaders/blwh-burgh
+==double:true
 yanmega|28|bug-buzz,giga-drain,air-cutter,detect|tinted-lens|bug-gem
 masquerain|28|signal-beam,bubble-beam,icy-wind,twister|intimidate|absorb-bulb
 scyther|28|bug-bite,wing-attack,rock-smash,quick-attack|technician|lum-berry
@@ -340,6 +346,7 @@ unfezant|30|air-slash,hyper-voice,wish,tailwind|super-luck|scope-lens
 sawsbuck|30|aerial-ace,horn-attack,jump-kick,horn-leech|sap-sipper|miracle-seed
 
 --5_c|Lenora & Hawes|normal|/leaders/blazevolt-lenora-hawes
+==double:true
 gigalith|31|stealth-rock,sandstorm,heavy-slam,rock-slide|sand-stream|wide-lens
 stoutland|31|strength,wild-charge,crunch,play-rough|sand-rush|leftovers
 machamp|31|dynamic-punch,bullet-punch,ice-punch,cross-poison|no-guard|sitrus-berry
@@ -370,6 +377,7 @@ excadrill|43|earthquake,swords-dance,iron-head,x-scissor|sand-rush|chople-berry
 krookodile|41|earthquake,sandstorm,crunch,rock-slide|intimidate|leftovers
 
 --7_c|Clay|ground|/leaders/blwh-clay
+==effect:sandstorm
 seismitoad|44|rock-slide,hydro-pump,power-whip,ice-punch|water-absorb|rindo-berry
 mamoswine|44|ice-shard,endeavor,earthquake,icicle-crash|thick-fat|passho-berry
 torterra|44|shell-smash,wood-hammer,head-smash,earthquake|rock-head|white-herb
@@ -402,6 +410,7 @@ haxorus|61|outrage,earthquake,aqua-tail,iron-tail|mold-breaker|dragon-gem
 salamence|59|hydro-pump,fire-blast,outrage,iron-tail|intimidate|wide-lens
 
 --9_c|Drayden|dragon|/leaders/blwh-drayden
+==double:true
 charizard|63|shadow-claw,fire-lash,dragon-claw,rock-slide|defiant|sitrus-berry
 latias|63|aura-sphere,thunderbolt,tailwind,dragon-pulse|levitate|lum-berry
 haxorus|64|outrage,swords-dance,close-combat,cross-poison|mold-breaker|haban-berry
@@ -418,6 +427,7 @@ jellicent|64|scald,shadow-ball,ice-beam,recover|cursed-body|sitrus-berry
 bibarel|63|wave-crash,strength,aqua-jet,swords-dance|simple|chople-berry
 
 --10_c|Marlon|water|/leaders/blwh-marlon
+==effect:rain|double:true
 poliwrath|67|lovely-kiss,poison-jab,high-horsepower,close-combat|swift-swim|cell-battery
 ludicolo|67|hydro-pump,giga-drain,ice-beam,focus-blast|swift-swim|life-orb
 kabutops|67|rock-slide,waterfall,leech-life,aqua-jet|swift-swim|focus-sash
@@ -483,6 +493,7 @@ stoutland|41|strength,fire-fang,ice-fang,thunder-fang|intimidate|life-orb
 chandelure|41|energy-ball,shadow-ball,mystical-fire,dark-pulse|flash-fire|passho-berry
 
 --zinz1|Zinzolin & Grunt||/leaders/blwh-zinzolin-grunt
+==double:true
 cryogonal|54|blizzard,hail,dazzling-gleam,explosion|levitate|focus-sash
 swalot|54|acid-spray,toxic,stockpile,destiny-bond|liquid-ooze|
 walrein|54|brine,protect,substitute,toxic|ice-body|leftovers
@@ -490,6 +501,7 @@ delibird|54|icy-wind,frost-breath,acrobatics,tailwind|technician|
 weavile|56|night-slash,ice-punch,fake-out,low-kick|pressure|life-orb
 
 --zinz2|Zinzolin & Grunt||/leaders/blwh-zinzolin-grunt
+==double:true
 abomasnow|59|wood-hammer,blizzard,focus-blast,thunder-punch|snow-warning|life-orb
 cryogonal|59|blizzard,reflect,light-screen,explosion|levitate|light-clay
 walrein|59|surf,protect,substitute,toxic|ice-body|leftovers
@@ -513,6 +525,7 @@ weavile|68|knock-off,icicle-crash,ice-shard,low-kick|pressure|life-orb
 carnivine|66|power-whip,rage-powder,sleep-powder,knock-off|levitate|focus-sash
 
 --zinz4_n|Zinzolin||/leaders/blwh-zinzolin
+==double:true
 vanilluxe|65|dazzling-gleam,blizzard,power-gem,flash-cannon|snow-warning|focus-sash
 cryogonal|65|blizzard,reflect,light-screen,hail|levitate|light-clay
 froslass|65|blizzard,hex,will-o-wisp,destiny-bond|snow-cloak|ice-gem
@@ -597,6 +610,7 @@ slowbro|72|trick-room,surf,slack-off,fire-blast|regenerator|red-card
 metagross|74|meteor-mash,earthquake,zen-headbutt,bullet-punch|iron-fist|air-balloon
 
 --e3_c|Caitlin|psychic|/leaders/blwh-caitlin
+==double:true
 musharna|77|trick-room,psyshock,dazzling-gleam,shadow-ball|synchronize|leftovers
 slowbro|77|psychic,ice-beam,fire-blast,scald|regenerator|eject-button
 gallade|77|psycho-cut,close-combat,ice-punch,shadow-sneak|justified|life-orb
@@ -614,6 +628,7 @@ medicham|72|high-jump-kick,zen-headbutt,thunder-punch,ice-punch|pure-power|focus
 conkeldurr|74|drain-punch,stone-edge,payback,mach-punch|iron-fist|leftovers
 
 --e4_c|Marshal|fighting|/leaders/blwh-marshal
+==double:true
 hitmontop|77|ice-punch,rock-slide,fake-out,close-combat|intimidate|sitrus-berry
 infernape|77|heat-wave,thunder-punch,poison-jab,close-combat|blaze|focus-sash
 breloom|77|spore,mach-punch,bullet-seed,rock-tomb|technician|coba-berry
