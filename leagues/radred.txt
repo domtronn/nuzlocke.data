@@ -49,6 +49,7 @@ honchkrow|78|drill-peck,night-slash,superpower,sucker-punch|super-luck|scope-len
 mawile|79|play-rough,iron-head,swords-dance,sucker-punch|intimidate|mawilite
 
 --ev6|Giovanni||/leaders/frlg-giovanni#Cerulean Cave
+==double:true
 scrafty|80|drain-punch,knock-off,ice-punch,roar|moxie|psychic-seed
 tapu-lele|80|thunderbolt,psychic,focus-blast,moonblast|psychic-surge|terrain-extender
 excadrill|80|rock-slide,iron-head,swords-dance,high-horsepower|sand-rush|focus-sash
@@ -335,6 +336,7 @@ venusaur|-2|giga-drain,sludge-bomb,earth-power,synthesis|thick-fat|venusaurite
 # Elite four
 
 --e1a|Lorelei (Rain Team)|ice|/leaders/frlg-lorelei
+==double:true
 poliwrath|84|flip-turn,close-combat,ice-punch,surging-strikes|water-absorb|focus-sash
 politoed|84|scald,rain-dance,haze,flip-turn|drizzle|damp-rock
 swampert|85|power-up-punch,earthquake,ice-punch,liquidation|swift-swim|swampertite
@@ -343,6 +345,7 @@ kyogre-primal>kyogre-primal|85|water-sport,origin-pulse,thunder,ice-beam|primord
 dracovish|85|fishious-rend,outrage,psychic-fangs,crunch|strong-jaw|choice-scarf
 
 --e1b|Lorelei (Hail Team)|ice|/leaders/frlg-lorelei
+==double:true
 ninetales-alola>ninetales-alola|84|blizzard,aurora-veil,freeze-dry,hail|snow-warning|light-clay
 glaceon|84|blizzard,earth-power,freeze-dry,hidden-power-fire|slush-rush|choice-specs
 calyrex-ice>calyrex-ice|85|glacial-lance,high-horsepower,zen-headbutt,seed-bomb|as-one|choice-band
