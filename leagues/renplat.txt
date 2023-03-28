@@ -1,3 +1,5 @@
+# https://fredericdlugi.github.io/platinum-renegade-wiki/
+
 # Evil team
 --mars1|Mars||/leaders/dp-mars#valley windworks post
 zubat|18|poison-fang,wing-attack,toxic,confuse-ray|inner-focus|
@@ -294,6 +296,7 @@ gallade|38|drain-punch,zen-headbutt,light-screen,reflect|steadfast|light-clay
 lucario|39|aura-sphere,flash-cannon,dark-pulse,agility|adaptability|focus-sash
 
 --5|Crasher Wake|water|/leaders/dp-wake
+==effect:rain
 quagsire|43|aqua-tail,earthquake,recover,ice-punch|water-absorb|rindo-berry
 gyarados|43|aqua-tail,ice-fang,crunch,dragon-dance|intimidate|wacan-berry
 poliwrath|43|waterfall,drain-punch,ice-punch,hypnosis|water-absorb|sitrus-berry
