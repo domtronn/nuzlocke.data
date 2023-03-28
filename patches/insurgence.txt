@@ -1,0 +1,296 @@
+--move
+drakon-voice|dragon|105|No effect|special
+ancient-roar|rock|80|No effect|special
+livewire|electric||Causes Pokemon that are switched in to be immediately Paralyzed.|status
+dark-matter|dark|150|The unknown forces of the world are unleashed. The user must recharge next turn.|special
+wildfire|fire||Burns the foe. If it is a Grass-type Pokemon, burns all Pokemon in their party weak to fire.|status
+lunar-cannon|dark|105|A two-turn attack. The user gathers darkness, then blasts a bundled beam on the second turn.|special
+crystal-rush|crystal|45|The user turns to solid crystal, hitting first.|physical
+new-moon|dark||The sky darkens to night, increasing the power of Dark- and Ghost-type moves.|status
+draco-jet|dragon|40|A draconic fury in which the user always attacks first.|physical
+
+--ability
+noctem|The Pokémon summons darkness and blots out the sky as it enters the battle.
+intoxicate|Intoxicate causes all Normal-type moves used by the Pokémon to become Poison-type and receive a 30% power boost.
+ice-cleats|During hail the Speed stat of Pokémon with this Ability is doubled. A Pokémon with this Ability will take no damage from hail if it otherwise would.
+spirit-call|When a Pokémon with Spirit Call uses a Ghost-type move, the power will increase by 1.5× if the user has less than or equal to ⅓ of its maximum HP remaining.
+shadow-call|When a Pokémon with Shadow Call uses a Dark-type move, the power will increase by 1.5× if the user has less than or equal to ⅓ of its maximum HP remaining.
+psycho-call|When a Pokémon with Psycho Call uses a Psychic-type move, the power will increase by 1.5× if the user has less than or equal to ⅓ of its maximum HP remaining.
+shadow-dance|During intense darkness, the Speed stat of Pokémon with this Ability is doubled.
+absolution|During intense darkness, Absolution increases the Pokémon's Special Attack by 50 percent, but the Pokémon loses 1/8 of its maximum HP at the end of each turn.
+
+--item
+dragon-fang||Doubles Delta Clamperl's Attack  
+dragon-scale||Doubles Delta Clamperl's Defense
+metal-powder||Doubles Detla Ditto's Defense
+quick-powder||Doubles Detla Ditto's Speed
+dark-rock|heat-rock|Lengthens duration of New Moon and Noctem from 5 turns to 8 turns when used by the holder.
+d-volcarona-armor|assault-vest|Increases Delta Volcarona's base Defense stat from 65 to 85 and base Special Defense stat from 105 to 137 when held.
+zekrom-armor|assault-vest|Increases Zekrom's base Defense stat from 120 to 156 and base Special Defense stat from 100 to 130 when held.
+tyranitar-armor|assault-vest|Increases Tyranitar's base Defense stat from 110 to 143 and base Special Defense stat from 100 to 130 when held.
+
+crystal-fragment|adamant-orb|Allows Delta Metagross (Ruin) to Crystallize into Crystal Delta Metagross (Ruin) when held during battle.
+
+cacturnite|sceptilite|Allows Cacturne to Mega Evolve into Mega Cacturne.
+crawdite|salamencite|Allows Crawdaunt to Mega Evolve into Mega Crawdaunt.
+cryogonite|steelixite|Allows Cryogonal to Mega Evolve into Mega Cryogonal.
+delta-blastoisinite|scizorite|Allows Delta Blastoise to Mega Evolve into Mega Delta Blastoise.
+delta-charizardite|mewtwonite-y|Allows Delta Charizard to Mega Evolve into Mega Delta Charizard.
+delta-venusaurite|venasaurite|Allows Delta Venusaur to Mega Evolve into Mega Delta Venusaur.
+eevite|gyaradosite|Allows Eevee to Mega Evolve into Mega Eevee.
+flygonite|sceptilite|Allows Flygon to Mega Evolve into Mega Flygon.
+gothitite|aerodactylite|Allows Gothitelle to Mega Evolve into Mega Gothitelle.
+hydreigonite|gengarite|Allows Hydreigon to Mega Evolve into Mega Hydreigon.
+magcargonite|lucarionite|Allows Magcargo to Mega Evolve into Mega Magcargo.
+miltankite|kangaskhanite|Allows Miltank to Mega Evolve into Mega Miltank.
+politoedite|abomasite|Allows Politoed to Mega Evolve into Mega Politoed.
+poliwrathite|absolite|Allows Poliwrath to Mega Evolve into Mega Poliwrath.
+reuniclite|galladite|Allows Reuniculus to Mega Evolve into Mega Reuniculus.
+spiritombite|mewtwonite-x|Allows Spiritomb to Mega Evolve into Mega Spiritomb.
+stunfiskite|pinsirite|Allows Stunfisk to Mega Evolve into Mega Stunfisk.
+sunflorite|sablenite|Allows Sunflora to Mega Evolve into Mega Sunflora.
+typhlosionite|lopunnite|Allows Typhlosion to Mega Evolve into Mega Typhlosion.
+zebstrikite|gardevoirite|Allows Zebstrika to Mega Evolve into Mega Zebstrika.
+zoronite|scizorite|Allows Zoroark to Mega Evolve into Mega Zoroark.
+
+--fakemon
+45,49,49,65,65,45|Delta Bulbasaur|delta-bulbasaur|fairy,psychic|/<TODO: Unown Sprite>|delta-bulbasaur>delta-ivysaur|EchoTheThird# /insurgence/delta-bulbasaur
+60,62,63,80,80,60|Delta Ivysaur|delta-ivysaur|fairy,psychic|/<TODO: Unown Sprite>|delta-bulbasaur>delta-venusaur|EchoTheThird# /insurgence/delta-ivysaur
+80,82,83,100,100,80|Delta Venusaur|delta-venusaur|fairy,psychic|/<TODO: Unown Sprite>|delta-bulbasaur|EchoTheThird# /insurgence/delta-venusaur
+39,52,43,60,50,65|Delta Charmander|delta-charmander|ghost,dragon|/<TODO: Unown Sprite>|delta-charmander>delta-charmeleon|EchoTheThird# /insurgence/delta-charmander
+58,64,58,80,65,80|Delta Charmeleon|delta-charmeleon|ghost,dragon|/<TODO: Unown Sprite>|delta-charmander>delta-charizard|EchoTheThird# /insurgence/delta-charmeleon
+78,84,78,109,85,100|Delta Charizard|delta-charizard|ghost,dragon|/<TODO: Unown Sprite>|delta-charmander|EchoTheThird# /insurgence/delta-charizard
+44,48,65,50,64,43|Delta Squirtle|delta-squirtle|dark,fighting|/<TODO: Unown Sprite>|delta-squirtle>delta-wartortle|EchoTheThird# /insurgence/delta-squirtle
+59,63,80,65,80,58|Delta Wartortle|delta-wartortle|dark,fighting|/<TODO: Unown Sprite>|delta-squirtle>delta-blastoise|EchoTheThird# /insurgence/delta-wartortle
+79,83,100,85,105,78|Delta Blastoise|delta-blastoise|dark,fighting|/<TODO: Unown Sprite>|delta-squirtle|EchoTheThird# /insurgence/delta-blastoise
+45,85,70,40,40,60|Delta Pawniard|delta-pawniard|flying,fighting|/<TODO: Unown Sprite>|delta-pawniard>delta-bisharp|EchoTheThird# /insurgence/delta-pawniard
+65,125,100,60,70,70|Delta Bisharp|delta-bisharp|flying,fighting|/<TODO: Unown Sprite>|delta-pawniard|EchoTheThird# /insurgence/delta-bisharp
+28,25,25,45,35,40|Delta Ralts|delta-ralts|electric,ice|/<TODO: Unown Sprite>|delta-ralts>delta-kirlia|EchoTheThird# /insurgence/delta-ralts
+38,35,35,65,55,50|Delta Kirlia|delta-kirlia|electric,ice|/<TODO: Unown Sprite>|delta-ralts>delta-gardevoir,delta-gallade|EchoTheThird# /insurgence/delta-kirlia
+68,65,65,125,115,80|Delta Gardevoir|delta-gardevoir|electric,ice|/<TODO: Unown Sprite>|delta-ralts|EchoTheThird# /insurgence/delta-gardevoir
+68,125,65,65,115,80|Delta Gallade|delta-gallade|electric,ice|/<TODO: Unown Sprite>|delta-ralts|EchoTheThird# /insurgence/delta-gallade
+30,30,30,30,30,30|Delta Sunkern|delta-sunkern|fire,poison|/<TODO: Unown Sprite>|delta-sunkern>delta-sunflora|DankRabbit# /insurgence/delta-sunkern
+75,75,55,105,85,30|Delta Sunflora|delta-sunflora|fire,poison|/<TODO: Unown Sprite>|delta-sunkern|DankRabbit# /insurgence/delta-sunflora
+55,69,85,32,35,28|Delta Bergmite|delta-bergmite|rock|/<TODO: Unown Sprite>|delta-bergmite>delta-avalugg|Zero_Breaker# /insurgence/delta-bergmite
+95,117,184,44,46,28|Delta Avalugg|delta-avalugg|rock,dragon|/<TODO: Unown Sprite>|delta-bergmite|Zero_Breaker# /insurgence/delta-avalugg
+70,110,80,55,80,105|Delta Scyther|delta-scyther|ice,fighting|/<TODO: Unown Sprite>|delta-scyther>delta-scizor|EchoTheThird# /insurgence/delta-scyther
+70,130,100,55,80,65|Delta Scizor|delta-scizor|ice,fighting|/<TODO: Unown Sprite>|delta-scyther|EchoTheThird# /insurgence/delta-scizor
+50,75,70,35,70,48|Delta Scraggy|delta-scraggy|grass|/<TODO: Unown Sprite>|delta-scraggy>delta-scrafty|DankRabbit# /insurgence/delta-scraggy
+65,90,115,45,115,58|Delta Scrafty|delta-scrafty|grass|/<TODO: Unown Sprite>|delta-scraggy|DankRabbit# /insurgence/delta-scrafty
+30,30,42,30,42,70|Delta Combee|delta-combee|steel,fire|/<TODO: Unown Sprite>|delta-combee>delta-vespiquen|LunarDusk# /insurgence/delta-combee
+70,80,102,80,102,40|Delta Vespiquen|delta-vespiquen|steel,fire|/<TODO: Unown Sprite>|delta-combee|LunarDusk# /insurgence/delta-vespiquen
+40,65,95,60,45,35|Delta Koffing|delta-koffing|electric,flying|/<TODO: Unown Sprite>|delta-koffing>delta-weezing|Zero_Breaker# /insurgence/delta-koffing
+65,90,120,85,70,60|Delta Weezing|delta-weezing|electric,flying|/<TODO: Unown Sprite>|delta-koffing|Zero_Breaker# /insurgence/delta-weezing
+41,50,37,50,37,66|Delta Purrloin|delta-purrloin|ghost,fairy|/<TODO: Unown Sprite>|delta-purrloin>delta-liepard|Zero_Breaker# /insurgence/delta-purrloin
+64,88,50,88,50,106|Delta Liepard|delta-liepard|ghost,fairy|/<TODO: Unown Sprite>|delta-purrloin|Zero_Breaker# /insurgence/delta-liepard
+43,70,48,50,60,38|Delta Phantump|delta-phantump|fairy|/<TODO: Unown Sprite>|delta-phantump>delta-trevenant|Zero_Breaker# /insurgence/delta-phantump
+85,110,76,65,82,56|Delta Trevenant|delta-trevenant|fairy,fighting|/<TODO: Unown Sprite>|delta-phantump|Zero_Breaker# /insurgence/delta-trevenant
+50,50,50,50,50,50|Delta Snorunt|delta-snorunt|fire|/<TODO: Unown Sprite>|delta-snorunt>delta-glalie,delta-froslass|EchoTheThird# /insurgence/delta-snorunt
+80,80,80,80,80,80|Delta Glalie|delta-glalie|fire,rock|/<TODO: Unown Sprite>|delta-snorunt|EchoTheThird# /insurgence/delta-glalie
+70,80,70,80,70,110|Delta Froslass|delta-froslass|fire|/<TODO: Unown Sprite>|delta-snorunt|EchoTheThird# /insurgence/delta-froslass
+45,65,34,40,34,45|Delta Shinx|delta-shinx|steel,poison|/<TODO: Unown Sprite>|delta-shinx>delta-luxio|EchoTheThird# /insurgence/delta-shinx
+60,85,49,60,49,60|Delta Luxio|delta-luxio|steel,poison|/<TODO: Unown Sprite>|delta-shinx>delta-luxray|EchoTheThird# /insurgence/delta-luxio
+80,120,79,95,79,70|Delta Luxray|delta-luxray|steel,poison|/<TODO: Unown Sprite>|delta-shinx|EchoTheThird# /insurgence/delta-luxray
+40,30,35,45,40,55|Delta Noibat|delta-noibat|grass,steel|/<TODO: Unown Sprite>|delta-noibat>delta-noivern|LunarDusk# /insurgence/delta-noibat
+85,70,80,97,80,123|Delta Noivern|delta-noivern|grass,steel|/<TODO: Unown Sprite>|delta-noibat|LunarDusk# /insurgence/delta-noivern
+40,30,35,50,70,55|Delta Budew|delta-budew|dark,fairy|/<TODO: Unown Sprite>|delta-budew>delta-roselia|1ofthe4rocketbros# /insurgence/delta-budew
+50,60,45,100,80,65|Delta Roselia|delta-roselia|dark,fairy|/<TODO: Unown Sprite>|delta-budew>delta-roserade||1ofthe4rocketbros# /insurgence/delta-roselia
+60,70,65,125,105,90|Delta Roserade|delta-roserade|dark,fairy|/<TODO: Unown Sprite>|delta-budew||1ofthe4rocketbros# /insurgence/delta-roserade
+90,50,34,60,44,70|Delta Drifloon|delta-drifloon|fire,flying|/<TODO: Unown Sprite>|delta-drifloon>delta-drifblim|yungbro# /insurgence/delta-drifloon
+150,80,44,90,54,80|Delta Drifblim|delta-drifblim|fire,flying|/<TODO: Unown Sprite>|delta-drifloon|yungbro# /insurgence/delta-drifblim
+80,80,50,40,50,25|Delta Grimer|delta-grimer|ground|/<TODO: Unown Sprite>|delta-grimer>delta-muk|EchoTheThird# /insurgence/delta-grimer
+105,105,75,65,100,50|Delta Muk|delta-muk|ground|/<TODO: Unown Sprite>|delta-grimer|EchoTheThird# /insurgence/delta-muk
+55,45,45,25,25,15|Delta Wooper|delta-wooper|grass,fire|/<TODO: Unown Sprite>|delta-wooper>delta-quagsire|EchoTheThird# /insurgence/delta-wooper
+95,85,85,65,65,35|Delta Quagsire|delta-quagsire|grass,fire|/<TODO: Unown Sprite>|delta-wooper|EchoTheThird# /insurgence/delta-quagsire
+135,85,40,40,85,5|Delta Munchlax|delta-munchlax|grass|/<TODO: Unown Sprite>|delta-munchlax>delta-snorlax|Sparrows413# /insurgence/delta-munchlax
+160,110,65,65,110,30|Delta Snorlax|delta-snorlax|grass|/<TODO: Unown Sprite>|delta-munchlax|Sparrows413# /insurgence/delta-snorlax
+60,60,60,85,85,85|Delta Misdreavus|delta-misdreavus|ice,fairy|/<TODO: Unown Sprite>|delta-misdreavus>delta-mismagius|EchoTheThird# /insurgence/delta-misdreavus
+60,60,60,105,105,105|Delta Mismagius|delta-mismagius|ice,fairy|/<TODO: Unown Sprite>|delta-misdreavus|EchoTheThird# /insurgence/delta-mismagius
+39,52,43,60,50,65|Delta Cyndaquil|delta-cyndaquil|electric|/<TODO: Unown Sprite>|delta-cyndaquil>delta-quilava|1ofthe4rocketbros# /insurgence/delta-cyndaquil
+58,64,58,80,65,80|Delta Quilava|delta-quilava|electric,steel|/<TODO: Unown Sprite>|delta-cyndaquil>delta-typhlosion|1ofthe4rocketbros# /insurgence/delta-quilava
+78,84,78,109,85,100|Delta Typhlosion|delta-typhlosion|electric,steel|/<TODO: Unown Sprite>|delta-cyndaquil|1ofthe4rocketbros# /insurgence/delta-typhlosion
+40,45,35,65,55,70|Delta Treecko|delta-treecko|normal,fighting|/<TODO: Unown Sprite>|delta-treecko>delta-grovyle|SixteenDraws# /insurgence/delta-treecko
+50,65,45,85,65,95|Delta Grovyle|delta-grovyle|normal,fighting|/<TODO: Unown Sprite>|delta-treecko>delta-sceptile|SixteenDraws# /insurgence/delta-grovyle
+70,85,65,105,85,120|Delta Sceptile|delta-sceptile|dragon,fighting|/<TODO: Unown Sprite>|delta-treecko|SixteenDraws# /insurgence/delta-sceptile
+45,60,40,70,50,45|Delta Torchic|delta-torchic|psychic|/<TODO: Unown Sprite>|delta-torchic>delta-combusken|NoNameDummy# /insurgence/delta-torchic
+60,85,60,85,60,55|Delta Combusken|delta-combusken|psychic|/<TODO: Unown Sprite>|delta-torchic>delta-blaziken|NoNameDummy# /insurgence/delta-combusken
+80,120,70,110,70,80|Delta Blaziken|delta-blaziken|psychic,flying|/<TODO: Unown Sprite>|delta-torchic|NoNameDummy# /insurgence/delta-blaziken
+55,68,64,45,55,31|Delta Turtwig|delta-turtwig|water,ground|/<TODO: Unown Sprite>|delta-turtwig>delta-grotle|NoNameDummy# /insurgence/delta-turtwig
+75,89,85,55,65,36|Delta Grotle|delta-grotle|water,ground|/<TODO: Unown Sprite>|delta-turtwig>delta-torterra|NoNameDummy# /insurgence/delta-grotle
+95,109,105,75,85,56|Delta Torterra|delta-torterra|water,ground|/<TODO: Unown Sprite>|delta-turtwig|NoNameDummy# /insurgence/delta-torterra
+45,45,55,45,55,63|Delta Snivy|delta-snivy|water|/<TODO: Unown Sprite>|delta-snivy>delta-servine|Aboodie# /insurgence/delta-snivy
+60,60,75,60,75,83|Delta Servine|delta-servine|water|/<TODO: Unown Sprite>|delta-snivy>delta-serperior|Aboodie# /insurgence/delta-servine
+75,75,95,75,95,113|Delta Serperior|delta-serperior|water,dragon|/<TODO: Unown Sprite>|delta-snivy|Aboodie# /insurgence/delta-serperior
+41,56,40,62,44,71|Delta Froakie|delta-froakie|grass|/<TODO: Unown Sprite>|delta-froakie>delta-frogadier|Ubodot# /insurgence/delta-froakie
+54,63,52,83,56,97|Delta Frogadier|delta-frogadier|grass|/<TODO: Unown Sprite>|delta-froakie>delta-greninja|Ubodot# /insurgence/delta-frogadier
+72,95,67,103,71,122|Delta Greninja|delta-greninja|grass,fire|/<TODO: Unown Sprite>|delta-froakie|Ubodot# /insurgence/delta-greninja
+40,45,40,35,35,56|Delta Pidgey|delta-pidgey|dark,dragon|/<TODO: Unown Sprite>|delta-pidgey>delta-pidgeotto|RuneBlad3# /insurgence/delta-pidgey
+63,60,55,50,50,71|Delta Pidgeotto|delta-pidgeotto|dark,dragon|/<TODO: Unown Sprite>|delta-pidgey>delta-pidgeot|RuneBlad3# /insurgence/delta-pidgeotto
+83,80,75,70,70,101|Delta Pidgeot|delta-pidgeot|dark,dragon|/<TODO: Unown Sprite>|delta-pidgey|RuneBlad3# /insurgence/delta-pidgeot
+10,55,25,35,45,95|Delta Diglett|delta-diglett|ice,normal|/<TODO: Unown Sprite>|delta-diglett>delta-dugtrio|Zazulitao# /insurgence/delta-diglett
+35,80,50,50,70,120|Delta Dugtrio|delta-dugtrio|ice,normal|/<TODO: Unown Sprite>|delta-diglett|Zazulitao# /insurgence/delta-dugtrio
+55,70,45,70,50,60|Delta Growlithe|delta-growlithe|normal,dragon|/<TODO: Unown Sprite>|delta-growlithe>delta-arcanine|LunarDusk# /insurgence/delta-growlithe
+90,110,80,100,80,95|Delta Arcanine|delta-arcanine|normal,dragon|/<TODO: Unown Sprite>|delta-growlithe|LunarDusk# /insurgence/delta-arcanine
+40,80,100,30,30,20|Delta Geodude|delta-geodude|psychic,rock|/<TODO: Unown Sprite>|delta-geodude>delta-graveler|EchoTheThird# /insurgence/delta-geodude
+55,95,115,45,45,35|Delta Graveler|delta-graveler|psychic,rock|/<TODO: Unown Sprite>|delta-geodude>delta-golem|EchoTheThird# /insurgence/delta-graveler
+80,120,130,55,65,45|Delta Golem|delta-golem|psychic,rock|/<TODO: Unown Sprite>|delta-geodude|EchoTheThird# /insurgence/delta-golem
+40,40,35,50,100,70|Delta Tentacool|delta-tentacool|grass,poison|/<TODO: Unown Sprite>|delta-tentacool>delta-tentacruel|xxxHexxxx# /insurgence/delta-tentacool
+80,70,65,80,120,100|Delta Tentacruel|delta-tentacruel|grass,poison|/<TODO: Unown Sprite>|delta-tentacool|xxxHexxxx# /insurgence/delta-tentacruel
+35,85,45,35,35,75|Delta Doduo|delta-doduo|psychic|/<TODO: Unown Sprite>|delta-doduo>delta-dodrio|TheTurtleScream# /insurgence/delta-doduo
+60,110,70,60,60,100|Delta Dodrio|delta-dodrio|psychic|/<TODO: Unown Sprite>|delta-doduo|TheTurtleScream# /insurgence/delta-dodrio
+65,55,115,100,40,60|Delta Tangela|delta-tangela|ground|/<TODO: Unown Sprite>|delta-tangela>delta-tangrowth|winkright# /insurgence/delta-tangela
+100,100,125,110,50,50|Delta Tangrowth|delta-tangrowth|ground,fighting|/<TODO: Unown Sprite>|delta-tangela|winkright# /insurgence/delta-tangrowth
+48,48,48,48,48,48|Delta Ditto|delta-ditto|water|/<TODO: Unown Sprite>|delta-ditto|EchoTheThird# /insurgence/delta-ditto
+30,80,95,55,45,55|Delta Kabuto|delta-kabuto|bug,dark|/<TODO: Unown Sprite>|delta-kabuto>delta-kabutops|PokeNerd123# /insurgence/delta-kabuto
+60,115,105,65,70,80|Delta Kabutops|delta-kabutops|bug,dark|/<TODO: Unown Sprite>|delta-kabuto|PokeNerd123# /insurgence/delta-kabutops
+41,64,45,50,50,50|Delta Dratini|delta-dratini|water,electric|/<TODO: Unown Sprite>|delta-dratini>delta-dragonair|PokeNerd123# /insurgence/delta-dratini
+61,84,65,70,70,70|Delta Dragonair|delta-dragonair|water,electric|/<TODO: Unown Sprite>|delta-dratini>delta-dragonite|PokeNerd123# /insurgence/delta-dragonair
+91,134,95,100,100,80|Delta Dragonite|delta-dragonite|water,electric|/<TODO: Unown Sprite>|delta-dratini|PokeNerd123# /insurgence/delta-dragonite
+60,30,30,36,56,50|Delta Hoothoot|delta-hoothoot|ice,flying|/<TODO: Unown Sprite>|delta-hoothoot>delta-noctowl|Aboodie# /insurgence/delta-hoothoot
+100,50,50,76,96,70|Delta Noctowl|delta-noctowl|ice,flying|/<TODO: Unown Sprite>|delta-hoothoot|Aboodie# /insurgence/delta-noctowl
+75,38,38,56,56,67|Delta Chinchou|delta-chinchou|ghost,fire|/<TODO: Unown Sprite>|delta-chinchou>delta-lanturn|CommanderPhoenix# /insurgence/delta-chinchou
+125,58,58,76,76,67|Delta Lanturn|delta-lanturn|ghost,fire|/<TODO: Unown Sprite>|delta-chinchou|CommanderPhoenix# /insurgence/delta-lanturn
+20,40,15,35,35,60|Delta Pichu|delta-pichu|flying,fairy|/<TODO: Unown Sprite>|delta-pichu>delta-pikachu|EchoTheThird# /insurgence/delta-pichu
+35,55,40,50,50,90|Delta Pikachu|delta-pikachu|flying,fairy|/<TODO: Unown Sprite>|delta-pichu>delta-raichu|EchoTheThird# /insurgence/delta-pikachu
+60,90,55,90,80,110|Delta Raichu|delta-raichu|flying,fairy|/<TODO: Unown Sprite>|delta-pichu|EchoTheThird# /insurgence/delta-raichu
+55,70,55,40,55,85|Delta Aipom|delta-aipom|ghost,normal|/<TODO: Unown Sprite>|delta-aipom>delta-ambipom|SixteenDraws# /insurgence/delta-aipom
+75,100,66,60,66,115|Delta Ambipom|delta-ambipom|ghost,normal|/<TODO: Unown Sprite>|delta-aipom|SixteenDraws# /insurgence/delta-ambipom
+65,65,45,75,45,95|Delta Yanma|delta-yanma|grass,flying|/<TODO: Unown Sprite>|delta-yanma>delta-yanmega|SapphirePhoenix# /insurgence/delta-yanma
+86,76,86,116,56,95|Delta Yanmega|delta-yanmega|grass,flying|/<TODO: Unown Sprite>|delta-yanma|SapphirePhoenix# /insurgence/delta-yanmega
+70,80,65,90,65,85|Delta Girafarig|delta-girafarig|steel,poison|/<TODO: Unown Sprite>|delta-girafarig|nico# /insurgence/delta-girafarig
+100,70,70,65,65,45|Delta Dunsparce|delta-dunsparce|bug,water|/<TODO: Unown Sprite>|delta-dunsparce|LunarDusk# /insurgence/delta-dunsparce
+20,10,230,10,230,5|Delta Shuckle|delta-shuckle|fighting,steel|/<TODO: Unown Sprite>|delta-shuckle|Zazulitao# /insurgence/delta-shuckle
+35,65,35,65,35,65|Delta Remoraid|delta-remoraid|fire|/<TODO: Unown Sprite>|delta-remoraid>delta-octillery|Missingo_OP# /insurgence/delta-remoraid
+75,105,75,105,75,45|Delta Octillery|delta-octillery|fire|/<TODO: Unown Sprite>|delta-remoraid|Missingo_OP# /insurgence/delta-octillery
+45,63,37,65,55,95|Delta Elekid|delta-elekid|rock|/<TODO: Unown Sprite>|delta-elekid>delta-electabuzz|Ubodot# /insurgence/delta-elekid
+65,83,57,95,85,105|Delta Electabuzz|delta-electabuzz|rock|/<TODO: Unown Sprite>|delta-elekid>delta-electivire|Ubodot# /insurgence/delta-electabuzz
+75,123,67,95,85,95|Delta Electivire|delta-electivire|rock,dragon|/<TODO: Unown Sprite>|delta-elekid|Ubodot# /insurgence/delta-electivire
+45,75,37,70,55,83|Delta Magby|delta-magby|water|/<TODO: Unown Sprite>|delta-magby>delta-magmar|Ubodot# /insurgence/delta-magby
+65,95,57,100,85,93|Delta Magmar|delta-magmar|water|/<TODO: Unown Sprite>|delta-magby>delta-magmortar|Ubodot# /insurgence/delta-magmar
+75,95,67,125,95,83|Delta Magmortar|delta-magmortar|water,steel|/<TODO: Unown Sprite>|delta-magby|Ubodot# /insurgence/delta-magmortar
+40,30,30,40,50,30|Delta Lotad|delta-lotad|psychic,water|/<TODO: Unown Sprite>|delta-lotad>delta-lombre|Kalorian# /insurgence/delta-lotad
+60,50,50,60,70,50|Delta Lombre|delta-lombre|psychic,water|/<TODO: Unown Sprite>|delta-lotad>delta-ludicolo|Kalorian# /insurgence/delta-lombre
+80,70,70,90,100,70|Delta Ludicolo|delta-ludicolo|psychic,water|/<TODO: Unown Sprite>|delta-lotad|Kalorian# /insurgence/delta-ludicolo
+40,40,50,30,30,30|Delta Seedot|delta-seedot|electric|/<TODO: Unown Sprite>|delta-seedot>delta-nuzleaf|SketchyGamer# /insurgence/delta-seedot
+70,70,40,60,40,60|Delta Nuzleaf|delta-nuzleaf|electric|/<TODO: Unown Sprite>|delta-seedot>delta-shiftry|SketchyGamer# /insurgence/delta-nuzleaf
+90,100,60,90,60,80|Delta Shiftry|delta-shiftry|electric|/<TODO: Unown Sprite>|delta-seedot|SketchyGamer# /insurgence/delta-shiftry
+50,75,75,65,65,50|Delta Sableye|delta-sableye|fire,rock|/<TODO: Unown Sprite>|delta-sableye|SketchyGamer# /insurgence/delta-sableye
+50,85,85,55,55,50|Delta Mawile|delta-mawile|grass,dark|/<TODO: Unown Sprite>|delta-mawile|SketchyGamer# /insurgence/delta-mawile
+50,70,100,40,40,30|Delta Aron|delta-aron|fire,steel|/<TODO: Unown Sprite>|delta-aron>delta-lairon|draexzhan# /insurgence/delta-aron
+60,90,140,50,50,40|Delta Lairon|delta-lairon|fire,steel|/<TODO: Unown Sprite>|delta-aron>delta-aggron|draexzhan# /insurgence/delta-lairon
+70,110,180,60,60,50|Delta Aggron|delta-aggron|fire,steel|/<TODO: Unown Sprite>|delta-aron|draexzhan# /insurgence/delta-aggron
+30,40,55,40,55,60|Delta Meditite|delta-meditite|fairy|/<TODO: Unown Sprite>|delta-meditite>delta-medicham|ensentiumseraph# /insurgence/delta-meditite
+60,60,75,60,75,80|Delta Medicham|delta-medicham|fairy,ground|/<TODO: Unown Sprite>|delta-meditite|ensentiumseraph# /insurgence/delta-medicham
+60,60,40,65,45,35|Delta Numel|delta-numel|poison|/<TODO: Unown Sprite>|delta-numel>delta-camerupt|bradyleinabox# /insurgence/delta-numel
+70,100,70,105,75,40|Delta Camerupt|delta-camerupt|poison|/<TODO: Unown Sprite>|delta-numel|bradyleinabox# /insurgence/delta-camerupt
+60,50,40,85,75,95|Delta Plusle|delta-plusle|fire,fairy|/<TODO: Unown Sprite>|delta-plusle|powerpow# /insurgence/delta-plusle
+60,40,50,75,85,95|Delta Minun|delta-minun|ice,fairy|/<TODO: Unown Sprite>|delta-minun|powerpow# /insurgence/delta-minun
+130,70,35,70,35,60|Delta Wailmer|delta-wailmer|ice,flying|/<TODO: Unown Sprite>|delta-wailmer>delta-wailord|EchoTheThird# /insurgence/delta-wailmer
+170,90,45,90,45,60|Delta Wailord|delta-wailord|ice,flying|/<TODO: Unown Sprite>|delta-wailmer|EchoTheThird# /insurgence/delta-wailord
+20,15,20,10,55,80|Delta Feebas|delta-feebas|ghost|/<TODO: Unown Sprite>|delta-feebas>delta-milotic|1ofthe4rocketbros# /insurgence/delta-feebas
+95,60,79,100,125,81|Delta Milotic|delta-milotic|ghost|/<TODO: Unown Sprite>|delta-feebas|1ofthe4rocketbros# /insurgence/delta-milotic
+35,65,85,74,55,32|Delta Clamperl|delta-clamperl|dragon|/<TODO: Unown Sprite>|delta-clamperl>delta-huntail,delta-gorebyss|yungbro# /insurgence/delta-clamperl
+55,104,105,94,75,52|Delta Huntail|delta-huntail|dragon,dark|/<TODO: Unown Sprite>|delta-clamperl|yungbro# /insurgence/delta-huntail
+55,84,105,114,75,52|Delta Gorebyss|delta-gorebyss|dragon,fairy|/<TODO: Unown Sprite>|delta-clamperl|yungbro# /insurgence/delta-gorebyss
+40,55,80,35,60,30|Delta Beldum (Spider)|delta-beldum-spider|ground,bug|/<TODO: Unown Sprite>|delta-beldum-spider>delta-metang-spider|Zero_Breaker# /insurgence/delta-beldum-spider
+60,75,100,55,80,50|Delta Metang (Spider)|delta-metang-spider|ground,bug|/<TODO: Unown Sprite>|delta-beldum-spider>delta-metagross-spider|Zero_Breaker# /insurgence/delta-metang-spider
+80,135,130,95,90,70|Delta Metagross (Spider)|delta-metagross-spider|ground,bug|/<TODO: Unown Sprite>|delta-beldum-spider|Zero_Breaker# /insurgence/delta-metagross-spider
+40,55,80,35,60,30|Delta Beldum (Ruin)|delta-beldum-ruin|grass,rock|/<TODO: Unown Sprite>|delta-beldum-ruin>delta-metang-ruin|LunarDusk# /insurgence/delta-beldum-ruin
+60,75,100,55,80,50|Delta Metang (Ruin)|delta-metang-ruin|grass,rock|/<TODO: Unown Sprite>|delta-beldum-ruin>delta-metagross-ruin|LunarDusk# /insurgence/delta-metang-ruin
+80,135,130,95,90,70|Delta Metagross (Ruin)|delta-metagross-ruin|grass,rock|/<TODO: Unown Sprite>|delta-beldum-ruin|LunarDusk# /insurgence/delta-metagross-ruin
+55,66,44,44,56,85|Delta Buneary|delta-buneary|fighting|/<TODO: Unown Sprite>|delta-buneary>delta-lopunny|nico# /insurgence/delta-buneary
+65,76,84,54,96,105|Delta Lopunny|delta-lopunny|fighting|/<TODO: Unown Sprite>|delta-buneary|nico# /insurgence/delta-lopunny
+40,70,40,35,40,60|Delta Riolu|delta-riolu|dark|/<TODO: Unown Sprite>|delta-riolu>delta-lucario|ubodot# /insurgence/delta-riolu
+70,110,70,115,70,90|Delta Lucario|delta-lucario|dark,ground|/<TODO: Unown Sprite>|delta-riolu|ubodot# /insurgence/delta-lucario
+48,61,40,61,40,50|Delta Croagunk|delta-croagunk|fire|/<TODO: Unown Sprite>|delta-croagunk>delta-toxicroak|pokefan1241# /insurgence/delta-croagunk
+83,106,65,86,65,85|Delta Toxicroak|delta-toxicroak|fire|/<TODO: Unown Sprite>|delta-croagunk|pokefan1241# /insurgence/delta-toxicroak
+30,45,59,30,39,57|Delta Venipede|delta-venipede|rock,fire|/<TODO: Unown Sprite>|delta-venipede>delta-whirlipede|DankRabbit# /insurgence/delta-venipede
+40,55,99,40,79,47|Delta Whirlipede|delta-whirlipede|rock,fire|/<TODO: Unown Sprite>|delta-venipede>delta-scolipede|DankRabbit# /insurgence/delta-whirlipede
+60,100,89,55,69,112|Delta Scolipede|delta-scolipede|rock,fire|/<TODO: Unown Sprite>|delta-venipede|DankRabbit# /insurgence/delta-scolipede
+45,35,50,70,50,30|Delta Petilil (Water)|delta-petilil-water|water,fire|/<TODO: Unown Sprite>|delta-petilil-water>delta-petilil-water|Steads42# /insurgence/delta-petilil-water
+70,60,75,110,75,90|Delta Lilligant (Water)|delta-lilligant-water|water,fire|/<TODO: Unown Sprite>|delta-petilil-water|Steads42# /insurgence/delta-lilligant-water
+45,35,50,70,50,30|Delta Petilil (Fairy)|delta-petilil-fairy|fairy,flying|/<TODO: Unown Sprite>|delta-petilil-fairy>delta-petilil-fairy|shadowsofme# /insurgence/delta-petilil-fairy
+70,60,75,110,75,90|Delta Lilligant (Fairy)|delta-lilligant-fairy|fairy,flying|/<TODO: Unown Sprite>|delta-petilil-fairy|shadowsofme# /insurgence/delta-lilligant-fairy
+45,30,40,105,50,20|Delta Solosis|delta-solosis|ghost,rock|/<TODO: Unown Sprite>|delta-solosis>delta-duosion|Steads42# /insurgence/delta-solosis
+65,40,50,125,60,30|Delta Duosion|delta-duosion|ghost,rock|/<TODO: Unown Sprite>|delta-solosis>delta-reuniclus|Steads42# /insurgence/delta-duosion
+110,65,75,125,85,30|Delta Reuniclus|delta-reuniclus|ghost,rock|/<TODO: Unown Sprite>|delta-solosis|Steads42# /insurgence/delta-reuniclus
+70,90,45,15,45,50|Delta Darumaka|delta-darumaka|dark,ghost|/<TODO: Unown Sprite>|delta-darumaka>delta-darmanitan|potatoking12# /insurgence/delta-darumaka
+105,140,55,30,55,95|Delta Darmanitan|delta-darmanitan|dark,ghost|/<TODO: Unown Sprite>|delta-darumaka|potatoking12# /insurgence/delta-darmanitan
+75,86,67,106,67,60|Delta Maractus|delta-maractus|steel|/<TODO: Unown Sprite>|delta-maractus|mushgloom# /insurgence/delta-maractus
+50,65,85,35,35,55|Delta Dwebble (Berry)|delta-dwebble-berry|grass,poison|/<TODO: Unown Sprite>|delta-dwebble-berry>delta-crustle-berry|MorallyIncorrect# /insurgence/delta-dwebble-berry
+70,95,125,65,75,45|Delta Crustle (Berry)|delta-crustle-berry|grass,poison|/<TODO: Unown Sprite>|delta-dwebble-berry|MorallyIncorrect# /insurgence/delta-crustle-berry
+50,65,85,35,35,55|Delta Dwebble (Cake)|delta-dwebble-cake|fairy,normal|/<TODO: Unown Sprite>|delta-dwebble-cake>delta-crustle-cake|DankRabbit# /insurgence/delta-dwebble-cake
+70,95,125,65,75,45|Delta Crustle (Cake)|delta-crustle-cake|fairy,normal|/<TODO: Unown Sprite>|delta-dwebble-cake|DankRabbit# /insurgence/delta-crustle-cake
+38,30,85,55,65,30|Delta Yamask|delta-yamask|steel,poison|/<TODO: Unown Sprite>|delta-yamask>delta-cofagrigus|Palfi# /insurgence/delta-yamask
+78,50,145,95,105,30|Delta Cofagrigus|delta-cofagrigus|steel,poison|/<TODO: Unown Sprite>|delta-yamask|Palfi# /insurgence/delta-cofagrigus
+55,75,60,75,60,103|Delta Emolga|delta-emolga|fire,dark|/<TODO: Unown Sprite>|delta-emolga|EchoTheThird# /insurgence/delta-emolga
+50,75,45,40,45,60|Delta Karrablast|delta-karrablast|fairy|/<TODO: Unown Sprite>|delta-karrablast>delta-escavalier|bradleyinabox# /insurgence/delta-karrablast
+70,135,105,60,105,20|Delta Escavalier|delta-escavalier|fairy|/<TODO: Unown Sprite>|delta-karrablast|bradleyinabox# /insurgence/delta-escavalier
+69,55,45,55,55,15|Delta Foongus|delta-foongus|ghost,dark|/<TODO: Unown Sprite>|delta-foongus>delta-amoonguss|Ubodot# /insurgence/delta-foongus
+114,85,70,85,80,30|Delta Amoonguss|delta-amoonguss|ghost,dark|/<TODO: Unown Sprite>|delta-foongus|Ubodot# /insurgence/delta-amoonguss
+50,30,55,65,55,20|Delta Litwick|delta-litwick|fairy,fire|/<TODO: Unown Sprite>|delta-litwick>delta-lampent|Aboodie# /insurgence/delta-litwick
+60,40,60,95,60,55|Delta Lampent|delta-lampent|fairy,fire|/<TODO: Unown Sprite>|delta-litwick>delta-chandelure|Aboodie# /insurgence/delta-lampent
+60,55,90,145,90,80|Delta Chandelure|delta-chandelure|fairy,fire|/<TODO: Unown Sprite>|delta-litwick|Aboodie# /insurgence/delta-chandelure
+46,87,60,30,40,57|Delta Axew|delta-axew|water|/<TODO: Unown Sprite>|delta-axew>delta-fraxure|NoNameDummy# /insurgence/delta-axew
+66,117,70,40,50,67|Delta Fraxure|delta-fraxure|water|/<TODO: Unown Sprite>|delta-axew>delta-haxorus|NoNameDummy# /insurgence/delta-fraxure
+76,147,90,60,70,97|Delta Haxorus|delta-haxorus|water,steel|/<TODO: Unown Sprite>|delta-axew|NoNameDummy# /insurgence/delta-haxorus
+59,74,50,35,50,35|Delta Golett|delta-golett|fighting,steel|/<TODO: Unown Sprite>|delta-golett>delta-golurk|RuneBlad3# /insurgence/delta-golett
+89,124,80,55,80,55|Delta Golurk|delta-golurk|fighting,steel|/<TODO: Unown Sprite>|delta-golett|RuneBlad3# /insurgence/delta-golurk
+85,97,66,105,66,65|Delta Heatmor|delta-heatmor|poison,steel|/<TODO: Unown Sprite>|delta-heatmor|Radryl# /insurgence/delta-heatmor
+52,65,50,45,50,38|Delta Deino|delta-deino|ground,poison|/<TODO: Unown Sprite>|delta-deino>delta-zweilous|NoNameDummy# /insurgence/delta-deino
+72,85,70,65,70,58|Delta Zweilous|delta-zweilous|ground,poison|/<TODO: Unown Sprite>|delta-deino>delta-hydreigon|NoNameDummy# /insurgence/delta-zweilous
+92,105,90,125,90,98|Delta Hydreigon|delta-hydreigon|ground,poison|/<TODO: Unown Sprite>|delta-deino||NoNameDummy# /insurgence/delta-hydreigon
+55,85,55,50,55,60|Delta Larvesta|delta-larvesta|dark,poison|/<TODO: Unown Sprite>|delta-larvesta>delta-volcarona|1ofthe4rocketbros# /insurgence/delta-larvesta
+85,60,65,135,105,100|Delta Volcarona|delta-volcarona|dark,poison|/<TODO: Unown Sprite>|delta-larvesta|1ofthe4rocketbros# /insurgence/delta-volcarona
+77,59,50,67,63,46|Delta Amaura|delta-amaura|grass,water|/<TODO: Unown Sprite>|delta-amaura>delta-aurorus|Steads42# /insurgence/delta-amaura
+123,77,72,99,92,58|Delta Aurorus|delta-aurorus|grass,water|/<TODO: Unown Sprite>|delta-amaura|Steads42# /insurgence/delta-aurorus
+45,50,35,55,75,40|Delta Goomy|delta-goomy|ground,water|/<TODO: Unown Sprite>|delta-goomy>delta-sliggoo|AChosen_Username# /insurgence/delta-goomy
+68,75,53,83,113,60|Delta Sliggoo|delta-sliggoo|ground,water|/<TODO: Unown Sprite>|delta-goomy>delta-goodra|AChosen_Username# /insurgence/delta-sliggoo
+90,100,70,110,150,80|Delta Goodra|delta-goodra|ground,water|/<TODO: Unown Sprite>|delta-goomy|AChosen_Username# /insurgence/delta-goodra
+80,100,200,50,100,50|Delta Regirock|delta-regirock|ground|/<TODO: Unown Sprite>|delta-regirock|Lucci85# /insurgence/delta-regirock
+80,50,100,100,200,50|Delta Regice|delta-regice|water|/<TODO: Unown Sprite>|delta-regice|Lucci85# /insurgence/delta-regice
+80,75,150,75,150,50|Delta Registeel|delta-registeel|fire|/<TODO: Unown Sprite>|delta-registeel|Lucci85# /insurgence/delta-registeel
+100,128,90,77,77,128|Delta Meloetta|delta-meloetta|dark,fairy|/<TODO: Unown Sprite>|delta-meloetta|mushgloom# /insurgence/delta-meloetta
+80,110,60,150,130,70|Delta Hoopa|delta-hoopa|flying|/<TODO: Unown Sprite>|delta-hoopa|TerraTerraCotta# /insurgence/delta-hoopa
+
+### Permissions
+# [ ] 1ofthe4rocketbros
+# [ ] AChosen_Username
+# [ ] Aboodie
+# [ ] CommanderPhoenix
+# [ ] DankRabbit
+# [x] EchoTheThird
+# [ ] Kalorian
+# [ ] Lucci85
+# [ ] LunarDusk
+# [ ] Missingo_OP
+# [ ] MorallyIncorrect
+# [ ] NoNameDummy
+# [ ] Palfi
+# [ ] PokeNerd123
+# [ ] Radryl
+# [ ] RuneBlad3
+# [ ] SapphirePhoenix
+# [ ] SixteenDraws
+# [ ] SketchyGamer
+# [ ] Sparrows413
+# [ ] Steads42
+# [ ] TerraTerraCotta
+# [ ] TheTurtleScream
+# [ ] Ubodot
+# [ ] Zazulitao
+# [ ] Zero_Breaker
+# [ ] bradleyinabox
+# [ ] draexzhan
+# [ ] ensentiumseraph
+# [ ] mushgloom
+# [ ] nico
+# [ ] pokefan1241
+# [ ] potatoking12
+# [ ] powerpow
+# [ ] shadowsofme
+# [ ] ubodot
+# [ ] winkright
+# [ ] xxxHexxxx
+# [ ] yungbro
+# [ ] 
