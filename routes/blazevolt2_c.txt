@@ -1,5 +1,6 @@
 # https://drive.google.com/drive/folders/1wVz7qTdZh8kn0Du9bmMKuXlrQRBeF01d
 
+Starter|snivy,tepig,oshawott
 Aspertia City|ducklett,surskit,remoraid,feebas
 
 --Aspertia City|r0_c|rival|Hugh
