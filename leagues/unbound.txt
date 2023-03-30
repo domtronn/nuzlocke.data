@@ -113,7 +113,7 @@ metagross|65@6,252,,,,252|meteor-mash,zen-headbutt,hammer-arm,agility|clear-body
 #####################
 
 --1|Mirskle|grass|#/leaders/unbound-mirskle@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
-==double:true|effect=fog
+==double:true|effect:fog
 floette|21|fairy-wind,razor-leaf,grass-knot,echoed-voice|flower-veil|grass-gem|||hardy
 gloom|20|acid,mega-drain,sweet-scent,sleep-powder|chlorophyll||||hardy
 weedle|18@6,252,,,,252|bug-bite,electroweb,poison-sting,string-shot|shield-dust||||adamant
@@ -173,7 +173,7 @@ scizor|62|x-scissor,bullet-punch,wing-attack,agility|technician|scizorite|||hard
 ########### Expert mode
 
 --1_exp|Mirskle|grass|#/leaders/unbound-mirskle@Skeli@https://www.pokecommunity.com/showthread.php?t=382178
-==double:true|effect=fog
+==double:true|effect:fog
 floette|19@252,,4,,252|fairy-wind,grass-knot,wish,grassy-terrain|flower-veil/aroma-veil|grass-gem|||careful
 gloom|21@252,,4,,252|acid,mega-drain,ingrain,sleep-powder|chlorophyll||||calm
 weedle|17@6,252,,,,252|bug-bite,electroweb,poison-sting,string-shot|technician|silver-powder|||adamant
