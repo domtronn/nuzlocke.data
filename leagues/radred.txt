@@ -481,7 +481,7 @@ ho-oh|76|sacred-fire,brave-bird,earthquake,solar-beam|phoenix-down|flyinium-z--h
 charizard-mega-x>charizard-mega-x|76|dragon-dance,flare-blitz,dragon-claw,earthquake|solar-power/tough-claws|charizardite-x|||jolly
 
 --8_hard|Clair|dragon|/leaders/gs-clair
-==info:<p><b>Purist</b> Unable to bring fairy types into the Fight<br /><b>Sticky terrain</b> You can't remove hazards from the field</p>
+==info:<p><b>Purist</b> Unable to bring fairy types into the Fight<br /><b>Sticky terrain</b><br /> You can't remove hazards from the field</p>
 shuckle|81|stealth-rock,sticky-web,knock-off,toxic|solid-rock|focus-sash|||impish
 giratina-origin|81|dragon-hammer,spirit-shackle,shadow-sneak,thunder-wave|levitate|griseous-orb|||adamant
 magearna|81|shift-gear,moonblast,thunderbolt,aura-sphere|soul-heart|weakness-policy|||modest
@@ -492,7 +492,7 @@ duraludon|81|draco-meteor,steel-beam,thunderbolt,body-press|stalwart/bad-company
 ## Rematches
 
 --1r_hard|Brock|rock|/leaders/frlg-brock
-==effect:sandstorm|info:<p/<b>Cushioning</b> Super Effective moves deal ⅓ less damage to Brock's Pokémon</p>
+==effect:sandstorm|info:<p/<b>Cushioning</b><br /> Super Effective moves deal ⅓ less damage to Brock's Pokémon</p>
 terrakion|+0|stealth-rock,close-combat,stone-edge,x-scissor|blademaster|lum-berry|||jolly
 landorus-incarnate>landorus|+0|u-turn,earthquake,stone-edge,grass-knot|sand-force|life-orb|||naive
 zygarde-50|+0|coil,thousand-arrows,rest,sleep-talk|power-construct|leftovers|||careful
@@ -510,7 +510,7 @@ thundurus-therian>thundurus-therian|+0|nasty-plot,thunder,weather-ball,focus-bla
 gyarados-mega>gyarados-mega|+0|dragon-dance,waterfall,crunch,earthquake|intimidate/mold-breaker|gyaradosite|||jolly
 
 --3r_hard|Lt. Surge|electric|/leaders/frlg-surge
-==effect:electric-terrain,info:<p><b>Magnet Rise</b> Lt. Surge's Pokémon are immune to Ground type attacks</p>
+==effect:electric-terrain,info:<p><b>Magnet Rise</b><br /> Lt. Surge's Pokémon are immune to Ground type attacks</p>
 electivire|+0|plasma-fists,close-combat,mach-punch,ice-punch|iron-fist|focus-sash|||jolly
 raichu-alola>raichu-alola|+0|rising-voltage,surf,psyshock,focus-blast|surge-surfer|colbur-berry|||modest
 magnezone|+0|rising-voltage,flash-cannon,hidden-power-grass,body-press|sturdy|assault-vest|||modest
@@ -564,7 +564,7 @@ weavile|+0|swords-dance,triple-axel,knock-off,low-kick|infiltrator|life-orb|||jo
 gengar|+0|sludge-wave,shadow-ball,focus-blast,nasty-plot|levitate/shadow-tag|gengarite|||timid
 
 --mb5_hard|Chuck|fighting|/leaders/gs-chuck
-==info:<p><b>Fighting Spirit</b> Chuck's Pokémon will Endure a hit if above 75% of max HP</p>
+==info:<p><b>Fighting Spirit</b><br /> Chuck's Pokémon will Endure a hit if above 75% of max HP</p>
 cobalion|+0|stealth-rock,sacred-sword,cut,volt-switch|blademaster|rocky-helmet|||jolly
 sneasler|+0|close-combat,poison-jab,knock-off,earthquake|poison-touch|liechi-berry|||jolly
 kommo-o|+0|clanging-scales,close-combat,poison-jab,flamethrower|overcoat|kommonium-z--held|||naive
@@ -573,7 +573,7 @@ zamazenta-crowned|+0|bulk-up,behemoth-bash,body-press,wild-charge|dauntless-shie
 gallade|+0|bulk-up,drain-punch,psycho-cut,night-slash|justified/inner-focus|galladite|||jolly
 
 --mb6a_hard|Pryce (Team A)|ice|/leaders/gs-pryce
-==effect:hail|info:<p/<b>Hard ice</b>All Pryce's Pokémon have a +50% Defense boost</p>
+==effect:hail|info:<p><b>Hard ice</b><br />All Pryce's Pokémon have a +50% Defense boost</p>
 cloyster|+0|shell-smash,icicle-spear,hydro-pump,rock-blast|skill-link|focus-sash|||naive
 suicune|+0|scald,calm-mind,rest,sleep-talk|pressure|leftovers|||timid
 clefable|+0|thunder-wave,teleport,light-of-ruin,flamethrower|magic-guard|life-orb|||modest
@@ -582,7 +582,7 @@ arctozolt|+0|bolt-beak,icicle-crash,freeze-dry,low-kick|slush-rush|life-orb|||lo
 glalie|+0|fake-out,quick-attack,earthquake,double-edge|ice-body/refrigerate|glalitite|||jolly
 
 --mb6b_hard|Pryce (Team B)|ice|/leaders/gs-pryce
-==effect:hail|info:<p/<b>Hard ice</b>All Pryce's Pokémon have a +50% Defense boost</p>
+==effect:hail|info:<p><b>Hard ice</b><br />All Pryce's Pokémon have a +50% Defense boost</p>
 sandslash-alola>sandslash-alola|+0|stealth-rock,earthquake,icicle-spear,iron-head|slush-rush|focus-sash|||adamant
 reuniclus|+0|calm-mind,recover,psychic,focus-blast|regenerator|leftovers|||bold
 clefable|+0|thunder-wave,teleport,light-of-ruin,flamethrower|magic-guard|life-orb|||modest
@@ -591,7 +591,7 @@ arctovish|+0|fishious-rend,icicle-crash,stone-edge,psychic-fangs|slush-rush|life
 glalie|+0|fake-out,quick-attack,earthquake,double-edge|ice-body/refrigerate|glalitite|||jolly
 
 --mb6c_hard|Pryce (Team C)|ice|/leaders/gs-pryce
-==effect:hail|info:<p/<b>Hard ice</b>All Pryce's Pokémon have a +50% Defense boost</p>
+==effect:hail|info:<p><b>Hard ice</b><br />All Pryce's Pokémon have a +50% Defense boost</p>
 cloyster|+0|shell-smash,icicle-spear,hydro-pump,rock-blast|skill-link|focus-sash|||naive
 suicune|+0|scald,calm-mind,rest,sleep-talk|pressure|leftovers|||timid
 clefable|+0|soft-boiled,teleport,light-of-ruin,flamethrower|magic-guard|life-orb|||modest
@@ -600,7 +600,7 @@ arctozolt|+0|bolt-beak,icicle-crash,freeze-dry,low-kick|slush-rush|life-orb|||lo
 glalie|+0|fake-out,quick-attack,earthquake,double-edge|ice-body/refrigerate|glalitite|||jolly
 
 --mb7_hard|Jasmine|steel|/leaders/gs-jasmine
-==info:<p><b>Tempered steel</b>Jasmine's Pokémon are immune to Fire type attacks</p>
+==info:<p><b>Tempered steel</b><br />Jasmine's Pokémon are immune to Fire type attacks</p>
 gliscor|+0|stealth-rock,high-horsepower,protect,toxic|poison-heal|toxic-orb|||jolly
 tapu-bulu|+0|grassy-glide,play-rough,close-combat,swords-dance|grassy-surge|life-orb|||jolly
 necrozma-dusk>necrozma-dusk-mane|+0|dragon-dance,sunsteel-strike,stone-edge,high-horsepower|prism-armor|weakness-policy|||jolly
@@ -613,7 +613,7 @@ aggron|+0|curse,heavy-slam,rest,sleep-talk|sturdy/filter|aggronite|||careful
 ##################
 
 --e1a_hard|Lorelei (Rain Team)|ice|/leaders/frlg-lorelei
-==double:true|info:<p/<b>Heavy rain</b>Lorelei's Pokémon are immune to Fire type attacks</p>|effect:rain
+==double:true|info:<p/<b>Heavy rain</b><br />Lorelei's Pokémon are immune to Fire type attacks</p>|effect:rain
 ludicolo|+0|fake-out,hydro-pump,energy-ball,ice-beam|swift-swim|focus-sash|||modest
 kingdra|+0|hydro-pump,draco-barrage,hurricane,waterfall|swift-swim|mystic-water|||mild
 genesect|+0|u-turn,iron-head,thunder,ice-beam|download|assault-vest|||hasty
@@ -657,7 +657,7 @@ victini|+0|celebrate,expanding-force,pyro-ball,focus-blast|victory-star|normaliu
 calyrex-shadow>calyrex-shadow|+0|draining-kiss,expanding-force,astral-barrage,nasty-plot|as-one|colbur-berry|||timid
 
 --e4a_hard|Lance|dragon|/leaders/frlg-lance
-==info:<p><b>Sticky terrain</b> You can't remove hazards from the field</p>
+==info:<p><b>Sticky terrain</b><br /> You can't remove hazards from the field</p>
 deoxys-speed>deoxys-speed|+0|stealth-rock,spikes,psychic,knock-off|pressure|focus-sash|||timid
 melmetal|+0|double-iron-bash,ice-punch,earthquake,thunder-punch|iron-fist|assault-vest|||careful
 arceus-fairy>arceus-fairy|+0|calm-mind,judgment,flamethrower,recover|multitype|pixie-plate|||timid
@@ -666,7 +666,7 @@ dialga-origin>dialga-origin|+0|roar-of-time,flamethrower,rest,sleep-talk|primal-
 rayquaza-mega>rayquaza-mega|+0|extreme-speed,flamethrower,earthquake,dragon-ascent|delta-stream|sharp-beak|||naive
 
 --e4b_hard|Lance|dragon|/leaders/frlg-lance
-==info:<p><b>Sticky terrain</b> You can't remove hazards from the field</p>
+==info:<p><b>Sticky terrain</b><br /> You can't remove hazards from the field</p>
 deoxys-speed>deoxys-speed|+0|stealth-rock,spikes,psychic,knock-off|pressure|focus-sash|||timid
 melmetal|+0|double-iron-bash,ice-punch,earthquake,thunder-punch|iron-fist|assault-vest|||careful
 arceus-fairy>arceus-fairy|+0|calm-mind,judgment,flamethrower,recover|multitype|pixie-plate|||timid
