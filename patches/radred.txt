@@ -1,7 +1,8 @@
 --item
-toxtricitite|mawilite|Allows Toxtricity to Mega Evolve into Mega Toxtricity
-duraludite|aggronite|Allows Duraludon to Mega Evolve into Mega Duraludon
+toxtricitite|mawilite|Allows Toxtricity to Mega Evolve into Mega Toxtricity.
+duraludite|aggronite|Allows Duraludon to Mega Evolve into Mega Duraludon.
 heavy-duty-boots|heavy-duty-boots|When switching in, the holder is unaffected by hazards on its side of the field.
+eternamax-orb|toxic-orb|If held by an Eternatus, this item triggers its Primal Reversion in battle.
 
 --move
 # Modifications
@@ -21,8 +22,13 @@ ice-hammer|||No effect
 # New moves
 soul-robbery|psychic|100|The target's stat increases are stolen from it and applied to the user before dealing damage.|special
 dark-hole|dark|100|This move has a 40% chance to inflict sleep on the target, it also bypasses substitute.|special
+draco-barrage|dragon|100|This move becomes a physical attack if the user's Attack is greater than its Special Attack. If the target lost HP, the user takes recoil damage equal to 33% the HP. This move can hit Fairy-type Pokemon.|special
 
 hidden-power-grass|grass|60||special|Hidden Power
+hidden-power-ground|ground|60||special|Hidden Power
+hidden-power-rock|rock|60||special|Hidden Power
+hidden-power-bug|bug|60||special|Hidden Power
+hidden-power-electric|electric|60||special|Hidden Power
 hidden-power-fire|fire|60||special|Hidden Power
 hidden-power-fighting|fighting|60||special|Hidden Power
 hidden-power-dark|dark|60||special|Hidden Power
@@ -36,6 +42,7 @@ iron-fist|This Pokemon's punch-based attacks have their power multiplied by 1.3�
 flare-boost|When burned, special attacks have 1.5× power. This Pokemon is also immune to burn damage.
 illusion|Appears as last Pokemon in party until damaged. Moves have their power multiplied by 1.3× whilst disguised.
 liquid-voice|This Pokemon's sound-based moves become Water-type moves and have their power multiplied by 1.2×.
+fatal-precision|Super Effective Moves from this Pokemon can’t miss and receive a 20% damage boost.
 
 # New abilities
 blazing-soul|If this Pokemon is at full HP, its Fire-type moves have their priority increased by 1.
@@ -44,6 +51,13 @@ bad-company|Prevents self-lowering stat drops and recoil.
 as-one|This Pokemon's Attack is raised by 1 stage if it attacks and knocks out another Pokemon. While this Pokemon is active, it prevents opposing Pokemon from using their Berries. This Ability activates before hazards and other Abilities take effect.
 primal-armor|This Pokemon receives 1/2 damage from supereffective attacks.
 striker|This Pokemon's kick-based attacks have their power multiplied by 1.3.
+stalwart|This Pokemon's moves cannot be redirected to a different target by any effect.
+
+blubber-defense|If this Pokemon is at full HP, damage taken from attacks is halved.
+bone-zone|Bone moves ignore immunities and deal double damage on not very effective.
+fatal-precision|Super Effective Moves from this Pokemon can’t miss and receive a 20% damage boost.
+phoenix-down|Once per battle, this Pokemon restores 1/2 of its maximum HP, has its non-volatile status condition cured, and has its stat stages reset to 0 instead of fainting.
+sage-power|This Pokemon's Sp. Atk is 1.5x, but it can only select the first move it executes.
 
 --pokemon
 #hp,atk,def,spa,spd,spe|name|type|sprite
@@ -261,3 +275,9 @@ striker|This Pokemon's kick-based attacks have their power multiplied by 1.3.
 35,55,40,50,50,90|Flying Pikachu|pikachu-flying>pikachu|electric,flying|/radred/pikachu-flying|pikachu
 35,55,40,50,50,90|Surfing Pikachu|pikachu-surfing>pikachu|electric,water|/radred/pikachu-surfing|pikachu
 
+120,120,120,120,120,120|Arceus|arceus-ground|ground|/radred/arceus-ground|arceus
+120,120,120,120,120,120|Arceus|arceus-steel|steel|/radred/arceus-steel|arceus
+120,120,120,120,120,120|Arceus|arceus-fairy|fairy|/radred/arceus-fairy|arceus
+100,100,100,100,100,100|Silvally|silvally-ghost|ghost|/radred/silvally-ghost|type-null
+
+75,120,80,155,80,111|Mega Toxtricity|toxtricity-mega|electric,poison|/radred/toxtricity-mega|toxel
