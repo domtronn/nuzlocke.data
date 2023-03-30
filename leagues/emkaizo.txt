@@ -38,6 +38,7 @@ exeggutor|66|solar-beam,psychic,ancient-power,hp-fire|chlorophyll|lum-berry
 entei|66|solar-beam,sacred-fire,extreme-speed,ancient-power|inner-focus|lum-berry
 
 --mtmax3|Maxie & Tabitha||/leaders/rs-maxie-tabitha#Mossdeep Space Center
+==tag:true
 gengar|70|giga-drain,thunderbolt,fire-punch,ice-punch|levitate|lum-berry
 tauros|71|earthquake,double-edge,hp-ghost,iron-tail|intimidate|lum-berry
 
@@ -99,6 +100,7 @@ dragonite|72|earthquake,extreme-speed,hp-flying,thunder|thick-fat|lum-berry
 vaporeon|73|sing,muddy-water,ice-beam,hp-grass|swift-swim|leftovers
 
 --aqarc|Archie||/leaders/rs-archie#Seafloor Cavern
+==double:true
 raikou|75|thunder,hp-grass,weather-ball,calm-mind|pressure|lum-berry
 suicune|75|ice-beam,hp-grass,hydro-pump,calm-mind|battle-armor|lum-berry
 metagross|75|meteor-mash,earth-power,sludge-bomb,protect|clear-body|lum-berry
@@ -300,6 +302,7 @@ typhlosion|42|heat-wave,earthquake,solar-beam,wild-charge|blaze|lum-berry
 castform|42|flamethrower,ice-beam,solar-beam,thunderbolt|forecast|lum-berry
 
 --5|Norman|normal|/leaders/rs-norman
+==double:true
 slaking|48|hyper-beam,crush-claw,shadow-ball,superpower|truant|lum-berry
 espeon|48|psychic,light-screen,skill-swap,sing|synchronize|lum-berry
 kangaskhan|48|fake-out,crush-claw,shadow-ball,superpower|early-bird|lum-berry
@@ -308,6 +311,7 @@ tauros|48|body-slam,iron-tail,quick-attack,earth-power|intimidate|lum-berry
 snorlax|48|curse,snore,rest,stockpile|guts|leftovers
 
 --6|Winona|flying|/leaders/rs-winona
+==double:true
 aerodactyl|54|hp-flying,ancient-power,double-edge,earthquake|rock-head|lum-berry
 zapdos|55|sky-attack,thunderbolt,hp-ice,return|pressure|lum-berry
 crobat|54|sky-attack,poison-fang,giga-drain,hp-ground|inner-focus|lum-berry
@@ -333,6 +337,7 @@ lapras|76|thunder,ice-beam,surf,hp-bug|shell-armor|lum-berry
 milotic|77|hypnosis,ice-beam,surf,recover|swift-swim|lum-berry
 
 --8b|Juan|water|/leaders/rs-juan
+==double:true
 kingdra|77|octazooka,ice-beam,draco-meteor,hp-ground|swift-swim|lum-berry
 lapras|76|hydro-pump,ice-beam,thunder,hp-grass|shell-armor|lum-berry
 castform|76|weather-ball,ice-beam,thunder,hp-grass|forecast|lum-berry
