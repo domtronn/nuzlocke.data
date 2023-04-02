@@ -254,31 +254,37 @@ zoronite|scizorite|Allows Zoroark to Mega Evolve into Mega Zoroark.
 80,110,60,150,130,70|Delta Hoopa|delta-hoopa|flying|/unown|delta-hoopa|TerraTerraCotta# /insurgence/delta-hoopa
 
 ### Permissions
+## Cant reach
 # [ ] 1ofthe4rocketbros
+# [ ] Sparrows413
+# [ ] TheTurtleScream
+
+## Reddit
 # [ ] AChosen_Username
 # [ ] Aboodie
 # [ ] CommanderPhoenix
 # [ ] DankRabbit
-# [x] EchoTheThird
 # [ ] Kalorian
 # [ ] Lucci85
-# [ ] LunarDusk
-# [ ] Missingo_OP
-# [ ] MorallyIncorrect
+# [ ] Missingno_OP
 # [ ] NoNameDummy
 # [ ] Palfi
 # [ ] PokeNerd123
 # [ ] Radryl
 # [ ] RuneBlad3
 # [ ] SapphirePhoenix
-# [ ] SixteenDraws
 # [ ] SketchyGamer
-# [ ] Sparrows413
 # [ ] Steads42
 # [ ] TerraTerraCotta
-# [ ] TheTurtleScream
 # [ ] Ubodot
 # [ ] Zazulitao
+
+# [x] EchoTheThird
+
+# [ ] LunarDusk
+# [ ] MorallyIncorrect
+# [ ] SixteenDraws
+
 # [ ] Zero_Breaker
 # [ ] bradleyinabox
 # [ ] draexzhan
