@@ -454,7 +454,7 @@ slowbro-galar>slowbro-galar|44|thunder-wave,sludge-bomb,flamethrower,teleport|re
 kartana|44|swords-dance,grassy-glide,cut,sacred-sword|beast-boost|life-orb|||jolly
 
 --5_hard|Sabrina|psychic|/leaders/frlg-sabrina
-==effect:trick-room|double:true
+==info:<p><b>Trick Room<b><br />There is a permanent Trick Room effect on the field</p>|double:true
 tapu-fini|59|misty-explosion,muddy-water,moonblast,flip-turn|misty-surge|focus-sash|||quiet
 camerupt-mega>camerupt-mega|59|flamethrower,earth-power,steam-eruption,slack-off|solid-rock/sheer-force|cameruptite|||quiet
 glastrier|59|swords-dance,ice-hammer,close-combat,high-horsepower|chilling-neigh|iapapa-berry|||brave
@@ -463,7 +463,7 @@ melmetal|59|double-iron-bash,high-horsepower,thunder-punch,brick-break|iron-fist
 jellicent|59|water-spout,shadow-ball,strength-sap,hydro-pump|water-bubble|water-gem|||quiet
 
 --6_hard|Koga|poison|/leaders/frlg-koga
-==effect:tailwind
+==info:<p><b>Tailwind</b><br />There is a permanent tailwind effect on Koga's side of the field</p>
 tapu-lele|68|psyshock,moonblast,focus-blast,hidden-power-fire|psychic-surge|twisted-spoon|||modest
 hoopa-unbound>hoopa-unbound|68|dark-pulse,expanding-force,thunderbolt,focus-blast|magician|darkinium-z--held|||modest
 krookodile|68|wicked-blow,earthquake,close-combat,stone-edge|moxie|black-glasses|||adamant
@@ -481,7 +481,7 @@ ho-oh|76|sacred-fire,brave-bird,earthquake,solar-beam|phoenix-down|flyinium-z--h
 charizard-mega-x>charizard-mega-x|76|dragon-dance,flare-blitz,dragon-claw,earthquake|solar-power/tough-claws|charizardite-x|||jolly
 
 --8_hard|Clair|dragon|/leaders/gs-clair
-==info:<p><b>Purist</b> Unable to bring fairy types into the Fight<br /><b>Sticky terrain</b><br /> You can't remove hazards from the field</p>
+==info:<p><b>Purist</b><br/> Unable to bring fairy types into the Fight<br /><b>Sticky terrain</b><br /> You can't remove hazards from the field</p>
 shuckle|81|stealth-rock,sticky-web,knock-off,toxic|solid-rock|focus-sash|||impish
 giratina-origin|81|dragon-hammer,spirit-shackle,shadow-sneak,thunder-wave|levitate|griseous-orb|||adamant
 magearna|81|shift-gear,moonblast,thunderbolt,aura-sphere|soul-heart|weakness-policy|||modest
@@ -492,7 +492,7 @@ duraludon|81|draco-meteor,steel-beam,thunderbolt,body-press|stalwart/bad-company
 ## Rematches
 
 --1r_hard|Brock|rock|/leaders/frlg-brock
-==effect:sandstorm|info:<p/<b>Cushioning</b><br /> Super Effective moves deal ⅓ less damage to Brock's Pokémon</p>
+==effect:sandstorm|info:<p><b>Cushioning</b><br /> Super Effective moves deal ⅓ less damage to Brock's Pokémon</p>
 terrakion|+0|stealth-rock,close-combat,stone-edge,x-scissor|blademaster|lum-berry|||jolly
 landorus-incarnate>landorus|+0|u-turn,earthquake,stone-edge,grass-knot|sand-force|life-orb|||naive
 zygarde-50|+0|coil,thousand-arrows,rest,sleep-talk|power-construct|leftovers|||careful
@@ -510,7 +510,7 @@ thundurus-therian>thundurus-therian|+0|nasty-plot,thunder,weather-ball,focus-bla
 gyarados-mega>gyarados-mega|+0|dragon-dance,waterfall,crunch,earthquake|intimidate/mold-breaker|gyaradosite|||jolly
 
 --3r_hard|Lt. Surge|electric|/leaders/frlg-surge
-==effect:electric-terrain,info:<p><b>Magnet Rise</b><br /> Lt. Surge's Pokémon are immune to Ground type attacks</p>
+==effect:electric-terrain|info:<p><b>Magnet Rise</b><br /> Lt. Surge's Pokémon are immune to Ground type attacks</p>
 electivire|+0|plasma-fists,close-combat,mach-punch,ice-punch|iron-fist|focus-sash|||jolly
 raichu-alola>raichu-alola|+0|rising-voltage,surf,psyshock,focus-blast|surge-surfer|colbur-berry|||modest
 magnezone|+0|rising-voltage,flash-cannon,hidden-power-grass,body-press|sturdy|assault-vest|||modest
@@ -613,7 +613,7 @@ aggron|+0|curse,heavy-slam,rest,sleep-talk|sturdy/filter|aggronite|||careful
 ##################
 
 --e1a_hard|Lorelei (Rain Team)|ice|/leaders/frlg-lorelei
-==double:true|info:<p/<b>Heavy rain</b><br />Lorelei's Pokémon are immune to Fire type attacks</p>|effect:rain
+==double:true|info:<p><b>Heavy rain</b><br />Lorelei's Pokémon are immune to Fire type attacks</p>|effect:rain
 ludicolo|+0|fake-out,hydro-pump,energy-ball,ice-beam|swift-swim|focus-sash|||modest
 kingdra|+0|hydro-pump,draco-barrage,hurricane,waterfall|swift-swim|mystic-water|||mild
 genesect|+0|u-turn,iron-head,thunder,ice-beam|download|assault-vest|||hasty
