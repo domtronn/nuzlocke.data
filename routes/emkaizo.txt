@@ -42,7 +42,7 @@ Lavaridge Town|torkoal,vulpix,magby,ponyta,growlithe,flareon,numel,quilava,charm
 --Lavaridge Gym|4|gym-leader|Flannery
 Route 111|trapinch,diglett,sandslash,cacturne,donphan,arbok,rhyhorn,nidoqueen,nidoking,dugtrio,claydol,vibrava,poliwhirl,psyduck,carvanha,marill,magikarp,goldeen,barboach
 Mirage Tower|cacnea,trapinch,sandshrew,diglett,phanpy,numel,baltoy,cubone,rhyhorn,onix,unown,camerupt,sandslash,dugtrio,nosepass,graveler,claydol,gligar,wobbuffet,cacturne,marowak,donphan,nidorino,nidorina,vibrava,bagon
---Petalburg Gym|5|gmy-leader|Norman
+--Petalburg Gym|5|gym-leader|Norman
 Route 105|unown,mantine,octillery,qwilfish,relicanth,tentacruel,gyarados,sharpedo,wailmer
 Route 108|sharpedo,tentacruel,seviper,qwilfish,gyarados,magikarp,tentacool,wailmer
 Route 134|horsea,seadra,remoraid,seaking,octillery,corsola,mantine,chinchou
