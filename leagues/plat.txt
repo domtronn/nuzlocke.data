@@ -8,8 +8,8 @@ zubat|21|wing-attack,giga-drain,bite|inner-focus
 skuntank|23|night-slash,poison-gas,smokescreen,screech|stench|sitrus-berry
 
 --cyr1|Cyrus||/leaders/dp-cyrus#Galactic Headquarters
-golbat|34|air-cutter,poison-fang,supersonic,bite|inner-focus
 sneasel|34|ice-punch,slash,quick-attack,screech|inner-focus|
+golbat|34|air-cutter,poison-fang,supersonic,bite|inner-focus
 murkrow|36|night-shade,astonish,feint-attack,drill-peck|insomnia|sitrus-berry
 
 --cyr2|Cyrus||/leaders/dp-cyrus#Galactic Headquarters
