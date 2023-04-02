@@ -1,0 +1,151 @@
+Starter|torchic,treecko,mudkip
+Route 101|pidgey,rattata,sentret,hoothoot,poochyena,zigzagoon,starly,bidoof,bunnelby,fletchling,linoone,chikorita,fennekin
+Route 102|caterpie,weedle,bellsprout,wurmple,lotad,seedot,ralts,surskit,tympole,gothita,solosis,weepinbell,charmander,chespin,masquerain,corphish,crawdaunt
+Route 103|spearow,nidoran-f,nidoran-m,mankey,shellos,riolu,patrat,lillipup,purrloin,pidove,zorua,zoroark,squirtle,piplup,buizel,floatzel,poliwag,poliwhirl
+--Route 103|r1|rival|Rival
+
+Petalburg City|marill,azumarill,goldeen,seaking
+Route 104|ledyba,togepi,hoppip,snubbull,kricketot,budew,burmy,combee,buneary,scatterbug,flabebe,vespiquen,turtwig,froakie,basculin,psyduck,slowpoke,exeggcute,wingull,taillow,azurill,sewaddle,venipede,scraggy,spritzee,swirlix,exeggutor,totodile,oshawott,luvdisc
+
+Petalburg Woods|venonat,pichu,shroomish,slakoth,pansage,pansear,panpour,cottonee,petilil,phantump,pumpkaboo,breloom,bulbasaur,snivy
+Rustboro City|omanyte,kabuto,aerodactyl,makuhita,lileep,anorith,cranidos,shieldon,tirtouga,archen,tyrunt,amaura
+
+--Rustboro Gym|1|gym-leader|Roxanne
+
+Route 105|alomomola,wingull,tentacool,frillish,pelipper,krabby,staryu,corsola,kingler,starmie
+Route 116|growlithe,doduo,natu,mareep,houndour,phanpy,skitty,shinx,litleo,pancham,furfrou,delcatty,eevee
+Rusturf Tunnel|paras,machop,gastly,spinarak,teddiursa,nincada,whismur,drilbur,timburr,joltik,geodude,dwebble,cyndaquil,chimchar
+Dewford Town|wingull,tentacool,frillish,pelipper,shellder,clamperl,corsola,cloyster,huntail
+
+--Dewford Gym|2|gym-leader|Brawly
+
+Route 106|alomomola,wingull,tentacool,frillish,pelipper,krabby,staryu,corsola,kingler,starmie
+Granite Cave|kadabra,graveler,marowak,kangaskhan,steelix,hariyama,sableye,mawile,lairon,boldore,nosepass,probopass,zubat,onix,cubone,rhyhorn,makuhita,aron,roggenrola,axew,abra,geodude,woobat,tepig
+
+Route 107|alomomola,wingull,tentacool,frillish,pelipper,clauncher,skrelp,corsola,clawitzer,dragalge,tentacruel,seadra,starmie,lanturn,huntail,gorebyss,relicanth,jellicent
+Slateport City|phione,wailmer,horsea,dratini,seadra,dragonair,bagon,beldum,ferroseed,druddigon,deino,carbink,clefable,cleffa,golbat,dragonair
+Route 110|oddish,magnemite,voltorb,wooper,electrike,gulpin,drifloon,trubbish,minccino,skiddo,cinccino,plusle,minun,quagsire,remoraid,qwilfish,octillery
+
+--Route 110|r2|rival|Rival
+
+New Mauville|pikachu,magneton,muk,electrode,weezing,electabuzz,porygon,rotom,garbodor,klang,eelektrik,klink,tynamo
+
+--Mauville City|w1|rival|Wally
+
+--Mauville Gym|3|gym-leader|Wattson
+
+Route 117|farfetchd,smeargle,volbeat,illumise,roselia,cherubi,bonsly,mime-jr,chansey,ducklett,deerling,sawsbuck,happiny,swanna,poliwag,poliwhirl
+Verdanturf Town|pikachu-libre,pikachu-belle,pikachu-phd,pikachu-rockstar,pikachu-pop-star
+Route 111|geodude,binacle,basculin,magikarp,barboach,gyarados,whiscash,sandslash,trapinch,cacnea,baltoy,gible,hippopotas,sandile,darumaka,maractus,sigilyph,helioptile,vibrava,sandshrew
+Route 112|ekans,vulpix,pinsir,heracross,elekid,magby,throh,sawk,mienfoo,pawniard,ninetales,tyrogue,meowth,ponyta,scyther,tauros,girafarig,stantler,miltank,blitzle,heatmor,durant,scizor
+Fiery Path|diglett,grimer,koffing,dunsparce,slugma,numel,torkoal,shuppet,duskull,litwick,magcargo
+Route 113|sandshrew,skarmory,spinda,bronzor,munchlax,golett,bouffalant,espurr,honedge,klefki,snorlax
+Fallarbor Town|pikachu-libre,pikachu-belle,pikachu-phd,pikachu-rockstar,pikachu-pop-star
+Route 114|drowzee,lickitung,misdreavus,swablu,zangoose,seviper,skorupi,vanillite,karrablast,shelmet,graveler,boldore,lickilicky,hoppip,skiploom,qwilfish
+Meteor Falls|clefairy,golbat,pupitar,lunatone,solrock,shelgon,metang,ferrothorn,druddigon,zweilous,carbink,clefable,dratini,dragonair,salamence,bagon,crobat,larvitar
+
+--Meteor Falls|ruby1|evil-team|Tabitha & Grunt
+
+Route 115|jigglypuff,ditto,tangela,sunkern,yanma,swellow,munna,audino,floette,hawlucha,yanmega,igglybuff,tentacool,tentacruel,magikarp,gyarados
+
+--Mt. Chimney|ruby2|evil-team|Tabitha
+
+--Mt. Chimney|max1|evil-team|Maxie
+
+Jagged Pass|primeape,aipom,murkrow,pineco,gligar,meditite,spoink,glameow,stunky,croagunk,grumpig,mankey
+Lavaridge Town|togepi,wynaut,kecleon
+
+--Lavaridge Gym|4|gym-leader|Flannery
+
+--Petalburg Gym|5|gym-leader|Norman
+
+Route 118|golduck,slowbro,linoone,manectric,luxio,pachirisu,chatot,emolga,inkay,dedenne,malamar,slowking,marshtomp,wingull,pelipper,carvanha,feebas,sharpedo
+Southern Island|latias,latios
+
+--Southern Island|ruby3|evil-team|Courtney & Grunt
+
+Route 119|arbok,gloom,weepinbell,quagsire,tropius,drapion,carnivine,foongus,amoonguss,sliggoo,grovyle,goomy,stunfisk,feebas,milotic
+Weather Institute|castform
+--Weather Institute|ruby4|evil-team|Tabitha
+
+--Route 119|r3|rival|Rival
+
+--Fortree Gym|6|gym-leader|Winona
+
+Route 120|altaria,absol,drifblim,purugly,skuntank,scrafty,mienshao,bisharp,rufflet,vullaby,combusken,buizel,floatzel,barboach,whiscash,braviary,mandibuzz,pawniard
+Scorched Slab|golbat,rhydon,steelix,lairon,swoobat,excadrill,gurdurr,fraxure,volcarona,noivern,buizel,floatzel,barboach,whiscash,zubat,onix,rhyhorn,aron,woobat,drilbur,timburr,axew,larvesta,noibat,poliwag,poliwhirl
+Route 121|meowth,ponyta,doduo,drowzee,flaaffy,mightyena,shuppet,herdier,blitzle,diggersby,persian,rapidash,dodrio,hypno,banette,zebstrika,stoutland
+Route 122|alomomola,frillish,jellicent,finneon,lumineon
+Mt. Pyre|zubat,gastly,ralts,shuppet,duskull,gothita,solosis,yamask,elgyem,litwick,golbat,haunter,kirlia,banette,dusclops,gothorita,duosion,cofagrigus,beheeyem,lampent,spearow,vulpix,growlithe,hoothoot,natu,murkrow,misdreavus,meditite,bronzor,chingling,mismagius,fearow,noctowl,xatu,medicham,chimecho,bronzong,ninetales
+
+--Mt. Pyre Summit|ruby5|evil-team|Courtney
+
+Route 123|parasect,venomoth,dugtrio,primeape,machoke,forretress,granbull,kecleon,liepard,pangoro,machop,marill,azumarill,corphish,crawdaunt
+Safari Zone|butterfree,beedrill,ledian,ariados,kricketune,wormadam,beautifly,dustox,mothim,swadloon,whirlipede,vivillon,leavanny,masquerain,qwilfish,pidgeotto,noctowl,staravia,tranquill,fletchinder,raticate,furret,vigoroth,bibarel,watchog,pidgeot,swanna,finneon,lumineon,nidorina,nidorino,swalot,toxicroak,palpitoad,magmar,houndoom,camerupt,darmanitan,pyroar,seismitoad,houndour,gastrodon,barboach,whiscash,sudowoodo,lombre,nuzleaf,breloom,gogoat,mr.mime,wobbuffet,grumpig,meowstic,doublade,shiftry,wynaut,quagsire,goldeen,seaking
+Lilycove City|shuckle,crustle,barbaracle,alomomola,staryu,clamperl,corsola,starmie,gorebyss
+
+--Lilycove City|r4|rival|Rival
+
+Team Magma Hideout|tentacool,electrode,staryu,magikarp,wailmer
+
+--Magma Hideout B1F|ruby6|evil-team|Courtney
+
+Route 124|alomomola,mantyke,mantine,chinchou,relicanth,tentacruel,seadra,starmie,lanturn,corsola,huntail,gorebyss,jellicent,dragalge
+Mossdeep City|alomomola,carvanha,sharpedo
+
+--Mossdeep Gym|7|gym-leader|Tate & Liza
+
+Route 125|alomomola,seel,dewgong,lapras,shellder,cloyster
+Shoal Cave|sneasel,swinub,delibird,smoochum,snorunt,spheal,snover,vanillite,cubchoo,bergmite,weavile,seel,dewgong,shellder,cloyster,jynx,piloswine,glalie,sealeo,abomasnow,vanillish,beartic,avalugg,graveler,boldore,froslass,cryogonal
+Route 127|alomomola,tentacool,tentacruel,skrelp,relicanth,dragalge
+Route 128|alomomola,frillish,jellicent,luvdisc,relicanth,tentacruel,seadra,starmie,lanturn,corsola,huntail,gorebyss,dragalge
+Seafloor Cavern|omastar,kabutops,armaldo,cradily,rampardos,bastiodon,carracosta,archeops,tyrantrum,aurorus,shuckle,golbat,omanyte,kabuto,anorith,lileep,cranidos,shieldon,tirtouga,archen,tyrunt,amaura,zubat,relicanth
+
+--Seafloor Cavern|max2|evil-team|Maxie
+
+Route 126|alomomola,wingull,pelipper,clamperl,relicanth,tentacruel,seadra,starmie,lanturn,corsola,huntail,gorebyss,jellicent,dragalge
+Sootopolis City|magikarp,gyarados
+
+--Sootopolis Gym|8|gym-leader|Wallace
+
+Cave of Origin|golbat,aerodactyl,sableye,mawile,lairon,metang,swoobat,heatmor,durant,noivern,unown
+Soaring|murkrow,taillow,wingull,pelipper,swablu,drifloon,braviary,palkia,giratina,tornadus,landorus
+Route 129|alomomola,wailmer,wailord,relicanth,tentacruel,seadra,starmie,lanturn,corsola,huntail,gorebyss,jellicent,dragalge
+Route 130|alomomola,tentacool,tentacruel,skrelp,relicanth,dragalge,seadra,starmie,lanturn,corsola,huntail,gorebyss,jellicent
+Route 131|alomomola,wingull,pelipper,clauncher,corsola,clawitzer
+Sky Pillar|golbat,ariados,mawile,swablu,claydol,rayquaza,deoxys
+Edge of space|vulpix,growlithe,wingull,meditite,shuppet,duskull,chimecho,bronzor,elgyem
+Pacifidlog Town|corsola
+Mirage Island|mew,latias,latios,manaphy,cresselia,darkrai,victini,tornadus,thundurus,landorus,hoopa,ditto
+Route 108|alomomola,mantyke,mantine,tentacruel,jellicent,finneon,chinchou,corsola,lumineon,lanturn
+Sea Mauville|cryogonal,shellder,wailmer,seel,spheal,dewgong,lapras
+Route 109|alomomola,wingull,tentacool,frillish,pelipper,finneon,chinchou,corsola,lumineon,lanturn
+Route 132|kingdra,phione,horsea,dratini,seadra,dragonair
+Route 133|kingdra,phione,horsea,dratini,seadra,dragonair
+Route 134|kingdra,phione,horsea,dratini,seadra,dragonair
+Ever Grande City|pelipper,tentacruel,jellicent,luvdisc,corsola
+Victory Road|zubat,golbat,tentacool,tentacruel,goldeen,magikarp,loudred,hariyama,mawile,aron,lairon,medicham,wailmer,barboach,luvdisc
+
+--Victory Road|w2|rival|Wally
+
+--Pokémon League|e1|elite-four|Sidney
+
+--Pokémon League|e2|elite-four|Phoebe
+
+--Pokémon League|e3|elite-four|Glacia
+
+--Pokémon League|e4|elite-four|Drake
+
+--Pokémon Champion|c|elite-four|Steven
+
+Battle Resort|pelipper,tentacruel,mantine,jellicent,luvdisc,camerupt,sharpedo
+S.S. Tidal|
+Pathless Plain|
+Nameless Cavern|zubat,golbat,tentacool,tentacruel,graveler,dewgong,magikarp,delibird,wailmer,snorunt,spheal,sealeo,cubchoo
+Fabled Cave|zubat,golbat,tentacool,tentacruel,graveler,dewgong,magikarp,delibird,wailmer,snorunt,spheal,sealeo,cubchoo
+Gnarled Den|
+Trackless Forest|tentacool,tentacruel,magikarp,remoraid,octillery,mantine,pelipper,mantyke
+Crescent Isle|zubat,golbat,goldeen,magikarp,barboach,heatran
+Mirage Cave|mewtwo,kyogre,groudon,jirachi,uxie,mesprit,azelf,genesect,zygarde,diancie,volcanion,ditto
+Mirage Forest|raikou,entei,suicune,celebi,shaymin,cobalion,terrakion,virizion,keldeo,meloetta,xerneas,ditto
+Mirage Mountain|articuno,zapdos,moltres,lugia,ho-oh,dialga,palkia,arceus,reshiram,zekrom,yveltal,ditto
