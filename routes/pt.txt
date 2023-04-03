@@ -69,6 +69,7 @@ Lake Acuity|psyduck,golduck,goldeen,seaking,magikarp,gyarados,sneasel,teddiursa,
 --Galactic HQ|sat2|evil-team|Saturn
 --Spear Pillar|mnj|evil-team|Mars & Jupiter
 --Distortion World|cyr3|evil-team|Cyrus
+Distortion World|giratina-origin
 Route 222|tentacool,tentacruel,magnemite,magneton,electabuzz,magikarp,gyarados,flaaffy,aipom,heracross,remoraid,octillery,wurmple,wingull,pelipper,skitty,luxio,burmy,combee,floatzel,cherubi,chatot,munchlax
 Sunyshore City|tentacool,tentacruel,magikarp,gyarados,remoraid,octillery,wingull,pelipper
 --Sunyshore Gym|8|gym-leader|Volkner
