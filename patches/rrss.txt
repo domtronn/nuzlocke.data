@@ -1,3 +1,4 @@
+### DEV ###
 # move name | type | power | description
 --move
 ancient-power||80
