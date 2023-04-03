@@ -7,17 +7,17 @@ squirtle|5|tackle,tail-whip|torrent||fire
 
 --r2|Blue||/leaders/frlg-blue-1
 pidgey|9|tackle,gust,sand-attack|keen-eye
-bulbasaur|8|leech-seed,tackle,growl|overgrow||water
-charmander|8|ember,scratch,growl|blaze||grass
-squirtle|8|bubble,tackle,tail-whip|torrent||fire
+bulbasaur|9|leech-seed,tackle,growl|overgrow||water
+charmander|9|ember,scratch,growl|blaze||grass
+squirtle|9|bubble,tackle,tail-whip|torrent||fire
 
 --r3|Blue||/leaders/frlg-blue-1
 pidgeotto|17|gust,sand-attack,tackle,quick-attack|keen-eye
 abra|15|teleport|synchronize
 rattata|15|tackle,tail-whip,quick-attack|guts
-bulbasaur|17|leech-seed,vine-whip,sleep-powder,tackle|overgrow||water
-charmander|17|ember,scratch,growl,metal-claw|blaze||grass
-squirtle|17|bubble,water-gun,tackle,tail-whip|torrent||fire
+bulbasaur|18|leech-seed,vine-whip,sleep-powder,tackle|overgrow||water
+charmander|18|ember,scratch,growl,metal-claw|blaze||grass
+squirtle|18|bubble,water-gun,tackle,tail-whip|torrent||fire
 
 --r4|Blue||/leaders/frlg-blue-2
 pidgeotto|19|tackle,gust,sand-attack,quick-attack|keen-eye
@@ -42,8 +42,8 @@ wartortle|25|bubble,water-gun,bite,tail-whip|torrent||fire
 
 --r6|Blue||/leaders/frlg-blue-2
 pidgeot|37|wing-attack,feather-dance,quick-attack,whirlwind|keen-eye
-exeggcute|38|reflect,hypnosis,leech-seed,stun-spore|chlorophyll||grass
-exeggcute|35|reflect,hypnosis,leech-seed,stun-spore|chlorophyll||fire
+exeggcute|38|reflect,confusion,leech-seed,stun-spore|chlorophyll||grass
+exeggcute|35|reflect,confusion,leech-seed,stun-spore|chlorophyll||fire
 gyarados|35|leer,tackle,bite,dragon-rage|intimidate||grass
 gyarados|38|leer,tackle,bite,dragon-rage|intimidate||water
 growlithe|35|take-down,roar,leer,ember|intimidate||water
