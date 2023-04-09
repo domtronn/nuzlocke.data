@@ -1,3 +1,4 @@
+Starter|treecko,mudkip,torchic
 Littleroot Town|squirtle,totodile,croconaw,wartortle,luvdisc,goldeen,corphish,poliwhirl,seaking,crawdaunt
 Route 103|sunkern,wingull,ledyba,spearow,skitty,ekans,mareep,hoppip,poliwag,spoink,aipom,taillow,kingler,seaking,qwilfish,mantine,remoraid,tentacool,octillery,qwilfish
 Oldale Town|vulpix,slugma,numel,growlithe,ponyta,magby,cyndaquil,charmander
