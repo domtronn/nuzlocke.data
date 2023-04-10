@@ -48,8 +48,8 @@ Iccirus City|barboach,whiscash,palpitoad,seismitoad,shelmet,stunfisk
 --Iccirus Gym|7|gym-leader|Brycen
 Dragonspiral Tower|dratini,dragonair,dragonite,tranquill,unfezant,audino,basculin,vanillite,vanillish,deerling,sawsbuck,emolga,cubchoo,beartic,mienfoo,druddigon,golett,reshiram
 Route 8|barboach,whiscash,croagunk,palpitoad,seismitoad,shelmet,stunfisk
+--Route 8|b5|rival|Bianca
 Moor of Icirrus|barboach,whiscash,palpitoad,seismitoad,shelmet,stunfisk
---Moor of Icirrus|b5|rival|Bianca
 Route 9|houndour,liepard,audino,garbodor,minccino,cinccino,gothorita,gothitelle,emolga,pawniard
 --Opelucid Gym|8a|gym-leader|Drayden
 Route 10|tyrogue,herdier,stoutland,audino,throh,sawk,emolga,foongus,amoonguss,bouffalant,vullaby

@@ -151,8 +151,8 @@ abomasnow|42|wood-hammer,focus-blast,avalanche,water-pulse|snow-warning
 froslass|44|double-team,blizzard,shadow-ball,psychic|snow-cloak|sitrus-berry
 
 --8|Volkner|electric|/leaders/dp-volkner
-raichu|46|charge-beam,signal-beam,quick-attack,focus-blast|static
 jolteon|46|charge-beam,thunder-wave,iron-tail,quick-attack|volt-absorb
+raichu|46|charge-beam,signal-beam,quick-attack,focus-blast|static
 luxray|48|thunder-fang,fire-fang,ice-fang,crunch|rivalry|
 electivire|50|thunder-punch,fire-punch,giga-impact,quick-attack|motor-drive|sitrus-berry
 

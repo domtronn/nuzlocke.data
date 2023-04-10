@@ -18,9 +18,12 @@ Azalea Town|treecko,mudkip,torchic,spiritomb
 Slowpoke Well|zubat,slowpoke,gastly,shellos,shellder,swinub,snorunt,bronzor,slowbro,magikarp,barboach,gyarados,whiscash,wynaut,golbat,haunter,gastrodon,piloswine,bronzong,glalie,wobbuffet
 --Slowpoke Well|proton1|evil-team|Executive Proton
 --Azalea Town Gym|2|gym-leader|Bugsy
+--Azalea Town|rn1|rival|Silver
 Ilex Forest|shroomish,ledyba,pineco,exeggcute,buneary,budew,pikachu,butterfree,beedrill,roselia,wurmple,beautifly,dustox,paras,spinarak,oddish,venonat,murkrow,misdreavus,carnivine,psyduck,golduck,magikarp,poliwag,poliwhirl,gyarados,poliwrath,politoed,gloom,venomoth,pichu
 Route 34|drowzee,gulpin,electrike,bonsly,mime-jr,abra,ditto,snubbull,kadabra,tentacool,tentacruel,goldeen,chinchou,staryu,seaking,lanturn,starmie,manectric,hypno,ralts,kirlia
 Goldenrod City|turtwig,piplup,chimchar
+--Goldenrod Tunnel|ethan|rival|Ethan
+--Goldenrod Tunnel|lyra|rival|Lyra
 --Goldenrod City Gym|3|gym-leader|Whitney
 Route 35|nidoran-m,nidoran-f,pidgeotto,stunky,glameow,staravia,illumise,volbeat,ditto,yanma,meowth,noctowl,psyduck,golduck,magikarp,luvdisc,gyarados,skuntank,purugly,volbeat
 National Park|metapod,kakuna,combee,taillow,nincada,burmy,scyther,pinsir,heracross,kricketune,sunkern,poochyena,butterfree,beedrill,scyther,heracross
@@ -28,7 +31,7 @@ Route 36|growlithe,vulpix,combee,plusle,minun,nidorino,nidorina,staravia,stantle
 Route 37|growlithe,vulpix,stantler,ledian,pidgeotto,nidorino,nidorina,zangoose,seviper,ariados,noctowl,mightyena,linoone,arcanine,ninetales
 Ecruteak City|castform,poliwag,poliwhirl,magikarp,gyarados
 Burned Tower|rattata,koffing,zigzagoon,cubone,magby,grimer,duskull,shuppet,raticate,marowak,chimecho,linoone,weezing,magmar
---Burned Tower|r1|rival|Silver
+--Burned Tower|rn2|rival|Silver
 Bell Tower|rattata,zigzagoon,golbat,gastly,shuppet,duskull,haunter,linoone,raticate,ditto,dusclops,banette,swablu,natu,bronzor,altaria,xatu,claydol,solrock,bronzong,lunatone,gengar
 --Ecruteak City Dance Hall|kimono||Kimono Girls
 --Ecruteak City Gym|4|gym-leader|Morty
@@ -58,13 +61,12 @@ Lake of Rage|magikarp,feebas,gyarados,milotic
 Route 43|pidgeotto,girafarig,exeggcute,kirlia,swablu,bibarel,linoone,manectric,venomoth,altaria,happiny,chansey,slowpoke,magikarp,gyarados
 Mahogany Town|riolu
 --Mahogany Town Gym|7|gym-leader|Pryce
---Goldenrod Tunnel|ethan|rival|Ethan
---Goldenrod Tunnel|lyra|rival|Lyra
 --Goldenrod Radio Tower|petrel3|evil-team|Executive Petrel
 --Goldenrod Radio Tower|proton2|evil-team|Executive Proton
 --Goldenrod Radio Tower|ariana3|evil-team|Executive Ariana
 --Goldenrod Radio Tower|archer2|evil-team|Executive Archer
 --Goldenrod Radio Tower|evg|evil-team|Rocket Boss Giovanni
+--Goldenrod Underground|r1|Silver
 Route 44|tangela,lickitung,butterfree,beedrill,beautifly,skiploom,nuzleaf,cherrim,altaria,vespiquen,dustox,venomoth,snover,remoraid,tangrowth,lickilicky,combee,lombre,lotad,poliwag,poliwhirl,magikarp,gyarados,octillery
 Ice Path
 Blackthorn City|magikarp,dratini

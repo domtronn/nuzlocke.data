@@ -42,7 +42,7 @@ toxicroak|41|cross-chop,sucker-punch,x-scissor,stone-edge|anticipation|
 crobat|41|u-turn,sludge-bomb,attract,aerial-ace|inner-focus|
 weezing|43|sludge-bomb,fire-blast,thunder,dark-pulse|levitate|
 
---ariana1|Executive Ariana & Grunt||/leaders/gs-ariana
+--ariana1|Executive Ariana||/leaders/gs-ariana
 arbok|37|gunk-shot,seed-bomb,crunch,earthquake|intimidate|
 jynx|37|lovely-kiss,blizzard,psychic,fake-tears|dry-skin|
 vileplume|37|petal-dance,sludge-bomb,drain-punch,sleep-powder|chlorophyll|
@@ -109,29 +109,31 @@ marill|21|bubble-beam,double-team,blizzard,focus-punch|thick-fat|
 tangela|21|sleep-powder,growth,grass-knot,solar-beam|chlorophyll|
 arcanine|23|heat-wave,rock-smash,roar,iron-head|intimidate|sitrus-berry
 
-
 --r0|Silver||/leaders/gs-silver
-totodile|5|leers,scratch
+cyndaquil|5|leer,tackle|blaze||grass
+chikorita|5|growl,tackle|overgrow||water
+totodile|5|leer,scratch|torrent||fire
 
 --rn1|Silver||/leaders/gs-silver#Azalea Town
 murkrow|19|wing-attack,astonish,haze,pursuit|insomnia
 gastly|18|lick,curse,spite,mean-look|levitate
 kadabra|19|kinesis,disable,confusion,teleport|synchronize
 bayleef|21|synthesis,reflect,nature-power,grass-whistle|overgrow||water
-quilava|21|synthesis,reflect,nature-power,grass-whistle|blaze||grass
-croconaw|21|scary-face,ice-fang|torrent||fire
+quilava|21|flame-wheel,quick-attack,ember,smokescreen|blaze||grass
+croconaw|21|rage,bite,scary-face,ice-fang|torrent||fire
 
 --rn2|Silver||/leaders/gs-silver#Ecruteak
 murkrow|25|night-shade,haze,wing-attack,assurance|insomnia
 kadabra|26|psybeam,miracle-eye,disable,confusion|synchronize
 haunter|25|ominous-wind,confuse-ray,shadow-punch,sucker-punch|levitate
 magby|24|ember,feint-attack,smokescreen,fire-spin|flame-body||water
-elekid|24|ember,feint-attack,smokescreen,fire-spin|static||grass
-elekid|24|ember,feint-attack,smokescreen,fire-spin|static||fire
-bayleef|27|reflect,magical-leaf,nature-power,natural-gift|overgrow||water
-quilava|27|reflect,magical-leaf,nature-power,natural-gift|blaze||grass
-croconaw|27|reflect,magical-leaf,nature-power,natural-gift|torrent||fire
 
+elekid|24|light-screen,shock-wave,swift,low-kick|static||grass
+elekid|24|light-screen,shock-wave,swift,low-kick|static||fire
+
+bayleef|27|reflect,magical-leaf,nature-power,natural-gift|overgrow||water
+quilava|27|defense-curl,flame-wheel,quick-attack,ember|blaze||grass
+croconaw|27|flail,ice-fang,scary-face,bite|torrent||fire
 
 --r1|Silver||/leaders/gs-silver
 honchkrow|45|drill-peck,toxic,protect,roost|insomnia|

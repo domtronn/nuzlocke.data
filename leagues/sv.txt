@@ -84,7 +84,7 @@ luxio|23|spark,bite|intimidate||
 mismagius|24|charge-beam,hex,confuse-ray|levitate|||electric
 
 --4|Kofu|water|/leaders/sv-kofu@Kyledove@https://www.deviantart.com/kyle-dove
-veluza|29|splash,pluck,aqua-cutter|mold-breaker
+veluza|29|slash,pluck,aqua-cutter|mold-breaker
 wugtrio|29|mud-slap,water-pulse,headbutt|gooey
 crabominable|30|crabhammer,rock-smash,slam|iron-fist|||water
 

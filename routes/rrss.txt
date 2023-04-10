@@ -1,5 +1,3 @@
-### DEV ###
-
 Starter|torchic,treecko,mudkip
 Route 101|pidgey,rattata,sentret,hoothoot,poochyena,zigzagoon,starly,bidoof,bunnelby,fletchling,linoone,chikorita,fennekin
 Route 102|caterpie,weedle,bellsprout,wurmple,lotad,seedot,ralts,surskit,tympole,gothita,solosis,weepinbell,charmander,chespin,masquerain,corphish,crawdaunt

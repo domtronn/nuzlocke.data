@@ -1,5 +1,3 @@
-### DEV ###
-
 # evil team
 
 --ruby1|Tabitha||/leaders/rs-tabitha-oras@Poffin Case@https://pokengine.org/trainers/Tabitha

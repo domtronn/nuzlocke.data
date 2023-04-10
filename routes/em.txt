@@ -32,6 +32,7 @@ Route 114|geodude,goldeen,magikarp,marill,lotad,lombre,nuzleaf,swablu,seviper,ba
 Desert Underpass|ditto,whismur,loudred
 Meteor Falls|zubat,golbat,goldeen,magikarp,solrock,barboach,whiscash,bagon
 Route 115|jigglypuff,tentacool,magikarp,taillow,swellow,wingull,pelipper,wailmer,swablu
+Jagged Pass|machop,numel,spoink
 Lavaridge Town|wynaut
 --Lavaridge Gym|4|gym-leader|Flannery
 Fiery Path|machop,grimer,koffing,slugma,numel,torkoal
@@ -51,7 +52,6 @@ Safari Zone|pikachu,oddish,gloom,psyduck,golduck,geodude,doduo,dodrio,rhyhorn,go
 Route 122|tentacool,magikarp,wingull,pelipper,sharpedo,wailmer
 Mt. Pyre|vulpix,wingull,shuppet,duskull,chimecho
 Route 123|oddish,gloom,tentacool,magikarp,poochyena,mightyena,wingull,pelipper,wailmer,kecleon,shuppet
-Jagged Pass|machop,numel,spoink
 Team Magma Hideout|geodude,graveler,electrode,torkoal
 --Team Magma Hideout|mt2|evil-team|Tabitha
 --Team Magma Hideout|mtmax|evil-team|Maxie
