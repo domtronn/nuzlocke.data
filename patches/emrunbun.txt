@@ -1,0 +1,15 @@
+--move
+absorb||40
+astonish||40
+covet|fairy
+lick||40
+octazooka||80
+super-fang|dark
+
+hidden-power-fire|fire|60||special|Hidden Power
+hidden-power-grass|grass|60||special|Hidden Power
+hidden-power-ice|ice|60||special|Hidden Power
+
+--ability
+
+as-one|This Pokemon's Attack is raised by 1 stage if it attacks and knocks out another Pokemon. While this Pokemon is active, it prevents opposing Pokemon from using their Berries. This Ability activates before hazards and other Abilities take effect.
