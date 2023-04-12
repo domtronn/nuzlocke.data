@@ -45,7 +45,7 @@ Vermillion City|arrokuda,finneon,frillish,shellder,krabby,luvdisc,alomomola,sead
 
 Digletts Cave|diglett,stunfisk,silicobra,wooper,sandshrew,drilbur,gligar,dugtrio,hippopotas,diglett-alola,stunfisk-galar,phanpy,shellos,sandile,dugtrio-alola,machop,numel,yamask,geodude,trapinch,bronzor,nosepass,noibat,pancham,yamask-galar,geodude-alola
 
---Diglett's Cave|b2_hard|rival|Brendan
+--S.S. Anne|b2_hard|rival|Brendan
 
 Route 11|krabby,horsea,shellder,frillish,relicanth,luvdisc,alomomola,seadra,gyarados,stufful,ducklett,drowzee,baltoy,maractus,bunnelby,scraggy,sandygast,sigilyph,pancham,cacnea,golett,floette-eternal
 
@@ -72,6 +72,7 @@ Saffron City|mudkip,lapras,treecko,clobbopus,crabrawler
 --Silph Co. Rival|r4_hard|rival|Gary
 
 --Silph Co.|ev3_hard|evil-team|Archer & Ariana
+--Silph Co.|ev4_hard|evil-team|Giovanni
 
 --Saffron City Dojo|mb5_hard|mini-boss|Chuck
 
@@ -156,9 +157,9 @@ Kindle Road|absol,smeargle,alcremie,centiskorch,gardevoir,seviper,centiskorch-se
 
 Cerulean Cave|magikarp,staryu,carvanha,pyukumuku,krabby,seismitoad,poliwhirl,crawdaunt,golduck,kingler,parasect,golbat,machamp,magneton,duraludon,type-null,conkeldurr,amoonguss,swoobat,primeape,audino,alakazam,typenull,pangoro,reuniclus,feebas,mareanie,corphish,poliwrath,sharpedo,gyarados,slowbro,toxapex,milotic,shiinotic,noivern,medicham,lopunny,gardevoir,excadrill,toxicroak
 
---Cerulean Cave|ev4_hard|evil-team|Admin Archer
+--Cerulean Cave|ev5_hard|evil-team|Admin Archer
 
---Cerulean Cave|ev5_hard|evil-team|Admin Ariana
+--Cerulean Cave|ev6_hard|evil-team|Admin Ariana
 
---Cerulean Cave|ev6_hard|evil-team|Giovanni
+--Cerulean Cave|ev7_hard|evil-team|Giovanni
 

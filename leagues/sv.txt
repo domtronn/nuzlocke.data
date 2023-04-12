@@ -150,9 +150,9 @@ amoonguss|60|spore,toxic,giga-drain,hex|effect-spore||grass
 amoonguss|60|spore,toxic,giga-drain,hex|effect-spore||fire
 gyarados|60|aqua-tail,crunch,stone-edge,earthquake|intimidate||water
 gyarados|60|aqua-tail,crunch,stone-edge,earthquake|intimidate||grass
-quaquaval|61|brick-break,aqua-step,aerial-ace,ice-spinner|torrent||fire
-skeledirge|61|shadow-ball,torch-song,earth-power,snarl|blaze||grass
-meowscarada|61|shadow-claw,flower-trick,thunder-punch,play-rough|overgrow||water
+quaquaval|61|brick-break,aqua-step,aerial-ace,ice-spinner|torrent||fire|water
+skeledirge|61|shadow-ball,torch-song,earth-power,snarl|blaze||grass|fire
+meowscarada|61|shadow-claw,flower-trick,thunder-punch,play-rough|overgrow||water|grass
 
 --penny|Penny||/leaders/sv-penny@Kyledove@https://www.deviantart.com/kyle-dove
 umbreon|62|dark-pulse,quick-attack,baby-doll-eyes,psychic|synchronize

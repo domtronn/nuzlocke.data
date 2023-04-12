@@ -279,5 +279,6 @@ sage-power|This Pokemon's Sp. Atk is 1.5x, but it can only select the first move
 120,120,120,120,120,120|Arceus|arceus-steel|steel|/radred/arceus-steel|arceus
 120,120,120,120,120,120|Arceus|arceus-fairy|fairy|/radred/arceus-fairy|arceus
 100,100,100,100,100,100|Silvally|silvally-ghost|ghost|/radred/silvally-ghost|type-null
+100,100,100,100,100,100|Silvally|silvally-fairy|fairy|/radred/silvally-fairy|type-null
 
 75,120,80,155,80,111|Mega Toxtricity|toxtricity-mega|electric,poison|/radred/toxtricity-mega|toxel

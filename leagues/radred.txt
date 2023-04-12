@@ -18,7 +18,7 @@ infernape|45|thunder-punch,close-combat,swords-dance,pyro-ball|blaze|focus-sash
 rotom|45|frost-breath,volt-switch,freeze-dry,will-o-wisp|levitate|sitrus-berry
 kangaskhan|46|crunch,body-slam,power-up-punch,fake-out|inner-focus|kangaskhanite
 
---evg3|Giovanni||/leadres/frlg-giovanni#Leader Giovanni?
+--evg3|Giovanni||/leaders/frlg-giovanni#Leader Giovanni?
 rhyhorn|45|scary-face,rock-blast,earthquake,take-down|lightning-rod|
 dugtrio|42|mud-slap,sand-tomb,earthquake,slash|sand-veil|
 nidoqueen|44|poison-sting,double-kick,earthquake,body-slam|poison-touch|
@@ -26,6 +26,7 @@ nidoking|45|poison-sting,double-kick,earthquake,thrash|poison-touch|
 rhyhorn|50|scary-face,rock-blast,earthquake,take-down|lightning-rod|
 
 --ev3|Archer & Ariana||/leaders/gs-archer
+==tag:true
 gothitelle|54|hidden-power,shadow-ball,thunder-wave,psychic|competitive|colbur-berry
 aegislash-blade|55|shadow-sneak,shadow-claw,kings-shield,iron-head|stance-change|leftovers
 houndoom|55|scorching-sands,dark-pulse,sucker-punch,heat-wave|unnerve|houndoominite
@@ -717,6 +718,7 @@ gyarados|47|dragon-dance,waterfall,earthquake,bounce|intimidate|flyinium-z--held
 kangaskhan|47|power-up-punch,body-slam,crunch,rock-tomb|inner-focus/parental-bond|kangaskhanite|||jolly
 
 --ev3_hard|Archer & Ariana||/leaders/gs-archer
+==tag:true
 incineroar|55|fake-out,knock-off,will-o-wisp,flare-blitz|intimidate|sitrus-berry|||careful
 articuno-galar>articuno-galar|55|psychic,focus-blast,roost,air-slash|competitive|colbur-berry|||timid
 primarina|55|hyper-voice,scald,psychic,energy-ball|liquid-voice|throat-spray|||modest
@@ -752,7 +754,7 @@ delphox|80|heat-wave,expanding-force,grass-knot,shadow-ball|magic-guard|focus-sa
 silvally-fairy|80|multi-attack,flamethrower,parting-shot,thunder-wave|battle-armor|leftovers|||jolly
 moltres-galar>moltres-galar|80|nasty-plot,fiery-wrath,hurricane,roost|berserk|flyinium-z--held|||timid
 genesect|80|u-turn,iron-head,ice-beam,flamethrower|download|assault-vest|||hasty
-mewtwo-y|80|expanding-force,soul-robbery,flamethrower,aura-sphere|unnerve/insomnia||||timid
+mewtwo-mega-y>mewtwo-mega-y|80|expanding-force,soul-robbery,flamethrower,aura-sphere|unnerve/insomnia||||timid
 
 ###################
 ### Team Rocket ###
