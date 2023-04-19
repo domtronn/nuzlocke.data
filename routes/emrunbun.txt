@@ -1,4 +1,4 @@
-Starter|treecko,mudkip,torchic
+Starter|turtwig,chimchar,piplup
 Littleroot Town|surskit,lotad,finneon,tympole,squirtle,totodile,oshawott,sobble
 Route 101|lillipup,bunnelby,buneary,skitty,zigzagoon-galar,poochyena,starly,pidgey,litleo,deerling
 Oldale Town|ponyta,growlithe,houndour,fletchling,sizzlipede,salandit,litleo
