@@ -36,7 +36,7 @@ camerupt|54|earth-power,flamethrower,rock-slide,substitute|own-tempo|cameruptite
 --aq5|Aqua Leader Archie||/leaders/rs-archie
 urshifu-rapid-strike|76|close-combat,surging-strikes,poison-jab,detect|unseen-fist|lum-berry|||adamant
 hydreigon|76|dragon-pulse,dark-pulse,aura-sphere,roost|levitate|dragon-gem|||modest
-rotom-frost|75|blizzard,thunderbolt,light-screen,reflect|levitate|leftovers|||modest
+rotom-frost>rotom-frost|75|blizzard,thunderbolt,light-screen,reflect|levitate|leftovers|||modest
 dragalge|75|dragon-pulse,sludge-bomb,focus-blast,protect|adaptability|black-sludge|||timid
 stakataka|76|heavy-slam,stone-edge,high-horsepower,body-press|beast-boost|assault-vest|||careful
 sharpedo|77|waterfall,crunch,close-combat,ice-fang|rough-skin|sharpedonite|||adamant
@@ -108,7 +108,7 @@ gardevoir|36|moonblast,psyshock,icy-wind,destiny-bond|synchronize|focus-sash|fir
 sceptile|66|energy-ball,dragon-pulse,earthquake,aura-sphere|overgrow|sceptilite|water||naive
 mantine|65|hydro-pump,hurricane,surf,helping-hand|swift-swim|life-orb|water||modest
 goodra|65|dragon-pulse,thunder,muddy-water,rest|hydration|leftovers|water||modest
-raichu-alola|65|thunder,psychic,endeavor,fake-out|surge-surfer|focus-sash|water||modest
+raichu-alola>raichu-alola|65|thunder,psychic,endeavor,fake-out|surge-surfer|focus-sash|water||modest
 lucario|65|close-combat,flash-cannon,vacuum-wave,terrain-pulse|inner-focus|fighting-gem|water||hasty
 gastrodon|66|earth-power,muddy-water,icy-wind,recover|storm-drain|rindo-berry|water||bold
 
@@ -124,7 +124,7 @@ gyarados|65|hurricane,muddy-water,waterfall,thunder|intimidate|life-orb|fire||na
 dragapult|65|shadow-ball,breaking-swipe,hydro-pump,thunder|clear-body|dragon-gem|fire||naive
 magnezone|65|thunder,flash-cannon,electroweb,body-press|sturdy|custap-berry|fire||modest
 toxicroak|65|gunk-shot,cross-chop,vacuum-wave,fake-out|dry-skin|focus-sash|fire||hasty
-exeggutor-alola|66|wood-hammer,dragon-hammer,low-kick,terrain-pulse|harvest|iapapa-berry|fire||brave
+exeggutor-alola>exeggutor-alola|66|wood-hammer,dragon-hammer,low-kick,terrain-pulse|harvest|iapapa-berry|fire||brave
 
 --r3|May||/leaders/rs-may
 garchomp|72|earthquake,dual-chop,fire-blast,stealth-rock|rough-skin|yache-berry|||naive
@@ -137,15 +137,15 @@ weavile|72|knock-off,ice-shard,pursuit,triple-axel|inner-focus|life-orb|fire||jo
 melmetal|72|double-iron-bash,body-press,ice-punch,thunder-punch|iron-fist|assault-vest|||careful
 
 # vs water team
-moltres-galar|73|hurricane,fiery-wrath,heat-wave,agility|berserk|iapapa-berry|water||timid
+moltres-galar>moltres-galar|73|hurricane,fiery-wrath,heat-wave,agility|berserk|iapapa-berry|water||timid
 sceptile|73|leaf-blade,dragon-claw,earthquake,swords-dance|overgrow|sceptilite|water||jolly
 
 # vs grass team
-articuno-galar|73|hurricane,freezing-glare,calm-mind,recover|competitive|lum-berry|grass||timid
+articuno-galar>articuno-galar|73|hurricane,freezing-glare,calm-mind,recover|competitive|lum-berry|grass||timid
 blaziken|73|close-combat,flare-blitz,knock-off,swords-dance|blaze|blazikenite|grass||jolly
 
 # vs fire team
-zapdos-galar|73|brave-bird,thunderous-kick,throat-chop,bulk-up|defiant|iapapa-berry|fire||jolly
+zapdos-galar>zapdos-galar|73|brave-bird,thunderous-kick,throat-chop,bulk-up|defiant|iapapa-berry|fire||jolly
 swampert|73|earthquake,liquidation,ice-punch,power-up-punch|torrent|swampertite|fire||jolly
 
 
@@ -168,7 +168,7 @@ lapras|30|frost-breath,thunderbolt,body-press,sing|water-absorb|sitrus-berry|||r
 rhydon|32|drill-run,rock-slide,double-edge,stealth-rock|rock-head|eviolite|||careful
 togekiss|30|air-cutter,draining-kiss,mystical-fire,grass-knot|super-luck|scope-lens|||timid
 vespiquen|31|attack-order,dual-wingbeat,power-gem,hidden-power-grass|pressure|lum-berry|||brave
-slowbro-galar|31|poison-jab,zen-headbutt,whirlpool,slack-off|quick-draw|quick-claw|||careful
+slowbro-galar>slowbro-galar|31|poison-jab,zen-headbutt,whirlpool,slack-off|quick-draw|quick-claw|||careful
 delcatty|32|last-resort,fake-out|normalize|silk-scarf|||jolly
 
 --mb2|Winstrate Vito
@@ -210,7 +210,7 @@ solrock|25|rock-slide,psycho-cut,stomping-tantrum,morning-sun|levitate|lum-berry
 --3|Wattson|electric|/leaders/rs-wattson
 magnezone|34|discharge,flash-cannon,explosion,hidden-power-grass|sturdy|custap-berry|||quiet
 lanturn|35|discharge,scald,ice-beam,thunder-wave|volt-absorb|leftovers|||bold
-rotom-fan|35|discharge,air-slash,hex,will-o-wisp|levitate|lum-berry|||timid
+rotom-fan>rotom-fan|35|discharge,air-slash,hex,will-o-wisp|levitate|lum-berry|||timid
 zeraora|35|plasma-fists,close-combat,knock-off,grass-knot|volt-absorb|shuca-berry|||naughty
 eelektross|34|thunder-punch,aqua-tail,drain-punch,coil|levitate|leftovers|||careful
 ampharos|35|discharge,dragon-breath,rest,sleep-talk|static|ampharosite|||modest
@@ -230,7 +230,7 @@ salazzle|57|heat-wave,sludge-bomb,fake-out,endeavor|corrosion|focus-sash|||timid
 entei|58|sacred-fire,solar-beam,stone-edge,extreme-speed|inner-focus|lum-berry|||naive
 incineroar|57|overheat,blaze-kick,darkest-lariat,fake-out|intimidate|assault-vest|||sassy
 talonflame|57|brave-bird,flare-blitz,solar-beam,tailwind|gale-wings|life-orb|||naive
-marowak-alola|58|flare-blitz,poltergeist,bonemerang,detect|rock-head|thick-club|||jolly
+marowak-alola>marowak-alola|58|flare-blitz,poltergeist,bonemerang,detect|rock-head|thick-club|||jolly
 
 --6|Winona|flying|/leaders/rs-winona
 staraptor|70|brave-bird,double-edge,close-combat,u-turn|reckless|choice-scarf|||adamant
@@ -277,7 +277,7 @@ gyarados|100|waterfall,crunch,earthquake,dragon-dance|intimidate|gyaradosite|||j
 --ed1|Sidney (Double)|dark|/leaders/rs-sidney
 ==double:true,info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
 incineroar|99|flare-blitz,knock-off,fire-spin,fake-out|intimidate|iapapa-berry|||jolly
-articuno-galar|99|hurricane,freezing-glare,hypnosis,tailwind|competitive|lum-berry|||timid
+articuno-galar>articuno-galar|99|hurricane,freezing-glare,hypnosis,tailwind|competitive|lum-berry|||timid
 overqwil|99|gunk-shot,crunch,fell-stinger,icy-wind|intimidate|assault-vest|||jolly
 urshifu-single-strike|100|close-combat,wicked-blow,reversal,detect|unseen-fist|focus-sash|||jolly
 darkrai|100|dark-pulse,sludge-bomb,aura-sphere,dark-void|bad-dreams|life-orb|||timid
@@ -285,7 +285,7 @@ gyarados|100|waterfall,power-whip,lash-out,icy-wind|intimidate|gyaradosite|||jol
 
 --e2|Phoebe|ghost|/leaders/rs-phoebe
 crobat|99|acrobatics,super-fang,hypnosis,roost|inner-focus|flying-gem|||jolly
-zoroark-hisui|100|shadow-ball,flamethrower,u-turn,grass-knot|illusion|life-orb|||hasty
+zoroark-hisui>zoroark-hisui|100|shadow-ball,flamethrower,u-turn,grass-knot|illusion|life-orb|||hasty
 gothitelle|99|psychic,thunderbolt,dazzling-gleam,shadow-ball|shadow-tag|assault-vest|||timid
 lunala|100|moongeist-beam,meteor-beam,moonblast,roost|shadow-shield|power-herb|||timid
 marshadow|100|close-combat,shadow-sneak,knock-off,bulk-up|technician|lum-berry|||jolly
@@ -293,7 +293,7 @@ gengar|100|sludge-wave,shadow-ball,focus-blast,destiny-bond|levitate|gengarite||
 
 --ed2|Phoebe (Double)|ghost|/leaders/rs-phoebe
 ==double:true,info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
-decidueye-hisui|99|close-combat,leaf-blade,knock-off,tailwind|scrappy|focus-sash|||jolly
+decidueye-hisui>decidueye-hisui|99|close-combat,leaf-blade,knock-off,tailwind|scrappy|focus-sash|||jolly
 chandelure|100|fire-blast,heat-wave,shadow-ball,protect|shadow-tag|kasib-berry|||timid
 blastoise|99|muddy-water,focus-blast,follow-me,fake-out|torrent|iapapa-berry|||timid
 lunala|100|moongeist-beam,meteor-beam,dazzling-gleam,tailwind|shadow-shield|power-herb|||timid
@@ -337,7 +337,7 @@ salamence|100|dragon-pulse,hyper-voice,flamethrower,tailwind|intimidate|salamenc
 --ec|Champion Wallace|water|/leaders/rs-wallace
 kyogre|100|origin-pulse,liquidation,thunder,ice-beam|drizzle|blue-orb|||hasty
 barraskewda|100|liquidation,flip-turn|swift-swim|choice-band|||adamant
-goodra-hisui|100|heavy-slam,aqua-tail,curse,rest|shell-armor|leftovers|||relaxed
+goodra-hisui>goodra-hisui|100|heavy-slam,aqua-tail,curse,rest|shell-armor|leftovers|||relaxed
 palkia|100|draco-meteor,hydro-pump,earth-power,focus-energy|pressure|scope-lens|||timid
 manaphy|100|scald,energy-ball,ice-beam,tail-glow|hydration|leftovers|||timid
 swampert|100|earthquake,liquidation,stone-edge,ice-punch|torrent|swampertite|||jolly
