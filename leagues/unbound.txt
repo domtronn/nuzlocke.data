@@ -89,9 +89,9 @@ metagross|47@6,252,,,,252|iron-head,psychic,hammer-arm,magnet-rise|clear-body|me
 --r5_exp|Rival||/leaders/unbound-axelrod@Ubound Team@https://www.pokecommunity.com/showthread.php?t=382178
 mamoswine|63@6,252,,,,252|ice-fang,bulldoze,ice-shard,stealth-rock|thick-fat|focus-sash|||adamant
 
-rotom-fan|61@6,,,252,,252|discharge,air-slash,hex,thunder-wave|motor-drive|heavy-duty-boots|fire||timid
-rotom-fan|61@6,,,252,,252|discharge,air-slash,hex,thunder-wave|motor-drive|heavy-duty-boots|water||timid
-rotom-mow|61@6,,,252,,252|leaf-storm,discharge,volt-switch,hex|levitate|white-herb|grass||modest
+rotom-fan>rotom-fan|61@6,,,252,,252|discharge,air-slash,hex,thunder-wave|motor-drive|heavy-duty-boots|fire||timid
+rotom-fan>rotom-fan|61@6,,,252,,252|discharge,air-slash,hex,thunder-wave|motor-drive|heavy-duty-boots|water||timid
+rotom-mow>rotom-mow|61@6,,,252,,252|leaf-storm,discharge,volt-switch,hex|levitate|white-herb|grass||modest
 
 vaporeon|62@252,,252,,4|hydro-pump,ice-beam,acid-armor,aqua-ring|water-absorb|leftovers|||bold
 

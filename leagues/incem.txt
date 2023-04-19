@@ -269,7 +269,7 @@ hariyama|+0|arm-thrust,knock-off,bulldoze,bulk-up|guts|sitrus-berry
 galvantula|+0|volt-switch,bug-buzz,giga-drain,sticky-web|swarm|grass-gem
 lanturn|+0|volt-switch,surf,dazzling-gleam,icy-wind|water-absorb|air-balloon
 magneton|+0|volt-switch,flash-cannon,thunder-wave,electric-terrain|sturdy|eviolite
-rotom-mow|+0|volt-switch,leaf-storm,hex,toxic|levitate|white-herb
+rotom-mow>rotom-mow|+0|volt-switch,leaf-storm,hex,toxic|levitate|white-herb
 raichu-alola|+0|volt-switch,psychic,grass-knot,surf|surge-surfer|shuca-berry
 manectric|+2|volt-switch,aurora-beam,signal-beam,flamethrower|lightning-rod|sitrus-berry
 

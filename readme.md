@@ -20,10 +20,11 @@ You can use the [**Boss Editor** app](https://nuzlocke-builder.vercel.app/) to h
 
 ### **League data**
 ```
---1|Gym Leader Name|Gym Leader Speciality|/image/path
+--1|Gym Leader Name|Gym Leader Speciality|/image/path@creditname@crediturl
+==double:true/false,tag:true/false,info=<p>Html to display</p>,effect=rain
 pokemon|level|move1,move2,move3,move4|ability|held-item|starter|tera-type
 pokemon|level|move1,move2,move3,move4|ability|held-item|starter|tera-type
-pokemon>sprite|level|move1,move2,move3,move4|ability|held-item|starter|tera-type
+pokemon>sprite|level@hpev,atkev,defev,spaev,spdev,speev|move1,move2,move3,move4|ability|held-item|starter|tera-type
 ```
 
 ### **Route data**
