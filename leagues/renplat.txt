@@ -325,8 +325,8 @@ froslass|56|blizzard,shadow-ball,thunderbolt,attract|levitate|life-orb
 --8|Volkner|electric|/leaders/dp-volkner
 jolteon|61|thunderbolt,shadow-ball,grass-knot,thunder-wave|static|focus-sash
 raichu|61|thunderbolt,grass-knot,focus-blast,surf|static|expert-belt
-rotom|61|thunderbolt,hydro-pump,shadow-ball,thunder-wave|levitate|sitrus-berry
-rotom|61|thunderbolt,overheat,shadow-ball,will-o-wisp|levitate|white-herb
+rotom-wash>rotom-wash|61|thunderbolt,hydro-pump,shadow-ball,thunder-wave|levitate|sitrus-berry
+rotom-heat>rotom-heat|61|thunderbolt,overheat,shadow-ball,will-o-wisp|levitate|white-herb
 luxray|61|wild-charge,crunch,ice-fang,fire-fang|intimidate|choice-band
 electivire|62|wild-charge,close-combat,ice-punch,earthquake|motor-drive|life-orb
 

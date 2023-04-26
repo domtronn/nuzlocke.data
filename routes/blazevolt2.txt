@@ -59,7 +59,7 @@ Route 16|solosis,gothita,stunky,sawk,glameow,throh,drowzee,hoothoot,lickitung,sh
 Lostlorn Forest|combee,exeggcute,pinsir,murkrow,slakoth,misdreavus,carnivine,vigoroth,roselia,heracross,scyther,breloom,audino,emolga,pansage,pansear,panpour,vespiquen,nidorina,nidorino,roserade,buizel,basculin,basculin,floatzel,psyduck
 
 --Nimbasa City Gym|6_n|gym-leader|Elesa
---Nimbasa City|charles||Charles
+--Nimbasa City|charles|mini-boss|Charles
 
 Driftveil Drawbridge|ducklett,hoppip,swablu
 Driftveil City|turtwig,chimchar,piplup
@@ -69,22 +69,22 @@ Route 6|deerling,foongus,yanma,tranquill,shelmet,karrablast,pidgeotto,sudowoodo,
 --Route 6|rood|evil-team|Rood
 --Route 6|o5_n|mini-boss|Norman
 
---Driftveil City Gym|7_n|gym-leader|Clay
-
 Clay Tunnel|sandshrew,sandslash,woobat,shuckle,golbat,onix,lairon,diglett,golett,azumarill,palpitoad,seel,feebas,barboach
 
+--Driftveil City Gym|7_n|gym-leader|Clay
+--Route 6|r2|rival|Hugh
+
 Mistralton Cave|boldore,kangaskhan,aron,wynaut,axew,teddiursa,deino,bagon,larvitar,wobbuffet,lairon,ursaring,shelgon,pupitar
-
 Chargestone Cave|nosepass,klink,geodude,ferroseed,diglett,boldore,magnemite,joltik,tynamo,durant,heatmor,voltorb,graveler,dugtrio,magneton,electrode,probopass
-
 Route 7|yanma,zebstrika,deerling,sawsbuck,watchog,phanpy,donphan,aipom,furret,kecleon,zangoose,seviper,spinda,audino,cubchoo,beartic,snorunt,sneasel
-
---Twist Mountain|col2_n|evil-team|Colress
---Route 6|r2||Hugh
-
 Celestial Tower|litwick,cubone,elgyem,chingling,shuppet,duskull,bronzor,haunter,murkrow,misdreavus,chimecho,lampent,noctowl,marowak,drifblim,dusclops,beheeyem,banette,bronzong
 
-Reversal Mountain - Outside|spoink,grumpig,cacturne,camerupt,drifblim,skorupi,drapion,numel,rhydon,rhyhorn,skarmory,torkoal,gligar,trapinch,audino,mienfoo,wooper,boldore,quagsire,druddigon,magcargo,throh,sawk,golduck
+--Twist Mountain|col2_n|evil-team|Colress
+
+--Mistralton City|o6_n|mini-boss|Juan
+--Mistralton City Gym|8_n|gym-leader|Skyla
+
+Reversal Mountain|spoink,grumpig,cacturne,camerupt,drifblim,skorupi,drapion,numel,rhydon,rhyhorn,skarmory,torkoal,gligar,trapinch,audino,mienfoo,wooper,boldore,quagsire,druddigon,magcargo,throh,sawk,golduck
 
 --Reversal Mountain|bianca_n|rival|Bianca
 
@@ -108,7 +108,7 @@ Route 13|tangela,swellow,golbat,lunatone,solrock,hoppip,skiploom,wingull,linoone
 
 Route 12|ponyta,rapidash,combee,beautifly,dustox,girafarig,cherubi,cherrim,heracross,pinsir,doduo,dodrio,staravia,audino,emolga,dunsparce,staraptor
 
---Route 12|benga_n||Benga
+--Route 12|benga_n|mini-boss|Benga
 
 Village Bridge|exeggcute,ducklett,bibarel,marill,rufflet,braviary,vullaby,mandibuzz,volbeat,zangoose,illumise,seviper,farfetchd,chatot,audino,emolga,dunsparce,exeggutor,azumarill,swanna,basculin,lapras,carvanha,basculin,sharpedo,
 

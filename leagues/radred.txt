@@ -15,7 +15,7 @@ mightyena|21|howl,ice-fang,poison-fang,bite|strong-jaw|berry-juice
 nidoking|45|sludge-bomb,ice-beam,thunderbolt,earth-power|sheer-force|life-orb
 honchkrow|45|drill-peck,sucker-punch,heat-wave,night-slash|super-luck|scope-lens
 infernape|45|thunder-punch,close-combat,swords-dance,pyro-ball|blaze|focus-sash
-rotom|45|frost-breath,volt-switch,freeze-dry,will-o-wisp|levitate|sitrus-berry
+rotom-frost>rotom-frost|45|frost-breath,volt-switch,freeze-dry,will-o-wisp|levitate|sitrus-berry
 kangaskhan|46|crunch,body-slam,power-up-punch,fake-out|inner-focus|kangaskhanite
 
 --evg3|Giovanni||/leaders/frlg-giovanni#Leader Giovanni?
