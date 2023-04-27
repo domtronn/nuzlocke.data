@@ -1,0 +1,11 @@
+### DEV ###
+
+--item
+jelly-donut|big-malasada|Raises the user's Speed stat by 2 Levels
+sugar-donut|big-malasada|Raises the user's Sp. Attack stat by 2 Levels
+glazed-donut|big-malasada|Raises the user's Attack stat by 2 Levels
+
+--move
+hidden-power-electric|electric|60||special|Hidden Power
+hidden-power-fighting|fighting|60||special|Hidden Power
+hidden-power-dark|dark|60||special|Hidden Power

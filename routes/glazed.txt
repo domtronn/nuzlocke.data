@@ -1,0 +1,268 @@
+### DEV ###
+
+## Tunod Region
+
+Starter|turtwig,chimchar,piplup,shinx,riolu
+Glenwood Town|magikarp,buizel
+Forest Pass|taillow,sentret,rattata,sandshrew,poochyena,ralts,marill,goldeen
+
+--Forest Pass|rp_1|rival|Percy
+
+Chocco Town|psyduck,wingull,pelipper
+Milkshake Swamp|ekans,shroomish,croagunk,tangela
+Oceanview Park|growlithe,mareep,vulpix,marill,electrike,buizel,floatzel
+Oceanview Power Plant|magnemite,pikachu,electrike,elekid,porygon
+
+--OceanView Power Plant|rch_0|rival|Chelle
+--Oceanview City Gym|1|gym-leader|Sparky
+
+Serenity Isle|tentacool,tentacruel,mantine
+
+--Serenity Isle Gym|2|gym-leader|Terry
+
+Serene Bridge|tentacool,horsea,wingull,pelipper
+Forlorn Cape|dratini,larvitar,gible,deino,bagon,beldum,tentacool,wingull,pelipper
+Springside Path|taillow,shroomish,zorua,poochyena,breloom,goldeen,psyduck,golduck
+Haunted Isle|spinda,wingull,buizel,tentacool,gastly
+Haunted Rock|gastly,banette,misdreavus,haunter,zubat,voltorb
+
+--Haunted Rock|f_1|evil-team|Fusion Boss Michael
+
+Seaspray Town|psyduck,wingull,pelipper
+
+--Seaspray Town|rch_1|rival|Chelle
+
+Seaspray Dam|pikachu,pichu,electrike,growlithe,raichu,manectric,buizel,wingull
+
+--Geminite Village|rp_2|rival|Percy
+
+Mt. Stratus|zubat,phanpy,abra,geodude,aron,sableye,snorunt,lairon,graveler,golbat,gabite,shuppet,banette,seel,dewgong,seadra,absol,bagon
+
+--Seaspray Town Gym|rca_1|rival|Cato
+--Seaspray Town Gym|3|gym-leader|Flo
+
+Geminite River|buizel,joltik,skorupi,taillow,gible,ditto,psyduck
+
+--Stormy City Gym|4|gym-leader|Lief
+--Trainer Isle|f_2|evil-team|Team Fusion Henri
+
+Icebound Chasm|snorunt,sneasel,swinub,delibird,slowpoke,marill,goldeen
+Northcoast Town
+
+--Northcoast Town Gym|rp_3|rival|Percy
+--Northcoast Town Gym|5|gym-leader|Irene
+
+Blizzard Slopes|sneasel,snorunt,smoochum,furret,delibird,slowpoke,lapras
+Icicle Tunnel|golbat,zubat,delibird,piloswine,jynx,sneasel
+
+# --Cape Azure|mb_1|mini-boss|Ryan (optional)
+
+Tunod Safari Zone|nincada,murkrow,mightyena,ponyta,swellow,mienfoo,tentacool,wingull,pelipper,axew,deino,mawile,wobbuffet,psyduck,druddigon,rhyhorn,heracross,geodude
+
+--Tunod Safari Zone|rch_2|rival|Chelle
+
+Overseas Bridge
+Southerly City
+
+--Southerly City|rca_2|rival|Cato
+
+Espo Clearing|swellow,galvantula,ponyta,leafeon,scraggy,flaaffy,magikarp,buizel,gyarados
+Espo Forest|beldum,abra,mawile,ralts,kadabra,wynaut,kirlia
+Temporal Tower|tentacool,wingull,omanyte,kabuto,unown
+
+--Temporal Tower|f_3|evil-team|Fusion Boss Michael
+--Southerly City Gym|6|gym-leader|Ernest
+
+Palmtree Park|butterfree,beedrill,chansey,vibrava,spinda,eevee,scraggy,scrafty,tentacool,wingull,pelipper
+Sunshore Beach|tentacool,wingull,pelipper
+Spatial Sea|tentacool,wingull,pelipper
+Spatial Ruins|abra,ralts,zubat,tentacool,golbat
+
+--Palmtree Resort Gym|7|gym-leader|Nicole
+--Fusion Labs|f_4|evil-team|Fusion Boss Regina
+--Fusion Labs|f_5|evil-team|Fusion Boss Michael
+
+Tunod Sea Floor|clamperl,chinchou,lanturn
+Darkwood Grotto|zubat,mankey,machop,mienfoo,machoke,primeape,slowpoke,chinchou,lanturn,shuckle,slowbro,clamperl,huntail,gorebyss,scraggy
+Darkwood Town|magikarp
+
+--Cameron's Dojo|mb_2|mini-boss|Cameron (optional)
+--Darkwood Town|rp_4|rival|Percy
+--Darkwood Town Gym|8|gym-leader|Tyson
+
+Loxsly Channel|poochyena,zigzagoon,wingull,tentacool,pelipper
+Nitchside Cove|beldum,wingull,pelipper
+Temporal Sea|tentacool,wingull,omanyte,kabuto,tauros,miltank,druddigon,lickitung,granbull,fraxure,zweilous,zoroark,psyduck,mantine
+Soheal's Strait|tentacool,wingull,pelipper
+
+--Soheal's Strait|e0|mini-boss|Soheal
+
+Turquoise Bay|tentacool,horsea,wingull,pelipper
+Haunted Seaway|tentacool,wingull,goldeen,geodude
+Seaspray Bay|tentacool,wingull,pelipper
+Waterfall Gorge|pidgeotto,scrafty,sandslash,ditto,ursaring,gabite,tentacool,buizel,pelipper,floatzel
+Subfalls Cave|sableye,banette,zubat,golbat
+Mt. Furnace|arcanine,koffing,magby,vulpix,magmar,slugma,magmortar,magcargo
+Path of Victory|zweilous,fraxure,linoone,seviper,heracross,pidgeot,manectric,castform,tentacruel,floatzel,pelipper
+
+--Path of Victory|rch_3|rival|Chelle
+--Path of Victory|mb_3|mini-boss|Lucbui
+
+Sinustrus Forest|murkrow,umbreon,houndoom,zorua,misdreavus,absol,mismagius
+Victory Road|golbat,onix,lairon,zubat,luxio,aron,glaceon,graveler,geodude,sableye,banette
+
+--Tunod League|rca_3|rival|Cato
+--Tunod League|e1|elite-four|Rosaline
+--Tunod League|e2|elite-four|Magnus
+--Tunod League|e3|elite-four|Tanya
+--Tunod League|e4|elite-four|Gray
+--Tunod League Champion|ch1|elite-four|Blake
+
+### Johto Region
+
+Cherrygrove City|wynaut,tentacruel,qwilfish,
+
+Route 29|pidgeot,furret,raticate,noctowl,linoone,aipom,spearow,tentacool,wingull,pelipper
+Route 46|graveler,fearow,raticate,axew,aipom,spearow
+New Bark Town|tentacool,qwilfish
+Route 30|butterfree,ledian,beedrill,pidgeot,jumpluff,aipom,spearow,poliwag,poliwhirl,poliwrath
+Route 31|ledian,butterfree,weepinbell,beedrill,pidgeot,lickitung,spearow,aipom,heracross,poliwag,poliwhirl,politoed
+Dark Cave|graveler,golbat,ursaring,dunsparce,krabby,shuckle,magikarp,gyarados,wobbuffet,teddiursa,
+
+Ruins of Alph|kadabra,smeargle,alakazam,wooper,quagsire,unown
+
+--Ruins of Alph|f_6|evil-team|Fusion Boss Rgina
+--Ruins of Alph|rca_4|rival|Cato
+
+Violet City|tentacruel,pelipper
+--Violet City Gym|9|gym-leader|Falkner
+
+Route 32|raticate,arbok,pidgeot,weepinbell,skiploom,jumpluff,quagsire,tentacruel
+Route 36|pidgeot,ledian,weepinbell,growlithe,arcanine,sudowoodo
+National Park|nidorina,nidorino,ledian,pidgeot,butterfree,beedrill
+Route 35|granbull,pidgeot,growlithe,kadabra,jigglypuff,yanmega,ditto,yanma,spinarak,noctowl,pineco,golduck
+Route 37|growlithe,pidgeot,ledian,ariados
+
+--Ecruteak City Gym|10|gym-leader|morty
+
+Route 42|spearow,ekans,rattata,raticate,fearow,arbok,aipom,goldeen,seaking
+Mt. Mortar|raticate,golbat,gurdurr,machoke,graveler,heracross,hitmonchan,hitmonlee,hitmontop,tentacool,tentacruel,dewgong,marill,seaking
+Route 43|pidgeot,mienshao,furret,linoone,glalie,magikarp
+Lake of Rage|quagsire,azumarill
+Route 44|poliwhirl,lickitung,mienshao,jynx,smoochum,poliwag,poliwrath
+Ice Path|piloswine,golbat,glalie,jynx,sneasel,delibird,slowbro,dewgong,cloyster
+
+Route 45|glalie,gligar,piloswine,delibird,ursaring,skarmory,bagon,graveler,donphan,cloyster,magikarp
+Route 38|raticate,magneton,pidgeot,pinsir,pineco,spinarak
+Route 39|raticate,magneton,pidgeot,tauros
+
+--Route 39|rch_3|rival|Chelle
+--Olivine City Gym|11|gym-leader|Jasmine
+
+Route 34|raticate,pidgeot,kadabra,jigglypuff,ditto,tentacruel,kingler
+Ilex Forest|butterfree,beedrill
+
+--Ilex Forst|f_7|evil-team|Fusion Boss Regina
+
+--Azalea Town Gym|12|gym-leader|Bugsy
+Slowpoke Well|golbat,slowpoke,slowbro
+
+Goldenrod City|bulbasaur,charmander,squirtle
+--Goldenrod City Gym|13|gym-leader|Simon
+
+Route 33|pineco
+Union Cave|sandslash,graveler,golbat,raticate,onix,quagsire
+
+Bamboo Forest|tangela,skiploom,forretress,drapion,lickitung,yanma,jumpluff,tangrowth
+Route 48|rapidash,gligar,furret,nincada,ninjask,shedinja,noctowl,spinarak
+
+--Church of Alph|a_1|evil-team|Alpha Lader Pius & Alpha Sexton
+--Whitewood City Gym|14|gym-leader|Brian
+
+Route 40|tentacool,tentacruel
+Whirl Islandspokemon|gyarados,seadra,mantine,
+Cianvine Bridge|wingull,taillow,swellow,pelipper,pidgeotto,pidgeot
+Cianwood City|krabby,shuckle,tentacruel,staryu,starmie
+
+--Cianwood Dojo|mb_4|mini-boss|Lucbui
+--Cianwood Dojo|mb_5|mini-boss|Flo
+--Cianwood Dojo|mb_6|mini-boss|Irene
+--Cianwood Dojo|mb_7|mini-boss|Ernest
+--Cianwood Dojo|mb_8|mini-boss|Alexa
+--Cianwood Dojo|mb_9|mini-boss|Sparky
+--Cianwood Dojo|mb_10|mini-boss|Lief
+--Cianwood Dojo|mb_11|mini-boss|Nicole
+--Cianwood Dojo|mb_12|mini-boss|Tyson
+
+Cliff Edge Cave|golbat,kingler,machoke,onix,quagsire,graveler,steelix,wooper
+Route 47|ditto,noctowl,miltank,raticate,spearow,weepinbell,fearow,tentacool,seel,staryu
+Evergreen Town|pelipper,horsea,seadra
+
+--Evergreen Town|rch_5|rival|Chelle
+--Evergreen Town Gym|15|gym-leader|Silver
+
+Johto Safari Zone|abra,rattata,roserade,raticate,mawile,smeargle,hoppip,marill,jigglypuff,wooper,clefairy,skiploom,clefable,magikarp,nidoran,rhyhorn,tauros,golbat,nidorina,nidorino,magnemite,geodude,magneton,graveler,magmar,wobbuffet,slowpoke,slowbro,marowak,krabby,zubat,kingler,poliwag,poliwhirl,lapras,spearow,sentret,psyduck,ditto,furret,golduck,quagsire,pidgeotto,bellsprout,gastly,misdreavus,haunter,heracross,delibird,snorunt,smoochum,piloswine,glalie,froslass,jynx,shellder,cloyster,huntail,gorebyss,koffing,grimer,ekans,arbok,weezing,machop,onix,machoke,kangaskhan,fearow,sandshrew,phanpy,sandslash,donphan,seaking,qwilfish,mantine
+Rocket Hideout|arbok,meowth,golbat,houndoom,persian,wobbuffet,murkrow,weezing,rhydon,electrode
+
+Bell Tower|rattata,raticate
+
+--Bell Tower Rooftop|f_8|evil-team|Fusion Boss Regina
+
+Brass Tower|raticate,golbat,haunter,ledian,pidgeot,fearow,pikachu,raichu
+Blackthorn City|gyarados,dratini,dragonair
+
+--Blackthorn City Gym|16|gym-leader|Clair
+
+Dragon's Den|zoroark,graveler,geodude,magikarp,dratini
+
+Route 49|pelipper,horsea,seadra,lanturn,clamperl,buizel,floatzel
+Johto Victory Road|graveler,magneton,onix,rhydon,lickitung,golem,steelix,piloswine,delibird,glalie,sneasel,granbull,mamoswine,jynx,sandshrew,garchomp,clamperl,floatzel,lanturn,magmar,lairon,rapidash,ninetales,arcanine,aggron,houndoom,chansey,scyther,ursaring,kecleon,muk,deino
+--Johto Victory Road|rch_6|rival|Chelle
+--Johto League|rca_5|rival|Cato
+--Johto League|e5|elite-four|Ivan
+--Johto League|e6|elite-four|Whitney
+--Johto League|e7|elite-four|Powell
+--Johto League|e8|elite-four|Eusine
+--Johto League Champion|ch2|elite-four|Kris
+
+Johto Sea Floor|lanturn,clamperl,huntail,gorebyss
+
+Reefen Isle|snivy,tepig,oshawott
+Olcan Isle|magmar,arcanine,houndoom,shelgon,gligar,skarmory,tyranitar
+--Olcan Isle|rch_7|rival|Chelle
+Mt. Tritorch|ninetales,arcanine,magcargo,shelgon,houndoom,aggron,salamence
+Nitro Isle|poliwhirl,mienshao,pikachu,staryu,ampharos,manectric,nidorina,nidorino,starmie
+
+--Nitro Isle|rt_1|rival|Tye
+--Nitor Isle|mb_15|mini-boss|Wattson
+--Nitro Isle Gym|17|gym-leader|Thor
+
+Mt. Dyno|golbat,galvantula,absol,magneton,electrode,manectric,electabuzz,ampharos
+
+--Kolo Isle Gym|18|gym-leader|Ricky
+
+
+--Alpha Isle|rt_2|rival|Tye
+Alpha Sewers|golbat,muk,seviper,zangoose,magneton,ariados,scrafty,toxicroak,gyarados,golduck,muk
+--Alpha Isle|mb_16|mini-boss|Gym Guardian Will
+--Alpha Isle Gym|19|gym-leader|Sora
+
+Mt. Frozon|golbat,piloswine,glalie,froslass,jynx,mamoswine,aggron
+--Mt. Frozon|f_9|evil-team|Fusion Boss Regina
+--Mt. Frozon|mb_17|mini-boss|PokeFan X
+
+Reign Isle|chespin,fennekin,froakie,golduck,seaking,huntail,gorebyss
+--Reign Isle Gym|20|gym-leader|Makunouchi
+
+--Peaks of Alpha|a_2|evil-team|Alpha Sexton
+Peaks of Alpha|absol,pidgeot,mawile,primeape,kangaskhan
+--Peaks of Alpha|a_3|evil-team|Alpha Sexton
+--Peaks of Alpha|a_4|evil-team|Alpha Leader Pius
+--Peaks of Alpha|f_10|evil-team|Fusion Boss Regina
+
+--Rankor Stadium|rt_3|rival|Tye
+--Rankor Stadium|rch_8|rival|Chelle
+--Rankor Championship Battle|ch3|elite-four|Soul
+
+Mt. Silver|misdreavus,gabite,parasect,ditto,larvitar,garchomp,pupitar,tyranitar,golduck,donphan,paras,misdreavus,golbat,larvitar,garchomp,garchomp,sandslash,
+--Mt. Silver|mb_red|mini-boss|Pokemon Trainer Red
