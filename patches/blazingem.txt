@@ -1,0 +1,366 @@
+### DEV ###
+
+# https://docs.google.com/spreadsheets/d/1RRQsEP_DuY5MJQ9X1pRrogZ9Epy3SBQhSK5Q9q1jDLg/edit#gid=1379245805
+
+--ability
+levin-skin|Sharply raises Attack when hit by an Electric move
+sky-scourge|Summons Eclipse on switch-in
+foul-shroud|User's evasion is increased during an Eclipse
+fruition|Self recovery moves heal an extra 25%
+glacialize|User's Normal moves are now Ice type and deal 20% increased damage
+insatiable|User's draining moves deal more damage
+crystal-case|Immune to Water and 1.5x weak to Fire. When hit by Fire move, sharply raises Special Attack
+ambush|User's moves have 1.5x Accuracy during Eclipse
+regalia|User's Normal moves are now Fairy type and deal 20% increased damage
+air-control|User's Normal moves are now Flying type and deal 20% increased damage
+resolute|If at full HP, user will survive a lethal blow with 1 HP
+
+--move
+# Modifications
+flash|electric|25|
+covet|fairy|40|
+comet-punch|fighting|20|
+cut|steel|60|
+pin-missile||18|
+signal-beam||90|
+twineedle||40|
+u-turn||85|
+x-scissor||90|
+beat-up||15|
+feint-attack||80|
+pursuit||60|
+thief||50|
+draco-meteor||140|
+dragon-claw||90|
+dragon-pulse||95|
+twister||45|
+shock-wave||80|
+aura-sphere||90|
+jump-kick||70|
+mach-punch||45|
+rock-smash||55|
+sky-uppercut||100|
+submission||120|
+triple-kick||20|
+vital-throw||80|
+fire-spin||50|
+flame-wheel||65|
+heat-wave||80|
+overheat||140|
+fly||100|
+hurricane||130|
+ominous-wind||80|
+shadow-punch|ghost|80|
+shadow-sneak||45|
+absorb||35|
+bullet-seed||20|
+magical-leaf||80|
+mega-drain||55|
+seed-bomb||95|
+bone-rush||80|
+dig||85|
+mud-slap||30|
+sand-tomb||50|
+ice-shard||45|
+hyper-fang||95|
+hyper-voice||130|
+quick-attack||45|
+snore||80|
+spike-cannon||30|
+strength||90|
+tackle||35|
+wrap||35|
+poison-fang||60|
+poison-tail||75|
+smog||20|
+dream-eater||130|
+psybeam||70|
+accelerock||45|
+rock-throw||65|
+rock-tomb||55|
+bullet-punch||45|
+doom-desire||150|
+iron-tail||80|
+metal-claw||55|
+meteor-mash||100|
+aqua-jet||45|
+crabhammer||95|
+dive||100|
+hydro-pump||120|
+muddy-water||95|
+octazooka||110|
+surf||95|
+whirlpool||50|
+
+# New moves
+shimmer-shot|???|65|Emits a shining light that may confuse the foe|special
+hivemind|bug|90|Deals damage based on the foe's Defense stat|special
+cataclysm|dark|200|Eviscerates the foe with an unholy flame|special
+cheap-shot|dark|95|An underhanded attack that may cause flinching|physical
+dark-bargain|dark|||status
+grim-stinger|dark|70|Deals triple damage to sleeping foes|physical
+shade-trance|dark|||status
+swindle|dark|40|Hustles the foe, causing them to drop money|physical
+wicked-lash|dark|110|A vicious 2-turn attack. Has a high critical-hit ratio|physical
+bolt-blitz|electric|120|A high voltage burst that also hurts the user|special
+electroburst|electric|90|The user discharges energy. May lower foe's Accuracy|special
+overcharge|electric|160|An explosive burst of power that paralyzes the user|physical
+thunder-clap|electric|80|A lightning-fueled tackle that always hits first|physical
+beguile|fairy|60|A sneak attack that will faint an Infatuated foe|physical
+cookie-cut|fairy|10|Always strikes first and raises all stats one stage|physical
+dazzle-dust|fairy|Halves HP||special
+drain-kiss|fairy|60|An attack that steals half the damage inflicted|special
+knight's-vow|fairy||Bolsters defenses and heals all status problems|status
+moonrazer|fairy|85|Call to the moon to attack. May put the foe to sleep|special
+starstorm|fairy|110|Rain down cosmic fury on the foe. Bypasses protect|special
+audacity|fighting||Immense buffs that cause the user to faint in 3 turns|status
+bramble-bash|fighting|65|A thorny wallop that sends the user into a rage|physical
+pummel|fighting|90|A flurry of punches that may raise user's Attack|physical
+devil-darts|fire|45|The user attacks twice by firing Dreepy at the foe|physical
+kindleseed|fire|60|Scorches the foe with seeds that steal HP on every turn|special
+sizzle-beak|fire|40|A fiery beak assault that inflicts a burn|physical
+cloudburst|flying|140|Allows a full-power attack, but harshly lowers Sp.Atk|special
+abyssal-lure|ghost|70|If the foe is knockced out, sharply raises Sp. Atk|special
+blackout|ghost|70|Smothers the foe with vile energy. May inflict sleep|physical
+siphon|ghost|100|An attack that steals half the damage inflicted|special
+spectral-sap|ghost|65|A draining attack that steals stat changes from the foe|physical
+ripen|grass|||status
+frostbite|ice|80|Bite down on the foe with icy fangs. May freeze|physical
+taiga|ice|120|Tears the foe with a flurry of claws. High critical-hit ratio|physical
+heavy-punch|normal|50|Bonks the foe with great force. May cause flinching|physical
+mire-surge|normal|100|Propels virulent slime that may lower the foe's Speed|special
+snap-guard|normal||User swiftly repositions to raise its Defense and Sp. Def|status
+twirlenade|normal||A chaotic dance that grants power but causes confusion|status
+wild-roar|normal|100|An ear-shattering roar that lowers the foe's Attack|special
+fang-barrage|poison|||physical
+toxifume|poison|80|Amplifies user the first turn, then attacks with toxins|special
+virugait|poison|75|A venomous charge that raises the user's Speed|physical
+psylight|psychic|95|Bursts forth immense rays of light that can confuse|special
+replicate|psychic||Telepathically copies a move permanently |status
+vol|psychic|?|Channels energy to unleash an unpredictable move|status
+crystalize|rock|110|Encases the foe in solid crystal. May freeze|special
+geosplinter|rock||The user shields itself and reconfigures its body|status
+rubble-rush|rock|140|A rancorous rushdown that also hurts the user|physical
+stone-surge|rock|90|Large boulders are hurled. High critical-hit ratio|physical
+carbonize|steel|90|Flashes a burst of toxic metal. May burn|special
+knucklefins|water|90|Attacks with a flurry of punches. Inflicts Torment|physical
+raging-waves|water|120|A rampage of 2 to 3 turns that confuses the user|special
+weepy-wail|water|80|A sharp wail that reduces the foe's Sp. Atk|special
+
+--pokemon
+60,60,60,60,60,60|eevee|
+,80,80,,,45|vaporeon|
+75,,,125,85|jolteon|
+80,,80,100,70,80|flareon|
+80,60,65|espeon|
+,80|umbreon|
+,,,,60|leafeon|
+,90,,,75,90|glaceon|
+,70,75,,,70|sylveon|
+80,71,43,71,60|clefairy|
+117,100,,100|clefable|
+45,60,45,75,45|pikachu|
+80,,65,140,,85|raichu|
+,,,85,85|ivysaur|grass,poison
+,,,115,110|venusaur|grass,poison
+,,,90|charmeleon|fire
+,,,125|charizard|fire,flying
+,,85,,85|wartortle|water
+,,,,125|blastoise|water
+,,85,,85|bayleef|
+,,110,,115|meganium|
+,69,,85|quilava|
+,,,125|typhlosion|
+,85,85|croconaw|
+,120,105|feraligatr|
+,55,,55|treecko|
+,80,,80|grovyle|
+,105|sceptile|
+,,65,,65|combusken|
+,,80,,80|blaziken|
+,50,,70|mudkip|
+,65,75,85|marshtomp|
+,100,,110|swampert|
+,80,66,,71|linoone|
+,,80,,70|mightyena|
+,,,110,60,100|beautifly|
+,,80,65,110,85|dustox|
+45|wingull|
+80|pelipper|
+,,,,,70|skiploom|
+,85,55,85,72,88|jumpluff|
+,45|ledyba|
+65,75,65|ledian|
+65,,65,,85,80|butterfree|bug,flying
+,,,25,45|slakoth|
+,,,45,65|vigoroth|
+,,,65,95|slaking|
+,,,56,25|whismur|
+,,,76,45|loudred|
+,,80,96,83|exploud|
+,55,55|tyrogue|
+85,,,,80|hitmonlee|
+59,85,100,,105|hitmonchan|
+40,130,60,75,60,95|hitmontop|
+85|ninjask|
+,120,15,,15,100|shedinja|
+,,,145|alakazam|
+,85|ampharos|
+65,60,50,60,50,70|skitty|
+90,85,70,85,70|delcatty|
+60,105,,,100,80|beedrill|bug,poison
+55,,70,,65,30|paras|bug,grass
+95,110,100,,90,50|parasect|bug,grass
+,,,80|swablu|fairy,flying
+80,85,,85,110|altaria|fairy,dragon
+50|skorupi|
+90,95,,55|drapion|
+110,,,,,65|golem|
+80|aggron|
+80,95,95,75,85|sableye|
+20|diglett|ground
+55|dugtrio|ground
+,,,,,105|ponyta|fire
+80,105,,,,135|rapidash|fire
+100,40,100,40,100,60|ditto|
+60,,,,,50|sandshrew|ground
+95,,,,,85|sandslash|ground
+55,,55|vibrava|
+90,,90,,85,105|flygon|
+,,,,,65|cacnea|
+,,,,,95|cacturne|
+76|lileep|
+107,,100,,111,15|cradily|
+50|anorith|
+,115,,40,,85|armaldo|
+65,,55,,50|numel|
+100,,90,110,85|camerupt|
+,,85,,90,75|machamp|fighting
+90,30,75,30,75|spinda|
+,70,,,95,85|spoink|
+,90,75|grumpig|
+,,,,125|lunatone|
+,125,,65|solrock|
+40,200,40,200,40,40|unown|
+,61,44,20,44,30|sentret|
+100,96,79,30,70,110|furret|
+,,,,,80|kecleon|
+50|oddish|grass,poison
+70|gloom|grass,poison
+105|vileplume|grass,poison
+85,,85,,110,70|bellossom|
+60,80,50,,50,65|spinarak|
+80,102,80,,80,98|ariados|
+109,,93,77,97|tropius|
+121,55,85,110,85,97|castform|
+,,65,,65,85|absol|
+49,85,,,39,50|shuppet|
+74,125,75,,83,75|banette|
+25|duskull|
+45|dusclops|
+55|dusknoir|
+50,40,,,50|natu|
+75,65,,,75,80|xatu|
+41,,43,55|vulpix|fire
+77,,90,91,103,103|ninetales|fire
+85,,,105,105|chimecho|
+,,,35|sunkern|
+,,65,125|sunflora|
+65,140,,,85|mawile|
+115,,,110|slowbro|water,psychic
+,,,110,140|slowking|
+85,,88,115|golduck|water
+,55,,105,,70|lapras|water,ice
+125,,,90|mantine|
+,,,,,102|huntail|
+,,,,,102|gorebyss|
+,,,,95|relicanth|
+90,,108,88,95,45|dhelmise|
+50,105,25|carvanha|
+,140,65,105,,105|sharpedo|
+63,58|barboach|
+,96,83,58,101|whiscash|
+90,,80,,85,30|octillery|
+80,,80,,120,120|celebi|
+,,120,80,120,80|jirachi|
+,80,80,120,120,100|manaphy|
+80,80,,120,,120|victini|
+55,195,95,90,180,85|regigigas|ghost
+130,,,140,95,105|darkrai|
+140,,,105|cresselia|
+100,125,125,,85,80|sandslash-alola|
+88,62,,106|ninetales-alola|
+,130,95,80,95,120|zapdos-galar|electric,fighting
+125,60,125,85|moltres-galar|fire,dark
+80,70,90,140,130,100|articuno-galar|ice,psychic
+120,80,120,100,100,80|spheal|ice,electric
+,,,66,66|chinchou|water,electric
+,,,96,96|lanturn|water,electric
+250,100,100,120,100,80|goomy|
+45,65|onix|rock,ground
+85,100,,,85|steelix|
+85,65,85,35,90|seel|water
+110,110,90,45,115,65|dewgong|water,ice
+90,,,,75|qwilfish|
+|kakuna||weedle>beedrill,drilladin
+|doduo||doduo>dodrio,dodrio-hoenn
+|farfetchd||farfetchd>mallarki
+|seviper||seviper>silviper
+|zangoose||zangoose>zangoro
+|remoraid||remoraid>octillery,slingray
+|eevee||eevee>sylveon,jolteon,flareon,vaporeon,leafeon,glaceon,espeon,umbreon,oreon
+
+
+--fakemon
+
+80,100,80,100,80,60|Oreon|oreon|poison|/blazingem/oreon|eevee
+55,40,45,55,45,65|Hoennian Venonat|venonat-hoenn|bug,dark|/blazingem/h-venonant|venonant>muramoth,lucemoth
+80,65,100,85,100,55|Muramoth|muramoth|bug,dark|/blazingem/muramoth|venonat
+60,80,50,115,75,105|Lucemoth|lucemoth|bug,fairy|/blazingem/lucemoth|venonat
+110,115,115,65,80,50|Drilladin|drilladin|bug,poison|/blazingem/drilladin|weedle
+50,70,85,65,80,65|Hoennian Dunsparce|dunsparce-hoenn|normal,electric|/blazingem/h-dunsparce|dunsparce>drasparath
+60,90,65,100,65,142|Drasparath|drasparath|dragon,electric|/blazingem/drasparath|dunsparce
+50,53,92,33,52,35|Hoennian Mareanie|mareanie-hoenn|rock,poison|/blazingem/h-mareanie|mareanie>toxapex-hoenn
+60,63,182,43,122,25|Hoennian Toxapex|toxapex-hoenn|rock,poison|/blazingem/h-toxapex|mareanie
+60,110,65,58,70,110|Mallar'ki|mallarki|fighting,flying|/blazingem/mallarki|farfetchd
+65,105,80,50,55,50|Hoennian Pinsir|pinsir-hoenn|bug,ground|/blazingem/h-pinsir|pinsir
+55,70,45,45,40,80|Hoennian Teddiursa|teddiursa-hoenn|normal,fire|/blazingem/h-teddiursa|teddiursa>ursaring-hoenn
+70,120,90,55,85,80|Hoennian Ursaring|ursaring-hoenn|normal,fire|/blazingem/h-ursaring|teddiursa
+60,135,85,63,50,100|Hoennian Dodrio|dodrio-hoenn|ground,flying|/blazingem/h-dodrio|doduo
+85,100,110,35,80,90|Hoennian Skarmory|skarmory-hoenn|steel,fire|/blazingem/h-skarmory|skarmory
+30,60,30,20,50,70|Hoennian Tynamo|tynamo-hoenn|ground,electric|/blazingem/h-tynamo|tynamo>eelektrik-hoenn
+50,100,40,30,80,80|Hoennian Eelektrik|eelektrik-hoenn|ground,electric|/blazingem/h-eelektrik|tynamo>eelektross-hoenn
+95,135,85,50,110,65|Hoennian Eelektross|eelektross-hoenn|ground,electric|/blazingem/h-eelektross|tynamo
+62,36,106,86,106,93|Hoennian Maractus|maractus-hoenn|grass,fire|/blazingem/h-maractus|maractus
+100,130,150,35,80,55|Silviper|silviper|poison,steel|/blazingem/silviper|seviper
+75,150,65,95,65,100|Zangaro|zangaro|normal,dark|/blazingem/zangaro|zangoose
+65,115,85,50,45,45|Hoennian Tangela|tangela-hoenn|fighting|/blazingem/h-tangela|tangela>tangrowth-hoenn
+100,115,105,85,50,80|Hoennian Tangrowth|tangrowth-hoenn|fighting,dark|/blazingem/h-tangrowth|tangela
+55,65,75,30,65,50|Hoennian Pawniard|pawniard-hoenn|fairy,steel|/blazingem/h-pawniard|pawniard>bisharp-hoenn
+85,90,115,40,85,75|Hoennian Bisharp|bisharp-hoenn|fairy,steel|/blazingem/h-bisharp|pawniard
+45,25,50,105,50,20|Hoennian Solosis|solosis-hoenn|grass,psychic|/blazingem/h-solosis|solosis>duosion-hoenn
+65,30,70,125,60,30|Hoennian Duosion|duosion-hoenn|grass,psychic|/blazingem/h-duosion|solosis>reuniclus-hoenn
+80,45,105,125,90,45|Hoennian Reuniclus|reuniclus-hoenn|grass,psychic|/blazingem/h-reuniclus|solosis
+100,55,60,80,90,65|Hoennian Goomy|goomy-hoenn|fairy|/blazingem/h-goomy|goomy>goolossal
+200,65,70,120,110,35|Goolossal|goolossal|fairy|/blazingem/goolossal|goomy
+30,10,225,10,225,5|Hoennian Shuckle|shuckle-hoenn|grass,rock|/blazingem/h-shuckle|shuckle
+75,95,65,45,90,123|Hoennian Emolga|emolga-hoenn|ghost,flying|/blazingem/h-emolga|emolga
+55,35,60,65,150,60|Hoennian Onix|onix-hoenn|ice,rock|/blazingem/h-onix|onix>chrysalix
+80,45,75,90,200,60|Chrysalix|chrysalix|ice,rock|/blazingem/chrysalix|onix
+40,80,50,50,45,70|Hoennian Tentacool|tentacool-hoenn|water,electric|/blazingem/h-tentacool|tentacool>tentacruel-hoenn
+80,110,83,65,75,102|Hoennian Tentacruel|tentacruel-hoenn|water,electric|/blazingem/h-tentacruel|tentacool
+90,65,80,35,80,45|Hoennian Seel|seel-hoenn|water,dark|/blazingem/h-seel|seel>dewgong-hoenn
+135,115,85,45,70,65|Hoennian Dewgong|dewgong-hoenn|water,dark|/blazingem/h-dewgong|seel
+55,38,38,100,66,57|Hoennian Chinchou|chinchou-hoenn|water,ghost|/blazingem/h-chinchou|chinchou>lanturn-hoenn
+90,55,50,140,78,67|Hoennian Lanturn|lanturn-hoenn|water,ghost|/blazingem/h-lanturn|chinchou
+55,52,140,93,110,5|Hoennian Qwilfish|qwilfish-hoenn|steel,poison|/blazingem/h-qwilfish|qwilfish
+47,102,75,102,35,134|Slingray|slingray|water,rock|/blazingem/slingray|remoraid
+190,38,78,83,88,43|Bawlfrog|bawlfrog|normal,water|/blazingem/bawlfrog|bawlfrog
+52,40,30,60,30,58|Hoennian Dreepy|dreepy-hoenn|dragon,fire|/blazingem/h-dreepy|dreepy>drakloak-hoenn
+83,60,50,85,50,82|Hoennian Drakloak|drakloak-hoenn|dragon,fire|/blazingem/h-drakloak|dreepy>dragapult-hoenn
+118,100,75,120,75,112|Hoennian Dragapult|dragapult-hoenn|dragon,fire|/blazingem/h-dragapult|dreepy
+100,120,120,80,100,80|Crawb|crawb|steel,water|/blazingem/crawb|crawb
+125,86,120,134,110,105|Armored-mewtwo|armored-mewtwo|psychic,steel|/blazingem/armored-mewtwo|mewtwo
+250,10,130,10,130,10|Vitellion|vitellion|???|/blazingem/vitellion|vitellion
+200,120,180,120,180,0|Metunn|metunn|psychic,ghost|/blazingem/metunn|metunn
+106,130,90,154,90,110|Shadow Lugia|shadow-lugia|dark,psychic|/blazingem/shadow-lugia|lugia
