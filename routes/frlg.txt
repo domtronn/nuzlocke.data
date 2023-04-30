@@ -50,7 +50,7 @@ Route 13|pidgey,pidgeotto,oddish,gloom,venonat,psyduck,bellsprout,weepinbell,ten
 Power Plant|zapdos,pikachu,magnemite,magneton,voltorb,electrode,electabuzz
 Route 19|pikachu,magnemite,magneton,voltorb,electrode,electabuzz,zapdos
 Route 20|psyduck,tentacool,slowpoke,krabby,kingler,horsea,seadra,magikarp,gyarados
-Seafoam Islands|zubat,golbat,psyduck,golduck,slowpoke,slowbro,seel,dewgong,krabby,horsea,magikarp,gyarados,makuhita,absol,chingling,bronzor
+Seafoam Islands|articuno,zubat,golbat,psyduck,golduck,slowpoke,slowbro,seel,dewgong,krabby,horsea,magikarp,gyarados,makuhita,absol,chingling,bronzor
 Cinnabar Island|psyduck,tentacool,slowpoke,slowbro,shellder,krabby,horsea,seadra,staryu,magikarp,gyarados
 Pokémon Mansion
 --Cinnabar Island Gym|7|gym-leader|Blaine
