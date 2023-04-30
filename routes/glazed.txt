@@ -1,12 +1,8 @@
-### DEV ###
-
 ## Tunod Region
 
 Starter|turtwig,chimchar,piplup,shinx,riolu
 Glenwood Town|magikarp,buizel
 Forest Pass|taillow,sentret,rattata,sandshrew,poochyena,ralts,marill,goldeen
-
---Forest Pass|rp_1|rival|Percy
 
 Chocco Town|psyduck,wingull,pelipper
 Milkshake Swamp|ekans,shroomish,croagunk,tangela
@@ -34,7 +30,7 @@ Seaspray Town|psyduck,wingull,pelipper
 
 Seaspray Dam|pikachu,pichu,electrike,growlithe,raichu,manectric,buizel,wingull
 
---Geminite Village|rp_2|rival|Percy
+--Geminite Village|rp_1|rival|Percy
 
 Mt. Stratus|zubat,phanpy,abra,geodude,aron,sableye,snorunt,lairon,graveler,golbat,gabite,shuppet,banette,seel,dewgong,seadra,absol,bagon
 
@@ -49,7 +45,7 @@ Geminite River|buizel,joltik,skorupi,taillow,gible,ditto,psyduck
 Icebound Chasm|snorunt,sneasel,swinub,delibird,slowpoke,marill,goldeen
 Northcoast Town
 
---Northcoast Town Gym|rp_3|rival|Percy
+--Northcoast Town Gym|rp_2|rival|Percy
 --Northcoast Town Gym|5|gym-leader|Irene
 
 Blizzard Slopes|sneasel,snorunt,smoochum,furret,delibird,slowpoke,lapras
@@ -87,7 +83,7 @@ Darkwood Grotto|zubat,mankey,machop,mienfoo,machoke,primeape,slowpoke,chinchou,l
 Darkwood Town|magikarp
 
 --Cameron's Dojo|mb_2|mini-boss|Cameron (optional)
---Darkwood Town|rp_4|rival|Percy
+--Darkwood Town|rp_3|rival|Percy
 --Darkwood Town Gym|8|gym-leader|Tyson
 
 Loxsly Channel|poochyena,zigzagoon,wingull,tentacool,pelipper

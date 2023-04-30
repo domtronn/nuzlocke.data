@@ -1,5 +1,3 @@
-### DEV ###
-
 # https://docs.google.com/spreadsheets/d/1RRQsEP_DuY5MJQ9X1pRrogZ9Epy3SBQhSK5Q9q1jDLg/edit#gid=1379245805
 
 --ability

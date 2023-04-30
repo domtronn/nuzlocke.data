@@ -1,0 +1,133 @@
+Starter|rattata,sentret,zigzagoon
+Route 1|rattata,sentret,zigzagoon,wurmple,poochyena
+Viridian City|seel,wingull,wooper,marill,totodile,mudkip,squirtle,slowpoke
+Viridan Forest|wurmple,caterpie,weedle,spinarak,ledyba,illumise,volbeat,pinsir,heracross
+Route 22|bellsprout,oddish,girafarig,hoppip,lotad,treecko,chikorita,seedot,bulbasaur
+Route 2|taillow,hoothoot,pidgey,yanma,natu,swablu,doduo,farfetchd,skarmory
+Pewter City|houndour,growlithe,slugma,solrock,ponyta,numel,charmander,cyndaquil,torchic,vulpix
+
+--Pewter City Gym|1_a|mini-boss|Brock
+--Pewter City Gym|1_b|mini-boss|Roxanne
+--Pewter City Gym|1_c|gym-leader|Gym Laeder Joey
+
+Route 3|igglybuff,cleffa,elekid,magby,azurill,togepi,pichu,wynaut,tyrogue,smoochum
+
+Mt. Moon|geodude,shuckle,solrock,aron,lunatone,nosepass,onix,pineco,larvitar,corsola,clefairy,zubat,paras
+
+Route 4|phanpy,diglett,sandshrew,cacnea,rhyhorn,geodude,cubone,miltank,baltoy,nincada
+Cerulean City|snorunt,whismur,sneasel,swinub,delibird,seel,smoochum,spheal,makuhita
+
+--Cerulean City Gym|2_a|mini-boss|Misty
+--Cerulean City Gym|2_b|mini-boss|Brawly
+--Cerulean City Gym|2_c|gym-leader|Gym Leaders Duff & Eda
+
+Route 24|ekans,spinarak,grimer,nidoran-f,nidoran-m,seviper,gligar,gulpin,roselia,tentacool,wailmer,wingull,feebas,magikarp,staryu,wooper,golduck,clamperl,barboach,relicanth,mantine
+
+--Route 24|r2|rival|Rival
+
+Route 25|lickitung,teddiursa,smeargle,spinda,kecleon,zigzagoon,meowth,chansey,eevee
+Route 5|plusle,minun,mareep,electrike,voltorb,magnemite,porygon
+Route 6|cacnea,trapinch,skitty,solrock,lunatone,pidgey,scyther,porygon,gulpin,torkoal,slowpoke,golduck,staryu,seel,dratini,magikarp,feebas,clamperl,marill,wailmer,luvdisc,poliwag,carvanha
+Vermilion City|paras,nincada,wurmple,anorith,surskit,scyther,trapinch,venonat,heracross,pinsir,golduck,staryu,clamperl,gyarados,magikarp,feebas,slowpoke,goldeen,barboach,krabby,shellder,wooper,mantine
+
+--S.S. Anne|r3|rival|Rival
+
+
+--Vermillion City Gym|3_a|mini-boss|Lt. Surge
+--Vermillion City Gym|3_b|mini-boss|Wattson
+--Vermillion City Gym|3_c|gym-leader|Gym Leader Franklin
+
+Long Cave|mankey,bellsprout,hoppip,chinchou,trapinch,kecleon,phanpy,aipom
+Route 11|meditite,farfetchd,mankey,machop,phanpy,taillow,aipom,shroomish,absol,makuhita
+Route 9|unown,meditite,abra,drowzee,spoink,exeggcute,mr-mime,chimecho,ralts,girafarig,beldum
+Route 10|ditto,sunkern,gastly,seedot,lotad,koffing,shuppet,duskull,sableye,murkrow,wingull,spearow,barboach,horsea,seel,clamperl,wooper,tentacool,staryu,chinchou,goldeen,wailmer,mantine
+Power Plant|rattata,pineco,voltorb,meowth,shroomish,sableye,corphish,duskull,bagon,seviper
+
+Rock Tunnel|omanyte,kabuto,lileep,anorith,sudowoodo,onix,aerodactyl,aron,nosepass,larvitar,zubat,mankey,machop,geodude
+
+Lavender Town|mr-mime,diglett,cacnea,scyther,corsola,zubat,venonat,snorunt,snorlax,tropius
+Gift House|bulbasaur,charmander,squirtle,chikorita,cyndaquil,totodile,treecko,torchic,mudkip
+
+Route 8|nidoran-f,nidoran-m,rattata,pineco,eevee,meowth,sentret,dunsparce,beldum
+Route 7|ponyta,slugma,oddish,sunkern,torkoal,numel,gulpin,taillow,wobbuffet,magmar
+Celadon City|stantler,mawile,snubbull,ralts,clefairy,jigglypuff,spoink,misdreavus,skitty,swablu,mantine,chinchou,wailmer,horsea,poliwag,luvdisc,golduck,tentacruel,corphish,relicanth,staryu,gyarados,lapras
+
+
+--Celadon City Gym|4_a|mini-boss|Erika
+--Celadon City Gym|4_b|mini-boss|Flannery
+--Celadon City Gym|4_c|gym-leader|Gym Leader Charles
+
+Pokémon Tower|gastly,shuppet,cubone,skitty,wynaut,corsola,misdreavus,shuckle,banette,duskull
+--Pokémon Tower|r4|rival|Rival
+
+Route 12|oddish,bellsprout,paras,sneasel,tangela,exeggcute,jynx,makuhita,whismur,spinda
+Route 13|slugma,seedot,skarmory,shuppet,kecleon,pikachu,machop,teddiursa,sudowoodo,taillow
+
+Route 14|roselia,houndour,tangela,mareep,sentret,weedle,mankey,absol,bagon,beldum,larvitar
+Route 15|electrike,whismur,growlithe,venonat,pineco,poochyena,eevee,doduo,dunsparce,tauros
+
+Fuchsia City|zubat,whismur,solrock,lunatone,clefairy,jigglypuff,snubbull,swablu,beldum,larvitar
+Safari zone|larvitar,beldum,dratini,bagon,slakoth,zubat,growlithe,swablu,nidoran-f,nidorina,nidoran-m,nidorino,parasect,venonat,psyduck,poliwag,slowpoke,exeggcute,rhyhorn,chansey,goldeen,seaking,scyther,pinsir,magikarp,dragonair
+
+--Fuschia City Gym|5_a|mini-boss|Koga
+--Fuschia City Gym|5_b|mini-boss|Norman
+--Fuschia City Gym|5_c|gym-leader|Gym Leader AAAAAAAHHH
+
+--Silph Co|r5|rival|Rival
+
+Saffron City|oddish,seedot,mankey,machop,cacnea,electrike,tropius,dunsparce,whismur,nincada
+Route 16|mawile,cubone,sandshrew,onix,slugma,gligar,abra,numel,skarmory,zigzagoon
+Route 17|stantler,snubbull,onix,geodude,heracross,nincada,delibird,doduo,hoothoot,pinsir
+Route 18|unown,sunkern,ledyba,mareep,hoppip,sandshrew,tauros,doduo,pidgey,lotad
+
+
+
+--Saffron City Gym|6_a|mini-boss|Sabrina
+--Saffron City Gym|6_b|mini-boss|Winona
+--Saffron City Gym|6_c|gym-leader|Gym Leader Bob
+
+Route 19|seaking,starmie,seadra,magikarp,wooper,barboach,clamperl,chinchou,goldeen,tentacool,staryu,dratini
+Route 20|corphish,krabby,seadra,lapras,goldeen
+Route 21|voltorb,spinda,swinub,spinarak,hoppip,lotad,natu,sunkern,duskull,baltoy,seaking,remoraid,qwilfish,chinchou,lapras
+Seafom Islands|magnemite,aipom,dunsparce,zangoose,tauros,onix,bagon,larvitar,dratini,snorlax,shuckle
+Pokémon Mansion|torkoal,slugma,octillery,koffing,vulpix,rhyhorn,zubat,miltank,slakoth,kangaskhan
+Cinnabar Island|murkrow,drowzee,seviper,zangoose,electabuzz,magmar,tropius,dunsparce,snorlax,slakoth,staryu,marill,lapras,dratini
+
+--Cinnabar City Gym|7_a|mini-boss|Blaine
+--Cinnabar City Gym|7_b|mini-boss|Tate & Liza
+--Cinnabar City Gym|7_c|gym-leader|Gym Leader Deidara
+
+
+--Viridian City Gym|8_a|mini-boss|Giovanni
+--Viridian City Gym|8_b|mini-boss|Wallace
+--Viridian City Gym|8_c|gym-leader|Gym Leader Eevolove
+--Viridian City Gym|r6|rival|Rival
+
+Route 23|krabby,poochyena,zigzagoon,skitty,trapinch,spinarak,porygon,cubone,grimer,paras
+Victory Road|aron,onix,snorlax,dunsparce,slakoth,pineco,bagon,larvitar,dratini,beldum,arbok,sandslash,zubat,golbat,primeape,machop,machoke,geodude,marowak,moltres
+
+--Victory Road (left)|mb_1|mini-boss|Brock
+--Victory Road (left)|mb_2|mini-boss|Misty
+--Victory Road (left)|mb_3|mini-boss|Lt. Surge
+--Victory Road (left)|mb_4|mini-boss|Erika
+--Victory Road (left)|mb_5|mini-boss|Koga
+--Victory Road (left)|mb_6|mini-boss|Sabrina
+--Victory Road (left)|mb_7|mini-boss|Blaine
+--Victory Road (left)|mb_8|mini-boss|Giovanni
+
+--Victory Road (right)|mb_9|mini-boss|Roxanne
+--Victory Road (right)|mb_10|mini-boss|Brawly
+--Victory Road (right)|mb_11|mini-boss|Wattson
+--Victory Road (right)|mb_12|mini-boss|Flannery
+--Victory Road (right)|mb_13|mini-boss|Norman
+--Victory Road (right)|mb_14|mini-boss|Winona
+--Victory Road (right)|mb_15|mini-boss|Tate & Liza
+--Victory Road (right)|mb_16|mini-boss|Wallace
+
+Indigo Plateau|houndour,numel,vulpix,growlithe,slugma,magmar,torchic,cyndaquil,charmander,torkoal
+
+--Indigo Plateau|e1|elite-four|Lorelei
+--Indigo Plateau|e2|elite-four|Bruno
+--Indigo Plateau|e3|elite-four|Agatha
+--Indigo Plateau|e4|elite-four|Lance
+--Champion|ec|elite-four|Rival
