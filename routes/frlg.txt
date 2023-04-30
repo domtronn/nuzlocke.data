@@ -43,7 +43,7 @@ Route 17|rattata,raticate,spearow,fearow,doduo
 Route 18|rattata,raticate,spearow,fearow,doduo
 Fuschia City|magikarp,poliwag,goldeen,psyduck,seaking,gyarados,slowpoke
 --Fuschia City Gym|5|gym-leader|Koga
-Safari Zone|nidoran♀,nidorina,nidoran♂,nidorino,parasect,venonat,psyduck,poliwag,slowpoke,exeggcute,rhyhorn,chansey,goldeen,seaking,scyther,pinsir,magikarp,dratini,dragonair
+Safari Zone|nidoran-f,nidorina,nidoran-m,nidorino,parasect,venonat,psyduck,poliwag,slowpoke,exeggcute,rhyhorn,chansey,goldeen,seaking,scyther,pinsir,magikarp,dratini,dragonair
 Route 15|pidgey,pidgeotto,oddish,gloom,venonat,bellsprout,weepinbell,ditto
 Route 14|pidgey,pidgeotto,oddish,gloom,venonat,bellsprout,weepinbell,ditto
 Route 13|pidgey,pidgeotto,oddish,gloom,venonat,psyduck,bellsprout,weepinbell,tentacool,slowpoke,krabby,horsea,magikarp,gyarados,ditto
