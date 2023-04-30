@@ -7,7 +7,7 @@ Cherrygrove City|marill,azumarill,magikarp,krabby,corphish,finneon,lumineon,king
 Route 30|ledyba,taillow,lotad,seedot,caterpie,weedle,kricketot,surskit,ralts,metapod,kakuna,spinarak,hoothoot,lombre,nuzleaf,poliwag,poliwhirl,goldeen,psyduck,seaking,golduck
 Route 31|ledyba,bellsprout,buizel,shinx,abra,natu,exeggcute,psyduck,metapod,kakuna,butterfree,beedrill,wurmple,budew,silcoon,cascoon,spinarak,beautifly,dustox,marill,surskit,masquerain,tentacool,slowpoke,feebas,tentacruel,slowbro
 Dark Cave|geodude,zubat,bronzor,makuhita,sandshrew,teddiursa,slugma,larvitar,dunsparce,chingling,wynaut,golbat,shellos,wooper,gastrodon,goldeen,barboach,quagsire,seaking,whiscash,nosepass,graveler,wobbuffet,ursaring,golem
-Violet City|poliwag,poliwhirl,magikarp,staryu,whiscash,chinchou,lanturn
+Violet City|charmander,squirtle,bulbasaur,poliwag,poliwhirl,magikarp,staryu,whiscash,chinchou,lanturn
 --Violet City Gym|1|gym-leader|Falkner
 Sprout Tower|zigzagoon,rattata,pidgey,bidoof,starly,meditite,spinda,chatot,gastly,bellsprout,glameow,stunky,drifloon,bibarel,linoone
 Route 32|mareep,bellsprout,nincada,hoppip,magnemite,ekans,pachirisu,wooper,drifloon,flaaffy,magneton,tentacool,quagsire,tentacruel,psyduck,qwilfish,golduck

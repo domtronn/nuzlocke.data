@@ -7,7 +7,7 @@ Cherrygrove City|marill,azumarill,magikarp,krabby,corphish,finneon,lumineon,king
 Route 30|ledyba,taillow,lotad,seedot,caterpie,weedle,kricketot,surskit,ralts,metapod,kakuna,spinarak,hoothoot,lombre,nuzleaf,poliwag,poliwhirl,goldeen,psyduck,seaking,golduck
 Route 31|ledyba,bellsprout,buizel,shinx,abra,natu,exeggcute,psyduck,metapod,kakuna,butterfree,beedrill,wurmple,budew,silcoon,cascoon,spinarak,beautifly,dustox,marill,surskit,masquerain,tentacool,slowpoke,feebas,tentacruel,slowbro
 Dark Cave|geodude,zubat,bronzor,makuhita,sandshrew,teddiursa,slugma,larvitar,dunsparce,chingling,wynaut,golbat,shellos,wooper,gastrodon,goldeen,barboach,quagsire,seaking,whiscash,nosepass,graveler,wobbuffet,ursaring,golem
-Violet City|poliwag,poliwhirl,magikarp,staryu,whiscash,chinchou,lanturn
+Violet City|charmander,squirtle,bulbasaur,poliwag,poliwhirl,magikarp,staryu,whiscash,chinchou,lanturn,
 --Violet City Gym|1|gym-leader|Falkner
 Sprout Tower|zigzagoon,rattata,pidgey,bidoof,starly,meditite,spinda,chatot,gastly,bellsprout,glameow,stunky,drifloon,bibarel,linoone
 Route 32|mareep,bellsprout,nincada,hoppip,magnemite,ekans,pachirisu,wooper,drifloon,flaaffy,magneton,tentacool,quagsire,tentacruel,psyduck,qwilfish,golduck
@@ -22,9 +22,9 @@ Slowpoke Well|zubat,slowpoke,gastly,shellos,shellder,swinub,snorunt,bronzor,slow
 Ilex Forest|shroomish,ledyba,pineco,exeggcute,buneary,budew,pikachu,butterfree,beedrill,roselia,wurmple,beautifly,dustox,paras,spinarak,oddish,venonat,murkrow,misdreavus,carnivine,psyduck,golduck,magikarp,poliwag,poliwhirl,gyarados,poliwrath,politoed,gloom,venomoth,pichu
 Route 34|drowzee,gulpin,electrike,bonsly,mime-jr,abra,ditto,snubbull,kadabra,tentacool,tentacruel,goldeen,chinchou,staryu,seaking,lanturn,starmie,manectric,hypno,ralts,kirlia
 Goldenrod City|turtwig,piplup,chimchar
+--Goldenrod City Gym|3|gym-leader|Whitney
 --Goldenrod Tunnel|ethan|rival|Ethan
 --Goldenrod Tunnel|lyra|rival|Lyra
---Goldenrod City Gym|3|gym-leader|Whitney
 Route 35|nidoran-m,nidoran-f,pidgeotto,stunky,glameow,staravia,illumise,volbeat,ditto,yanma,meowth,noctowl,psyduck,golduck,magikarp,luvdisc,gyarados,skuntank,purugly,volbeat
 National Park|metapod,kakuna,combee,taillow,nincada,burmy,scyther,pinsir,heracross,kricketune,sunkern,poochyena,butterfree,beedrill,scyther,heracross
 Route 36|growlithe,vulpix,combee,plusle,minun,nidorino,nidorina,staravia,stantler,noctowl,vespiquen,bonsly,mime-jr
@@ -33,7 +33,6 @@ Ecruteak City|castform,poliwag,poliwhirl,magikarp,gyarados
 Burned Tower|rattata,koffing,zigzagoon,cubone,magby,grimer,duskull,shuppet,raticate,marowak,chimecho,linoone,weezing,magmar
 --Burned Tower|rn2|rival|Silver
 Bell Tower|rattata,zigzagoon,golbat,gastly,shuppet,duskull,haunter,linoone,raticate,ditto,dusclops,banette,swablu,natu,bronzor,altaria,xatu,claydol,solrock,bronzong,lunatone,gengar
---Ecruteak City Dance Hall|kimono||Kimono Girls
 --Ecruteak City Gym|4|gym-leader|Morty
 Route 38|doduo,luxio,magnemite,mankey,voltorb,elekid,farfetchd,miltank,tauros,cherubi,meowth,skitty,dodrio,electabuzz
 Route 39|raticate,ponyta,elekid,mankey,voltorb,cherubi,farfetchd,miltank,tauros,pidgeotto,meowth,skitty,rapidash,primeape
@@ -56,8 +55,8 @@ Route 42|flaaffy,fearow,hippopotas,cacnea,arbok,sandslash,munchlax,trapinch,golb
 Mt. Mortar|graveler,golbat,rhyhorn,lairon,meditite,marill,marill,azumarill,rhydon,medicham,azurill,lunatone,goldeen,barboach,seaking,whiscash,marill,hariyama,clefairy,solrock,lunatone,cleffa,golem,clefable,machoke,metang,pupitar,riolu
 Rocket Hideout
 Lake of Rage|magikarp,feebas,gyarados,milotic
---Rocket Hideout|petrel2|evil-team|Executive Petrel
 --Rocket Hideout|ariana2|evil-team|Executive Ariana
+--Rocket Hideout|petrel2|evil-team|Executive Petrel
 Route 43|pidgeotto,girafarig,exeggcute,kirlia,swablu,bibarel,linoone,manectric,venomoth,altaria,happiny,chansey,slowpoke,magikarp,gyarados
 Mahogany Town|riolu
 --Mahogany Town Gym|7|gym-leader|Pryce
@@ -66,7 +65,7 @@ Mahogany Town|riolu
 --Goldenrod Radio Tower|ariana3|evil-team|Executive Ariana
 --Goldenrod Radio Tower|archer2|evil-team|Executive Archer
 --Goldenrod Radio Tower|evg|evil-team|Rocket Boss Giovanni
---Goldenrod Underground|r1|Silver
+--Goldenrod Underground|r1|rival|Silver
 Route 44|tangela,lickitung,butterfree,beedrill,beautifly,skiploom,nuzleaf,cherrim,altaria,vespiquen,dustox,venomoth,snover,remoraid,tangrowth,lickilicky,combee,lombre,lotad,poliwag,poliwhirl,magikarp,gyarados,octillery
 Ice Path
 Blackthorn City|magikarp,dratini
@@ -76,6 +75,7 @@ Route 45|graveler,grumpig,donphan,camerupt,torkoal,gligar,vibrava,skarmory,glisc
 Route 27|doduo,skiploom,ponyta,dodrio,rapidash,sandslash,arbok,wooper,houndour,quagsire,jumpluff,grumpig,feebas,buizel,floatzel,luvdisc
 Tohjo Falls|raticate,azumarill,slowbro,dewgong,golbat,bronzong,quagsire,crobat,azurill,chingling,goldeen,slowpoke,seaking,magikarp,gyarados
 Route 26|dodrio,skiploom,rapidash,magneton,kangaskhan,sandslash,arbok,quagsire,houndoom,jumpluff,granbull,buizel,floatzel,luvdisc,lanturn,tentacruel
+--Ecruteak City Dance Hall|kimono||Kimono Girls
 Victory Road|golbat,graveler,rhydon,ursaring,donphan,marowak,steelix,bronzong,crobat,golem,chimecho,machoke,hariyama,lairon,loudred,medicham,magneton,venomoth,kadabra,exploud,aggron,mawile,sableye,gabite,metang,nosepass,alakazam
 --Victory Road|r2|rival|Silver
 Indigo Plateau
