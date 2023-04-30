@@ -45,6 +45,7 @@ Vermillion City|arrokuda,finneon,frillish,shellder,krabby,luvdisc,alomomola,sead
 
 Digletts Cave|diglett,stunfisk,silicobra,wooper,sandshrew,drilbur,gligar,dugtrio,hippopotas,diglett-alola,stunfisk-galar,phanpy,shellos,sandile,dugtrio-alola,machop,numel,yamask,geodude,trapinch,bronzor,nosepass,noibat,pancham,yamask-galar,geodude-alola
 
+S.S. Anne|wimpod,finneon
 --S.S. Anne|b2|rival|Brendan
 
 Route 11|krabby,horsea,shellder,frillish,relicanth,luvdisc,alomomola,seadra,gyarados,stufful,ducklett,drowzee,baltoy,maractus,bunnelby,scraggy,sandygast,sigilyph,pancham,cacnea,golett,floette-eternal
