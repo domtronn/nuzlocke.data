@@ -122,7 +122,7 @@ White Forest|pidgey,nidoran-f,nidoran-m,oddish,abra,machop,bellsprout,magnemite,
 --Pokémon League NE Room (Round 2)|e7|elite-four|Caitlin
 --Pokémon League E Room (Round 2)|e8|elite-four|Marshal
 --Pokémon League Champion|ch2|elite-four|Alder
- 
+
 Route 15|throh,sawk,tyrogue,graveler,gabite,pupitar,kangaskhan,marowak,machoke,gurdurr,gligar,donphan,ursaring,audino,emolga,tyranitar,gliscor,machamp,conkeldurr,groudon
 Marvelous Bridge|swanna,pelipper,altaria,fearow,skiploom,rayquaza
 
