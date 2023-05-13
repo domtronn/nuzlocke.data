@@ -8,8 +8,9 @@ Route 30|weedle,kakuna,pidgey,rattata,poliwag,poliwhirl,exeggcute,magikarp,hooth
 Route 31|weedle,kakuna,pidgey,rattata,poliwag,poliwhirl,bellsprout,exeggcute,magikarp,hoothoot,ledyba,pineco,linoone,whismur,bidoof,buizel
 Dark Cave|zubat,geodude,goldeen,seaking,magikarp,dunsparce,makuhita,absol,chingling,bronzor
 Violet City|poliwag,poliwhirl,onix,exeggcute,magikarp,hoothoot,pineco,whiscash
---Violet City Gym|1|gym-leader|Falkner
 Sprout Tower|rattata,gastly,zigzagoon,meditite,spinda,chatot
+--Sprout Tower|li|mini-boss|Elder Li
+--Violet City Gym|1|gym-leader|Falkner
 Route 32|rattata,ekans,zubat,bellsprout,tentacool,tentacruel,exeggcute,magikarp,hoothoot,mareep,hoppip,wooper,quagsire,pineco,qwilfish,linoone,whismur,bidoof,buizel
 Ruins of Alph|poliwag,geodude,magikarp,natu,wooper,quagsire,smeargle,linoone,whismur,bidoof,buizel
 Union Cave|rattata,raticate,zubat,golbat,tentacool,tentacruel,geodude,onix,lapras,quagsire,makuhita,absol,chingling,bronzor
@@ -39,7 +40,7 @@ Route 40|tentacool,tentacruel
 Route 41|tentacool,tentacruel,shellder,magikarp,chinchou,lanturn
 Whirl Islands|zubat,golbat,seel,krabby,lugia,makuhita,absol,chingling,bronzor
 Cianwood City|tentacool,tentacruel,krabby,shuckle
---Suicune Encounter|eusine|rival|Eusine
+--Suicune Encounter|eusine|mini-boss|Eusine
 --Cianwood City Gym|5|gym-leader|Chuck
 --Olivine City Gym|6|gym-leader|Jasmine
 Cliff Edge Gate|poliwag,magikarp,wooper,quagsire
@@ -70,6 +71,7 @@ Route 45|spearow,poliwag,geodude,graveler,magikarp,aipom,heracross,teddiursa,ska
 Route 27|pidgey,rattata,exeggcute,sentret,hoothoot,ledyba,pineco,plusle,minun,shinx
 Tohjo Falls|rattata,raticate,zubat,golbat,slowpoke,goldeen,seaking,magikarp,makuhita,absol,chingling,bronzor
 Route 26|rattata,ekans,zubat,bellsprout,tentacool,tentacruel,exeggcute,magikarp,hoothoot,mareep,hoppip,wooper,quagsire,pineco,qwilfish,linoone,whismur,bidoof,buizel
+--Ecruteak City Dance Hall|kimono|mini-boss|Kimono Girls
 Victory Road|golbat,geodude,graveler,onix,rhyhorn,ursaring,donphan
 --Victory Road|r5|rival|Silver
 Indigo Plateau|

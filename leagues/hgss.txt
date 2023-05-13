@@ -37,11 +37,26 @@ arbok|32|wrap,poison-sting,crunch,glare|intimidate||
 vileplume|32|sweet-scent,mega-drain,acid,sleep-powder|chlorophyll||
 murkrow|32|night-shade,wing-attack,astonish,pursuit|super-luck||
 
-# Rival fights
+# Mini Bosses
+
 --eusine|Eusine||/leaders/gs-eusine
 drowzee|25|hypnosis,disable,confusion,dream-eater|insomnia
 haunter|25|hypnosis,lick,mean-look,curse|levitate
 electrode|27|sonic-boom,rollout,screech,thunder|static
+
+--li|Elder Li||/leaders/gs-elderli
+bellsprout|7|vine-whip,growth|chlorophyll
+bellsprout|7|vine-whip,growth|chlorophyll
+hoothoot|10|growl,hypnosis,peck|insomnia
+
+--kimono|Kimono Girls||/leaders/gs-kimono
+umbreon|38|dark-pulse,shadow-ball,confuse-ray,last-resort|synchronize
+espeon|38|psychic,swift,psych-up,last-resort|synchronize
+flareon|38|fire-blast,will-o-wisp,quick-attack,last-resort|flash-fire
+jolteon|38|thunderbolt,thunder-wave,double-team,last-resort|volt-absorb
+vaporeon|38|surf,aurora-beam,quick-attack,last-resort|water-absorb
+
+# Rival fights
 
 --r1|Silver||/leaders/gs-silver
 cyndaquil|5|tackle,leer|blaze||grass

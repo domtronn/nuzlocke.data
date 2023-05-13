@@ -1,8 +1,13 @@
 # https://drive.google.com/file/d/1UQij-NGr2RpXXu7VNWJUIjtwtWBHxLfb/view
 
-
 # Other
---kimono|Kimono Girls||
+--li|Elder Li||/leaders/gs-elderli
+bellsprout|12|cut,razor-leaf,growth,wrap|gluttony
+cherubi|12|flash,leech-seed,magical-leaf,morning-sun|chlorophyll
+chingling|12|flash,confusion,uproar,astonish|levitate
+hoothoot|14|confusion,aerial-ace,hypnosis,agility|
+
+--kimono|Kimono Girls||/leaders/gs-kimono
 umbreon|50|toxic,confuse-ray,protect,dark-pulse|synchronize|
 espeon|50|morning-sun,psychic,shadow-ball,grass-knot|synchronize|
 leafeon|50|leaf-blade,x-scissor,swords-dance,synthesis|leaf-guard|

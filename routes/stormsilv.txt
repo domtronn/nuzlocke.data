@@ -10,6 +10,7 @@ Dark Cave|geodude,zubat,bronzor,makuhita,sandshrew,teddiursa,slugma,larvitar,dun
 Violet City|charmander,squirtle,bulbasaur,poliwag,poliwhirl,magikarp,staryu,whiscash,chinchou,lanturn,
 --Violet City Gym|1|gym-leader|Falkner
 Sprout Tower|zigzagoon,rattata,pidgey,bidoof,starly,meditite,spinda,chatot,gastly,bellsprout,glameow,stunky,drifloon,bibarel,linoone
+--Sprout Tower|li|mini-boss|Elder Li
 Route 32|mareep,bellsprout,nincada,hoppip,magnemite,ekans,pachirisu,wooper,drifloon,flaaffy,magneton,tentacool,quagsire,tentacruel,psyduck,qwilfish,golduck
 Ruins of Alph|natu,smeargle,girafarig,geodude,nosepass,xatu,togepi,wooper,quagsire,magikarp,remoraid,dratini,dragonair,gyarados,relicanth,octillery
 Union Cave|zubat,sandshrew,geodude,whismur,makuhita,machop,aron,cubone,wooper,shellos,quagsire,gastrodon,magikarp,goldeen,barboach,gyarados,seaking,whiscash,sandslash,loudred,gible,bronzor,onix,bagon,golbat,steelix,graveler,sableye,machoke,mawile,lickitung,kangaskhan,lickilicky,exploud,lapras
@@ -41,7 +42,7 @@ Whirl Islands|krabby,seel,psyduck,spheal,golbat,shellder,kingler,dewgong,staryu,
 Route 40|wingull,tentacool,pelipper,tentacruel,phione,magikarp,staryu,finneon,corsola,lumineon
 Route 41|wingull,mantyke,mantine,tentacruel,phione,magikarp,tentacool,horsea,wailmer,chinchou,corsola,seadra,lanturn,wailord
 Cianwood City|shuckle,kingler,wingull,tentacool,pelipper,tentacruel,magikarp,carvanha,clamperl,sharpedo
---Suicune Encounter|eusine||Eusine
+--Suicune Encounter|eusine|mini-boss|Eusine
 --Cianwood City Gym|5|gym-leader|Chuck
 --Olivine City Gym|6|gym-leader|Jasmine
 Route 47|farfetchd,ditto,miltank,gloom,weepinbell,fearow,raticate,swellow,venomoth,noctowl,bellossom,victreebel,yanma,altaria,wingull,seel,spheal,magikarp,tentacool,shellder,chinchou,tentacruel,lanturn
@@ -75,7 +76,7 @@ Route 45|graveler,grumpig,donphan,camerupt,torkoal,gligar,vibrava,skarmory,glisc
 Route 27|doduo,skiploom,ponyta,dodrio,rapidash,sandslash,arbok,wooper,houndour,quagsire,jumpluff,grumpig,feebas,buizel,floatzel,luvdisc
 Tohjo Falls|raticate,azumarill,slowbro,dewgong,golbat,bronzong,quagsire,crobat,azurill,chingling,goldeen,slowpoke,seaking,magikarp,gyarados
 Route 26|dodrio,skiploom,rapidash,magneton,kangaskhan,sandslash,arbok,quagsire,houndoom,jumpluff,granbull,buizel,floatzel,luvdisc,lanturn,tentacruel
---Ecruteak City Dance Hall|kimono||Kimono Girls
+--Ecruteak City Dance Hall|kimono|mini-boss|Kimono Girls
 Victory Road|golbat,graveler,rhydon,ursaring,donphan,marowak,steelix,bronzong,crobat,golem,chimecho,machoke,hariyama,lairon,loudred,medicham,magneton,venomoth,kadabra,exploud,aggron,mawile,sableye,gabite,metang,nosepass,alakazam
 --Victory Road|r2|rival|Silver
 Indigo Plateau
