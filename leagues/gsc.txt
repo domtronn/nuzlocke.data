@@ -144,7 +144,7 @@ crobat|44|wing-attack,double-team,quick-attack,toxic|||
 
 --e3|Bruno|fighting|/leaders/gs-bruno
 hitmontop|42|quick-attack,dig,detect,pursuit|||
-hitmonchan|42|ice-punch,fire-punch,ice-punch,mach-punch|||
+hitmonchan|42|ice-punch,fire-punch,thunder-punch,mach-punch|||
 hitmonlee|42|double-kick,foresight,high-jump-kick,swagger|||
 onix|43|rock-slide,sandstorm,earthquake,bind|||
 machamp|46|rock-slide,foresight,cross-chop,vital-throw|||

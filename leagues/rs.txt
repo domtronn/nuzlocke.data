@@ -8,7 +8,7 @@ numel|20|tackle,growl,ember,magnitude|oblivious
 numel|28|tackle,focus-energy,ember,magnitude|oblivious
 mightyena|28|bite,odor-sleuth,roar,swagger|intimidate
 
---ruby3|Tabitha||/leaders/rs-courtney
+--ruby3|Tabitha||/leaders/rs-tabitha
 numel|32|take-down,focus-energy,amnesia,magnitude|oblivious
 mightyena|32|bite,scary-face,roar,swagger|intimidate
 camerupt|32|take-down,focus-energy,amnesia,magnitude|magma-armor
@@ -22,16 +22,16 @@ carvanha|20|bite,focus-energy,rage,scary-face|rough-skin
 poochyena|20|tackle,howl,odor-sleuth,bite|run-away
 carvanha|20|bite,focus-energy,rage,scary-face|rough-skin
 
---saph2|Shelly||/leaders/rs-courtney
+--saph2|Shelly||/leaders/rs-shelly
 carvanha|28|crunch,screech,focus-energy,scary-face|rough-skin
 mightyena|28|bite,odor-sleuth,roar,swagger|intimidate
 
---saph3|Matt||/leaders/rs-courtney
+--saph3|Matt||/leaders/rs-matt
 carvanha|32|bite,focus-energy,scary-face,rage|rough-skin
 mightyena|32|bite,odor-sleuth,scary-face,swagger|intimidate
 sharpedo|32|bite,focus-energy,scary-face,rage|rough-skin
 
---saph4|Shelly||/leaders/rs-courtney
+--saph4|Shelly||/leaders/rs-shelly
 mightyena|38|take-down,scary-face,roar,swagger|intimidate
 sharpedo|38|crunch,taunt,screech,slash|rough-skin
 

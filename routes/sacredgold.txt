@@ -8,9 +8,9 @@ Route 30|ledyba,taillow,lotad,seedot,caterpie,weedle,kricketot,surskit,ralts,met
 Route 31|ledyba,bellsprout,buizel,shinx,abra,natu,exeggcute,psyduck,metapod,kakuna,butterfree,beedrill,wurmple,budew,silcoon,cascoon,spinarak,beautifly,dustox,marill,surskit,masquerain,tentacool,slowpoke,feebas,tentacruel,slowbro
 Dark Cave|geodude,zubat,bronzor,makuhita,sandshrew,teddiursa,slugma,larvitar,dunsparce,chingling,wynaut,golbat,shellos,wooper,gastrodon,goldeen,barboach,quagsire,seaking,whiscash,nosepass,graveler,wobbuffet,ursaring,golem
 Violet City|charmander,squirtle,bulbasaur,poliwag,poliwhirl,magikarp,staryu,whiscash,chinchou,lanturn
---Violet City Gym|1|gym-leader|Falkner
 Sprout Tower|zigzagoon,rattata,pidgey,bidoof,starly,meditite,spinda,chatot,gastly,bellsprout,glameow,stunky,drifloon,bibarel,linoone
 --Sprout Tower|li|mini-boss|Elder Li
+--Violet City Gym|1|gym-leader|Falkner
 Route 32|mareep,bellsprout,nincada,hoppip,magnemite,ekans,pachirisu,wooper,drifloon,flaaffy,magneton,tentacool,quagsire,tentacruel,psyduck,qwilfish,golduck
 Ruins of Alph|natu,smeargle,girafarig,geodude,nosepass,xatu,togepi,wooper,quagsire,magikarp,remoraid,dratini,dragonair,gyarados,relicanth,octillery
 Union Cave|zubat,sandshrew,geodude,whismur,makuhita,machop,aron,cubone,wooper,shellos,quagsire,gastrodon,magikarp,goldeen,barboach,gyarados,seaking,whiscash,sandslash,loudred,gible,bronzor,onix,bagon,golbat,steelix,graveler,sableye,machoke,mawile,lickitung,kangaskhan,lickilicky,exploud,lapras
