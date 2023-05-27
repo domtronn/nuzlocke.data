@@ -19,7 +19,7 @@ Route 25|caterpie,metapod,weedle,kakuna,pidgey,psyduck,poliwag,abra,bellsprout,k
 Route 5|pidgey,nidoranf,meowth,bellsprout
 Route 6|pidgey,meowth,poliwag,bellsprout,shellder,krabby,goldeen,magikarp
 Vermillion City|poliwag,shellder,krabby,goldeen,magikarp
---S.S. Anne|r3|rival|Blue
+--S.S. Anne|r4|rival|Blue
 --Vermillion City Gym|3|gym-leader|Lt. Surge
 Route 11|spearow,sandshrew,nidorina,poliwag,shellder,drowzee,krabby,goldeen,magikarp
 Diglett's Cave|diglett,dugtrio
