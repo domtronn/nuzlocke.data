@@ -39,7 +39,7 @@ Dividing Peak Tunnel|kecleon,wimpod
 Route 8|rattataalola,raticatealola,arbok,magikarp,gyarados,omanyte,kabuto,chinchou,lanturn,remoraid,octillery,combusken,lileep,anorith,cranidos,shieldon,tirtouga,archen,fletchling,fletchinder,tyrunt,amaura,trumbeak,yungoos,gumshoos,crabrawler,wishiwashi,salandit,stufful,wimpod
 Fossil Restoration Center|golbat,dugtrioalola,crobat,druddigon,noivern
 Lush Jungle|caterpie,metapod,butterfree,golbat,paras,dugtrio,pinsir,hoothoot,noctowl,crobat,sudowoodo,castform,bonsly,happiny,larvesta,volcarona,goomy,trumbeak,fomantis,morelull,salandit,salazzle,steenee,comfey,passimian
---Totem Triak|5|gym-leader|Mallow's Trial
+--Totem Trial|5|gym-leader|Mallow's Trial
 Diglett's Tunnel|zubat,golbat,diglettalola,larvitar
 Route 9|magikarp,gyarados,ditto,corsola,luvdisc,wishiwashi,mareanie
 Konikoni City|ditto
