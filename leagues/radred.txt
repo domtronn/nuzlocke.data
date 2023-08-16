@@ -248,36 +248,36 @@ aggron|-2|dragon-claw,heavy-slam,earthquake,fire-punch|filter|aggronite
 # -- Done with swapping ability and item
 
 # Gym leaders
---1|Brock|rock|/leaders/frlg-brock
+--1|Brock|rock|/leaders/frlg-brock 
 geodude-alola>geodude-alola|13|spark,rock-tomb,self-destruct,bulldoze|sturdy|custap-berry
-vulpix|14|incinerate,ominous-wind,hidden-power-grass,sleep-talk|flash-fire|oran-berry
-archen|12|pluck,rock-tomb,bulldoze,roost|defeatist|oran-berry
+varoom|13|toxic,protect,gyro-ball,bulldoze|solid-rock|air-balloon
+archen|12|pluck,rock-tomb,bulldoze,facade|defeatist|berry-juice
 onix|14|rock-tomb,bulldoze,sleep-talk,|sturdy|berry-juice
 
 --2|Misty|water|/leaders/frlg-misty
 frogadier|25|ice-punch,rock-tomb,flip-turn,grass-knot|protean|eviolite
 floatzel|25|water-pulse,flip-turn,icy-wind,hidden-power-grass|technician|mystic-water
-starmie|27|scald,recover,psyshock,aurora-beam|analytic|sitrus-berry
-lanturn|25|parabolic-charge,scald,icy-wind,hidden-power-grass|volt-absorb|iapapa-berry
+starmie|27|water-pulse,recover,psyshock,aurora-beam|analytic|sitrus-berry
+clodsire|26|rock-tomb,recover,poison-jab,bulldoze|water-absorb|iapapa-berry
 
 --3|Lt. Surge|electric|/leaders/frlg-surge
-pincurchin|32|volt-switch,scald,discharge,hidden-power-grass|electric-surge|electric-seed
-raichu-alola>raichu-alola|33|psyshock,volt-switch,nasty-plot,grass-knot|surge-surfer|twisted-spoon
-vikavolt|33|volt-switch,bug-buzz,energy-ball,roost|levitate|occa-berry
-boltund|33|thunder-fang,fire-fang,ice-fang,psychic-fangs|strong-jaw|expert-belt
+pincurchin|32|volt-switch,scald,discharge,hidden-power-ice|electric-surge|terrain-extender
+raichu-alola>raichu-alola|33|psyshock,discharge,nasty-plot,grass-knot|surge-surfer|focus-sash
+bellibolt|33|parabolic-charge,muddy-water,thunder-wave,hidden-power-grass|electromorphosis|shuca-berry
+pawmot|33|drain-punch,thunder-punch,ice-punch,mach-punch|iron-fist|punching-glove
 manectric|34|charge-beam,flame-burst,volt-switch,hidden-power-grass|intimidate|manectite
 
 --4|Erika|grass|/leaders/frlg-erika
 rillaboom|43|u-turn,high-horsepower,drain-punch,grassy-glide|grassy-surge|terrain-extender
 meganium|44|giga-drain,dazzling-gleam,ancient-power,hidden-power-fire|triage|grassy-seed
-serperior|43|leaf-storm,giga-drain,dragon-pulse,hidden-power-fire|contrary|focus-sash
-electrode-hisui>electrode-hisui|44|thunderbolt,chloroblast,hidden-power-ice,explosion|reckless|life-orb
+meowscarada|43|flower-trick,knock-off,u-turn,triple-axel|protean|focus-sash
+electrode-hisui>electrode-hisui|44|thunderbolt,chloroblast,hidden-power-fire,explosion|reckless|life-orb
 venusaur|44|giga-drain,sludge-bomb,sleep-powder,earth-power|thick-fat|venusaurite
 
 --5|Sabrina|psychic|/leaders/frlg-sabrina
 hatterene|57|trick-room,expanding-force,draining-kiss,mystical-fire|magic-bounce|psychic-seed
-indeedee-female|57|expanding-force,hyper-voice,mystical-fire,shadow-ball|psychic-surge|terrain-extender
-crawdaunt|58|knock-off,liquidation,aqua-jet,brick-break|adaptability|focus-sash
+indeedee-female|59|expanding-force,hyper-voice,mystical-fire,shadow-ball|psychic-surge|terrain-extender
+brute-bonnet|58|knock-off,leaf-blade,close-combat,spore|protosynthetis|booster-energy
 ursaluna|59|protect,high-horsepower,facade,crunch|guts|flame-orb
 porygon2|58|trick-room,teleport,ice-beam,thunderbolt|trace|eviolite
 gardevoir|59|hyper-voice,expanding-force,shadow-ball,trick-room|pixilate|gardevoirite
@@ -286,22 +286,22 @@ gardevoir|59|hyper-voice,expanding-force,shadow-ball,trick-room|pixilate|gardevo
 swellow|67|boomburst,u-turn|aerilate|choice-specs
 accelgor|68|bug-buzz,u-turn,focus-blast,sludge-bomb|sheer-force|life-orb
 drapion|68|wicked-blow,cross-poison,,|sniper|choice-scarf
-greninja|68|surf,water-shuriken,dark-pulse,ice-beam|battle-bond|life-orb
-dragapult|68|shadow-ball,flamethrower,dragon-pulse,u-turn|infiltrator|life-orb
-toxtricity-low-key|68|volt-switch,boomburst,sludge-bomb,overdrive|punk-rock|toxtricitite
+greninja|68|hydro-pump,water-shuriken,dark-pulse,ice-beam|battle-bond|life-orb
+iron-valiant|68|close-combat,spirit-break,knock-off,liquidation|quark-drive|booster-energy
+toxtricity-low-key|68|hidden-power-grass,boomburst,sludge-bomb,overdrive|punk-rock|toxtricitite
 
 --7|Blaine|fire|/leaders/frlg-blaine
-torkoal|75|stealth-rock,explosion,lava-plume,earth-power|drought|heat-rock
-sunflora|76|seed-flare,flamethrower,earth-power,sunny-day|chlorophyll|life-orb
-cinderace|75|pyro-ball,sucker-punch,high-jump-kick,zen-headbutt|protean|life-orb
-typhlosion|76|eruption,flamethrower,hidden-power-ice,focus-blast|blazing-soul|heavy-duty-boots
-exeggutor|76|growth,giga-drain,psyshock,weather-ball|harvest|focus-sash
+armarouge|75|armor-cannon,psyshock,aura-sphere,energy-ball|mega-launcher|focus-sash
+slither-wing|76|first-impression,u-turn,close-combat,flare-blitz|protosynthesis|life-orb
+scovillain|76|giga-drain,fire-blast,growth,hidden-power-rock|chlorophyll|life-orb
+typhlosion|76|eruption,flamethrower,hidden-power-grass,focus-blast|blazing-soul|heavy-duty-boots
+exeggutor|76|growth,giga-drain,psyshock,weather-ball|chlorophyll|lum-berry
 charizard|76|flamethrower,air-slash,solar-beam,dragon-pulse|drought|charizardite-y
 
 --8|Clair|dragon|/leaders/gs-clair
-aerodactyl|80|stealth-rock,stone-edge,earthquake,taunt|pressure|focus-sash
+aerodactyl|80|stealth-rock,stone-edge,earthquake,taunt|unnerve|focus-sash
 magearna|81|shift-gear,fleur-cannon,flash-cannon,aura-sphere|soul-heart|leftovers
-dracovish|80|fishious-rend,psychic-fangs,outrage,crunch|strong-jaw|choice-scarf
+roaring-moon|81|dragon-dance,crunch,earthquake,iron-head|protosynthesis|booster-energy
 dragonite|80|extreme-speed,dragon-dance,fire-punch,dual-wingbeat|multiscale|weakness-policy
 naganadel|81|nasty-plot,sludge-wave,draco-meteor,flamethrower|beast-boost|life-orb
 duraludon|81|draco-meteor,steel-beam,thunderbolt,dark-pulse|bad-company|duraludite
@@ -342,76 +342,78 @@ venusaur|-2|giga-drain,sludge-bomb,earth-power,synthesis|thick-fat|venusaurite
 
 --e1a|Lorelei (Rain Team)|ice|/leaders/frlg-lorelei
 ==double:true
-poliwrath|84|flip-turn,close-combat,ice-punch,surging-strikes|water-absorb|focus-sash
-politoed|84|scald,rain-dance,haze,flip-turn|drizzle|damp-rock
-swampert|85|power-up-punch,earthquake,ice-punch,liquidation|swift-swim|swampertite
-kingdra|85|muddy-water,dragon-pulse,ice-beam,hurricane|swift-swim|life-orb
-kyogre-primal>kyogre-primal|85|water-sport,origin-pulse,thunder,ice-beam|primordial-sea|blue-orb
-dracovish|85|fishious-rend,outrage,psychic-fangs,crunch|strong-jaw|choice-scarf
+poliwrath|85|flip-turn,close-combat,ice-punch,surging-strikes|wift-swim|focus-sash
+politoed|85|scald,rain-dance,haze,flip-turn|drizzle|damp-rock
+swampert|85|power-up-punch,earthquake,ice-punch,waterfall|swift-swim|swampertite
+walking-wake|85|protect,hurricane,hydro-pump,dragon-pulse|protosynthesis|life-orb
+kyogre-primal>kyogre-primal|85|water-spout,origin-pulse,thunder,ice-beam|primordial-sea|blue-orb
+iron-bundle|85|hydro-pump,freeze-dry,ice-beam,flip-turn|quark-drive|focus-sash
 
 --e1b|Lorelei (Hail Team)|ice|/leaders/frlg-lorelei
 ==double:true
-ninetales-alola>ninetales-alola|84|blizzard,aurora-veil,freeze-dry,hail|snow-warning|light-clay
-glaceon|84|blizzard,earth-power,freeze-dry,hidden-power-fire|slush-rush|choice-specs
-calyrex-ice>calyrex-ice|85|glacial-lance,high-horsepower,zen-headbutt,seed-bomb|as-one|choice-band
-rotom-wash>rotom-wash|85|volt-switch,hydro-pump,hail,thunder-wave|levitate|wiki-berry
-azumarill|85|aqua-jet,liquidation,play-rough,knock-off|huge-power|assault-vest
+ninetales-alola>ninetales-alola|85|blizzard,aurora-veil,freeze-dry,hail|snow-warning|light-clay
+glaceon|85|blizzard,earth-power,freeze-dry,knock-off|slush-rush|choice-specs
+calyrex-ice>calyrex-ice|85|glacial-lance,high-horsepower,zen-headbutt,seed-bomb|as-one|assault-vest
+rotom-wash>rotom-wash|85|volt-switch,scald,hail,thunder-wave|levitate|sitrus-berry
+baxcalibur|85|glaive-rush,protect,icicle-crash,ice-shard|thermal-exchange|dragon-fang
 abomasnow|85|blizzard,focus-blast,hidden-power-fire,energy-ball|slush-rush|abomasite
 
 --e2a|Bruno (Team A)|fighting|/leaders/frlg-bruno
-infernape|84|taunt,pyro-ball,stealth-rock,close-combat|blaze|focus-sash
-conkeldurr|85|drain-punch,mach-punch,knock-off,ice-punch|iron-fist|assault-vest
-urshifu-single-strike|85|u-turn,close-combat,wicked-blow,poison-jab|unseen-fist|choice-scarf
-zacian-crowned|85|swords-dance,behemoth-blade,close-combat,crunch|intrepid-sword|rusted-sword
-kommo-o|85|clanging-scales,clangorous-soul,aura-sphere,flash-cannon|overcoat|throat-spray
-lucario|85|bullet-punch,meteor-mash,close-combat,swords-dance|adaptability|lucarionite
-
---e2b|Bruno (Team B)|fighting|/leaders/frlg-bruno
-urshifu-rapid-strike|84|surging-strikes,close-combat,aqua-jet,u-turn|unseen-fist|focus-sash
-scizor|85|bullet-punch,superpower,u-turn,swords-dance|technician|life-orb
-terrakion|85|stone-edge,close-combat,earthquake,x-scissor|justified|choice-scarf
-zacian-crowned|85|swords-dance,behemoth-bash,close-combat,crunch|intrepid-sword|rusted-sword
-conkeldurr|85|drain-punch,ice-punch,mach-punch,knock-off|iron-fist|assault-vest
+great-tusk|85|headlong-rush,close-combat,stealth-rock,knock-off|protosynthesis|focus-sash
+urshifu-rapid-strike|85|surging-strikes,close-combat,swords-dance,thunder-punch|unseen-fist|mystic-water
+iron-valiant|85|psyshock,shadow-ball,moonblast,calm-mind|quark-drive|booster-energy
+zacian-crowned|85|swords-dance,behemoth-blade,close-combat,wild-charge|intrepid-sword|rusted-sword
+iron-hands|85|drain-punch,fake-out,plasma-fists,ice-punch|quark-drive|assault-vest
 lucario|85|nasty-plot,aura-sphere,vacuum-wave,flash-cannon|adaptability|lucarionite
 
+--e2b|Bruno (Team B)|fighting|/leaders/frlg-bruno
+infernape|85|taunt,pyro-ball,stealth-rock,close-combat|blaze|focus-sash
+kommo-o|85|clanging-scales,clangorous-soul,aura-sphere,flash-cannon|overcoat|throat-spray
+urshifu-single-strike|85|swords-dance,close-combat,wicked-blow,sucker-punch|unseen-fist|black-glasses
+zacian-crowned|85|swords-dance,behemoth-blade,close-combat,crunch|intrepid-sword|rusted-sword
+iron-valiant|85|moonblast,thunderbolt,aura-sphere,shadow-ball|quark-drive|booster-energy
+lucario|85|bullet-punch,meteor-mash,close-combat,swords-dance|adaptability|lucarionite
+
 --e3a|Agatha (Team A)|ghost|/leaders/frlg-agatha
-zoroark|84|taunt,dark-pulse,flamethrower,sludge-bomb|illusion|focus-sash
-spectrier|85|shadow-ball,hidden-power-fighting,dark-pulse,sleep-talk|grim-neigh|choice-scarf
-marshadow|85|spectral-thief,close-combat,shadow-sneak,bulk-up|technician|focus-sash
-silvally|85|multi-attack,flamethrower,thunder-wave,parting-shot|battle-armor|leftovers
-aegislash-blade|85|shadow-ball,toxic,flash-cannon,kings-shield|stance-change|leftovers
-gengar|85|shadow-ball,sludge-wave,nasty-plot,thunderbolt|shadow-tag|gengarite
+zoroark-hisui|85|taunt,hyper-voice,flamethrower,shadow-ball|illusion|focus-sash
+gholdengo|85|make-it-rain,thunder-wave,shadow-ball,focus-blast|good-as-gold|air-balloon
+marshadow|85|spectral-thief,drain-punch,shadow-sneak,bulk-up|technician|focus-sash
+roaring-moon|85|dragon-dance,crunch,earthquake,iron-head|protosynthesis|booster-energy
+chi-yu|85|dark-pulse,flamethrower,psychic,hidden-power-grass|beads-of-ruin|charcoal
+gengar|85|shadow-ball,sludge-wave,nasty-plot,focus-blast|shadow-tag|gengarite
 
 --e3b|Agatha (Team B)|ghost|/leaders/frlg-agatha
-grimmsnarl|84|spirit-break,taunt,light-screen,reflect|prankster|light-clay
-spectrier|85|shadow-ball,dark-pulse,hidden-power-fighting,sleep-talk|grim-neigh|choice-scarf
-marshadow|85|drain-punch,bulk-up,spectral-thief,shadow-sneak|technician|focus-sash
-dragapult|85|dragon-dance,dragon-darts,steel-wing,phantom-force|cursed-body|life-orb
-hydreigon|85|dark-pulse,thunder-wave,dragon-pulse,flamethrower|levitate|leftovers
-gengar|85|sludge-wave,shadow-ball,nasty-plot,thunderbolt|shadow-tag|gengarite
+zoroark|85|taunt,dark-pulse,flamethrower,sludge-bomb|illusion|focus-sash
+flutter-mane|85|mystical-fire,moonblast,shadow-ball,psyshock|protosynthesis|booster-energy
+marshadow|85|spectral-thief,close-combat,shadow-sneak,bulk-up|technician|focus-sash
+chien-pao|85|sacred-sword,crunch,icicle-crash,ice-shard|swords-of-ruin|black-glasses
+gholdengo|85|make-it-rain,nasty-plot,shadow-ball,focus-blast|good-as-gold|air-balloon
+gengar|85|shadow-ball,sludge-wave,nasty-plot,focus-blast|shadow-tag|gengarite
 
 --e4a|Lance (Team A)|dragon|/leaders/frlg-lance
-garchomp|85|stealth-rock,earthquake,stone-edge,roar|rough-skin|focus-sash
-dragonite|85|dragon-dance,extreme-speed,earthquake,dual-wingbeat|multiscale|lum-berry
-dracozolt|85|bolt-beak,dragon-claw,earthquake,flamethrower|hustle|choice-scarf
+aerodactyl|85|stealth-rock,earthquake,taunt,stone-edge|pressure|focus-sash
 melmetal|85|double-iron-bash,earthquake,thunder-punch,ice-punch|iron-fist|assault-vest
-dialga-origin>dialga-origin|85|roar-of-time,rest,sleep-talk,flamethrower|primal-armor|adamant-orb
+dialga-primal>dialga-primal|85|roar-of-time,rest,sleep-talk,flash-cannon|primal-armor|adamant-orb
+iron-jugulis|85|dark-hole,flamethrower,aeroblast,earth-power|quark-drive|booster-energy
+dragonite|85|dragon-dance,extreme-speed,earthquake,dual-wingbeat|multiscale|weakness-policy
 salamence|85|dragon-dance,double-edge,fire-fang,earthquake|aerilate|salamencite
 
 --e4b|Lance (Team B)|dragon|/leaders/frlg-lance
-aerodactyl|85|stealth-rock,earthquake,taunt,stone-edge|rock-head|focus-sash
-dracovish|85|fishious-rend,outrage,psychic-fangs,crunch|strong-jaw|choice-scarf
-dragonite|85|extreme-speed,outrage,dual-wingbeat,earthquake|multiscale|choice-band
-melmetal|85|double-iron-bash,earthquake,thunder-punch,ice-punch|clear-body|assault-vest
-dialga-origin>dialga-origin|85|roar-of-time,flamethrower,rest,sleep-talk|primal-armor|adamant-orb
+garchomp|85|stealth-rock,earthquake,stone-edge,roar|rough-skin|focus-sash
+dragonite|85|extreme-speed,dragon-dance,dual-wingbeat,earthquake|multiscale|lum-berry
+iron-jugulis|85|dark-hole,flamethrower,aeroblast,earth-power|quark-drive|booster-energy
+melmetal|85|double-iron-bash,earthquake,thunder-punch,ice-punch|iron-fist|assault-vest
+dialga-primal>dialga-primal|85|roar-of-time,flash-cannon,rest,sleep-talk|primal-armor|adamant-orb
 salamence|85|dragon-dance,double-edge,earthquake,fire-fang|aerilate|salamencite
 
 --ec|Champion Gary||/leaders/frlg-blue-3
 pheromosa|85|triple-axel,close-combat,poison-jab,u-turn|beast-boost|focus-sash
-metagross|85|fire-punch,zen-headbutt,meteor-mash,bullet-punch|clear-body|metagrossite
-groudon-primal>groudon-primal|85|thunder-wave,precipice-blades,stone-edge,fire-punch|drought|red-orb
+metagross|85|fire-punch,zen-headbutt,meteor-mash,bullet-punch|tough-claws|metagrossite
+miraidon|85|calm-mind,parabolic-charge,dragon-pulse,hidden-power-fire|hadron-engine|leftovers|fire
+koraidon|85|swords-dance,collision-course,dragon-claw,flare-blitz|hadron-engine|lum-berry|grass
+miraidon|85|calm-mind,parabolic-charge,dragon-pulse,hidden-power-fire|hadron-engine|leftovers|water
 yveltal|85|heat-wave,dark-hole,sucker-punch,oblivion-wing|dark-aura|assault-vest
-eternatus|85|flamethrower,sludge-bomb,dynamax-cannon,meteor-beam|pressure|power-herb
+eternatus|85|flamethrower,sludge-wave,dynamax-cannon,meteor-beam|pressure|power-herb
 ditto|85|transform|imposter|choice-scarf
 
 ###############################################################
