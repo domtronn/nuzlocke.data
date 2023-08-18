@@ -18,6 +18,17 @@ rock-smash||60
 kings-shield|||Protects from damaging attacks.
 roar-of-time||80|Forces the target to switch to a random ally.
 ice-hammer|||No effect
+bleakwind-storm|||20% chance to inflict frostbite
+springtide-storm|||Cannot miss in rain
+chloroblast||150|50% recoil damage
+dire-claw||80
+esper-wing||80|The user slashes the target with aura- enriched wings that raise Speed. It has a high crit ratio.
+hail|||A 5-turn snowstorm that boosts the Def of Ice-types by 50%.
+glacial-lance||120
+grassy-glide||60
+psyshield-bash|||The user slams into the foe with psychic energy. It raises the user's Defense too.
+spin-out||110
+wicked-blow||75
 
 # New moves
 soul-robbery|psychic|100|The target's stat increases are stolen from it and applied to the user before dealing damage.|special
