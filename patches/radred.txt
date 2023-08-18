@@ -107,7 +107,7 @@ sage-power|This Pokemon's Sp. Atk is 1.5x, but it can only select the first move
 100,,90|quagsire
 ,,80,,75|dunsparce
 100|granbull|fairy,fighting
-,105|qwilfish
+80,105|qwilfish
 ,100,,,,105|delibird
 100,,80,55,80|ursaring
 85,,100,,100|corsola
@@ -164,11 +164,11 @@ sage-power|This Pokemon's Sp. Atk is 1.5x, but it can only select the first move
 100,,79,,79|purugly
 ,,,91|skuntank
 ,,,,,101|chatot
-,80|drapion
+,90|drapion
 89,,82,55,82|carnivine
 79,59,,96,69,101|lumineon
 ,95,,,,30|lickilicky
-,113,,105|electivire
+,123,,95|electivire|electric
 ,80,,,,98|magmortar
 ,130,110|leafeon
 80,45,100,,,75|glaceon
@@ -241,8 +241,17 @@ sage-power|This Pokemon's Sp. Atk is 1.5x, but it can only select the first move
 ,110|morpeko
 ,,79,,79|copperajah
 ,,,55,,80|arctovish
-,,,,55,80|arctozolt
+,,,,80,55|arctozolt
 85|duraludon
+100,,,45,,|armaldo
+85|bombirdier
+92,,,,74,|flamigo
+85,78,,118,,|scovillain
+,65,,85,,|scream-tail
+85,89,,32,,|spidops
+78,,70,,,|tatsugiri
+,85,87,,,|tinkaton
+,115,,35,,|wugtrio
 
 |pikachu-belle|electric,ice
 |pikachu-phd|electric,psychic
