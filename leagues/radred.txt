@@ -282,35 +282,35 @@ naganadel|81|nasty-plot,sludge-wave,draco-meteor,flamethrower|beast-boost|life-o
 duraludon|81|draco-meteor,steel-beam,thunderbolt,dark-pulse|bad-company|duraludite
 
 --1r|Brock (Rematch)|rock|/leaders/frlg-brock
-gigalith|-2|stealth-rock,stone-edge,earthquake,explosion|sand-stream|smooth-rock
+great-tusk|-2|stealth-rock,close-combat,headlong-rush,knock-off|protosynthesis|booster-energy
+omastar|-2|shell-smash,meteor-beam,ice-beam,surf|weak-armor|power-herb
+sandslash|-2|rapid-spin,earthquake,stone-edge,x-scissor|sand-rush|soft-sand
 tyranitar|-2|stone-edge,fire-punch,crunch,dragon-dance|sand-stream|weakness-policy
-lycanroc-midday>lycanroc|-2|accelerock,stone-edge,close-combat,crunch|tough-claws|life-orb
-omastar|-2|shell-smash,meteor-beam,ice-beam,surf|battle-armor|power-herb
-sandslash|-2|swords-dance,earthquake,stone-edge,x-scissor|sand-rush|soft-sand
+arcanine-hisui|-2|flare-blitz,head-smash,wild-charge,extreme-speed|rock-head|focus-sash
 aerodactyl|-2|stone-edge,earthquake,dual-wingbeat,dragon-dance|tough-claws|aerodactylite
 
 --2r|Misty (Rematch)|water|/leaders/frlg-misty
-politoed|-2|scald,ice-beam,hypnosis,flip-turn|drizzle|damp-rock
-greninja|-2|dark-pulse,water-shuriken,ice-beam,grass-knot|protean|life-orb
-gorebyss|-2|shell-smash,surf,moonblast,ice-beam|regenerator|white-herb
-kingdra|-2|dragon-pulse,surf,hurricane,ice-beam|swift-swim|life-orb
-inteleon|-2|snipe-shot,dark-pulse,ice-beam,air-slash|sniper|scope-lens
+palafin|-2|flip-turn,wave-crash,jet-punch,drain-punch|zero-to-hero|mystic-water
+kingdra|-2|dragon-pulse,snipe-shot,hurricane,ice-beam|swift-swim|scope-lens
+seismitoad|-2|wave-crash,earthquake,power-whip,ice-punch|swift-swim|life-orb
 gyarados|-2|dragon-dance,waterfall,crunch,earthquake|mold-breaker|gyaradosite
+ferrothorn|-2|leech-seed,gyro-ball,power-whip,thunder-wave|iron-barbs|rocky-helmet
+gorebyss|-2|shell-smash,surf,moonblast,ice-beam|dazzling|focus-sash
 
 --3r|Lt. Surge (Rematch)|electric|/leaders/frlg-surge
-pachirisu|-2|reflect,light-screen,nuzzle,u-turn|prankster|light-clay
-dracozolt|-2|bolt-beak,dragon-claw,crunch,fire-fang|hustle|choice-scarf
-dedenne|-2|rising-voltage,volt-switch,dazzling-gleam,grass-knot|electric-surge|terrain-extender
-rotom-wash>rotom-wash|-2|nasty-plot,rising-voltage,hidden-power-grass,hydro-pump|levitate|life-orb
-rotom-mow>rotom-mow|-2|thunderbolt,leaf-storm,hidden-power-ice,nasty-plot|levitate|life-orb
+iron-treads|-2|earthquake,iron-head,stealth-rock,volt-switch|quark-drive|focus-sash
+bellibolt|-2|parabolic-charge,hidden-power-grass,muddy-water,volt-switch|electromorphosis|leftovers
+rotom-wash>rotom-wash|-2|volt-switch,rising-voltage,hidden-power-ice,scald|levitate|life-orb
+pawmot|-2|plasma-fists,close-combat,mach-punch,ice-punch|iron-fist|punching-glove
 manectric|-2|volt-switch,rising-voltage,flamethrower,hidden-power-grass|intimidate|manectite
+iron-hands|-2|plasma-fists,drain-punch,ice-punch,fake-out|quark-drive|assault-vest
 
 --4r|Erika (Rematch)|grass|/leaders/frlg-erika
-tsareena|-2|triple-axel,trop-kick,high-jump-kick,rapid-spin|striker|focus-sash
-hawlucha|-2|swords-dance,acrobatics,close-combat,roost|unburden|grassy-seed
+tsareena|-2|triple-axel,trop-kick,high-jump-kick,u-turn|striker|focus-sash
+meowscarada|-2|u-turn,knock-off,flower-trick,triple-axel|protean|life-orb
+hawlucha|-2|swords-dance,acrobatics,close-combat,stone-edge|unburden|grassy-seed
 bellossom|-2|sleep-powder,quiver-dance,giga-drain,fiery-dance|chlorophyll|leftovers
-rillaboom|-2|swords-dance,grassy-glide,acrobatics,high-horsepower|grassy-surge|grassy-seed
-serperior|-2|leaf-storm,giga-drain,dragon-pulse,leech-seed|contrary|focus-sash
+lilligant-hisui|-2|victory-dance,leaf-blade,close-combat,ice-spinner|hustle|wide-lens
 venusaur|-2|giga-drain,sludge-bomb,earth-power,synthesis|thick-fat|venusaurite
 
 # Elite four
