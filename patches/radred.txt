@@ -6,21 +6,21 @@ eternamax-orb|toxic-orb|If held by an Eternatus, this item triggers its Primal R
 
 --move
 # Modifications
-drill-peck|||Has an increased chance for a critical hit.
+drill-peck|||The beak acts as a drill, boasting high critical-hit ratio.
 triple-kick||20
-charge-beam|||Boosts the user's Special Attack by one stage
+charge-beam|||The user fires a load of electricity that may raise the user's Sp. Atk. 
 self-destruct||100|Target's Defense is halved during damage. User faints.
 explosion||100|Target's Defense is halved during damage. User faints.
 poison-fang||75
 shadow-claw||80
 parabolic-charge||75
 rock-smash||60
-kings-shield|||Protects from damaging attacks.
+kings-shield|||The user protects itself from damage, and changes the user's form if applicable.
 roar-of-time||80|Forces the target to switch to a random ally.
 ice-hammer|||No effect
-bleakwind-storm|||20% chance to inflict frostbite
-springtide-storm|||Cannot miss in rain
-chloroblast||150|50% recoil damage
+bleakwind-storm|||The foe is caught in a fierce cold wind that can cause frostbite. 20% chance to inflict frostbite.
+springtide-storm|||The foe is caught in a wind filled with love and hate. 30% chance to lower Attack. Cannot miss in rain.
+chloroblast||150|The user launches its amassed chloro- phyll to inflict damage. 50% recoil damage.
 dire-claw||80
 esper-wing||80|The user slashes the target with aura- enriched wings that raise Speed. It has a high crit ratio.
 hail|||A 5-turn snowstorm that boosts the Def of Ice-types by 50%.
