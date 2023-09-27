@@ -1,0 +1,2 @@
+--move
+shadow-rush|shadow|90|An attack that is so harsh, it also hurts the attacker

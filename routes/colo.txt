@@ -1,0 +1,58 @@
+Starter 1|umbreon
+Starter 2|espeon
+Miror B Peon Trudly|makuhita
+Mystery Troop|bayleef,quilava,croconaw
+Roller Boy Lon|slugma
+Rider Nover|noctowl
+St.Performer Diogo|flaaffy
+Rider Leba|skiploom
+Bandana Guy Divel|quagsire
+Rider Vant|misdreavus
+Rogue Cail|furret
+Cipher Peon Nore|yanma
+Miror B Peon Reath|remoraid
+Miror B Peon Ferma|mantine
+Hunter Doken|qwilfish
+Rider Twan|meditite
+Rider Sosh|dunsparce
+Hunter Zalo|swablu
+--Pyrite Cave|mb1|evil-team
+Miror B|sudowoodo
+Cipher Peon Skrub|hitmontop
+--Mt. Battle|d1|evil-team
+Dakim|entei
+Cipher Peon Kloak|ledian
+--The Under|v1|evil-team
+Venus|suicune
+Hunter Frena|gligar
+Chaser Liaks|stantler
+Bodybuilder Lonia|piloswine
+Rider Nelis|sneasel
+Cipher Peon Cole|aipom
+Cipher Peon Lare|murkrow
+Cipher Peon Vana|forretress
+Cipher Peon Lesar|ariados
+Cipher Peon Tanie|granbull
+Cipher Peon Remil|vibrava
+--Shadow PKMN Lab|e1|evil-team
+Ein|raikou
+Cipher Peon Baila|sunflora
+Cipher Peon arton|delibird
+--Realgam Tower|mb2s|evil-team
+--Realgam Tower|mb2m|evil-team
+--Realgam Tower|d2s|evil-team
+--Realgam Tower|d2m|evil-team
+--Realgam Tower|v2s|evil-team
+--Realgam Tower|v2m|evil-team
+--Realgam Tower|e2s|evil-team
+--Realgam Tower|e2m|evil-team
+Cipher Peon Dioge|heracross
+--Realgam Tower|g|evil-team
+Gonzap|skarmory
+Bodybuilder Jomas|miltank
+Rider Delan|absol
+Cipher Peon Nella|houndoom
+Cipher Peon Ston|tropius
+--Realgam Colosseum|n|evil-team
+Nascour|metagross
+--Realgam Colosseum|ev|evil-team

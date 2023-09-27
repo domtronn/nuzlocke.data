@@ -1,0 +1,108 @@
+#cipher/snagem bossfights
+
+--mb1|Miror B||true
+ludicolo|28|razor-leaf,ice-beam,astonish,rain-dance|swift-swim
+ludicolo|29|absorb,water-gun,astonish,rain-dance|swift-swim
+ludicolo|31|mega-drain,leech-seed,rain-dance,dive|rain-dish
+ludicolo|30|mega-drain,water-gun,fury-swipes,rain-dance|rain-dish
+sudowoodo|35|shadow-rush,block,low-kick,rock-slide||hard-stone
+
+--d1|Dakim||true
+metang|37|metal-claw,psychic,earthquake,protect|clear-body
+golem|38|rock-throw,earthquake,double-edge,protect|rock-head
+marshtomp|36|muddy-water,mud-shot,stomp,mud-slap|torrent
+camerupt|38|flamethrower,earthquake,take-down,protect|magma-armor
+entei|40|shadow-rush,leer,bite,fire-blast|pressure
+
+--v1|Venus||true
+delcatty|45|attract,water-pulse,thunderbolt,double-edge|cute-charm
+steelix|45|attract,taunt,rock-slide,earthquake|sturdy
+banette|45|attract,curse,psychic,shadow-ball|insomnia
+vileplume|44|attract,giga-drain,stun-spore,acid|chlorophyll
+suicune|40|shadow-rush,leer,gust,surf|pressure
+
+--e1|Ein||true
+golbat|48|confuse-ray,bite,wing-attack,toxic|inner-focus
+huntail|47|confuse-ray,rain-dance,surf,bite|swift-swim
+lanturn|47|rain-dance,hydro-pump,confuse-ray,thunder|volt-absorb
+altaria|46|ice-beam,pursuit,toxic,fly|natural-cure
+raikou|40|shadow-rush,leer,quick-attack,thunder
+
+--mb2s|Miror B (sudowoodo snagged)||true
+ludicolo|44|waterfall,giga-drain,ice-beam,rain-dance|swift-swim
+ludicolo|45|dive,leech-seed,giga-drain,rain-dance|rain-dish
+loudred|46|take-down,earthquake,shadow-ball,extrasensory|soundproof
+golduck|45|surf,psychic,ice-beam,brick-break|damp
+armaldo|43|aerial-ace,rock-slide,slash,fury-cutter|battle-armor
+
+--mb2m|Miror B (sudowoodo missed)||true
+ludicolo|44|waterfall,giga-drain,ice-beam,rain-dance|swift-swim
+ludicolo|45|dive,leech-seed,giga-drain,rain-dance|rain-dish
+loudred|46|take-down,earthquake,shadow-ball,extrasensory|soundproof
+golduck|45|surf,psychic,ice-beam,brick-break|damp
+sudowoodo|35|shadow-rush,block,low-kick,rock-slide||hard-stone
+
+--d2s|Dakim (entei snagged)||true
+claydol|46|psychic,earthquake,sunny-day,solar-beam|levitate
+forretress|45|protect,earthquake,explosion,double-edge|sturdy
+flygon|46|flamethrower,earthquake,sunny-day,solar-beam|levitate
+whiscash|46|protect,earthquake,waterfall,ice-beam|oblivious
+houndoom|47|protect,fire-blast,sunny-day,solar-beam|early-bird
+
+--d2m|Dakim (entei missed)||true
+claydol|46|psychic,earthquake,sunny-day,solar-beam|levitate
+forretress|45|protect,earthquake,explosion,double-edge|sturdy
+flygon|46|flamethrower,earthquake,sunny-day,solar-beam|levitate
+whiscash|46|protect,earthquake,waterfall,ice-beam|oblivious
+entei|40|shadow-rush,leer,bite,fire-blast|pressure
+
+--v2s|Venus (Suicune snagged)||true
+bellossom|47|attract,stun-spore,sludge-bomb,giga-drain|chlorophyll
+misdreavus|47|attract,confuse-ray,psychic,taunt|levitate
+raichu|48|thunder-wave,attract,sweet-kiss,thunderbolt|static
+wigglytuff|48|attract,body-slam,sweet-kiss,flamethrower|cute-charm
+milotic|48|surf,blizzard,attract,confuse-ray|marvel-scale
+
+--v2m|Venus (Suicune missed)||true
+bellossom|47|attract,stun-spore,sludge-bomb,giga-drain|chlorophyll
+misdreavus|47|attract,confuse-ray,psychic,taunt|levitate
+raichu|48|thunder-wave,attract,sweet-kiss,thunderbolt|static
+wigglytuff|48|attract,body-slam,sweet-kiss,flamethrower|cute-charm
+suicune|40|shadow-rush,leer,gust,surf|pressure
+
+--e2s|Ein (Raikou snagged)||true
+crobat|48|protect,toxic,fly,bite|inner-focus
+pelipper|49|rain-dance,toxic,fly,surf|keen-eye
+rhydon|50|dig,rock-slide,protect,toxic|lightning-rod
+starmie|49|thunder,psychic,rain-dance,hydro-pump|natural-cure
+manectric|50|thunder,bite,toxic,protect|lightning-rod
+
+--e2m|Ein (Raikou missed)||true
+crobat|48|protect,toxic,fly,bite|inner-focus
+pelipper|49|rain-dance,toxic,fly,surf|keen-eye
+rhydon|50|dig,rock-slide,protect,toxic|lightning-rod
+starmie|49|thunder,psychic,rain-dance,hydro-pump|natural-cure
+raikou|40|shadow-rush,leer,quick-attack,thunder
+
+--g|Gonzap||true
+crawdaunt|52|sludge-bomb,crabhammer,aerial-ace,strength|hyper-cutter
+shiftry|53|aerial-ace,giga-drain,feint-attack,shadow-ball|chlorophyll
+pinsir|52|earthquake,submission,flail,cut|hyper-cutter
+hariyama|53|brick-break,earthquake,foresight,reversal|guts
+skarmory|47|shadow-rush,metal-sound,air-cutter,steel-wing||sharp-beak
+
+--n|Nascour||true
+dusclops|55|shadow-ball,psychic,confuse-ray,destiny-bond|pressure
+gardevoir|55|psychic,thunderbolt,taunt,destiny-bond|synchronize
+blaziken|54|blaze-kick,sky-uppercut,swagger,roar|blaze
+xatu|54|psychic,drill-peck,giga-drain,confuse-ray|synchronize
+walrein|56|attract,ice-beam,body-slam,waterfall|thick-fat
+metagross|50|shadow-rush,iron-defense,metal-claw,psychic|clear-body|metal-coat
+
+--ev|Evice||true
+slowking|61|shadow-ball,psychic,water-pulse,skill-swap|own-tempo
+scizor|60|metal-claw,silver-wind,baton-pass,swords-dance|swarm
+machamp|61|cross-chop,rock-slide,earthquake,bulk-up|guts
+salamence|60|dragon-dance,double-edge,aerial-ace,dragon-claw|intimidate
+slaking|60|crush-claw,aerial-ace,earthquake,bulk-up|truant
+tyranitar|55|shadow-rush,thunder,rock-slide,blizzard|sand-stream|nugget
