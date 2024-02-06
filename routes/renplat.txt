@@ -6,6 +6,7 @@ Route 201|starly,bidoof,pidgey,kricketot,nidoran-m,nidoran-f,hoothoot,doduo
 
 Lake Verity|starly,bidoof,surskit,azurill,psyduck,wingull,wynaut,masquerain,magikarp,gyarados
 Route 202|shinx,zigzagoon,sentret,rattata,poochyena,growlithe,burmy,hoothoot,houndour
+Sandgem Town|piplup,turtwig,chimchar
 Route 203|starly,bidoof,spearow,seedot,lotad,cubone,abra,pineco,psyduck,golduck,magikarp,corphish,gyarados,crawdaunt
 
 --Route 203|b2|rival|Barry
